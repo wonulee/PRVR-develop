@@ -4,13 +4,13 @@
   "github_repository": "https://github.com/wonulee/PRVR-develop.git",
   "google_drive_folder_id": "1ltsNV5c_kLf2eOjd-MhNc8pQ_1LExFsK",
   "google_drive_folder_url": "https://drive.google.com/drive/folders/1ltsNV5c_kLf2eOjd-MhNc8pQ_1LExFsK",
-  "status": "github_complete_drive_uploading",
+  "status": "github_and_drive_complete",
   "policy": "GitHub: code and small records; Drive: large and binary artifacts; restore paths and links from manifest.",
   "github_visibility": "public",
   "github_backup_branch": "backup/won-woo-20261009",
   "github_snapshot_directory": "won_woo",
   "github_status": "verified_uploaded",
-  "google_drive_status": "uploading",
+  "google_drive_status": "verified_uploaded",
   "google_drive_uploaded_metadata": [
     {
       "path": "backup/destinations.json",
@@ -19,5 +19,10 @@
   ],
   "github_verified_snapshot_commit": "41e684e30470717dbbd087d389489ba426337e08",
   "google_drive_files_folder_id": "1s6O6tIQpTp2QdHeN-0IZd1zuvNsxoPU1",
-  "google_drive_auth_status": "authenticated"
+  "google_drive_auth_status": "authenticated",
+  "google_drive_verified_files": 210,
+  "google_drive_verified_bytes": 177757789561,
+  "google_drive_sha256_verified_files": 210,
+  "google_drive_completed_at_utc": "2026-10-09T14:22:53.144390+00:00",
+  "google_drive_receipt": "backup/drive_receipt.json"
 }

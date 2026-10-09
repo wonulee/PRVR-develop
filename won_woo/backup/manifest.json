@@ -2041,12 +2041,21 @@
     },
     {
       "path": "backup/destinations.json",
-      "size": 1029,
-      "mtime_ns": 1791550920234896226,
+      "size": 1287,
+      "mtime_ns": 1791555804981237538,
       "mode": 384,
       "destination": "github",
       "reason": "small source, configuration, documentation, or result",
-      "sha256": "f7e6a68d024e6066b6fe9cdf7cf8b7084d86453442fa729a794d896b8701401b"
+      "sha256": "70bde71d2424a28e462d5648604a646540d5be25e60b2f4633622e3e65cc72ca"
+    },
+    {
+      "path": "backup/drive_receipt.json",
+      "destination": "github",
+      "reason": "backup completion receipt",
+      "size": 116373,
+      "mtime_ns": 1791555804963237493,
+      "mode": 384,
+      "sha256": "ea3786ea803f7801695a992b9bc03795ccceaa12c101523d89b0611312a02792"
     },
     {
       "path": "backup/drive_uploads.json",
@@ -2104,12 +2113,12 @@
     },
     {
       "path": "backup/status.json",
-      "size": 1110,
-      "mtime_ns": 1791550920221896180,
+      "size": 1278,
+      "mtime_ns": 1791555804973237518,
       "mode": 384,
       "destination": "github",
       "reason": "small source, configuration, documentation, or result",
-      "sha256": "68ae10f5457f6e8b29dd56ea39ac6c6a4d2a0646af5efff3e06091916e86db41"
+      "sha256": "d65a032114adf8a0b522eada4e00fc138ec89a0037577f75a8a1aa31c10d260d"
     },
     {
       "path": "backup/test_backup_workspace.py",
@@ -14537,8 +14546,8 @@
   ],
   "summary": {
     "github": {
-      "files": 1123,
-      "bytes": 123419938
+      "files": 1124,
+      "bytes": 123536737
     },
     "drive": {
       "files": 210,

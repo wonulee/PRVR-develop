@@ -1,5 +1,5 @@
 {
-  "observed_at_utc": "2026-10-09T13:02:00.222633+00:00",
+  "observed_at_utc": "2026-10-09T14:23:24.973951+00:00",
   "github": {
     "status": "verified_uploaded",
     "repository": "https://github.com/wonulee/PRVR-develop.git",
@@ -7,19 +7,22 @@
     "verified_content_commit": "41e684e30470717dbbd087d389489ba426337e08"
   },
   "drive": {
-    "status": "uploading",
+    "status": "verified_uploaded",
     "folder_url": "https://drive.google.com/drive/folders/1ltsNV5c_kLf2eOjd-MhNc8pQ_1LExFsK",
     "files_folder_id": "1s6O6tIQpTp2QdHeN-0IZd1zuvNsxoPU1",
     "planned_files": 210,
     "planned_bytes": 177757789561,
-    "size_verified_uploaded_files": 60,
-    "size_verified_uploaded_bytes": 261680660,
-    "large_features_complete": false,
+    "size_verified_uploaded_files": 210,
+    "size_verified_uploaded_bytes": 177757789561,
+    "large_features_complete": true,
     "job_status_path": ".backup_work/drive_job_status.json",
-    "verification": "In progress; full remote SHA256 comparison and receipt publication follow copy/check completion.",
+    "verification": "rclone copy/check, source pre/postflight, unique paths/sizes/MD5, and remote SHA256 equals original manifest",
     "oauth_status": "authenticated",
-    "sha256_verified_uploaded_files": 75,
-    "sha256_verified_uploaded_bytes": 23445181884
+    "sha256_verified_uploaded_files": 210,
+    "sha256_verified_uploaded_bytes": 23445181884,
+    "md5_verified_uploaded_files": 210,
+    "completed_at_utc": "2026-10-09T14:22:53.144390+00:00",
+    "receipt": "backup/drive_receipt.json"
   },
   "code_bundle_drive_file_id": "15uBg3hDKFOJVxBw-E_7lBoAqU0iRx6gX",
   "all_original_backup_files_sha256_recorded": true

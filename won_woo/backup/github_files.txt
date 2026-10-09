@@ -124,6 +124,7 @@ backup/README.md
 backup/backup_workspace.py
 backup/destinations.json
 backup/drive_files.txt
+backup/drive_receipt.json
 backup/drive_uploads.json
 backup/environment/conda-explicit-linux64.txt
 backup/environment/holmes.yml
