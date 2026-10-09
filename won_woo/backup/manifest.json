@@ -2041,12 +2041,12 @@
     },
     {
       "path": "backup/destinations.json",
-      "size": 1000,
-      "mtime_ns": 1791535871886863041,
-      "mode": 436,
+      "size": 1029,
+      "mtime_ns": 1791550920234896226,
+      "mode": 384,
       "destination": "github",
       "reason": "small source, configuration, documentation, or result",
-      "sha256": "921324ae70e40df9229a41e23c5df2d65d00669e551de55e58668e619be144f8"
+      "sha256": "f7e6a68d024e6066b6fe9cdf7cf8b7084d86453442fa729a794d896b8701401b"
     },
     {
       "path": "backup/drive_uploads.json",
@@ -2104,12 +2104,12 @@
     },
     {
       "path": "backup/status.json",
-      "size": 993,
-      "mtime_ns": 1791535871887863045,
-      "mode": 436,
+      "size": 1110,
+      "mtime_ns": 1791550920221896180,
+      "mode": 384,
       "destination": "github",
       "reason": "small source, configuration, documentation, or result",
-      "sha256": "731fd9484536a392f6a775cb6b75f5b941cbfc7dd2c6c5c8d5b84898a802065e"
+      "sha256": "68ae10f5457f6e8b29dd56ea39ac6c6a4d2a0646af5efff3e06091916e86db41"
     },
     {
       "path": "backup/test_backup_workspace.py",
@@ -14538,7 +14538,7 @@
   "summary": {
     "github": {
       "files": 1123,
-      "bytes": 123419792
+      "bytes": 123419938
     },
     "drive": {
       "files": 210,
