@@ -1,0 +1,17 @@
+﻿aspect,split,region,query_count,denominator_all_split_queries,percentage,csv_file
+object,train,A,6544,87174,7.506825,object_A.csv
+object,train,B,74724,87174,85.718219,object_B.csv
+object,train,C,0,87174,0.0,object_C.csv
+object,train,EMPTY,5906,87174,6.774956,object_EMPTY.csv
+object,validation,A,0,10895,0.0,object_A.csv
+object,validation,B,9665,10895,88.710418,object_B.csv
+object,validation,C,718,10895,6.590179,object_C.csv
+object,validation,EMPTY,512,10895,4.699403,object_EMPTY.csv
+action,train,A,1826,87174,2.094661,action_A.csv
+action,train,B,83922,87174,96.26953,action_B.csv
+action,train,C,0,87174,0.0,action_C.csv
+action,train,EMPTY,1426,87174,1.635809,action_EMPTY.csv
+action,validation,A,0,10895,0.0,action_A.csv
+action,validation,B,10496,10895,96.33777,action_B.csv
+action,validation,C,347,10895,3.184947,action_C.csv
+action,validation,EMPTY,52,10895,0.477283,action_EMPTY.csv

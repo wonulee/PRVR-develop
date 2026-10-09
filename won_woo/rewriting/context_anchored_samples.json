@@ -1,0 +1,802 @@
+[
+    {
+        "Video_ID": "s02e14_seg02_clip_02",
+        "Target_Idx": 1,
+        "Prev_Query": "Penny looks confused and shakes her head while asking a question.",
+        "Target_Query": "Penny returns a bill to Sheldon's hand before taking more back.",
+        "Next_Query": "Sheldon lends Penny money after explaining to her his expenses and where the money is hidden.",
+        "False_Positive_Video": "s03e16_seg02_clip_04"
+    },
+    {
+        "Video_ID": "house_s04e03_seg02_clip_04",
+        "Target_Idx": 0,
+        "Prev_Query": "Brennan taps Stark's head with a pen when he is laying down.",
+        "Target_Query": "Brennan grabs Stark and lifts him up off of the bed.",
+        "Next_Query": "Kutner holds Stark's head while Brennan carries him out of the hospital room.",
+        "False_Positive_Video": "castle_s07e15_seg02_clip_14"
+    },
+    {
+        "Video_ID": "friends_s01e03_seg02_clip_19",
+        "Target_Idx": 2,
+        "Prev_Query": "Joey touches Chandler's right shoulder with his hand.",
+        "Target_Query": "Ross gets off of the sofa and walks over to Monica.",
+        "Next_Query": "Rachel tells Monica that they are wearing the same clothes.",
+        "False_Positive_Video": "friends_s03e03_seg02_clip_04"
+    },
+    {
+        "Video_ID": "friends_s04e21_seg02_clip_18",
+        "Target_Idx": 3,
+        "Prev_Query": "Phoebe waves her hands up and down while describing an animal.",
+        "Target_Query": "Rachel walks over to Ross and then kisses him.",
+        "Next_Query": "Rachel is writing on a card when Monica walks up.",
+        "False_Positive_Video": "friends_s03e10_seg02_clip_13"
+    },
+    {
+        "Video_ID": "s02e05_seg02_clip_13",
+        "Target_Idx": 4,
+        "Prev_Query": "Sheldon covers his mouth in shock while looking at the computer monitor in front of him.",
+        "Target_Query": "Sheldon and Leonard have a conversation while Sheldon sits uneasily in a red leather armchair and Leonard stands in the living room.",
+        "Next_Query": "Sheldon is steering a virtual car in a driving simulation.",
+        "False_Positive_Video": "s04e17_seg02_clip_05"
+    },
+    {
+        "Video_ID": "friends_s10e11_seg02_clip_04",
+        "Target_Idx": 3,
+        "Prev_Query": "Phoebe walks over to a table and sits down.",
+        "Target_Query": "Joey while seated in a chair slams a laptop screen down with his hand.",
+        "Next_Query": "Joeys description while on a game show gets bleeped, Joey and the contestant turn and look to their right and left respectively.",
+        "False_Positive_Video": "friends_s04e22_seg02_clip_00"
+    },
+    {
+        "Video_ID": "friends_s10e17-18_seg02_clip_15",
+        "Target_Idx": 4,
+        "Prev_Query": "Ross comes into the apartment holding a present.",
+        "Target_Query": "Joey holds up the welcome home sign to show Phoebe.",
+        "Next_Query": "Chandler and Monica sway their babies together in their arms.",
+        "False_Positive_Video": "friends_s08e06_seg02_clip_16"
+    },
+    {
+        "Video_ID": "friends_s10e11_seg02_clip_04",
+        "Target_Idx": 2,
+        "Prev_Query": "While seated at a table with Rachel Phoebe expresses and describes to Rachel her expectations of adult type entertainment happining.",
+        "Target_Query": "Phoebe walks over to a table and sits down.",
+        "Next_Query": "Joey while seated in a chair slams a laptop screen down with his hand.",
+        "False_Positive_Video": "friends_s09e03_seg02_clip_13"
+    },
+    {
+        "Video_ID": "friends_s08e07_seg02_clip_03",
+        "Target_Idx": 1,
+        "Prev_Query": "Rachel is talking and gestures to herself by placing her hand on her chest.",
+        "Target_Query": "The neighbor corrects Ross about her mother not being gone.",
+        "Next_Query": "Ross is leaning against the door frame talking, and raises his right fist in a gesture.",
+        "False_Positive_Video": "friends_s08e08_seg02_clip_16"
+    },
+    {
+        "Video_ID": "s02e05_seg02_clip_13",
+        "Target_Idx": 0,
+        "Prev_Query": "Sheldon uses a fake steering wheel connected to a computer while Leonard stands behind him.",
+        "Target_Query": "Sheldon sits down in his spot on the couch.",
+        "Next_Query": "Sheldon covers his mouth in shock while looking at the computer monitor in front of him.",
+        "False_Positive_Video": "s04e16_seg02_clip_01"
+    },
+    {
+        "Video_ID": "castle_s06e13_seg02_clip_26",
+        "Target_Idx": 4,
+        "Prev_Query": "Mandy runs up to Zach and gives him a hug in the hallway of the police station.",
+        "Target_Query": "Mandy walks towards Zach and she hugged him.",
+        "Next_Query": "Castle steps forward and grabs a newspaper from Ryan's hands.",
+        "False_Positive_Video": "castle_s01e06_seg02_clip_10"
+    },
+    {
+        "Video_ID": "house_s07e18_seg02_clip_01",
+        "Target_Idx": 4,
+        "Prev_Query": "Masters and Chase talk with a patient in a hospital room.",
+        "Target_Query": "Chase and Masters talk to a patient while standing by the patient's hospital bed; Masters does something with the IV in the man's arm.",
+        "Next_Query": "Chase stands up and grabs his coffee off of the table.",
+        "False_Positive_Video": "house_s06e11_seg02_clip_24"
+    },
+    {
+        "Video_ID": "s09e11_seg02_clip_06",
+        "Target_Idx": 2,
+        "Prev_Query": "Penny walks over to the trash can and throw something away.",
+        "Target_Query": "Stuart tells the group what his plans are for a certain night.",
+        "Next_Query": "Wil Wheaton walks in the comic book store and Howard runs over to him.",
+        "False_Positive_Video": "s07e03_seg02_clip_07"
+    },
+    {
+        "Video_ID": "friends_s07e09_seg02_clip_02",
+        "Target_Idx": 4,
+        "Prev_Query": "Rachel swipped off and sat on the table suddenly with a bright smiling face.",
+        "Target_Query": "Rachel and Tag started picking the documents and papers spread on the floor.",
+        "Next_Query": "Monica with a shocked face , opens the door suddenly.",
+        "False_Positive_Video": "friends_s07e12_seg02_clip_10"
+    },
+    {
+        "Video_ID": "house_s02e18_seg02_clip_06",
+        "Target_Idx": 2,
+        "Prev_Query": "Cameron sits down during the conversation with the doctors.",
+        "Target_Query": "Cameron stands up and Foreman opens the door for her.",
+        "Next_Query": "Foreman and Cameron are arguing so House asks them if they know what it indicates when someone argues so much.",
+        "False_Positive_Video": "house_s06e03_seg02_clip_20"
+    },
+    {
+        "Video_ID": "friends_s07e09_seg02_clip_02",
+        "Target_Idx": 1,
+        "Prev_Query": "Tag is shocked to learn he's undergoing a performance review.",
+        "Target_Query": "Rachel sends he assistant back to work after squeezing his arms.",
+        "Next_Query": "Rachel swipped off and sat on the table suddenly with a bright smiling face.",
+        "False_Positive_Video": "friends_s09e11_seg02_clip_18"
+    },
+    {
+        "Video_ID": "s08e22_seg01_clip_00",
+        "Target_Idx": 0,
+        "Prev_Query": "Howard holds the drone Raj handed him and strokes it.",
+        "Target_Query": "Howard took a white drone from the hold of Raj.",
+        "Next_Query": "Penny looks over lovingly at Leonard after Amy speaks.",
+        "False_Positive_Video": "s06e15_seg02_clip_00"
+    },
+    {
+        "Video_ID": "s08e22_seg01_clip_00",
+        "Target_Idx": 1,
+        "Prev_Query": "Howard took a white drone from the hold of Raj.",
+        "Target_Query": "Howard holds the drone Raj handed him and strokes it.",
+        "Next_Query": "Penny looks over lovingly at Leonard after Amy speaks.",
+        "False_Positive_Video": "s09e04_seg02_clip_06"
+    },
+    {
+        "Video_ID": "friends_s10e16_seg02_clip_18",
+        "Target_Idx": 2,
+        "Prev_Query": "Joey and Chandler help a panicking Monica sit down at the table.",
+        "Target_Query": "Erica sits at a the table and grabs her pregnant stomach in pain while talking to Monica, Phoebe, Chandler and Joey.",
+        "Next_Query": "Monica helps walk a pregnant Erica towards the door.",
+        "False_Positive_Video": "friends_s07e19_seg02_clip_18"
+    },
+    {
+        "Video_ID": "friends_s08e08_seg01_clip_00",
+        "Target_Idx": 1,
+        "Prev_Query": "Rachel invites Phoebe to have dinner with her and her father.",
+        "Target_Query": "Rachel and Phoebe are talking as they walk toward the couches in the coffee shop.",
+        "Next_Query": "Phoebe recognizes the stripper from Monica's bachelorette party.",
+        "False_Positive_Video": "friends_s07e15_seg02_clip_01"
+    },
+    {
+        "Video_ID": "friends_s08e08_seg01_clip_00",
+        "Target_Idx": 0,
+        "Prev_Query": "Rachel and Phoebe are talking as they walk toward the couches in the coffee shop.",
+        "Target_Query": "Rachel invites Phoebe to have dinner with her and her father.",
+        "Next_Query": "Phoebe recognizes the stripper from Monica's bachelorette party.",
+        "False_Positive_Video": "friends_s08e20_seg02_clip_03"
+    },
+    {
+        "Video_ID": "friends_s05e06_seg02_clip_06",
+        "Target_Idx": 4,
+        "Prev_Query": "Rachel knocks on a door and a hairy man opens it.",
+        "Target_Query": "Rachel bangs on the door and the hairy, bearded man opens.",
+        "Next_Query": "Joey tells Rachel and Monica about Danny while at the coffee shop.",
+        "False_Positive_Video": "friends_s05e10_seg02_clip_16"
+    },
+    {
+        "Video_ID": "house_s04e04_seg02_clip_22",
+        "Target_Idx": 4,
+        "Prev_Query": "House ask Cole if he's good with a solution that involves evolution and Cole agrees to which House calls him a two faced as he walks past him.",
+        "Target_Query": "House walks out of the room, leaving his coworkers behind.",
+        "Next_Query": "A fellow doctor punches House and he stumbles into a shelf.",
+        "False_Positive_Video": "house_s08e15_seg02_clip_20"
+    },
+    {
+        "Video_ID": "friends_s05e06_seg02_clip_06",
+        "Target_Idx": 2,
+        "Prev_Query": "Rachel and Monica go to visit a man with a large beard.",
+        "Target_Query": "Rachel knocks on a door and a hairy man opens it.",
+        "Next_Query": "Joey tells Rachel and Monica about Danny while at the coffee shop.",
+        "False_Positive_Video": "friends_s05e10_seg02_clip_16"
+    },
+    {
+        "Video_ID": "castle_s06e04_seg02_clip_00",
+        "Target_Idx": 1,
+        "Prev_Query": "Beckett wakes Castle when she can't sleep because the FBI fired her.",
+        "Target_Query": "Beckett drops her head face first into the crook of her elbow as she lays next to Castle.",
+        "Next_Query": "Beckett lays next to Castle in bed and taps him on the chest with her fingers.",
+        "False_Positive_Video": "castle_s01e04_seg02_clip_09"
+    },
+    {
+        "Video_ID": "castle_s06e04_seg02_clip_00",
+        "Target_Idx": 4,
+        "Prev_Query": "Beckett lays next to Castle in bed and taps him on the chest with her fingers.",
+        "Target_Query": "Pi comes into Castles room with a towel wrapped around his waist to look for a razor.",
+        "Next_Query": "Martha walks into the room carrying two coffee mugs.",
+        "False_Positive_Video": "castle_s07e03_seg02_clip_26"
+    },
+    {
+        "Video_ID": "house_s08e17_seg02_clip_03",
+        "Target_Idx": 2,
+        "Prev_Query": "A woman in the middle of the office does a handstand.",
+        "Target_Query": "Chase and Adams chat about Adams' personal life while searching an apartment.",
+        "Next_Query": "A young brunette woman quickly shuffles a deck of cards on a desk.",
+        "False_Positive_Video": "house_s08e18_seg02_clip_03"
+    },
+    {
+        "Video_ID": "friends_s04e14_seg02_clip_14",
+        "Target_Idx": 3,
+        "Prev_Query": "The actor talking to Joey gets up from the sofa and sits on the coffee table.",
+        "Target_Query": "Joey's co-actor tosses a bath towel at Joey.",
+        "Next_Query": "The man wearing suspenders asks Joey if that's his name then throws a towel at him before sitting on the sofa.",
+        "False_Positive_Video": "friends_s03e23_seg02_clip_03"
+    },
+    {
+        "Video_ID": "house_s08e17_seg02_clip_03",
+        "Target_Idx": 4,
+        "Prev_Query": "Chase and Adams chat about Adams' personal life while searching an apartment.",
+        "Target_Query": "A woman behind the desk spreads out cards in front of House.",
+        "Next_Query": "A young brunette woman quickly shuffles a deck of cards on a desk.",
+        "False_Positive_Video": "house_s08e05_seg02_clip_15"
+    },
+    {
+        "Video_ID": "s05e06_seg02_clip_10",
+        "Target_Idx": 0,
+        "Prev_Query": "Sheldon enters Amy's apartment and closes the door.",
+        "Target_Query": "Sheldon grabs a plate from the counter and an item from Leonard's hand before walking out of the room.",
+        "Next_Query": "Sheldon sneezes into his hand while standing up.",
+        "False_Positive_Video": "s01e10_seg02_clip_01"
+    },
+    {
+        "Video_ID": "house_s06e12_seg02_clip_10",
+        "Target_Idx": 1,
+        "Prev_Query": "Cuddy tells House that a young person is in the emergency room and requested House.",
+        "Target_Query": "Marcus has a recorder in his hand and holds it up to Foreman.",
+        "Next_Query": "Cuddy tells House a patient shot a bullet into his foot then House pushes aside the curtain to see who it is.",
+        "False_Positive_Video": "house_s07e17_seg02_clip_09"
+    },
+    {
+        "Video_ID": "house_s06e12_seg02_clip_10",
+        "Target_Idx": 4,
+        "Prev_Query": "Cuddy tells House a patient shot a bullet into his foot then House pushes aside the curtain to see who it is.",
+        "Target_Query": "Foreman walks out of the office, leaving Thirteen with Marcus.",
+        "Next_Query": "Thirteen walks into the room with Marcus following behind.",
+        "False_Positive_Video": "house_s05e05_seg02_clip_20"
+    },
+    {
+        "Video_ID": "s05e06_seg02_clip_10",
+        "Target_Idx": 3,
+        "Prev_Query": "Sheldon sneezes into his hand while standing up.",
+        "Target_Query": "Sheldon walks off with a plate of pancakes to his room.",
+        "Next_Query": "Sheldon is having a conversation with his mother in his kitchen.",
+        "False_Positive_Video": "s02e10_seg02_clip_00"
+    },
+    {
+        "Video_ID": "house_s03e08_seg02_clip_01",
+        "Target_Idx": 4,
+        "Prev_Query": "House puts down a pen and gets up from the table with a paperin his hand.",
+        "Target_Query": "Wilson gets in the office while talking to a Lawyer.",
+        "Next_Query": "House stand up and walk to the white board while talking to the group.",
+        "False_Positive_Video": "house_s05e01_seg02_clip_04"
+    },
+    {
+        "Video_ID": "s02e23_seg02_clip_11",
+        "Target_Idx": 4,
+        "Prev_Query": "Sheldon sets two mugs onto the counter in front of Leonard and Howard.",
+        "Target_Query": "Sheldon. Raj. Howard. and Leonard are all dressed in snow suits as they exit the freezer they are in.",
+        "Next_Query": "Sheldon puts two mugs onto the kitchen island in front of Howard and Leonard.",
+        "False_Positive_Video": "s02e16_seg01_clip_00"
+    },
+    {
+        "Video_ID": "house_s03e05_seg02_clip_20",
+        "Target_Idx": 2,
+        "Prev_Query": "Cameron programs a iv pumping machine while Foreman walks away.",
+        "Target_Query": "House shows a picture of the patient to his team and they have concluded that maybe the two are not related by blood.",
+        "Next_Query": "Chase leans over and places his hands over his mouth.",
+        "False_Positive_Video": "house_s03e19_seg02_clip_20"
+    },
+    {
+        "Video_ID": "castle_s04e08_seg02_clip_10",
+        "Target_Idx": 3,
+        "Prev_Query": "Beckett and Gates are talking on the other side of a two way mirror about a suspect they have in custody, on the other side of the glass.",
+        "Target_Query": "Castle runs from two showgirls standing in a casino to Esposito and Ryan with show tickets in his hand.",
+        "Next_Query": "Castle got himself and his co- detective front row tickets that they really need.",
+        "False_Positive_Video": "castle_s02e01_seg02_clip_16"
+    },
+    {
+        "Video_ID": "s02e23_seg02_clip_11",
+        "Target_Idx": 2,
+        "Prev_Query": "Howard puts his hands together and bows while standing next to Raj.",
+        "Target_Query": "Sheldon sets two mugs onto the counter in front of Leonard and Howard.",
+        "Next_Query": "Sheldon puts two mugs onto the kitchen island in front of Howard and Leonard.",
+        "False_Positive_Video": "s01e08_seg01_clip_03"
+    },
+    {
+        "Video_ID": "house_s03e05_seg02_clip_20",
+        "Target_Idx": 1,
+        "Prev_Query": "House holds up a picture of a woman screaming.",
+        "Target_Query": "Cameron programs a iv pumping machine while Foreman walks away.",
+        "Next_Query": "House shows a picture of the patient to his team and they have concluded that maybe the two are not related by blood.",
+        "False_Positive_Video": "house_s03e08_seg02_clip_04"
+    },
+    {
+        "Video_ID": "house_s06e15_seg02_clip_00",
+        "Target_Idx": 2,
+        "Prev_Query": "House pours cereal and milk into the bowl.",
+        "Target_Query": "House sits down on the couch and eats his cereal.",
+        "Next_Query": "Dr. Gregory and James were having a conversation.",
+        "False_Positive_Video": "house_s05e15_seg02_clip_17"
+    },
+    {
+        "Video_ID": "house_s03e05_seg02_clip_20",
+        "Target_Idx": 0,
+        "Prev_Query": "Cameron programs a iv pumping machine while Foreman walks away.",
+        "Target_Query": "House holds up a picture of a woman screaming.",
+        "Next_Query": "House shows a picture of the patient to his team and they have concluded that maybe the two are not related by blood.",
+        "False_Positive_Video": "house_s05e20_seg02_clip_07"
+    },
+    {
+        "Video_ID": "grey_s03e06_seg02_clip_07",
+        "Target_Idx": 1,
+        "Prev_Query": "Burke and Bailey are talking in the hallway of the hospital when Burke pats Bailey on the shoulder and walks away.",
+        "Target_Query": "Gretchen is talking to Meredith while Meredith proceeds to clean the wounds on Gretchen's hands and Izzie walks back and forth gathering supplies.",
+        "Next_Query": "Derrick is speed walking through the hospital hallways, to the elevators while a tall, thin woman wearing a long sleeve shirt follows him.",
+        "False_Positive_Video": "grey_s01e01_seg02_clip_09"
+    },
+    {
+        "Video_ID": "grey_s03e06_seg02_clip_07",
+        "Target_Idx": 3,
+        "Prev_Query": "Derrick is speed walking through the hospital hallways, to the elevators while a tall, thin woman wearing a long sleeve shirt follows him.",
+        "Target_Query": "Meredith tells Izzie to bring her different pads for the burn patient as Mark changed the protocol after Izzie placed the old ones by Meredith's patient.",
+        "Next_Query": "Cristina mentions doing her studies as she is on a team and she walks away leaving Burke standing in the hallway.",
+        "False_Positive_Video": "grey_s01e01_seg02_clip_09"
+    },
+    {
+        "Video_ID": "grey_s03e06_seg02_clip_07",
+        "Target_Idx": 0,
+        "Prev_Query": "Gretchen is talking to Meredith while Meredith proceeds to clean the wounds on Gretchen's hands and Izzie walks back and forth gathering supplies.",
+        "Target_Query": "Burke and Bailey are talking in the hallway of the hospital when Burke pats Bailey on the shoulder and walks away.",
+        "Next_Query": "Derrick is speed walking through the hospital hallways, to the elevators while a tall, thin woman wearing a long sleeve shirt follows him.",
+        "False_Positive_Video": "grey_s02e02_seg02_clip_08"
+    },
+    {
+        "Video_ID": "friends_s10e13_seg02_clip_09",
+        "Target_Idx": 2,
+        "Prev_Query": "Rachel sits down on the bed, and pulls Ross down to sit on the bed, too.",
+        "Target_Query": "Ross kisses Rachel goodnight and is about to leave, when Rachel asks him to stay for a little while.",
+        "Next_Query": "Rachel leans in to kiss Ross, who dodges and instead gives her a friendly hug.",
+        "False_Positive_Video": "friends_s04e20_seg02_clip_04"
+    },
+    {
+        "Video_ID": "friends_s10e13_seg02_clip_09",
+        "Target_Idx": 3,
+        "Prev_Query": "Ross kisses Rachel goodnight and is about to leave, when Rachel asks him to stay for a little while.",
+        "Target_Query": "Rachel leans in to kiss Ross, who dodges and instead gives her a friendly hug.",
+        "Next_Query": "As they stand and hold hands, Ross kisses Rachel on the forehead.",
+        "False_Positive_Video": "friends_s07e08_seg02_clip_10"
+    },
+    {
+        "Video_ID": "house_s08e07_seg02_clip_19",
+        "Target_Idx": 0,
+        "Prev_Query": "House walks from the street to the front door of a house.",
+        "Target_Query": "Mr. Lemaine opens the front door and House is standing at the doorstep.",
+        "Next_Query": "House is walking while he is talking to someone over the phone.",
+        "False_Positive_Video": "house_s06e20_seg02_clip_19"
+    },
+    {
+        "Video_ID": "s01e06_seg02_clip_13",
+        "Target_Idx": 2,
+        "Prev_Query": "Sheldon brings a drink in a mug to Leonard who is sitting on the couch in a hobbit costume.",
+        "Target_Query": "Sheldon and Leonard walk out of a Halloween party at Penny's apartment.",
+        "Next_Query": "Sheldon pats Leonard on the back a couple times as Leonard sits on the couch.",
+        "False_Positive_Video": "s04e11_seg02_clip_08"
+    },
+    {
+        "Video_ID": "house_s08e07_seg02_clip_19",
+        "Target_Idx": 3,
+        "Prev_Query": "House is walking while he is talking to someone over the phone.",
+        "Target_Query": "House is sitting inside Mr. Lemaine's house as he looks around.",
+        "Next_Query": "A man suddenly opens the door and House talk to Him.",
+        "False_Positive_Video": "house_s06e20_seg02_clip_19"
+    },
+    {
+        "Video_ID": "castle_s04e13_seg02_clip_08",
+        "Target_Idx": 1,
+        "Prev_Query": "Beckett dialed and called someone on her phone.",
+        "Target_Query": "Dr.Patty is on the floor with a golden retriever.",
+        "Next_Query": "Beckett is looking at a photo of Francisco on the case board as she speaks to Esposito.",
+        "False_Positive_Video": "house_s07e19_seg02_clip_21"
+    },
+    {
+        "Video_ID": "house_s08e07_seg02_clip_19",
+        "Target_Idx": 2,
+        "Prev_Query": "House walks from the street to the front door of a house.",
+        "Target_Query": "House is walking while he is talking to someone over the phone.",
+        "Next_Query": "House is sitting inside Mr. Lemaine's house as he looks around.",
+        "False_Positive_Video": "house_s03e03_seg02_clip_09"
+    },
+    {
+        "Video_ID": "met_s03e12_seg02_clip_08",
+        "Target_Idx": 1,
+        "Prev_Query": "Ted is kissing a girl in the  party's sofa.",
+        "Target_Query": "Ted leans forward when he tells the woman exactly how he wants their date to go.",
+        "Next_Query": "Lily and Marshall are fighting in the empty apartment while Robin is in the floor.",
+        "False_Positive_Video": "met_s05e02_seg02_clip_02"
+    },
+    {
+        "Video_ID": "met_s03e12_seg02_clip_08",
+        "Target_Idx": 2,
+        "Prev_Query": "Ted leans forward when he tells the woman exactly how he wants their date to go.",
+        "Target_Query": "Lily and Marshall are fighting in the empty apartment while Robin is in the floor.",
+        "Next_Query": "Ted looks up after the woman agrees to his terms.",
+        "False_Positive_Video": "met_s02e03_seg02_clip_03"
+    },
+    {
+        "Video_ID": "house_s02e01_seg02_clip_14",
+        "Target_Idx": 3,
+        "Prev_Query": "House gives a shot of alchohol to a patient.",
+        "Target_Query": "House  pours some alcohol into the small beakers.",
+        "Next_Query": "House takes a shot of alchohol and grimaces.",
+        "False_Positive_Video": "house_s08e21_seg02_clip_09"
+    },
+    {
+        "Video_ID": "met_s03e12_seg02_clip_08",
+        "Target_Idx": 3,
+        "Prev_Query": "Lily and Marshall are fighting in the empty apartment while Robin is in the floor.",
+        "Target_Query": "Ted looks up after the woman agrees to his terms.",
+        "Next_Query": "Barney spits a slice of lemon that he have on his mouth.",
+        "False_Positive_Video": "met_s05e02_seg02_clip_02"
+    },
+    {
+        "Video_ID": "castle_s04e04_seg02_clip_16",
+        "Target_Idx": 1,
+        "Prev_Query": "While doing some investigation, Castle discovered that Phillip was in incarcerated under his given name instead of Phillip.",
+        "Target_Query": "Esposito walks up and tells the group that an asthma device was Ben Lee's.",
+        "Next_Query": "Esposito walks up with a file folder in his hand.",
+        "False_Positive_Video": "castle_s08e16_seg02_clip_04"
+    },
+    {
+        "Video_ID": "castle_s04e04_seg02_clip_16",
+        "Target_Idx": 4,
+        "Prev_Query": "Esposito walks up with a file folder in his hand.",
+        "Target_Query": "Castle holds up a picture of Philp to Ryan and Beckett.",
+        "Next_Query": "Castle holds up a file folder in his hands.",
+        "False_Positive_Video": "castle_s06e21_seg02_clip_22"
+    },
+    {
+        "Video_ID": "s10e10_seg02_clip_10",
+        "Target_Idx": 3,
+        "Prev_Query": "Sheldon grabs his laundry basket and runs out of the laundry room.",
+        "Target_Query": "Raj is standing at the door and Stuart opens the door.",
+        "Next_Query": "Raj was holding a red box whilst talking to Stuart.",
+        "False_Positive_Video": "s06e04_seg02_clip_13"
+    },
+    {
+        "Video_ID": "s10e10_seg02_clip_10",
+        "Target_Idx": 0,
+        "Prev_Query": "Raj walks through the open front door and Stuart turns around and follows him.",
+        "Target_Query": "Sheldon gets his laundry basket and leaves the room.",
+        "Next_Query": "Sheldon grabs his laundry basket and runs out of the laundry room.",
+        "False_Positive_Video": "s04e03_seg02_clip_09"
+    },
+    {
+        "Video_ID": "house_s01e20_seg02_clip_07",
+        "Target_Idx": 0,
+        "Prev_Query": "Annette talks to House as they are both sitting together.",
+        "Target_Query": "House uses his cane to stand himself up.",
+        "Next_Query": "House puts his head down and moves his cane up and down.",
+        "False_Positive_Video": "house_s01e19_seg02_clip_12"
+    },
+    {
+        "Video_ID": "house_s02e16_seg02_clip_10",
+        "Target_Idx": 1,
+        "Prev_Query": "Wilson picks up a Journal on the table while talking to house.",
+        "Target_Query": "House reclines on a couch while Wilson stands in the room and walks around and they talk.",
+        "Next_Query": "Foreman walks with a man and woman down the hospital hallway, and they discuss the patient's condition, then discover that the patient is not in her room.",
+        "False_Positive_Video": "house_s08e21_seg02_clip_04"
+    },
+    {
+        "Video_ID": "house_s02e16_seg02_clip_10",
+        "Target_Idx": 3,
+        "Prev_Query": "Foreman walks with a man and woman down the hospital hallway, and they discuss the patient's condition, then discover that the patient is not in her room.",
+        "Target_Query": "Wilson walks into the Living room and puts his hand on his forehead as House speaks.",
+        "Next_Query": "House opens a pack of snacks, and eats from it.",
+        "False_Positive_Video": "house_s06e05_seg02_clip_18"
+    },
+    {
+        "Video_ID": "friends_s05e04_seg02_clip_09",
+        "Target_Idx": 0,
+        "Prev_Query": "Ross was walking back and forth whilst talking.",
+        "Target_Query": "The woman wearing gray shirt was lying on the bed whilst using the telephone.",
+        "Next_Query": "Ross was having a conversation with the woman wearing gray shirt through the phone.",
+        "False_Positive_Video": "castle_s06e23_seg02_clip_15"
+    },
+    {
+        "Video_ID": "friends_s05e04_seg02_clip_09",
+        "Target_Idx": 2,
+        "Prev_Query": "Ross was walking back and forth whilst talking.",
+        "Target_Query": "Ross was having a conversation with the woman wearing gray shirt through the phone.",
+        "Next_Query": "Emily tells Ross under what condition she will attempt to rekindle their relationship.",
+        "False_Positive_Video": "friends_s02e17_seg02_clip_08"
+    },
+    {
+        "Video_ID": "grey_s02e14_seg02_clip_04",
+        "Target_Idx": 3,
+        "Prev_Query": "Addison is having a conversation with Bailey while checking on her baby.",
+        "Target_Query": "Addison uses her hands to adjust Bailey's scrub top.",
+        "Next_Query": "Bailey throws a chart on to a hospital bed.",
+        "False_Positive_Video": "grey_s03e22_seg02_clip_06"
+    },
+    {
+        "Video_ID": "grey_s02e14_seg02_clip_04",
+        "Target_Idx": 4,
+        "Prev_Query": "Addison is having a conversation with Bailey while checking on her baby.",
+        "Target_Query": "Bailey throws a chart on to a hospital bed.",
+        "Next_Query": "Addison uses her hands to adjust Bailey's scrub top.",
+        "False_Positive_Video": "grey_s03e24_seg02_clip_04"
+    },
+    {
+        "Video_ID": "friends_s07e13_seg02_clip_13",
+        "Target_Idx": 0,
+        "Prev_Query": "Ross picks up some stuff in the garage boxes.",
+        "Target_Query": "Ross points to a shelf to ask Jack to grab something from the shelf.",
+        "Next_Query": "Rachel moves the chair arm to grab a green bottle out of a compartment.",
+        "False_Positive_Video": "friends_s03e13_seg02_clip_00"
+    },
+    {
+        "Video_ID": "friends_s08e19_seg02_clip_05",
+        "Target_Idx": 2,
+        "Prev_Query": "Joey and Ross throw a ball to each other.",
+        "Target_Query": "Chandler picks up the remote and turns on the TV.",
+        "Next_Query": "Joey sits at the table at the cafe with the interviewer.",
+        "False_Positive_Video": "friends_s01e23_seg02_clip_01"
+    },
+    {
+        "Video_ID": "friends_s08e19_seg02_clip_05",
+        "Target_Idx": 1,
+        "Prev_Query": "Chandler sits on the couch with the group and reaches for something.",
+        "Target_Query": "Joey and Ross throw a ball to each other.",
+        "Next_Query": "Chandler picks up the remote and turns on the TV.",
+        "False_Positive_Video": "friends_s03e18_seg02_clip_09"
+    },
+    {
+        "Video_ID": "s08e18_seg02_clip_03",
+        "Target_Idx": 2,
+        "Prev_Query": "Stuart enters the room holding onto something with a towel and announces there is no electricity.",
+        "Target_Query": "Howard runs to the refrigerator, opens the freezer door and begins rummaging through the contents; Bernadette approaches him as he is throwing his hands up in the air.",
+        "Next_Query": "Howard runs across the kitchen and opens the freezer door.",
+        "False_Positive_Video": "s10e09_seg02_clip_01"
+    },
+    {
+        "Video_ID": "s03e22_seg02_clip_14",
+        "Target_Idx": 0,
+        "Prev_Query": "Past Leonard is showing Past Howard and Past Raj he is making a rocket.",
+        "Target_Query": "Past Howard is screaming at someone while Past Raj is behind him, stuffing Oreo cookies in his mouth.",
+        "Next_Query": "Penny is cleaning Leonard's nails while talking to Him.",
+        "False_Positive_Video": "s09e08_seg02_clip_15"
+    },
+    {
+        "Video_ID": "s03e22_seg02_clip_14",
+        "Target_Idx": 4,
+        "Prev_Query": "Penny is cleaning Leonard's nails while talking to Him.",
+        "Target_Query": "While they are talking on the couch, Penny is working on Leonard's nails.",
+        "Next_Query": "Raj is eating fast while Howard is shouting.",
+        "False_Positive_Video": "s03e22_seg02_clip_00"
+    },
+    {
+        "Video_ID": "castle_s07e11_seg02_clip_08",
+        "Target_Idx": 1,
+        "Prev_Query": "Perlmutter walks into his lab to find Castle looking at a chart.",
+        "Target_Query": "Perlmutter chases Castle around the dead body in the room.",
+        "Next_Query": "Esposito has a coffee mug in his hand as Ryan walks up to him and Beckett.",
+        "False_Positive_Video": "castle_s05e20_seg02_clip_01"
+    },
+    {
+        "Video_ID": "s08e18_seg02_clip_03",
+        "Target_Idx": 3,
+        "Prev_Query": "Howard runs to the refrigerator, opens the freezer door and begins rummaging through the contents; Bernadette approaches him as he is throwing his hands up in the air.",
+        "Target_Query": "Howard runs across the kitchen and opens the freezer door.",
+        "Next_Query": "Leonard throws his head back and drops a magazine onto his desk.",
+        "False_Positive_Video": "s08e23_seg02_clip_11"
+    },
+    {
+        "Video_ID": "house_s06e05_seg02_clip_01",
+        "Target_Idx": 4,
+        "Prev_Query": "Wilson is wearing pajamas while House is talking to him from the couch.",
+        "Target_Query": "House holds up his coffee and takes a sip.",
+        "Next_Query": "Wilson lets House know what his future accommodations will be and makes a joke.",
+        "False_Positive_Video": "house_s08e03_seg02_clip_08"
+    },
+    {
+        "Video_ID": "castle_s03e22_seg02_clip_00",
+        "Target_Idx": 1,
+        "Prev_Query": "Lanie hands Beckett a plane ticket she found on the dead victims body as Beckett opens the ticket and talks about the victim wanting to move to start anew.",
+        "Target_Query": "Castle and Montgomery stare at Beckett arriving in her car as she exits and Montgomery tells her to go back.",
+        "Next_Query": "Beckett opens the document and sees a boarding pass.",
+        "False_Positive_Video": "castle_s02e05_seg02_clip_20"
+    },
+    {
+        "Video_ID": "met_s06e05_seg02_clip_17",
+        "Target_Idx": 3,
+        "Prev_Query": "Ted walks away from Zoey leaving her standing alone.",
+        "Target_Query": "Robin is holding a glass of wine as she is on the phone with Lily.",
+        "Next_Query": "Ted crinkles of the plans and throws them away.",
+        "False_Positive_Video": "met_s06e14_seg02_clip_12"
+    },
+    {
+        "Video_ID": "met_s06e05_seg02_clip_17",
+        "Target_Idx": 0,
+        "Prev_Query": "Marshall opens his robe and jumps in the bed.",
+        "Target_Query": "Ted turns around and throws away a poster into a trash can.",
+        "Next_Query": "Ted walks away from Zoey leaving her standing alone.",
+        "False_Positive_Video": "met_s02e18_seg02_clip_00"
+    },
+    {
+        "Video_ID": "met_s06e05_seg02_clip_17",
+        "Target_Idx": 2,
+        "Prev_Query": "Marshall opens his robe and jumps in the bed.",
+        "Target_Query": "Ted walks away from Zoey leaving her standing alone.",
+        "Next_Query": "Robin is holding a glass of wine as she is on the phone with Lily.",
+        "False_Positive_Video": "met_s06e16_seg01_clip_00"
+    },
+    {
+        "Video_ID": "castle_s03e22_seg02_clip_00",
+        "Target_Idx": 2,
+        "Prev_Query": "Castle and Montgomery stare at Beckett arriving in her car as she exits and Montgomery tells her to go back.",
+        "Target_Query": "Beckett opens the document and sees a boarding pass.",
+        "Next_Query": "Lanie hands Beckett a document with a globe on it.",
+        "False_Positive_Video": "castle_s06e09_seg02_clip_25"
+    },
+    {
+        "Video_ID": "s04e03_seg02_clip_10",
+        "Target_Idx": 1,
+        "Prev_Query": "Sheldon folds a blue folding board and places it in his laundry basket.",
+        "Target_Query": "Raj, Howard, and Leonard walk into the cafeteria holding trays of food and sit down at a table.",
+        "Next_Query": "Sheldon was arranging the laundry basket whilst talking.",
+        "False_Positive_Video": "s07e07_seg02_clip_00"
+    },
+    {
+        "Video_ID": "house_s06e12_seg02_clip_00",
+        "Target_Idx": 2,
+        "Prev_Query": "Wilson opens the bathroom door and sees House in the bathtub.",
+        "Target_Query": "Thirteen is sitting in front of a laptop as House walks into the room.",
+        "Next_Query": "House makes a sarcastic remark of what he could be doing if not it a tub.",
+        "False_Positive_Video": "house_s05e16_seg02_clip_02"
+    },
+    {
+        "Video_ID": "s04e03_seg02_clip_10",
+        "Target_Idx": 0,
+        "Prev_Query": "Raj, Howard, and Leonard walk into the cafeteria holding trays of food and sit down at a table.",
+        "Target_Query": "Sheldon folds a blue folding board and places it in his laundry basket.",
+        "Next_Query": "Sheldon was arranging the laundry basket whilst talking.",
+        "False_Positive_Video": "s02e01_seg02_clip_02"
+    },
+    {
+        "Video_ID": "s04e03_seg02_clip_10",
+        "Target_Idx": 4,
+        "Prev_Query": "Sheldon was arranging the laundry basket whilst talking.",
+        "Target_Query": "Raj, Leonard and Howard were all carrying their tray of food.",
+        "Next_Query": "Raj smiles and gestures at Leonard with his fork.",
+        "False_Positive_Video": "s07e07_seg02_clip_00"
+    },
+    {
+        "Video_ID": "s01e08_seg01_clip_03",
+        "Target_Idx": 1,
+        "Prev_Query": "Raj takes his laptop and leaves the apartment.",
+        "Target_Query": "Sheldon is standing making himself some tea while speaking to Raj.",
+        "Next_Query": "Howard walks toward the fridge and opens it.",
+        "False_Positive_Video": "s03e09_seg02_clip_01"
+    },
+    {
+        "Video_ID": "castle_s08e17_seg02_clip_02",
+        "Target_Idx": 3,
+        "Prev_Query": "Lanie shakes her head while explaining her reading habits.",
+        "Target_Query": "Castle looks down at his phone while talking to Ryan.",
+        "Next_Query": "Castle hands a book to Ryan as he talks to him.",
+        "False_Positive_Video": "castle_s03e11_seg02_clip_00"
+    },
+    {
+        "Video_ID": "s04e03_seg02_clip_10",
+        "Target_Idx": 2,
+        "Prev_Query": "Raj, Howard, and Leonard walk into the cafeteria holding trays of food and sit down at a table.",
+        "Target_Query": "Sheldon was arranging the laundry basket whilst talking.",
+        "Next_Query": "Raj smiles and gestures at Leonard with his fork.",
+        "False_Positive_Video": "s04e03_seg02_clip_09"
+    },
+    {
+        "Video_ID": "house_s01e19_seg02_clip_12",
+        "Target_Idx": 1,
+        "Prev_Query": "House points to Dr Wilson's lab coat pocket.",
+        "Target_Query": "Foreman is talking to a patient on a bed and visitors gathered around her.",
+        "Next_Query": "A fast beeping is heard and Dr Foreman bends down to look at a monitor.",
+        "False_Positive_Video": "house_s02e24_seg02_clip_04"
+    },
+    {
+        "Video_ID": "s04e19_seg02_clip_15",
+        "Target_Idx": 0,
+        "Prev_Query": "Raj gives something to Penny while Penny is driving.",
+        "Target_Query": "Howard shakes his head from the back seat at Leonard sitting in the front seat.",
+        "Next_Query": "Penny grabs a cassette tape from Raj in the backseat of the car to play.",
+        "False_Positive_Video": "s08e01_seg02_clip_02"
+    },
+    {
+        "Video_ID": "met_s05e01_seg02_clip_03",
+        "Target_Idx": 3,
+        "Prev_Query": "Brad lifts up his shirt while talking to Robin about a hockey game.",
+        "Target_Query": "Brad says something to Barney while patting him on the soldier and leaves the bar.",
+        "Next_Query": "Lily and Barney go to the front of the bar and start a conversation.",
+        "False_Positive_Video": "met_s02e02_seg02_clip_05"
+    },
+    {
+        "Video_ID": "met_s05e01_seg02_clip_03",
+        "Target_Idx": 1,
+        "Prev_Query": "Barney walks over to Brad and Robin who are talking to each other.",
+        "Target_Query": "Barney and Lily stand up from the table and walk over to the bar.",
+        "Next_Query": "Brad lifts up his shirt while talking to Robin about a hockey game.",
+        "False_Positive_Video": "met_s06e01_seg02_clip_11"
+    },
+    {
+        "Video_ID": "house_s03e04_seg02_clip_25",
+        "Target_Idx": 2,
+        "Prev_Query": "House fiddles with his walking stick while looking at a patient.",
+        "Target_Query": "Cuddy and Wilson are talking very seriously in the office.",
+        "Next_Query": "Couple walk up to House along with their son, Sarah and man in grey jacket talk to House.",
+        "False_Positive_Video": "house_s03e01_seg02_clip_26"
+    },
+    {
+        "Video_ID": "friends_s04e16_seg02_clip_18",
+        "Target_Idx": 1,
+        "Prev_Query": "Rachel holds her hands together in a begging gesture while talking to Joshua.",
+        "Target_Query": "Ross drinks a beer while sitting in the apartment hallway.",
+        "Next_Query": "Rachel puts her right hand against the door frame.",
+        "False_Positive_Video": "friends_s02e22_seg02_clip_13"
+    },
+    {
+        "Video_ID": "castle_s02e05_seg02_clip_07",
+        "Target_Idx": 1,
+        "Prev_Query": "Beckett and Castle are speaking to Melissa in her home.",
+        "Target_Query": "Beckett and Castle are speaking to a manger.",
+        "Next_Query": "Dr. Talbot signs a document in a folded back case.",
+        "False_Positive_Video": "castle_s01e02_seg02_clip_17"
+    },
+    {
+        "Video_ID": "friends_s04e16_seg02_clip_18",
+        "Target_Idx": 2,
+        "Prev_Query": "Ross drinks a beer while sitting in the apartment hallway.",
+        "Target_Query": "Rachel puts her right hand against the door frame.",
+        "Next_Query": "Ross takes a drink from his bottle as Rachel walks into the hallway.",
+        "False_Positive_Video": "friends_s05e10_seg02_clip_16"
+    },
+    {
+        "Video_ID": "house_s05e16_seg02_clip_02",
+        "Target_Idx": 0,
+        "Prev_Query": "Dr. Taub turns and looks blankly at Thirteen two times.",
+        "Target_Query": "Taub and Thirteen both speak to each other while looking at Jackson's MRI.",
+        "Next_Query": "Taub takes a look at Jackson going inside of the MRI.",
+        "False_Positive_Video": "house_s05e04_seg02_clip_10"
+    },
+    {
+        "Video_ID": "friends_s06e07_seg02_clip_12",
+        "Target_Idx": 1,
+        "Prev_Query": "Phoebe walks into the kitchen and Rachel follows her part of the way.",
+        "Target_Query": "Rachel tells Phoebe why she did not want to run with Phoebe.",
+        "Next_Query": "Phoebe runs in place in an exaggerated manner.",
+        "False_Positive_Video": "friends_s08e02_seg02_clip_03"
+    },
+    {
+        "Video_ID": "house_s05e16_seg02_clip_02",
+        "Target_Idx": 1,
+        "Prev_Query": "Taub and Thirteen both speak to each other while looking at Jackson's MRI.",
+        "Target_Query": "Dr. Taub turns and looks blankly at Thirteen two times.",
+        "Next_Query": "Taub takes a look at Jackson going inside of the MRI.",
+        "False_Positive_Video": "house_s06e18_seg02_clip_17"
+    },
+    {
+        "Video_ID": "castle_s07e14_seg02_clip_20",
+        "Target_Idx": 4,
+        "Prev_Query": "Beckett pulls up her badge while approaching a woman and speaking",
+        "Target_Query": "castle paces across thwe room while speaking on the phone to beckett",
+        "Next_Query": "Gretchen sets the bird feeder on the table while speaking to beckett",
+        "False_Positive_Video": "castle_s05e02_seg02_clip_26"
+    },
+    {
+        "Video_ID": "grey_s03e02_seg02_clip_16",
+        "Target_Idx": 0,
+        "Prev_Query": "Christina sitting down with something in her hands.",
+        "Target_Query": "Christina pointing a pen light in patients eye on the hospital bed.",
+        "Next_Query": "Cristina leans her head when Meredith says what her boyfriend did today.",
+        "False_Positive_Video": "grey_s02e04_seg02_clip_00"
+    }
+]

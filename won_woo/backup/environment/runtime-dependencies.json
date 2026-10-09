@@ -1,0 +1,82 @@
+{
+  "captured_date": "2026-10-09",
+  "source_root": "/home/viglab2/won_woo",
+  "python": "3.9.25",
+  "platform": "Linux-6.8.0-107-generic-x86_64-with-glibc2.39",
+  "packages": {
+    "torch": "2.8.0",
+    "transformers": "4.57.6",
+    "huggingface-hub": "0.36.2",
+    "numpy": "1.26.4",
+    "h5py": "3.14.0",
+    "scipy": "1.13.1",
+    "spacy": "3.7.5",
+    "sentence-transformers": "5.1.2",
+    "nltk": "3.9.2",
+    "typing_extensions": "4.14.1"
+  },
+  "hardware_observed": {
+    "gpu": "NVIDIA A100 80GB PCIe",
+    "gpu_count": 4,
+    "driver_version": "570.211.01"
+  },
+  "external_huggingface_models": [
+    {
+      "repo_id": "roberta-base",
+      "revision": "e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+      "workspace_copy_present": true,
+      "external_cache_included": false
+    },
+    {
+      "repo_id": "Qwen/Qwen2.5-7B-Instruct",
+      "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+      "workspace_copy_present": false,
+      "external_cache_included": false
+    },
+    {
+      "repo_id": "Qwen/Qwen2.5-3B-Instruct",
+      "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+      "workspace_copy_present": false,
+      "external_cache_included": false
+    },
+    {
+      "repo_id": "sentence-transformers/all-MiniLM-L6-v2",
+      "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+      "workspace_copy_present": false,
+      "external_cache_included": false
+    }
+  ],
+  "retained_workspace_models": [
+    "Holmes/.hf_cache/hub/models--roberta-base",
+    "tvr/query_only/roberta-base_tuned_model"
+  ],
+  "retained_nlp_resources": {
+    "wordnet": "rewriting/nlp_resources/corpora/wordnet.zip",
+    "lemminflect_version": "0.2.3",
+    "lemminflect_path": "rewriting/nlp_resources/python/lemminflect",
+    "spacy_models": [
+      "en_core_web_md==3.7.1",
+      "en_core_web_sm==3.7.1"
+    ]
+  },
+  "missing_code_dependency": {
+    "path": "third_party/A3PRVR",
+    "required_by": "Holmes/EvidenceRetrieval/backbones.py:A3Retriever",
+    "repo_url": "https://github.com/chuanshen-chen/A3PRVR",
+    "commit": "ae02a70f7d6d5320531df0113ee48e47712a072d",
+    "observed_exists": false
+  },
+  "portability_notes": [
+    "holmes.yml omits machine-specific conda prefix and preserves exact SpaCy model wheel URLs.",
+    "pip-freeze.txt replaces the build-machine typing_extensions file URL with the installed version.",
+    "conda-explicit-linux64.txt is a platform-specific conda lock; pip packages are recorded separately.",
+    "External Hugging Face model caches are outside won_woo and are not included; download exactly the recorded revisions on the replacement server.",
+    "Holmes/src/Configs/tvr.py and Holmes/multisrc/Configs/tvr.py contain absolute root/data_root values; update explicitly if the restored root changes.",
+    "Several rewriting scripts hard-code external Hugging Face snapshot paths; supply or update their local model paths on the replacement server.",
+    "rewriting/analyze_val_domain.py:dictionary_sources reads absolute dictionary paths from summary.json; runtime provenance references may require explicit path adaptation after relocation.",
+    "Historical logs and provenance records contain original paths; do not blindly replace every path in archival outputs.",
+    "Training checkpoints retain model, optimizer, config, epoch, and validation metrics, but no RNG-state snapshot; exact continuation across hardware is not guaranteed.",
+    "No local .git histories existed at audit time.",
+    "At audit time no Python experiment process was running from won_woo."
+  ]
+}

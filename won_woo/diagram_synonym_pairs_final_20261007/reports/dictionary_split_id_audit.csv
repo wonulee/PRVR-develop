@@ -1,0 +1,3 @@
+﻿aspect,dictionary_file,dictionary_keys,train_id_matches,val_id_matches,other_ids,sha256
+action,/home/viglab2/won_woo/tvr/TextData/tvr_id_action_dict.json,87174,87174,0,0,773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67
+object,/home/viglab2/won_woo/tvr/TextData/tvr_id_object_dict.json,87174,87174,0,0,bc191f36afc520c42b36012c7b8e66cd0969f763213dd2891614aab4e22fb96a

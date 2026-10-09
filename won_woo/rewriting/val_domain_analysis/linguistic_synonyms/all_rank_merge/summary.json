@@ -1,0 +1,48 @@
+{
+  "original_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt",
+  "original_sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+  "source_csv": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/tvrtrain_synonym_pairs.csv",
+  "source_csv_sha256": "9c0c5dfbffd25fa1bf5d06a08f52ad5128804593252535dc432d48515f3f4061",
+  "merged_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption_replace_merge_all.txt",
+  "merged_sha256": "fc45374c2e90c7301dc3f906990d22761049609db7f00072931dd22fe487f044",
+  "original_caption_count": 87174,
+  "merged_caption_count": 88780,
+  "added_caption_count": 1606,
+  "candidate_combination_count": 1609,
+  "variant_status_counts": {
+    "added": 1606,
+    "unchanged": 3
+  },
+  "added_variants_by_max_rank": {
+    "1": 1365,
+    "2": 221,
+    "3": 20
+  },
+  "input_pairs_by_rank": {
+    "1": 1390,
+    "2": 218,
+    "3": 20
+  },
+  "pair_status_counts": {
+    "included": 1625,
+    "same_expression": 2,
+    "source_not_standalone_token": 1
+  },
+  "included_pairs_by_rank": {
+    "1": 1387,
+    "2": 218,
+    "3": 20
+  },
+  "combination_rule": "All choices across source terms, ordered by maximum rank then rank tuple.",
+  "enc_rule": "Per video, start at original maximum enc + 1 and increase only for added captions.",
+  "duplicate_rule": "Compare whitespace-normalized caption text within the same video.",
+  "length_budget_filter": false,
+  "applied_to_merged_file": true,
+  "preview": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/all_rank_merge/tvrtrain.caption_replace_merge_all.preview.txt",
+  "previous_merge_backup": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/all_rank_merge/tvrtrain.caption_replace_merge.before_all_ranks.txt",
+  "previous_merge_sha256": "637ff6702c36ab8a5ac95cb7c1d9024cb61fff50049b75bcbe05a7b122e87ab6",
+  "rank_1_merged_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption_replace_merge.txt",
+  "rank_1_merged_sha256": "8bc66e34ec18f6518a5f8ea7711605e20c7bcd9a75b0a5c27f534a16c408a009",
+  "rank_1_merged_caption_count": 88539,
+  "rank_1_added_caption_count": 1365
+}

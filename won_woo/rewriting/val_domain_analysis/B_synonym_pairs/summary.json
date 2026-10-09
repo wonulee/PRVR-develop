@@ -1,0 +1,69 @@
+{
+  "statistics": [
+    {
+      "split": "train",
+      "term_type": "object",
+      "B_queries": 74724,
+      "pairs": 290709,
+      "queries_with_pairs": 63853,
+      "queries_without_pairs": 10871
+    },
+    {
+      "split": "train",
+      "term_type": "action",
+      "B_queries": 83922,
+      "pairs": 1136778,
+      "queries_with_pairs": 79440,
+      "queries_without_pairs": 4482
+    },
+    {
+      "split": "validation",
+      "term_type": "object",
+      "B_queries": 9665,
+      "pairs": 53395,
+      "queries_with_pairs": 8753,
+      "queries_without_pairs": 912
+    },
+    {
+      "split": "validation",
+      "term_type": "action",
+      "B_queries": 10496,
+      "pairs": 241836,
+      "queries_with_pairs": 10194,
+      "queries_without_pairs": 302
+    }
+  ],
+  "skips": {
+    "no_surface_change_after_inflection": 25,
+    "source_not_observed_or_lemma_mismatch": 100,
+    "no_source_pos_inflection": 262,
+    "unsupported_source_pos": 1
+  },
+  "method": {
+    "scope": "Existing B-region queries, separately for objects and actions; opposite-split observed candidates only",
+    "schema": "Train->Val matches tvrtrain_synonym_pairs.csv exactly; Val->Train uses train_ target column names",
+    "source_expression": "Original raw expression, supported source POS and matching original lemma; literal token-boundary occurrence required",
+    "synonym_expression": "Candidate lemma inflected to original Penn POS using lemminflect; original capitalization retained",
+    "target_witness": "First original opposite-split caption with an actual expression matching candidate lemma and POS category",
+    "ranking": "Alphabetical order of inflected candidate expressions; all candidates, no top-k or semantic score",
+    "meaning": "All shared same-POS synset definitions, joined with |; no context-selected sense",
+    "review": "Lexical candidates only; no contextual equivalence, visual grounding, phrasal-verb or temporal validation; requires_review=True",
+    "difference_from_reference": "The reference applies contextual sense scoring and top-k; this export flattens existing B lexical candidates",
+    "seed": 2026,
+    "wordnet_version": "3.0",
+    "spacy_version": "3.7.5",
+    "spacy_model_version": "3.7.1",
+    "randomness": "No sampling; fixed seed; original query order, sorted alternatives"
+  },
+  "inputs": {
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/methodology.json": "6c94a0c9bc37851b3aeaeeae035b8264cca7038728bbae03a46755d12fe0bdf9",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/tvrtrain_synonym_pairs.csv": "9c0c5dfbffd25fa1bf5d06a08f52ad5128804593252535dc432d48515f3f4061",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_domain_analysis.csv": "c2a6990fbaa74d80b4138e80ae0c7eda0ca18313a72cc962fdfc86de2df87a9a",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/object_B_synonym_terms.csv": "778d4ebda30d5a995c629ee392cbf5eb4a73667ee1f1aa607e37ba13cc943023",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/action_B_synonym_terms.csv": "e498857f7f461382ae96639f73b77d33418010ef9aef83585fba0dcdc5064c56",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/object_B.csv": "c5fec8e5596183218489e29102afbe345fedb94ae32a428e63f7311660963534",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/action_B.csv": "810aba2caa2eefa4f2b965facd35ee55956aa9c15e4a0da85c2ab4a30e0d0088"
+  },
+  "script_sha256": "7fad1e085af04f66b394adea54b59792969f155a162280575ba153027f26eda9"
+}

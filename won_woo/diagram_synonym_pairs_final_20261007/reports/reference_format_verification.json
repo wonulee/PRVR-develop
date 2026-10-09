@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "reference_schema_files": {
+    "object_A_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "object_B_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "object_B_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "object_C_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "object_EMPTY_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "object_EMPTY_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "object_UNCLASSIFIED_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "object_UNCLASSIFIED_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_A_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_B_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_B_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_C_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_EMPTY_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_EMPTY_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_UNCLASSIFIED_train.csv": {
+      "columns": 37,
+      "matches_reference": true
+    },
+    "action_UNCLASSIFIED_val.csv": {
+      "columns": 37,
+      "matches_reference": true
+    }
+  },
+  "diagram_lemma_counts": {
+    "object_A_train.csv": 2994,
+    "object_B_train.csv": 2876,
+    "object_B_val.csv": 1996,
+    "object_C_val.csv": 0,
+    "action_A_train.csv": 953,
+    "action_B_train.csv": 1525,
+    "action_B_val.csv": 864,
+    "action_C_val.csv": 0
+  },
+  "file_counts_matches_summary": true,
+  "existing_captions_unchanged": true,
+  "caption_sha256": {
+    "tvrtrain.caption.txt": "0655949f2224d270bb37b16cba9de99f4ae9e88adf455244e0a6342a43691815",
+    "tvrval.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1"
+  }
+}

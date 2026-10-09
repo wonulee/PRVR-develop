@@ -1,0 +1,76 @@
+{
+  "status": "PASS",
+  "llm_used": false,
+  "input_queries": 87174,
+  "generated_queries": 366444,
+  "source_queries": 86358,
+  "generated_by_aspect": {
+    "object": 185934,
+    "action": 180510
+  },
+  "merged_queries": 453618,
+  "counts": {
+    "candidate_occurrences": 372393,
+    "generated": 366444,
+    "object": 185934,
+    "action": 180510,
+    "duplicate_generated_query": 5949,
+    "generated_without_resolved_timestamp": 783
+  },
+  "input_mapping_counts": {
+    "object/distinct_sources_with_rank1": 2419,
+    "object/input_mapping_rows": 6525,
+    "object/replacement_mapping_rows": 4612,
+    "object/selected_mapping_rows": 2419,
+    "object/not_selected_rank1_candidate": 2193,
+    "object/no_replacement_in_csv": 1913,
+    "action/distinct_sources_with_rank1": 3111,
+    "action/input_mapping_rows": 12375,
+    "action/replacement_mapping_rows": 11317,
+    "action/selected_mapping_rows": 3488,
+    "action/not_selected_rank1_candidate": 7829,
+    "action/no_replacement_in_csv": 1058
+  },
+  "distinct_csv_replacement_pairs": 5530,
+  "csv_part_max_rows": 200000,
+  "rank_one_only": true,
+  "rank_policy": "Original synonym_rank=1 from mapping/links; one replacement per aspect/exact source; earliest original data row wins ties",
+  "filters": {
+    "word_budget": false,
+    "subword_token_budget": false,
+    "dictionary_recheck": false,
+    "pos_match": false,
+    "context_rules": false,
+    "conservative_lexical_families": false,
+    "timestamp_required": false,
+    "pre_replacement_baseline_dedup": false
+  },
+  "policy": "Case-sensitive whole-expression matches; one CSV replacement per query; deduplicate current/generated queries per video. No linguistic filters. Candidate selection follows rank_policy.",
+  "metadata_only": "Existing CSV POS/WordNet data remain in ABC_csv and are linked by mapping_ids; missing timestamps are kept blank.",
+  "all_candidate_source_links_preserved": true,
+  "original_files_unchanged": true,
+  "original_train_bytes_preserved": true,
+  "checks": "CSV reconstruction, replacement-pair values, ID uniqueness, video IDs, deduplication, counts, input hashes; no linguistic quality checks",
+  "input_sha256": {
+    "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt": "0655949f2224d270bb37b16cba9de99f4ae9e88adf455244e0a6342a43691815",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/tvrtrain.caption.original.txt": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+    "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/tvr/TextData/tvrtest.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/tvr/TextData/tvr_train_release.jsonl": "ca6393a8afbedb041029e6f03a00d16cb7dcca0d4bdab2fa50358e192087d15a",
+    "/home/viglab2/won_woo/diagram_synonym_pairs_final_20261007/ABC_csv/object_B_train.csv": "106e269a40850b1169e6c2ca78d6bd3953e800dd0456d590446a74a8bd494154",
+    "/home/viglab2/won_woo/diagram_synonym_pairs_final_20261007/ABC_csv/action_B_train.csv": "689d9b351f9af3bbb3e2159ecea192f010238d0e6d53cf441526d60b47b1ef72",
+    "/home/viglab2/won_woo/diagram_synonym_pairs_final_20261007/mapping/links/object_B_train.csv": "08ff6836e72dcb841b403f54e1e2595a772bedc7cbe5d7fcb62b6b5591161dba",
+    "/home/viglab2/won_woo/diagram_synonym_pairs_final_20261007/mapping/links/action_B_train.csv": "1754f21037ae371d5fbe738c761c31af4e3f17c9b4f00eacbcd53d8c89d0b0a0"
+  },
+  "script_sha256": "8ba9a3fa905fc011d00cab864f80b584a27cacbfec2bee59669f183b397cddcf",
+  "output_sha256": {
+    "object_additional_queries_0001.csv": "25e1516506e77d019f67f80ac9219db9d3aa5bcfe641c3f3cc50b670264adadc",
+    "links/generation_links_0001.csv": "f2d1e27bafc1f1171097476490d0bd07a32a0ef659cf7eb781e340d147f438c0",
+    "action_additional_queries_0001.csv": "22236e08ee22666c4f22f03c56d3284614b805905e79a3d4d1497790920fa30a",
+    "links/generation_links_0002.csv": "02b74eb77c108d53038b6a5e79d84e0e62b3f145094c228500036a2e024f45d7",
+    "replacement_pairs.csv": "3d8c77cf88a6d876cd821e88eaeaf0fc82abc28e2d4622b59486fbada71010e0",
+    "file_counts.csv": "f2d42e24960bf22115f958433627184e10182391d610cefcfdaf871add6cb905",
+    "tvrtrain.additional.caption.txt": "3a07b51ad7714e82688e44e9c0061f967e3f6e40cd5dbdf55ec02c4b8c303076",
+    "tvrtrain.caption.with_additional.txt": "44e3577dc762fc0141221d68da7a7b84f7249dae14152499106093c5c28c915b"
+  }
+}

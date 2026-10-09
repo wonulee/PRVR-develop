@@ -1,0 +1,81 @@
+{
+  "train_captions": 87174,
+  "validation_captions": 10895,
+  "val_action_pool_size": 1106,
+  "val_object_pool_size": 2537,
+  "decisions": {
+    "KEEP": 74562,
+    "REWRITE": 12595,
+    "REVIEW": 17
+  },
+  "rewrite_reasons": {
+    "action_and_object_ood": 729,
+    "action_ood": 3206,
+    "object_ood": 8660
+  },
+  "rewriting_percentage": 14.4481,
+  "unique_ood_actions": 1569,
+  "unique_ood_objects": 3819,
+  "extraction_flags": {
+    "empty_action": 1426,
+    "empty_object": 5906,
+    "invalid_action_pos": 1
+  },
+  "validation_dictionary_coverage": {
+    "action": 0,
+    "object": 0
+  },
+  "method": {
+    "train_terms": "Supplied dictionaries; original term/POS mappings preserved",
+    "validation_terms": "Supplied entries when available; otherwise spaCy Penn POS tags",
+    "action_tags": [
+      "VB",
+      "VBD",
+      "VBG",
+      "VBN",
+      "VBP",
+      "VBZ"
+    ],
+    "object_tags": [
+      "NN",
+      "NNS"
+    ],
+    "validation_stopword_filter": false,
+    "normalization": "Unicode casefold + spaCy rule lemmatizer, forced VERB/NOUN from supplied POS; NN uses Number=Sing",
+    "reference_domain": "Validation lemmas only, separately for actions and objects",
+    "candidate_rule": "Any normalized action OR object outside its validation pool",
+    "empty_rule": "Empty categories are flagged, never counted as OOD; both empty => REVIEW",
+    "invalid_pos_rule": "Preserve and flag unsupported POS; exclude from lemma membership; REVIEW unless other terms are OOD",
+    "semantic_scope": "Lexical vocabulary coverage, not a semantic OOD or rewrite-feasibility guarantee",
+    "limitations": [
+      "The original dictionary extractor/filter is unavailable; validation POS extraction can differ from train extraction.",
+      "POS and rule-based lemmas can be wrong or ambiguous; raw forms remain in every row.",
+      "Individual terms do not encode phrasal verbs, action-object relations, or temporal alignment.",
+      "No automatic replacement or LLM rewrite has been performed."
+    ],
+    "spacy_version": "3.7.5",
+    "model": "en_core_web_md",
+    "model_version": "3.7.1",
+    "seed": 2026,
+    "n_process": 1,
+    "output_order": "Original caption order; pools alphabetical; frequency descending"
+  },
+  "inputs": {
+    "tvrtrain.caption.txt": {
+      "path": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt",
+      "sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d"
+    },
+    "tvrval.caption.txt": {
+      "path": "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt",
+      "sha256": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1"
+    },
+    "tvr_id_action_dict.json": {
+      "path": "/home/viglab2/won_woo/tvr/TextData/tvr_id_action_dict.json",
+      "sha256": "773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67"
+    },
+    "tvr_id_object_dict.json": {
+      "path": "/home/viglab2/won_woo/tvr/TextData/tvr_id_object_dict.json",
+      "sha256": "8a10ed960f3473d8b227f04f98f12d0ad21ca6e3b4578820496c83582be4322f"
+    }
+  }
+}

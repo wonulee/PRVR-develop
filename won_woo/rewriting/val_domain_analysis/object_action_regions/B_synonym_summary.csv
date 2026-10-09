@@ -1,0 +1,17 @@
+﻿aspect,split,criterion,B_query_count,denominator_B_queries,percentage_of_B
+object,train,has_any_wordnet_synonym,71385,74724,95.531556
+object,train,all_terms_have_wordnet_synonym,60595,74724,81.091751
+object,train,has_any_other_split_synonym,63855,74724,85.454472
+object,train,all_terms_have_other_split_synonym,33967,74724,45.456614
+object,validation,has_any_wordnet_synonym,9293,9665,96.151061
+object,validation,all_terms_have_wordnet_synonym,7650,9665,79.151578
+object,validation,has_any_other_split_synonym,8754,9665,90.574237
+object,validation,all_terms_have_other_split_synonym,5304,9665,54.878427
+action,train,has_any_wordnet_synonym,83511,83922,99.51026
+action,train,all_terms_have_wordnet_synonym,81029,83922,96.552751
+action,train,has_any_other_split_synonym,79440,83922,94.659327
+action,train,all_terms_have_other_split_synonym,63115,83922,75.20674
+action,validation,has_any_wordnet_synonym,10464,10496,99.695122
+action,validation,all_terms_have_wordnet_synonym,10110,10496,96.322409
+action,validation,has_any_other_split_synonym,10194,10496,97.122713
+action,validation,all_terms_have_other_split_synonym,8160,10496,77.743902

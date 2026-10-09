@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "all_original_expression_pos_pairs_match": true,
+  "all_original_source_and_target_captions_match": true,
+  "all_wordnet_fields_match": true,
+  "all_reference_witnesses_attested": true,
+  "counts": {
+    "original_rows": 1494233,
+    "original_pair_rows": 1379891,
+    "mapping_rows": 35930
+  }
+}

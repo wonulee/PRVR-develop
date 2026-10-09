@@ -1,0 +1,28 @@
+{
+  "caption_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt",
+  "source_csv": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/tvrtrain_synonym_pairs.csv",
+  "source_csv_sha256": "9c0c5dfbffd25fa1bf5d06a08f52ad5128804593252535dc432d48515f3f4061",
+  "original_sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+  "rewritten_sha256": "4d703374dab1a0216af3a5c280d288be6b7dd3fdc734f16a001251c7f5878d11",
+  "caption_count": 87174,
+  "csv_pair_count": 1628,
+  "rank_1_pair_count": 1390,
+  "candidate_caption_count": 1368,
+  "changed_caption_count": 1365,
+  "unchanged_caption_count": 85809,
+  "replacement_status_counts": {
+    "applied": 1387,
+    "same_expression": 2,
+    "source_not_standalone_token": 1
+  },
+  "replacement_occurrence_count": 1399,
+  "changed_captions_within_length_budget": 380,
+  "selection_rule": "rank 1; simultaneous, case-sensitive, whole-word replacements",
+  "length_budget_filter": false,
+  "length_budget_policy": "User requested all synonyms, preserving the remaining original sentence.",
+  "token_count_includes_special_tokens": true,
+  "tokenizer": "/home/viglab2/.cache/huggingface/hub/models--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+  "applied_to_original": true,
+  "preview": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/applied_synonyms/tvrtrain.caption.rewritten.txt",
+  "backup": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/applied_synonyms/tvrtrain.caption.original.txt"
+}

@@ -1,0 +1,394 @@
+{
+  "status": "PASS",
+  "date": "2026-10-09",
+  "scope": "/home/viglab2/won_woo/diagram_synonym_pairs_final_20261007",
+  "before_regular_files": 162,
+  "before_bytes": 4590645273,
+  "after_bytes_before_manifest": 428725151,
+  "freed_bytes_before_manifest": 4161920122,
+  "deleted_paths": [
+    "additional_captions_unfiltered",
+    "compact",
+    "diagrams/lemma_previous",
+    "read.me"
+  ],
+  "deleted_files": [
+    {
+      "path": "additional_captions_unfiltered/action_additional_queries_0002.csv",
+      "bytes": 68642065,
+      "sha256": "7cbec79cfc34660bfbc031bce6bbeb3d2da72ecf60cd458a0e2b0f5a8380bb6c"
+    },
+    {
+      "path": "additional_captions_unfiltered/object_additional_queries_0003.csv",
+      "bytes": 14326070,
+      "sha256": "94dd50151af68db9e73ece8e3993fd6e13d36ae25f79527d8a7523e806907cb8"
+    },
+    {
+      "path": "additional_captions_unfiltered/action_additional_queries_0003.csv",
+      "bytes": 68763512,
+      "sha256": "f71f4f50de58bdb98af496dcdc0c9c20ad2c12b54909fc86264d2efe07c1b058"
+    },
+    {
+      "path": "additional_captions_unfiltered/action_additional_queries_0001.csv",
+      "bytes": 69072376,
+      "sha256": "edcdff58123043c2775bb3c4869024a062ca52ccad9c86b5226e5330282e1716"
+    },
+    {
+      "path": "additional_captions_unfiltered/object_additional_queries_0002.csv",
+      "bytes": 67882341,
+      "sha256": "b631a214af0433499d3e79272f53710eb0d68ec592e6af82660fa3d9c208d287"
+    },
+    {
+      "path": "additional_captions_unfiltered/README.md",
+      "bytes": 6135,
+      "sha256": "30fae2d4cc6d51ad3fb641b66dcec1d775377a0ea25fa0e3e674554a2b3c3c7d"
+    },
+    {
+      "path": "additional_captions_unfiltered/object_additional_queries_0001.csv",
+      "bytes": 67607367,
+      "sha256": "cb87e6ab8ace290ce460cbc23681ec7b669a2a9604740e9ccb516e02585c592b"
+    },
+    {
+      "path": "additional_captions_unfiltered/tvrtrain.additional.caption.txt",
+      "bytes": 167609903,
+      "sha256": "23e4e1d3667a2005a7cdda9a1634ce11c89fb0652479deb2b131743a69051af1"
+    },
+    {
+      "path": "additional_captions_unfiltered/tvrtrain.caption.with_additional.txt",
+      "bytes": 176250890,
+      "sha256": "fac3dc812d2647dd7c46381dec2506a9e6a168480a62d1033eaf243d11d8c351"
+    },
+    {
+      "path": "additional_captions_unfiltered/action_additional_queries_0006.csv",
+      "bytes": 40541947,
+      "sha256": "013cfe1a849f6a96d1cde7344c62fc85a67697d6560da37d06de7a5ae5dbbee4"
+    },
+    {
+      "path": "additional_captions_unfiltered/file_counts.csv",
+      "bytes": 1000,
+      "sha256": "8782cbb584f94c9a67bc91044c04230ff6a8a1fe5a3673e2adb4339a34c8671d"
+    },
+    {
+      "path": "additional_captions_unfiltered/replacement_pairs.csv",
+      "bytes": 877329,
+      "sha256": "f8845f279fbec951a001404e04f1ab59f8659ededb0b17dfc382a7d8c3b72490"
+    },
+    {
+      "path": "additional_captions_unfiltered/action_additional_queries_0004.csv",
+      "bytes": 69067020,
+      "sha256": "ea6b780e341c881ce3cfe91e460f66827a3a02e4afd65f77e62cc594a865cba4"
+    },
+    {
+      "path": "additional_captions_unfiltered/verification.json",
+      "bytes": 5145,
+      "sha256": "681339a0ff9687a0e9548467d78b9b2dee87ecee295c355809b07b0fd3299de9"
+    },
+    {
+      "path": "additional_captions_unfiltered/action_additional_queries_0005.csv",
+      "bytes": 69094415,
+      "sha256": "0d8a6e1d304c5607817352e33e4f1d2aeb95d46edc59015f17cf92431da22fa4"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0002.csv",
+      "bytes": 18943415,
+      "sha256": "77e1d582170a6e83a7697c3d96fc5b468822cbd3f1b2b26c40f71080732c493f"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0007.csv",
+      "bytes": 18924891,
+      "sha256": "5f7240279e3aade26e53228be9bf0f1b01f281c626ab0cfe130f7125c65b2cc9"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0005.csv",
+      "bytes": 18926501,
+      "sha256": "450c9f83ca4edc17c35bfcad40cf22c8ab3b11ca8a8e4a2bf9a9d5e99d98e230"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0004.csv",
+      "bytes": 18978979,
+      "sha256": "c16230246d932c11d20dce0948e84a1aa85d217b1e313903cee6b22bcddc3616"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0003.csv",
+      "bytes": 18957561,
+      "sha256": "e9fb57dbc559265c120cf81837ad8a25ecf9678e2697f9184fa704c915c735c6"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0006.csv",
+      "bytes": 18989574,
+      "sha256": "17e659c892c298d5c602bb4895c5ed0fa210d6e5be31ad96da06236d93d28b8f"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0008.csv",
+      "bytes": 17497298,
+      "sha256": "b0b874955e08ca3e861f21e98de6d4bb8cbdf87d3b300cece768eec8a85f4614"
+    },
+    {
+      "path": "additional_captions_unfiltered/links/generation_links_0001.csv",
+      "bytes": 18950551,
+      "sha256": "3a23283aa66ed34d093c083cc0efd48da1e73d7b3b6482f2de997c81762d2887"
+    },
+    {
+      "path": "compact/README.md",
+      "bytes": 5966,
+      "sha256": "912637cdb9504d4328e2a964fc5095a293ea171941f23523fa545495557c968d"
+    },
+    {
+      "path": "compact/file_counts.csv",
+      "bytes": 1881,
+      "sha256": "77a4eeb0470004d3420a87c2a9675ace209b0d3d94dfaf941d768e98717ad869"
+    },
+    {
+      "path": "compact/verification.json",
+      "bytes": 6963,
+      "sha256": "78a8d21e7eb201bbebcd6573ecb0d30d276afcc3de54dbeb6dce9dfd06eb3125"
+    },
+    {
+      "path": "compact/terms/object_A_train.csv",
+      "bytes": 484679,
+      "sha256": "2b400e26aa921a0e01a2a3c40d5dc08fd558048b71f5830e339a89791ee5bb08"
+    },
+    {
+      "path": "compact/terms/object_UNCLASSIFIED_val.csv",
+      "bytes": 390,
+      "sha256": "71b0da44e2911315a54630bacbef0da50e5314fff57b51339494996d7331e39f"
+    },
+    {
+      "path": "compact/terms/action_C_val.csv",
+      "bytes": 390,
+      "sha256": "71b0da44e2911315a54630bacbef0da50e5314fff57b51339494996d7331e39f"
+    },
+    {
+      "path": "compact/terms/object_UNCLASSIFIED_train.csv",
+      "bytes": 3042,
+      "sha256": "0a698f1aee001462e083eb3f02af90d357ee62ddff12e756e77370ee7b78415c"
+    },
+    {
+      "path": "compact/terms/action_B_train.csv",
+      "bytes": 565547,
+      "sha256": "6ff8d87593f368458b3b6a0bfbc79284efcfd083d0c01b8f6b8c558a54f9f472"
+    },
+    {
+      "path": "compact/terms/object_B_train.csv",
+      "bytes": 679111,
+      "sha256": "2df8e88019aaed5d6c1b20c790bd38f351d991deffef383272ba28ba4590328f"
+    },
+    {
+      "path": "compact/terms/action_EMPTY_val.csv",
+      "bytes": 490,
+      "sha256": "a769b8018cf0563e5baac1a3cb2b64e6716c19f721b435939a9f6242cc3aaa23"
+    },
+    {
+      "path": "compact/terms/object_C_val.csv",
+      "bytes": 390,
+      "sha256": "71b0da44e2911315a54630bacbef0da50e5314fff57b51339494996d7331e39f"
+    },
+    {
+      "path": "compact/terms/action_EMPTY_train.csv",
+      "bytes": 482,
+      "sha256": "1c68360993d2e0015232d4136971c23c190bb914698c26472b70e839c3284e0d"
+    },
+    {
+      "path": "compact/terms/action_A_train.csv",
+      "bytes": 157023,
+      "sha256": "aa156deb86d5de78bec2e5a6ee0bf0baaba9d02c75b465d662ee734ff41f3644"
+    },
+    {
+      "path": "compact/terms/action_UNCLASSIFIED_train.csv",
+      "bytes": 7092,
+      "sha256": "9beb69628edf6ad07e271d597cd989a65a0347457b4e7e9a331d92be75a7e43c"
+    },
+    {
+      "path": "compact/terms/object_EMPTY_train.csv",
+      "bytes": 490,
+      "sha256": "31a7c28a515400882642744cd8085bcf1bd2504a57896c5bbfc07181a3259fe9"
+    },
+    {
+      "path": "compact/terms/action_B_val.csv",
+      "bytes": 348038,
+      "sha256": "1579f90fb5f4ec1297ad4b1ec188b1fc42a20133f7ecb9734231666e3d007608"
+    },
+    {
+      "path": "compact/terms/object_EMPTY_val.csv",
+      "bytes": 491,
+      "sha256": "08d0456c44beced414eab897f8c8e9133c46e38e80a051e17f67d824cc1929f3"
+    },
+    {
+      "path": "compact/terms/action_UNCLASSIFIED_val.csv",
+      "bytes": 390,
+      "sha256": "71b0da44e2911315a54630bacbef0da50e5314fff57b51339494996d7331e39f"
+    },
+    {
+      "path": "compact/terms/object_B_val.csv",
+      "bytes": 474226,
+      "sha256": "e28b7df160477708616537a6afdf34a5698bb6fb502fed21c7bc9d262e10e0d8"
+    },
+    {
+      "path": "compact/pairs/action_B_train.csv",
+      "bytes": 1356249,
+      "sha256": "5c44562e599f4ad40f3845a77cafca17ac430d27539a813d656c9f08ffeebc25"
+    },
+    {
+      "path": "compact/pairs/object_B_train.csv",
+      "bytes": 1206614,
+      "sha256": "994e6c94ef3814eb23547b2ada2b162f453bc1f2df2a8b095979ef60bacc8fdf"
+    },
+    {
+      "path": "compact/pairs/action_B_val.csv",
+      "bytes": 1202944,
+      "sha256": "2e8d9dc5ee6c8c0e17d76fe9bcecbe5b35d9af330412f314a8f5ae51777c3345"
+    },
+    {
+      "path": "compact/pairs/object_B_val.csv",
+      "bytes": 1147053,
+      "sha256": "997096602e066bdbbf43602f5e902bab8127a81bb6387f3c1a1bdad2c844ec69"
+    },
+    {
+      "path": "diagrams/lemma_previous/object_action_regions.svg",
+      "bytes": 116087,
+      "sha256": "088409d5d9f845294da37b7b92143c469f22699ff54b0eb2d1f8a277ae55f119"
+    },
+    {
+      "path": "diagrams/lemma_previous/object_action_regions.png",
+      "bytes": 422743,
+      "sha256": "8e60d9fada46b6ef1e4c5842d9b610719d2614012c35b5303a87da9747d802ff"
+    },
+    {
+      "path": "diagrams/lemma_previous/object_action_regions.pdf",
+      "bytes": 35531,
+      "sha256": "3b3c32c52ee600301281ff95b74c9df3658dd27b6b22f745bcd6ad52938d8d8f"
+    },
+    {
+      "path": "read.me",
+      "bytes": 18164,
+      "sha256": "02731eb0ab7411c9ef50afa6d1604c4b441c24b67e31c945b4809e4649625a0f"
+    }
+  ],
+  "replaced_duplicate_csv": [
+    {
+      "file": "csv/action_A_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_A_train.csv",
+      "bytes": 760775,
+      "sha256": "f43e778f35a24cd787d1fd50d647cf26472c370b163365ef680e42e7ebe575f3",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/action_B_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_B_train.csv",
+      "bytes": 2395585847,
+      "sha256": "1d5ffe124f3f8375126957e01d2b946c6a397e24ae4b8315ae18d6bab044d8cf",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/action_B_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_B_val.csv",
+      "bytes": 373980156,
+      "sha256": "61d2a7d26a8a464cbeaf1d263008ccf934e48dd611147f58241ecea7449a6914",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/action_C_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_C_val.csv",
+      "bytes": 638,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/action_EMPTY_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_EMPTY_train.csv",
+      "bytes": 353572,
+      "sha256": "ba1fbf0e0bd5b7ab215a07fa84c229a7b796bba22d6bc8b71c110c40d49fb669",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/action_EMPTY_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_EMPTY_val.csv",
+      "bytes": 59776,
+      "sha256": "64895261e02306ba6ed410f5bd471e469069ba4014b916c8cc748b9549ce029a",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/action_UNCLASSIFIED_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_UNCLASSIFIED_train.csv",
+      "bytes": 15878,
+      "sha256": "a583222b1ff58d1cc7fb9ff9f9a43c465df9ba61a787b4e1240b709d49ce764a",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/action_UNCLASSIFIED_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/action_UNCLASSIFIED_val.csv",
+      "bytes": 638,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_A_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_A_train.csv",
+      "bytes": 2817968,
+      "sha256": "7e1a98ad6bc16bef4b2dd4c3c32a1f6c875b59c34ddbdc1445cc713d45270080",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_B_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_B_train.csv",
+      "bytes": 297507221,
+      "sha256": "fce74403c5df8b94347a14eaf9472c135a7fa1cc69e213c6b3f527afc02fc6dc",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_B_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_B_val.csv",
+      "bytes": 50981616,
+      "sha256": "c78f975c7790bb1c9dfa7d48c8918175c9e4c4787ee69a2de58a31798c02b816",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_C_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_C_val.csv",
+      "bytes": 638,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_EMPTY_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_EMPTY_train.csv",
+      "bytes": 1486296,
+      "sha256": "e81a91e3550a96ca720557f5de33893882d54c2cdb678c15d961ecf1229f9127",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_EMPTY_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_EMPTY_val.csv",
+      "bytes": 188357,
+      "sha256": "fbd2218731be99914e281b48d9a9b04adc35fa4693f2ef0d1ac3e1eb7a5cbef7",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_UNCLASSIFIED_train.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_UNCLASSIFIED_train.csv",
+      "bytes": 7803,
+      "sha256": "0eaadcec18a68ec14c7d7c47c26bddd005e046fbc50f0a7bf7c337c6c1e90531",
+      "status": "IDENTICAL"
+    },
+    {
+      "file": "csv/object_UNCLASSIFIED_val.csv",
+      "source": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_UNCLASSIFIED_val.csv",
+      "bytes": 638,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6",
+      "status": "IDENTICAL"
+    }
+  ],
+  "preserved_filtered_baseline_reason": "Independent 161-query rules-filtered experiment and rejection audit; preserve all historical output hashes.",
+  "raw_csv_policy": "16 exact SHA-256 verified duplicate files removed; relative links preserve original paths and point to unchanged canonical originals.",
+  "after_regular_files": 97,
+  "validation": {
+    "status": "PASS",
+    "hashed_files_checked": 119,
+    "csv_links_checked": 16,
+    "local_document_links_checked": 118,
+    "errors": [],
+    "current_regular_files": 97
+  },
+  "after_bytes": 428733649,
+  "freed_bytes": 4161911624
+}

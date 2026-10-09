@@ -1,0 +1,33 @@
+{
+  "pilot_pair_count": 24,
+  "pilot_status_counts": {
+    "REJECT": 19,
+    "SYNONYM": 5
+  },
+  "provisional_approved_pair_count": 5,
+  "model": "/home/viglab2/.cache/huggingface/hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28",
+  "seed": 2026,
+  "controls": [
+    {
+      "source_expression": "handcuffed",
+      "expected": "accept",
+      "final_status": "SYNONYM",
+      "passed": true
+    },
+    {
+      "source_expression": "vomits",
+      "expected": "accept",
+      "final_status": "SYNONYM",
+      "passed": true
+    },
+    {
+      "source_expression": "earphones",
+      "expected": "reject",
+      "final_status": "REJECT",
+      "passed": true
+    }
+  ],
+  "decision_method": "Independent one-pair classification, then same-lexeme rejection guard.",
+  "limitations": "Provisional local-LLM judgments of proposals only. Source corrections separated. Neither exhaustively searches Val nor verifies video pixels. Training captions unchanged.",
+  "prompt_sha256": "5189e224a2ce5b90199b2ebf47cbca16519b66a5fd4e788327c3d1a703efa50b"
+}

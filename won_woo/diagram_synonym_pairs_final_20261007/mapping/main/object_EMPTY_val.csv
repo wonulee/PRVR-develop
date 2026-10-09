@@ -1,0 +1,2 @@
+﻿mapping_id,train_expression,val_expression,train_pos,val_pos,train_lemma,val_lemma,replacement_expression,term_type,source_split,term_region,mapping_type,source_coverage_status,source_wordnet_id,meaning_id,full_rows,source_caption_count,example_train_caption_id,example_val_caption_id,requires_review
+14622,,,,,,,,object,val,EMPTY,EMPTY,EMPTY,7868,,746,746,,friends_s04e21_seg02_clip_18#enc#0,True

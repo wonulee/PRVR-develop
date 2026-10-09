@@ -1,0 +1,17 @@
+﻿유형,영역,출처,전체항목_행수,고유기본형수,CSV파일
+Object,A,Train,7395,2994,object_A_train.csv
+Object,B,Train,174561,2876,object_B_train.csv
+Object,B,Val,22088,1996,object_B_val.csv
+Object,C,Val,0,0,object_C_val.csv
+Object,EMPTY,Train,5906,0,object_EMPTY_train.csv
+Object,EMPTY,Val,746,0,object_EMPTY_val.csv
+Object,UNCLASSIFIED,Train,20,15,object_UNCLASSIFIED_train.csv
+Object,UNCLASSIFIED,Val,0,0,object_UNCLASSIFIED_val.csv
+Action,A,Train,1968,953,action_A_train.csv
+Action,B,Train,166242,1525,action_B_train.csv
+Action,B,Val,20611,864,action_B_val.csv
+Action,C,Val,0,0,action_C_val.csv
+Action,EMPTY,Train,1426,0,action_EMPTY_train.csv
+Action,EMPTY,Val,238,0,action_EMPTY_val.csv
+Action,UNCLASSIFIED,Train,19,16,action_UNCLASSIFIED_train.csv
+Action,UNCLASSIFIED,Val,0,0,action_UNCLASSIFIED_val.csv

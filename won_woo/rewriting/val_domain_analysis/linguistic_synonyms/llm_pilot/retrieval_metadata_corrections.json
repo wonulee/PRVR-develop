@@ -1,0 +1,20 @@
+{
+  "corrections": [
+    {
+      "source_expression": "express",
+      "candidate_id": "c9",
+      "expression": "address",
+      "old_target_group_pool_head": "addres",
+      "actual_example_pool_head": "address"
+    },
+    {
+      "source_expression": "express",
+      "candidate_id": "c16",
+      "expression": "be",
+      "old_target_group_pool_head": "be",
+      "actual_example_pool_head": "'"
+    }
+  ],
+  "llm_prompt_data_affected": false,
+  "reason": "Use the selected Val occurrence head rather than the first occurrence in its canonical expression group."
+}

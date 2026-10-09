@@ -1,0 +1,26 @@
+{
+  "caption_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt",
+  "source_csv": "rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/approved_pairs.csv",
+  "source_csv_sha256": "4dc3896b9accc98c54e6528e060181ec0216b1bc3ca9d87139c3b14e699176d0",
+  "original_sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+  "rewritten_sha256": "444c0f75a83c79f170616bf30f762c15e69bc6c2a7569b5befeac0e2068698f5",
+  "caption_count": 87174,
+  "csv_pair_count": 1140,
+  "rank_1_pair_count": 1140,
+  "candidate_caption_count": 1037,
+  "changed_caption_count": 1037,
+  "unchanged_caption_count": 86137,
+  "replacement_status_counts": {
+    "applied": 1140
+  },
+  "replacement_occurrence_count": 1158,
+  "changed_captions_within_length_budget": 1037,
+  "selection_rule": "rank 1; simultaneous, case-sensitive, whole-word replacements",
+  "length_budget_filter": true,
+  "length_budget_policy": "Reject changes outside 14-20 words or >=30 RoBERTa tokens, including special tokens.",
+  "token_count_includes_special_tokens": true,
+  "tokenizer": "/home/viglab2/.cache/huggingface/hub/models--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+  "applied_to_original": true,
+  "preview": "rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/tvrtrain.caption.rewritten.txt",
+  "backup": "rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/tvrtrain.caption.original.txt"
+}

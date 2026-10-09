@@ -1,0 +1,128 @@
+{
+  "input_audit": "/home/viglab2/won_woo/experiments/rewrite_train_b64_20260930/audit.jsonl",
+  "audit_sha256": "fd42e0f67dfdd1f6f5ed690616e4b0b42c85ebc84216c2640518b1a2761c7b91",
+  "run_source_sha256": "bf617d935402746c8173977f63c28f52e01ef031aad87ea5362950f8ba0e4a50",
+  "current_source_sha256": "bf617d935402746c8173977f63c28f52e01ef031aad87ea5362950f8ba0e4a50",
+  "prompt_sha256": "ec6197fbfc0e0a52babfe756bd7195a0b4a9bb27c8fee728679dcf43e8b286bb",
+  "total": 87174,
+  "accepted": 11064,
+  "acceptance_percent": 12.69185766398238,
+  "settings": {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "seed": 0,
+    "max_tokens": 29,
+    "word_min": 16,
+    "word_max": 22,
+    "strict_word_budget": false,
+    "protocol": "context-assisted/oracle"
+  },
+  "accepted_rechecks": {
+    "candidate_check_pass": 11064,
+    "verdict_check_pass": 11064,
+    "accepted_rewrite_unique_within_video": 11064,
+    "recorded_lengths_match": 11064
+  },
+  "word_change": {
+    "same": 2332,
+    "shorter": 7482,
+    "longer": 1250
+  },
+  "accepted_words": {
+    "min": 4,
+    "max": 22,
+    "mean": 10.709869848156183,
+    "below_word_min": 10241
+  },
+  "accepted_tokens": {
+    "min": 8,
+    "max": 29,
+    "mean": 15.436370209689082
+  },
+  "original_words_accepted_mean": 12.313268257411424,
+  "flags": {
+    "pronoun": {
+      "total": 49601,
+      "accepted": 6311,
+      "acceptance_percent": 12.72353379972178
+    },
+    "negation": {
+      "total": 2462,
+      "accepted": 573,
+      "acceptance_percent": 23.273761169780666
+    },
+    "mental_state": {
+      "total": 1952,
+      "accepted": 334,
+      "acceptance_percent": 17.110655737704917
+    },
+    "any_flag": {
+      "total": 50350,
+      "accepted": 6458,
+      "acceptance_percent": 12.826216484607746
+    },
+    "no_flag": {
+      "total": 36824,
+      "accepted": 4606,
+      "acceptance_percent": 12.508146860742993
+    }
+  },
+  "grounding_query_counts": {
+    "empty": 12,
+    "target_only": 10679,
+    "uses_sibling": 373,
+    "has_full_original_text": 4788,
+    "has_full_original_quote": 9653,
+    "has_text_not_in_candidate": 10032
+  },
+  "grounding_total_items": 11649,
+  "terminal_reasons": {
+    "unsupported_summary_span": 30769,
+    "negation_equivalent": 16435,
+    "temporal_change": 22900,
+    "unsupported_visual_details": 1057,
+    "accepted": 11064,
+    "invalid_json": 2456,
+    "temporal_relationships_preserved": 608,
+    "unsupported_quote": 299,
+    "word_budget": 520,
+    "token_budget": 113,
+    "unchanged": 625,
+    "target_collapse": 20,
+    "invalid_verification_schema": 272,
+    "target_event_preserved": 18,
+    "participant_roles_preserved": 17,
+    "sibling_event_imported": 1
+  },
+  "negation_rejection_without_flag": 16387,
+  "applied_strategy_labels_present": false,
+  "lexical_flags_before_after": {
+    "pronoun": {
+      "both": 5045,
+      "removed": 1266,
+      "added": 322,
+      "neither": 4431
+    },
+    "negation": {
+      "both": 302,
+      "removed": 271,
+      "added": 57,
+      "neither": 10434
+    },
+    "mental_state": {
+      "both": 145,
+      "removed": 189,
+      "added": 107,
+      "neither": 10623
+    }
+  },
+  "accepted_words_14_to_20": 1629,
+  "accepted_words_under_14": 9328,
+  "accepted_words_over_20": 107,
+  "notes": [
+    "Lexical flags are diagnostics, not strategy-application annotations; counts overlap.",
+    "Grounding text absent from candidate is allowed for paraphrase and is not alone an error.",
+    "Rechecking stored verifier Booleans does not independently verify semantic correctness.",
+    "No retrieval score or original/rewrite relevance improvement is used for acceptance.",
+    "Initial settings.json is preserved across resume; run.json records final execution source and batch."
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "input_audit": "/home/viglab2/won_woo/experiments/rewrite_val_b128_20260930/audit.jsonl",
+  "audit_sha256": "308c7b301a47880cf26f6ead4651bcf5c2c3a29b49032deb3c501a3edbc24af5",
+  "run_source_sha256": "8d4da0dc57f17618206d9be96b3e592cf9c83bbbc08b3b7e1dca309f66e787b0",
+  "current_source_sha256": "bf617d935402746c8173977f63c28f52e01ef031aad87ea5362950f8ba0e4a50",
+  "prompt_sha256_matches": true,
+  "legacy_guard_comparison": {
+    "legacy_source_sha256": "8d4da0dc57f17618206d9be96b3e592cf9c83bbbc08b3b7e1dca309f66e787b0",
+    "legacy_matches_run": true,
+    "guard_functions_unchanged": {
+      "candidate_check": true,
+      "support_check": true,
+      "verdict_check": true,
+      "normalized": true,
+      "summary_check": true
+    }
+  },
+  "total": 10895,
+  "accepted": 1290,
+  "acceptance_percent": 11.840293712712253,
+  "settings": {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "seed": 0,
+    "max_tokens": 29,
+    "word_min": 16,
+    "word_max": 22,
+    "strict_word_budget": false,
+    "protocol": "context-assisted/oracle"
+  },
+  "accepted_rechecks": {
+    "candidate_check_pass": 1290,
+    "verdict_check_pass": 1290,
+    "accepted_rewrite_unique_within_video": 1290,
+    "recorded_lengths_match": 1290
+  },
+  "word_change": {
+    "longer": 144,
+    "same": 288,
+    "shorter": 858
+  },
+  "accepted_words": {
+    "min": 4,
+    "max": 22,
+    "mean": 10.669767441860465,
+    "below_word_min": 1203
+  },
+  "accepted_tokens": {
+    "min": 7,
+    "max": 29,
+    "mean": 15.395348837209303
+  },
+  "original_words_accepted_mean": 12.177519379844961,
+  "flags": {
+    "pronoun": {
+      "total": 6175,
+      "accepted": 692,
+      "acceptance_percent": 11.206477732793521
+    },
+    "negation": {
+      "total": 285,
+      "accepted": 60,
+      "acceptance_percent": 21.05263157894737
+    },
+    "mental_state": {
+      "total": 215,
+      "accepted": 35,
+      "acceptance_percent": 16.27906976744186
+    },
+    "any_flag": {
+      "total": 6264,
+      "accepted": 702,
+      "acceptance_percent": 11.206896551724139
+    },
+    "no_flag": {
+      "total": 4631,
+      "accepted": 588,
+      "acceptance_percent": 12.697041675664003
+    }
+  },
+  "grounding_query_counts": {
+    "empty": 0,
+    "target_only": 1253,
+    "uses_sibling": 37,
+    "has_text_not_in_candidate": 1191
+  },
+  "grounding_total_items": 1344,
+  "terminal_reasons": {
+    "negation_equivalent": 1975,
+    "unsupported_summary_span": 3822,
+    "accepted": 1290,
+    "invalid_verification_schema": 27,
+    "invalid_json": 497,
+    "temporal_change": 2863,
+    "unsupported_visual_details": 141,
+    "unsupported_quote": 38,
+    "token_budget": 15,
+    "word_budget": 78,
+    "temporal_relationships_preserved": 58,
+    "unchanged": 81,
+    "target_collapse": 5,
+    "participant_roles_preserved": 2,
+    "target_event_preserved": 3
+  },
+  "negation_rejection_without_flag": 1970,
+  "lexical_flags_before_after": {
+    "pronoun": {
+      "both": 540,
+      "removed": 152,
+      "added": 33,
+      "neither": 565
+    },
+    "negation": {
+      "both": 35,
+      "removed": 25,
+      "added": 3,
+      "neither": 1227
+    },
+    "mental_state": {
+      "both": 14,
+      "removed": 21,
+      "added": 13,
+      "neither": 1242
+    }
+  },
+  "notes": [
+    "All flags are English keyword heuristics and overlap; disappearance is not evidence of a faithful transformation.",
+    "Stored LLM verdicts are replayed, not independently regenerated.",
+    "Meaning errors below require source/target inspection; semantic error rate is not estimated from examples.",
+    "Same-video sibling context is an oracle/context-assisted protocol."
+  ],
+  "semantic_review": {
+    "confirmed_caption_meaning_changes": 8,
+    "cases_requiring_visual_or_event_review": 5,
+    "review_is_exhaustive": false,
+    "whole_dataset_error_rate_estimated": false,
+    "cases_file": "/home/viglab2/won_woo/experiments/rewrite_val_b128_20260930/adoption_analysis_20261002/semantic_review_cases.json"
+  },
+  "train_comparison": {
+    "total": 87174,
+    "accepted": 11064,
+    "acceptance_percent": 12.69185766398238,
+    "accepted_words": {
+      "min": 4,
+      "max": 22,
+      "mean": 10.709869848156183,
+      "below_word_min": 10241
+    },
+    "accepted_tokens": {
+      "min": 8,
+      "max": 29,
+      "mean": 15.436370209689082
+    },
+    "word_change": {
+      "same": 2332,
+      "shorter": 7482,
+      "longer": 1250
+    },
+    "flags": {
+      "pronoun": {
+        "total": 49601,
+        "accepted": 6311,
+        "acceptance_percent": 12.72353379972178
+      },
+      "negation": {
+        "total": 2462,
+        "accepted": 573,
+        "acceptance_percent": 23.273761169780666
+      },
+      "mental_state": {
+        "total": 1952,
+        "accepted": 334,
+        "acceptance_percent": 17.110655737704917
+      },
+      "any_flag": {
+        "total": 50350,
+        "accepted": 6458,
+        "acceptance_percent": 12.826216484607746
+      },
+      "no_flag": {
+        "total": 36824,
+        "accepted": 4606,
+        "acceptance_percent": 12.508146860742993
+      }
+    },
+    "grounding_query_counts": {
+      "empty": 12,
+      "target_only": 10679,
+      "uses_sibling": 373,
+      "has_full_original_text": 4788,
+      "has_full_original_quote": 9653,
+      "has_text_not_in_candidate": 10032
+    }
+  }
+}

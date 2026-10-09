@@ -1,0 +1,440 @@
+{
+  "source": "Original TVR captions; existing object/action extraction reused without changes",
+  "totals": {
+    "train": 87174,
+    "validation": 10895
+  },
+  "wordnet_version": "3.0",
+  "randomness": "None; original row order and sorted lexical evidence",
+  "coverage_rule": "Same normalized lemma OR at least one shared same-POS WordNet synset; all senses considered",
+  "query_rule": "All extracted aspect lemmas must be covered for B; any uncovered lemma => train A / validation C; no terms => EMPTY",
+  "wordnet_scope": "Noun synsets for objects; verb synsets for actions; no hypernyms, embeddings, or context sense disambiguation",
+  "direct_lemma_rule": "Identical observed lemma is covered even if no WordNet sense exists",
+  "synonym_rule": "B query terms: different expressions in same-POS WordNet synsets; all senses considered; morphology and spelling variants excluded",
+  "synonym_other_split_rule": "Different observed lemma in the opposite original split sharing a same-POS synset; source itself/morphology/spelling variants excluded",
+  "synonym_inflection": "Candidates are lemma/base expressions, not automatically inflected replacements",
+  "B_synonym_summary": [
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 66865,
+      "denominator_B_queries": 74375,
+      "percentage_of_B": 89.902521
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 43047,
+      "denominator_B_queries": 74375,
+      "percentage_of_B": 57.878319
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 63162,
+      "denominator_B_queries": 74375,
+      "percentage_of_B": 84.923697
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 33119,
+      "denominator_B_queries": 74375,
+      "percentage_of_B": 44.529748
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 9029,
+      "denominator_B_queries": 10149,
+      "percentage_of_B": 88.96443
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 5615,
+      "denominator_B_queries": 10149,
+      "percentage_of_B": 55.325648
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 9029,
+      "denominator_B_queries": 10149,
+      "percentage_of_B": 88.96443
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 5615,
+      "denominator_B_queries": 10149,
+      "percentage_of_B": 55.325648
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 79859,
+      "denominator_B_queries": 83719,
+      "percentage_of_B": 95.389338
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 64969,
+      "denominator_B_queries": 83719,
+      "percentage_of_B": 77.60365
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 79212,
+      "denominator_B_queries": 83719,
+      "percentage_of_B": 94.616515
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 62826,
+      "denominator_B_queries": 83719,
+      "percentage_of_B": 75.043897
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 10164,
+      "denominator_B_queries": 10657,
+      "percentage_of_B": 95.373933
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 8279,
+      "denominator_B_queries": 10657,
+      "percentage_of_B": 77.686028
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 10164,
+      "denominator_B_queries": 10657,
+      "percentage_of_B": 95.373933
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 8279,
+      "denominator_B_queries": 10657,
+      "percentage_of_B": 77.686028
+    }
+  ],
+  "limitations": [
+    "Dictionaries cover Train IDs only; restricted Val vocabulary cannot measure Val words outside the supplied dictionaries.",
+    "POS and rule-based lemmas can be wrong or ambiguous; raw forms remain in every row.",
+    "Individual terms do not encode phrasal verbs, action-object relations, or temporal alignment.",
+    "No automatic replacement or LLM rewrite has been performed.",
+    "WordNet coverage is a lexical candidate/upper bound on context-valid coverage, not proven semantic equivalence.",
+    "Object means extracted NN/NNS terms, including abstract/nonvisual nouns; Action means extracted verb terms, including nonvisual verbs.",
+    "No visual grounding, phrasal-verb recovery, or action-object/temporal relation validation is performed.",
+    "C is unsupported under this rule, not proven semantic OOD or model ignorance.",
+    "Object and action C query lists overlap; do not add their counts to obtain unique C queries.",
+    "The supplied diagram's 1.57% is not used; all percentages are computed from these source CSVs."
+  ],
+  "upstream_method": {
+    "dictionary_only": true,
+    "llm_used": false,
+    "train_terms": "Supplied dictionaries; original term/POS mappings preserved",
+    "validation_terms": "Supplied entries when available; otherwise exact surface AND Penn POS pairs already in the same supplied aspect dictionary; no new words, forms or aspect transfers",
+    "action_tags": [
+      "VB",
+      "VBD",
+      "VBG",
+      "VBN",
+      "VBP",
+      "VBZ"
+    ],
+    "object_tags": [
+      "NN",
+      "NNS"
+    ],
+    "validation_stopword_filter": false,
+    "normalization": "Unicode casefold + spaCy rule lemmatizer, forced VERB/NOUN from supplied POS; NN uses Number=Sing",
+    "reference_domain": "Validation lemmas only, separately for actions and objects",
+    "candidate_rule": "Any normalized action OR object outside its validation pool",
+    "empty_rule": "Empty categories are flagged, never counted as OOD; both empty => REVIEW",
+    "invalid_pos_rule": "Preserve and flag unsupported POS; exclude from lemma membership; REVIEW unless other terms are OOD",
+    "semantic_scope": "Lexical vocabulary coverage, not a semantic OOD or rewrite-feasibility guarantee",
+    "limitations": [
+      "Dictionaries cover Train IDs only; restricted Val vocabulary cannot measure Val words outside the supplied dictionaries.",
+      "POS and rule-based lemmas can be wrong or ambiguous; raw forms remain in every row.",
+      "Individual terms do not encode phrasal verbs, action-object relations, or temporal alignment.",
+      "No automatic replacement or LLM rewrite has been performed."
+    ],
+    "spacy_version": "3.7.5",
+    "model": "en_core_web_md",
+    "model_version": "3.7.1",
+    "seed": 2026,
+    "n_process": 1,
+    "output_order": "Original caption order; pools alphabetical; frequency descending"
+  },
+  "regions": [
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "A",
+      "query_count": 6893,
+      "denominator_all_split_queries": 87174,
+      "percentage": 7.907174,
+      "csv_file": "object_A.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "B",
+      "query_count": 74375,
+      "denominator_all_split_queries": 87174,
+      "percentage": 85.31787,
+      "csv_file": "object_B.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "C",
+      "query_count": 0,
+      "denominator_all_split_queries": 87174,
+      "percentage": 0.0,
+      "csv_file": "object_C.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "EMPTY",
+      "query_count": 5906,
+      "denominator_all_split_queries": 87174,
+      "percentage": 6.774956,
+      "csv_file": "object_EMPTY.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "A",
+      "query_count": 0,
+      "denominator_all_split_queries": 10895,
+      "percentage": 0.0,
+      "csv_file": "object_A.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "B",
+      "query_count": 10149,
+      "denominator_all_split_queries": 10895,
+      "percentage": 93.152822,
+      "csv_file": "object_B.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "C",
+      "query_count": 0,
+      "denominator_all_split_queries": 10895,
+      "percentage": 0.0,
+      "csv_file": "object_C.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "EMPTY",
+      "query_count": 746,
+      "denominator_all_split_queries": 10895,
+      "percentage": 6.847178,
+      "csv_file": "object_EMPTY.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "A",
+      "query_count": 2029,
+      "denominator_all_split_queries": 87174,
+      "percentage": 2.327529,
+      "csv_file": "action_A.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "B",
+      "query_count": 83719,
+      "denominator_all_split_queries": 87174,
+      "percentage": 96.036662,
+      "csv_file": "action_B.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "C",
+      "query_count": 0,
+      "denominator_all_split_queries": 87174,
+      "percentage": 0.0,
+      "csv_file": "action_C.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "EMPTY",
+      "query_count": 1426,
+      "denominator_all_split_queries": 87174,
+      "percentage": 1.635809,
+      "csv_file": "action_EMPTY.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "A",
+      "query_count": 0,
+      "denominator_all_split_queries": 10895,
+      "percentage": 0.0,
+      "csv_file": "action_A.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "B",
+      "query_count": 10657,
+      "denominator_all_split_queries": 10895,
+      "percentage": 97.815512,
+      "csv_file": "action_B.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "C",
+      "query_count": 0,
+      "denominator_all_split_queries": 10895,
+      "percentage": 0.0,
+      "csv_file": "action_C.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "EMPTY",
+      "query_count": 238,
+      "denominator_all_split_queries": 10895,
+      "percentage": 2.184488,
+      "csv_file": "action_EMPTY.csv"
+    }
+  ],
+  "pair_counts": [
+    {
+      "split": "train",
+      "object_region": "A",
+      "action_region": "A",
+      "query_count": 238
+    },
+    {
+      "split": "train",
+      "object_region": "A",
+      "action_region": "B",
+      "query_count": 6500
+    },
+    {
+      "split": "train",
+      "object_region": "A",
+      "action_region": "EMPTY",
+      "query_count": 155
+    },
+    {
+      "split": "train",
+      "object_region": "B",
+      "action_region": "A",
+      "query_count": 1611
+    },
+    {
+      "split": "train",
+      "object_region": "B",
+      "action_region": "B",
+      "query_count": 71510
+    },
+    {
+      "split": "train",
+      "object_region": "B",
+      "action_region": "EMPTY",
+      "query_count": 1254
+    },
+    {
+      "split": "train",
+      "object_region": "EMPTY",
+      "action_region": "A",
+      "query_count": 180
+    },
+    {
+      "split": "train",
+      "object_region": "EMPTY",
+      "action_region": "B",
+      "query_count": 5709
+    },
+    {
+      "split": "train",
+      "object_region": "EMPTY",
+      "action_region": "EMPTY",
+      "query_count": 17
+    },
+    {
+      "split": "validation",
+      "object_region": "B",
+      "action_region": "B",
+      "query_count": 9915
+    },
+    {
+      "split": "validation",
+      "object_region": "B",
+      "action_region": "EMPTY",
+      "query_count": 234
+    },
+    {
+      "split": "validation",
+      "object_region": "EMPTY",
+      "action_region": "B",
+      "query_count": 742
+    },
+    {
+      "split": "validation",
+      "object_region": "EMPTY",
+      "action_region": "EMPTY",
+      "query_count": 4
+    }
+  ],
+  "inputs": {
+    "tvrtrain_domain_analysis.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/tvrtrain_domain_analysis.csv",
+      "sha256": "f2384ec66c1b824e81b7d9c34dbbcbbbb0b2128a9b53cefa413b08156cbea3ff"
+    },
+    "tvrval_action_object_analysis.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/tvrval_action_object_analysis.csv",
+      "sha256": "5a9f010339692c821b6d7fce4370fb4533409af7f93f634585eacca9a7315b3b"
+    },
+    "summary.json": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/dictionary_only/summary.json",
+      "sha256": "b231c96908c752c03fbf766fd031645b132f4a8f55ac52694d757dd725bc7e67"
+    },
+    "wordnet.zip": {
+      "path": "/home/viglab2/won_woo/rewriting/nlp_resources/corpora/wordnet.zip",
+      "sha256": "cbda5ea6eef7f36a97a43d4a75f85e07fccbb4f23657d27b4ccbc93e2646ab59"
+    }
+  },
+  "script_sha256": "aecfed47571d0ef0e2862ad17909e4af6948ed55a5633fdcaaf33eee7dd53896"
+}

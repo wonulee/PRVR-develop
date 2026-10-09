@@ -1,0 +1,513 @@
+﻿caption_id,video_id,enc,caption,term_type,source_expression,synonym_expression,synonym_rank,meaning,train_expression,train_caption_id,train_caption,requires_review,source_lemma,has_wordnet_entry,wordnet_candidate_count,wordnet_candidates,other_split_candidate_count,other_split_candidates,wordnet_synsets,term_region,term_coverage_status,query_region
+friends_s04e21_seg02_clip_18#enc#0,friends_s04e21_seg02_clip_18,0,Monica tells Ross never knew he did that.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e21_seg02_clip_18#enc#3,friends_s04e21_seg02_clip_18,3,Rachel walks over to Ross and then kisses him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e13_seg02_clip_26#enc#4,castle_s06e13_seg02_clip_26,4,Mandy walks towards Zach and she hugged him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e04_seg02_clip_00#enc#0,castle_s06e04_seg02_clip_00,0,Beckett wakes Castle when she can't sleep because the FBI fired her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e03_seg02_clip_05#enc#1,friends_s05e03_seg02_clip_05,1,Phoebe yells at Ross when he tries to correct her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e03_seg02_clip_05#enc#4,friends_s05e03_seg02_clip_05,4,Chandler tells Monica what he learned about her from Joey.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e20_seg02_clip_07#enc#1,house_s01e20_seg02_clip_07,1,Annette talks to House as they are both sitting together.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s10e10_seg02_clip_10#enc#4,s10e10_seg02_clip_10,4,Raj was holding a red box whilst talking to Stuart.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e04_seg02_clip_09#enc#1,friends_s05e04_seg02_clip_09,1,Ross was walking back and forth whilst talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e22_seg02_clip_14#enc#3,s03e22_seg02_clip_14,3,Raj is eating fast while Howard is shouting.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e05_seg02_clip_17#enc#2,met_s06e05_seg02_clip_17,2,Ted walks away from Zoey leaving her standing alone.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s05e01_seg02_clip_03#enc#0,met_s05e01_seg02_clip_03,0,Barney walks over to Brad and Robin who are talking to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e16_seg02_clip_02#enc#0,house_s05e16_seg02_clip_02,0,Taub and Thirteen both speak to each other while looking at Jackson's MRI.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e02_seg02_clip_16#enc#4,grey_s03e02_seg02_clip_16,4,Cristina looks back when Meredith says she'll break up with Derek.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e07_seg02_clip_12#enc#1,friends_s06e07_seg02_clip_12,1,Rachel tells Phoebe why she did not want to run with Phoebe.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e12_seg02_clip_20#enc#1,castle_s04e12_seg02_clip_20,1,Weldon walks away from Castle and Beckett after he is finished talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e10_seg02_clip_00#enc#2,s02e10_seg02_clip_00,2,Penny greets Stephanie which makes Leonard nervous so he stirs fast.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e05_seg02_clip_16#enc#4,house_s04e05_seg02_clip_16,4,House walks by and turns around when Foreman talks to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e07_seg02_clip_07#enc#0,house_s05e07_seg02_clip_07,0,House and Cameron are conversing with each other as they stand across from each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e15_seg02_clip_09#enc#4,house_s02e15_seg02_clip_09,4,Mrs. Lambert stands up to speak with Cuddy when she walks in.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e14_seg02_clip_16#enc#0,castle_s05e14_seg02_clip_16,0,Bob was scared at Beckett so he decided to tell what Beckett wants to hear.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e07_seg02_clip_24#enc#3,house_s03e07_seg02_clip_24,3,House turns and walks towards Cuddy and she starts to talk to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e01_seg02_clip_08#enc#1,friends_s03e01_seg02_clip_08,1,Ross drags Monica along and says where they met.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e14_seg02_clip_00#enc#3,castle_s08e14_seg02_clip_00,3,Alexis is talking to Castle while they are walking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e10_seg02_clip_01#enc#4,friends_s01e10_seg02_clip_01,4,Phoebe stands up from where she is sitting.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e09_seg02_clip_05#enc#4,house_s06e09_seg02_clip_05,4,Wilson turns and walks away from talking to Cuddy.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e04_seg02_clip_16#enc#0,house_s03e04_seg02_clip_16,0,House turns to see Cuddy walking towards him and Ali.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s05e20_seg02_clip_14#enc#1,s05e20_seg02_clip_14,1,Raj asks if Howard realized how anti gay he sounds.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s05e14_seg01_clip_01#enc#0,s05e14_seg01_clip_01,0,Leonard runs through while Sheldon and Amy are recording themselves.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e07_seg02_clip_14#enc#4,friends_s03e07_seg02_clip_14,4,Ross hugs Rachel as she shouts to calm her down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e03_seg02_clip_24#enc#1,house_s04e03_seg02_clip_24,1,Dr. Amber holds and helps Dr. House to walk.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e09_seg02_clip_09#enc#0,castle_s08e09_seg02_clip_09,0,Charisse explains here acronym to Castle after he looked confused.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e09_seg02_clip_09#enc#1,castle_s08e09_seg02_clip_09,1,Castle is speaking to Charisse  as they are across from each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s07e06_seg02_clip_09#enc#0,s07e06_seg02_clip_09,0,Leonard teases Penny about not being very affectionate.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e21_seg02_clip_03#enc#2,friends_s09e21_seg02_clip_03,2,Monica walks over to Chandler and hugs him from behind.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e04_seg02_clip_11#enc#1,castle_s04e04_seg02_clip_11,1,Beckett tells Ryan to follow her after blinking at him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s06e14_seg02_clip_09#enc#3,s06e14_seg02_clip_09,3,Sheldon leaves angrily after being scolded by Leonard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e14_seg02_clip_15#enc#3,met_s06e14_seg02_clip_15,3,"Marshall turns around and looks at Barney. Ted, and Robin.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e08_seg02_clip_05#enc#1,met_s06e08_seg02_clip_05,1,Ted runs into Zoey and says how happy he is to see her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e02_seg02_clip_03#enc#0,castle_s02e02_seg02_clip_03,0,Castle goes over and sits down to talk to Ryan.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e17_seg02_clip_10#enc#3,house_s06e17_seg02_clip_10,3,House sees Wilson who invites him to eat with him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e02_seg02_clip_15#enc#2,castle_s06e02_seg02_clip_15,2,Martha saw Ryan and Esposito and talk to them.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e06_seg02_clip_02#enc#0,friends_s04e06_seg02_clip_02,0,Phoebe and Monica hug while Monica thanks Phoebe.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e21_seg02_clip_03#enc#0,friends_s06e21_seg02_clip_03,0,Ross is scared when Paul tries to figure out what's wrong with him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e21_seg02_clip_03#enc#1,friends_s06e21_seg02_clip_03,1,Paul tells Ross what he should be called.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e14_seg02_clip_10#enc#1,friends_s03e14_seg02_clip_10,1,Phoebe explains to Monica what happened between her and Leslie.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e14_seg02_clip_10#enc#2,friends_s03e14_seg02_clip_10,2,Monica and Phoebe are talking while they are standing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e21_seg02_clip_19#enc#1,house_s08e21_seg02_clip_19,1,Dr. Taub moves to follow House as he leaves.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e01_seg02_clip_18#enc#0,friends_s05e01_seg02_clip_18,0,Rachel bends down while saying she will help Ross.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e16_seg02_clip_26#enc#0,castle_s07e16_seg02_clip_26,0,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e16_seg02_clip_26#enc#2,castle_s07e16_seg02_clip_26,2,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e16_seg02_clip_26#enc#3,castle_s07e16_seg02_clip_26,3,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s05e02_seg02_clip_12#enc#3,met_s05e02_seg02_clip_12,3,Marshall and Lilly give each other a high five.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e09_seg02_clip_20#enc#0,castle_s03e09_seg02_clip_20,0,Beckett stands up when Westfield tries to be vague.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e09_seg02_clip_20#enc#1,castle_s03e09_seg02_clip_20,1,Beckett clarifies herself after Montgomery and Westfield look angry.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e18_seg02_clip_23#enc#0,castle_s06e18_seg02_clip_23,0,Saya was walking back and forth whilst talking to Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e18_seg02_clip_23#enc#4,castle_s06e18_seg02_clip_23,4,Saya and Beckett are standing and speaking to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e13_seg02_clip_13#enc#4,house_s05e13_seg02_clip_13,4,House turns around and walks back towards Cameron,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e20_seg02_clip_01#enc#4,castle_s05e20_seg02_clip_01,4,"Esposito, Beckett and Castle are walking while talking.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e17_seg02_clip_08#enc#2,friends_s07e17_seg02_clip_08,2,Ross and Joey know that one of them has to stop seeing Kristen but can't figure out who it should be.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e21_seg02_clip_09#enc#3,met_s06e21_seg02_clip_09,3,Jerry explains to Barney how he convinced him Jerry was drunk.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s05e21_seg02_clip_10#enc#1,s05e21_seg02_clip_10,1,Sheldon is startled after Mrs Wolowitz calls him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e11_seg02_clip_11#enc#0,friends_s10e11_seg02_clip_11,0,Phoebe turns back to Monica telling her she wants him to stay clothed.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e11_seg02_clip_11#enc#3,friends_s10e11_seg02_clip_11,3,Roy points at Phoebe to ask if they are discussing him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e02_seg02_clip_15#enc#4,s02e02_seg02_clip_15,4,Leonard is confused when Leslie is upset Leonard didn't stick up for her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e09_seg02_clip_18#enc#1,house_s04e09_seg02_clip_18,1,Thirteen and Cutner stand up while talking to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s01e02_seg02_clip_07#enc#2,grey_s01e02_seg02_clip_07,2,George walks in and stands behind a sitting Meredith.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e01_seg02_clip_06#enc#0,castle_s04e01_seg02_clip_06,0,Castle gets up to walk out and then stops and turns around.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e16_seg02_clip_01#enc#3,castle_s04e16_seg02_clip_01,3,Castle tells Becket he got what he was looking for.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e11_seg02_clip_15#enc#0,friends_s08e11_seg02_clip_15,0,Rachel expresses how well Ross did and Ross sarcastically agrees,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e22_seg02_clip_24#enc#3,castle_s08e22_seg02_clip_24,3,Castle and Beckett run towards each other and hug each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e12_seg02_clip_24#enc#1,grey_s02e12_seg02_clip_24,1,Alex sits down next to Izzie when she starts crying.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e12_seg02_clip_24#enc#2,grey_s02e12_seg02_clip_24,2,Alex walks forward near Izzie and he sits down next to Izzie.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e12_seg02_clip_24#enc#3,grey_s02e12_seg02_clip_24,3,Izzie sobs as Alex sits next to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e22_seg02_clip_06#enc#0,grey_s03e22_seg02_clip_06,0,Naomi walks away from Addison as they're talking and turns back around suddenly.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e14_seg02_clip_05#enc#1,castle_s08e14_seg02_clip_05,1,Mason Wood walks towards Castle and Miss Shipton.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e02_seg02_clip_22#enc#0,castle_s04e02_seg02_clip_22,0,Beckett is looking down and then looks to Hastings.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e20_seg02_clip_03#enc#1,house_s06e20_seg02_clip_03,1,"Alvie, Miss X., and House walk out of the Daily Runner.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e20_seg02_clip_03#enc#4,house_s06e20_seg02_clip_03,4,Miss X. stops walking and looks totally lost.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e14_seg02_clip_22#enc#2,castle_s07e14_seg02_clip_22,2,Beckett walks towards Castle while telling him who arrived.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e15_seg02_clip_00#enc#0,s04e15_seg02_clip_00,0,Howard scoffs at Penny insisting Bernadette dress him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e06_seg02_clip_23#enc#1,house_s08e06_seg02_clip_23,1,Janey  turns over to Ron and starts talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e06_seg02_clip_23#enc#4,house_s08e06_seg02_clip_23,4,Janey starts to talk while she starts to cry.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e12_seg02_clip_20#enc#1,house_s08e12_seg02_clip_20,1,"House walks up and talks with Chase, Adams, Park, and Taub.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e08_seg02_clip_04#enc#0,met_s03e08_seg02_clip_04,0,Marshall is annoying Barney so Barney walks away from him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e05_seg02_clip_14#enc#4,met_s03e05_seg02_clip_14,4,Barney compares himself to Yoda while talking to Ted and Marshall.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e15_seg02_clip_25#enc#3,house_s03e15_seg02_clip_25,3,"Wilson talks to House, then bows and walks off.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e23_seg02_clip_00#enc#3,castle_s07e23_seg02_clip_00,3,Martha walks in and stands behind and directly between Beckett and Alexis.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e24_seg02_clip_25#enc#2,house_s05e24_seg02_clip_25,2,Kutner states that the narrative House has told is false.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e15_seg02_clip_06#enc#3,friends_s08e15_seg02_clip_06,3,Monica tells Chandler that he needs to get over it.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e12_seg01_clip_01#enc#4,s02e12_seg01_clip_01,4,Leonard is walking quickly and passes behind Sheldon.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e16_seg02_clip_04#enc#2,friends_s10e16_seg02_clip_04,2,Chandler walks over to stand next to Monica.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e04_seg02_clip_26#enc#2,castle_s07e04_seg02_clip_26,2,Alexis and Castle hug each other as they are speaking to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e09_seg02_clip_08#enc#2,s01e09_seg02_clip_08,2,Sheldon walks slowly towards Penny as she moves backwards.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e09_seg02_clip_08#enc#3,s01e09_seg02_clip_08,3,Sheldon slowly turns around to answer Penny who is talking to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e05_seg02_clip_06#enc#1,house_s07e05_seg02_clip_06,1,"Foreman, Chase and Taub walks together while they are talking.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e05_seg02_clip_02#enc#2,castle_s07e05_seg02_clip_02,2,Beckett nods after Ryan tells her what she is going to do.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e06_seg02_clip_11#enc#4,grey_s02e06_seg02_clip_11,4,Cristina frantically interrupts Meredith and Alex and then runs off.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e17_seg02_clip_11#enc#1,friends_s05e17_seg02_clip_11,1,Monica grabs Chandler when asks to see him alone.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e17_seg02_clip_11#enc#3,friends_s05e17_seg02_clip_11,3,Monica gets really intense telling Chandler that they need to win.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s09e16_seg02_clip_12#enc#2,s09e16_seg02_clip_12,2,Howard and Amy hug and kiss each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e12_seg02_clip_08#enc#0,castle_s04e12_seg02_clip_08,0,Castle and Beckett are standing speaking to Sarah.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e12_seg02_clip_08#enc#3,castle_s04e12_seg02_clip_08,3,Sarah starts to cry and she sits down as she is speaking to Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e18_seg02_clip_18#enc#4,friends_s03e18_seg02_clip_18,4,Phoebe walks in and tries to talk to Frank Jr. and then brings Alice in to try to make him understand.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e14_seg02_clip_17#enc#4,castle_s08e14_seg02_clip_17,4,Castle is shocked after Mason wishes him well before he walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e18_seg02_clip_22#enc#2,house_s06e18_seg02_clip_22,2,House walks up and stands next to Taub.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e18_seg02_clip_22#enc#3,house_s06e18_seg02_clip_22,3,House asks Taub if cheating wasn't all it was cracked up to be.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e17_seg02_clip_15#enc#0,house_s03e17_seg02_clip_15,0,"Cameron, Chase and Foreman walks out together while Cuddy is still speaking.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e25_seg02_clip_23#enc#4,grey_s03e25_seg02_clip_23,4,Rebecca tells Alex what he means to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e13_seg02_clip_16#enc#4,castle_s08e13_seg02_clip_16,4,The FBI announces who they are before apprehending Ryan and Esposito.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e05_seg02_clip_02#enc#0,friends_s09e05_seg02_clip_02,0,Phoebe turns around when she tells Monica when she will see her again.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e05_seg02_clip_02#enc#2,friends_s09e05_seg02_clip_02,2,Monica is confused when Phoebe offers to help her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e21_seg02_clip_13#enc#2,friends_s04e21_seg02_clip_13,2,Rachael gets off of Ross and walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e09_seg02_clip_06#enc#4,friends_s10e09_seg02_clip_06,4,Joey leans over and yells at Phoebe while pointing at himself.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e12_seg02_clip_01#enc#4,s03e12_seg02_clip_01,4,Sheldon tells Raj about how he gets away from it all when he needs to.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e24_seg02_clip_07#enc#1,grey_s02e24_seg02_clip_07,1,Cristina explains why she screwed up to Burke.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s05e05_seg02_clip_00#enc#2,met_s05e05_seg02_clip_00,2,Ted walks out and says that he's ready to leave.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e19_seg02_clip_03#enc#3,castle_s07e19_seg02_clip_03,3,Annie gestures to Castle and Beckett and walks over to them.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e05_seg02_clip_13#enc#3,house_s05e05_seg02_clip_13,3,Wilson smiles as House as they both talk to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e17_seg02_clip_10#enc#2,grey_s03e17_seg02_clip_10,2,George walks away from Izzie who is looking angry.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e12_seg02_clip_03#enc#1,grey_s03e12_seg02_clip_03,1,Derek tells Izzie Heather will be treated like she would of been previously.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e12_seg02_clip_03#enc#2,grey_s03e12_seg02_clip_03,2,Bailey turns around after Izzie asks if she wanted to sure her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e12_seg02_clip_03#enc#3,grey_s03e12_seg02_clip_03,3,Izzie looks over at Bailey who has been staring at her since she walked in.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e11_seg02_clip_07#enc#2,castle_s06e11_seg02_clip_07,2,Beckett is sitting across from Ferguson as he speaks.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e17_seg02_clip_17#enc#1,house_s08e17_seg02_clip_17,1,"When Henry touches Amy, she starts bleeding uncontrollably.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e23_seg02_clip_02#enc#0,house_s02e23_seg02_clip_02,0,House walks out quickly while talking to Crandall.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e23_seg02_clip_02#enc#3,house_s02e23_seg02_clip_02,3,House walks with Crandall while they are talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e06_seg02_clip_22#enc#1,castle_s04e06_seg02_clip_22,1,"Castle, Ryan and Beckett walk together as they converse.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e15_seg02_clip_24#enc#4,house_s03e15_seg02_clip_24,4,"Thirteen, Chase and Foreman stare at House looking confused.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e17_seg02_clip_13#enc#4,castle_s02e17_seg02_clip_13,4,Castle walks over to look at the white board with Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e14_seg02_clip_07#enc#0,friends_s10e14_seg02_clip_07,0,"Rachel explains to Monica, Chandler and Phoebe how she got fired.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e14_seg02_clip_25#enc#1,grey_s03e14_seg02_clip_25,1,Richard walks over to Ellis and then sits down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e14_seg02_clip_25#enc#3,grey_s03e14_seg02_clip_25,3,Ellis looks up right before Richard speaks to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e09_seg02_clip_03#enc#0,castle_s04e09_seg02_clip_03,0,"Esposito, Beckett and Castle are walking while they are talking.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e21_seg02_clip_07#enc#2,friends_s05e21_seg02_clip_07,2,Gary goes over the Phoebe and kisses her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e09_seg02_clip_00#enc#1,castle_s07e09_seg02_clip_00,1,Castle and Beckett are talking to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e16_seg02_clip_14#enc#3,castle_s04e16_seg02_clip_14,3,Gage tells Beckett that he is being framed and that he needs her to tell him who they are after.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e22_seg02_clip_09#enc#0,friends_s04e22_seg02_clip_09,0,Phoebe sits down and Monica and Rachel try to sit as far away from her as possible.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e10_seg02_clip_14#enc#2,friends_s01e10_seg02_clip_14,2,Rachel explains why she looks beaten up and dirty.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e21_seg02_clip_18#enc#2,house_s03e21_seg02_clip_18,2,House is conversing with Foreman. Cameron and Chase as he is seated.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e16_seg02_clip_13#enc#2,castle_s08e16_seg02_clip_13,2,Esposito stands up followed by Beckett whil still talking to Ryan and Esposito.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e16_seg02_clip_13#enc#4,castle_s08e16_seg02_clip_13,4,Esposito gets up and Beckett gets up after him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e02_seg02_clip_18#enc#0,castle_s03e02_seg02_clip_18,0,Castle is leaning beside Lanie as he speaks to her with Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e01_seg02_clip_16#enc#0,s04e01_seg02_clip_16,0,Penny and Sheldon are walking beside each other as they go upstairs.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s10e01_seg02_clip_16#enc#4,s10e01_seg02_clip_16,4,Penny and Leonard hug each other and Sheldon hugs them.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s06e12_seg02_clip_03#enc#2,s06e12_seg02_clip_03,2,Amy pointed at Sheldon when she was talking with him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s01e09_seg02_clip_23#enc#2,castle_s01e09_seg02_clip_23,2,Alexis sits down beside Castle and talk to Him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e01_seg02_clip_25#enc#1,castle_s08e01_seg02_clip_25,1,Richard and Kevin were walking towards Javier and Alexis.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e04_seg02_clip_13#enc#0,house_s06e04_seg02_clip_13,0,Cameron and Foreman walks out after speaking to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s01e02_seg02_clip_09#enc#2,castle_s01e02_seg02_clip_09,2,Beckett is sitting and glancing at Castle as he speaks.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e22_seg02_clip_02#enc#2,castle_s03e22_seg02_clip_02,2,Beckett tells Esposito who to search for before he walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e20_seg01_clip_01#enc#0,met_s06e20_seg01_clip_01,0,Lily is talking to Ted and then she and Marshall give each other a high five.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s05e01_seg02_clip_11#enc#0,s05e01_seg02_clip_11,0,Raj stands and turns to leave with Penny standing right after.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e17_seg02_clip_27#enc#3,house_s02e17_seg02_clip_27,3,Wilson looks at House when he is smoking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e25_seg02_clip_05#enc#2,grey_s03e25_seg02_clip_05,2,Meredith quickly stops walking when Derek turns around.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e01_seg02_clip_19#enc#3,house_s05e01_seg02_clip_19,3,Dr. Wilson starts to walk away from Dr. Cameron and then turns back to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e19_seg02_clip_00#enc#3,house_s02e19_seg02_clip_00,3,House walks in continuously and Wilson follow him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e06_seg02_clip_14#enc#3,met_s06e06_seg02_clip_14,3,Lily tries to stop Marshall from kissing her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e20_seg02_clip_03#enc#4,friends_s08e20_seg02_clip_03,4,"Monica follows Phoebe and asks her if it doesn't bother her that Sandra is mad at her, phoebe responds shes apologized twice and can't do more than that.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e04_seg02_clip_25#enc#2,castle_s04e04_seg02_clip_25,2,Beckett walk closer to Castle and talk to Him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e04_seg02_clip_25#enc#3,castle_s04e04_seg02_clip_25,3,Castle stand up and continue talking to Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e23_seg02_clip_19#enc#0,castle_s02e23_seg02_clip_19,0,Castle speaks Martha then turns and walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e23_seg02_clip_19#enc#3,castle_s02e23_seg02_clip_19,3,Castle leaves Martha telling her to wish Madge well.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e23_seg02_clip_19#enc#4,castle_s02e23_seg02_clip_19,4,Martha looks questioningly at Castle when he answers he's fine too quickly.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e18_seg02_clip_04#enc#0,s03e18_seg02_clip_04,0,Leonard tries to convince Sheldon to let them help him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e13_seg02_clip_24#enc#1,house_s01e13_seg02_clip_24,1,Chase is sitting across from House as they converse.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e21_seg02_clip_20#enc#0,house_s03e21_seg02_clip_20,0,Wilson agrees with Foreman that they should try.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e03_seg02_clip_20#enc#0,house_s06e03_seg02_clip_20,0,Cameron suddenly came to Chase and talk to Him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e03_seg02_clip_20#enc#2,house_s06e03_seg02_clip_20,2,Wilson and House are talking while they are standing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e08_seg02_clip_14#enc#3,grey_s02e08_seg02_clip_14,3,Izzy and Alex are sitting and talking and she gets up and walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e02_seg02_clip_03#enc#1,friends_s05e02_seg02_clip_03,1,Rachel turns around when she says that she was wrong.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e19_seg02_clip_23#enc#2,castle_s03e19_seg02_clip_23,2,Beckett sits down and Castle suddenly follow her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e09_seg02_clip_00#enc#3,friends_s04e09_seg02_clip_00,3,Phoebe shows she is supporting Monica by jumping.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e19_seg02_clip_02#enc#1,house_s07e19_seg02_clip_02,1,Thirteen told Masters that she can already handle Kendall alone and Masters immediately leave.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e09_seg02_clip_16#enc#3,house_s04e09_seg02_clip_16,3,House sets the on the white board and turns towards it.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e13_seg02_clip_07#enc#0,castle_s04e13_seg02_clip_07,0,Beckett and Castle are sitting with Dr. Barker as they converse.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e06_seg02_clip_09#enc#4,castle_s05e06_seg02_clip_09,4,Castle notices Alexis passing by him and goes up to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e19_seg02_clip_03#enc#4,s02e19_seg02_clip_03,4,Sheldon turns and walks away from Leonard and Alicia.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e07_seg02_clip_19#enc#2,castle_s07e07_seg02_clip_19,2,Castle is talking to Beckett while he is walking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e03_seg02_clip_17#enc#2,house_s04e03_seg02_clip_17,2,James and Dr. Gregory were staring at Lisa as she walked away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e19_seg02_clip_18#enc#4,friends_s01e19_seg02_clip_18,4,Rachel tells Luisa to dislike her but not to take it out on Ross by taking Marcel from him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e13_seg02_clip_26#enc#4,castle_s08e13_seg02_clip_26,4,Alexis stands up and walks over to Castle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e02_seg01_clip_01#enc#4,friends_s06e02_seg01_clip_01,4,Ross points that Pheobe while talking to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e21_seg02_clip_18#enc#0,house_s06e21_seg02_clip_18,0,Dr. Cuddy turns and walks away angrily from House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e21_seg02_clip_18#enc#1,house_s06e21_seg02_clip_18,1,Cuddy walks out emotionally after talking to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e21_seg02_clip_18#enc#4,house_s06e21_seg02_clip_18,4,Cuddy gets back a little and talk to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s08e19_seg02_clip_11#enc#3,s08e19_seg02_clip_11,3,Howard and Raj give each other a high five.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s10e01_seg01_clip_01#enc#1,s10e01_seg01_clip_01,1,Sheldon wakes up Penny and Leonard while they are sleeping.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e16_seg02_clip_19#enc#1,friends_s07e16_seg02_clip_19,1,Joey stands up quickly and walks behind Monica.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e10_seg02_clip_09#enc#3,house_s01e10_seg02_clip_09,3,House is talking to Cuddy while they are walking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e14_seg02_clip_02#enc#4,friends_s08e14_seg02_clip_02,4,Chandler laughs when Monica asks him to set what he's holding down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e21_seg02_clip_06#enc#4,house_s05e21_seg02_clip_06,4,Cameron stands up and immediately turns towards Foreman.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e17_seg02_clip_07#enc#1,castle_s08e17_seg02_clip_07,1,Javier and Kevin walked towards Richard while Javier was talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e09_seg02_clip_08#enc#4,castle_s03e09_seg02_clip_08,4,Beckette turn around and walk away from Castle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e14_seg02_clip_09#enc#1,s01e14_seg02_clip_09,1,Sheldon starts to leave and then stops and turns around to talk to Leonard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e13_seg02_clip_22#enc#1,friends_s09e13_seg02_clip_22,1,Monica turns around when Chandler tells her why he's late.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e19_seg02_clip_05#enc#4,castle_s03e19_seg02_clip_05,4,Tony Mueller was talking angrily at Castle and Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e02_seg02_clip_13#enc#0,castle_s08e02_seg02_clip_13,0,Rita suddenly walks out after talking to Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s07e12_seg02_clip_12#enc#1,s07e12_seg02_clip_12,1,Howard and Bernadette talk about if he knows if she isn't really laughing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e16_seg02_clip_20#enc#1,castle_s07e16_seg02_clip_20,1,Beckett is speaking to Jansen as they are facing each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s05e18_seg02_clip_12#enc#1,house_s05e18_seg02_clip_12,1,Dr. Taub and Dr. Neil talks while drinking .,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s04e01_seg02_clip_09#enc#0,met_s04e01_seg02_clip_09,0,Ted tries to get Marshall to stop yelling about Star Wars.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e10_seg02_clip_22#enc#0,castle_s07e10_seg02_clip_22,0,Beckett tries to calm Luca by saying she's not going to hurt him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e10_seg02_clip_22#enc#1,castle_s07e10_seg02_clip_22,1,Luca and Jane are beside each other as they converse with Beckett and Castle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e02_seg02_clip_11#enc#2,met_s06e02_seg02_clip_11,2,Lilly looks up to her left towards Marshall.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e02_seg02_clip_11#enc#4,met_s06e02_seg02_clip_11,4,"James is talking to Sam, and Sam starts smiling and laughing.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e02_seg02_clip_23#enc#2,house_s04e02_seg02_clip_23,2,Wilson updates House on what Cameron and Foreman have been doing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e06_seg02_clip_19#enc#2,castle_s07e06_seg02_clip_19,2,Castle stands up and walks over to Beckett when she comes it.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e07_seg02_clip_00#enc#2,castle_s03e07_seg02_clip_00,2,Castle and Alexis yawn simultaneously while sitting beside each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e15_seg02_clip_08#enc#2,house_s04e15_seg02_clip_08,2,Dr.House seem sick and hallucinating then Dr.Wilson tapped him telling him to calm down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e04_seg02_clip_05#enc#0,friends_s06e04_seg02_clip_05,0,Rachel apologizes to Ross for not having been there for him earlier.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e04_seg02_clip_05#enc#4,friends_s06e04_seg02_clip_05,4,Joey and Estelle are talking to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s02e01_seg02_clip_13#enc#0,friends_s02e01_seg02_clip_13,0,Monica  is not too thrilled wiwth what Phoebe has given her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e10_seg02_clip_02#enc#1,s03e10_seg02_clip_02,1,Raj and Sheldon play Mario Kart for the Wii.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e03_seg02_clip_13#enc#0,house_s01e03_seg02_clip_13,0,House came in and walks slowly while speaking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e01_seg02_clip_04#enc#2,s02e01_seg02_clip_04,2,Sheldon and Leonard were both walking upstairs whilst Sheldon was talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e01_seg02_clip_04#enc#4,s02e01_seg02_clip_04,4,Sheldon looks panicked and quickly runs upstairs away from Leonard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e22_seg02_clip_07#enc#1,castle_s04e22_seg02_clip_07,1,Castle walks a little closer to Martha while continue talking to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e01_seg02_clip_18#enc#3,house_s01e01_seg02_clip_18,3,"Eric, Robert, James and Dr. Gregory were standing across each other.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e01_seg02_clip_18#enc#4,house_s01e01_seg02_clip_18,4,"Jessica was sitting across Eric, Robert, James and Dr. Gregory.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s08e23_seg02_clip_05#enc#4,s08e23_seg02_clip_05,4,"Leonard grins when Dr. Hoffstadter begins to speak to Mrs. Cooper, but he quickly frowns and leans backwards.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e15_seg01_clip_02#enc#1,s04e15_seg01_clip_02,1,"Seibert is behind Sheldon, talking to him when Sheldon turns around to reply.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e21_seg02_clip_04#enc#1,house_s06e21_seg02_clip_04,1,House looks over at Cuddy and then she walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e12_seg02_clip_25#enc#2,friends_s10e12_seg02_clip_25,2,Monica turns around and realizes she is talking about herself,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e21_seg01_clip_01#enc#4,s03e21_seg01_clip_01,4,Sheldon is sitting across from Howard as he is speaking to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e03_seg02_clip_02#enc#2,friends_s09e03_seg02_clip_02,2,Chandler gets up and does a high five with Monica.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e15_seg02_clip_22#enc#4,house_s08e15_seg02_clip_22,4,Taub start to speak while Brant and Hayes are still talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s05e03_seg02_clip_07#enc#3,met_s05e03_seg02_clip_07,3,Barney wakes up after Ted shouted at him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e06_seg02_clip_03#enc#1,grey_s03e06_seg02_clip_03,1,Burke is shaking Mrs. Byrd as he introduces himself to her and she is pleased to meet him since she's heard of him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e04_seg02_clip_18#enc#4,friends_s04e04_seg02_clip_18,4,Joey and Rick are holding each other as they stand close to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e08_seg02_clip_09#enc#0,house_s08e08_seg02_clip_09,0,Tommy tries to get Olivia to go home.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e11_seg02_clip_17#enc#1,house_s07e11_seg02_clip_17,1,Arlene tells Cuddy that she is more like Julia and she likes being around her more than Cuddy.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e18_seg02_clip_05#enc#4,house_s01e18_seg02_clip_05,4,"Wilson came in while House, Chase and Foreman are talking.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e23-24_seg02_clip_05#enc#4,friends_s05e23-24_seg02_clip_05,4,Phoebe tells Monica how best to lie to Chandler.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e08_seg02_clip_11#enc#1,friends_s03e08_seg02_clip_11,1,Phoebe dances while saying every is still living.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e16_seg02_clip_10#enc#3,met_s03e16_seg02_clip_10,3,Robin is confused when Simon breaks up with her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e07_seg02_clip_00#enc#0,castle_s05e07_seg02_clip_00,0,Ryan tells Beckett she's do what she asks when he walks away from her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s02e01_seg02_clip_14#enc#3,met_s02e01_seg02_clip_14,3,Ted sits down and asks Marshall what is wrong.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e13_seg02_clip_03#enc#0,s01e13_seg02_clip_03,0,Raj leans over and whispers in Howard's ear/,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e13_seg02_clip_03#enc#4,s01e13_seg02_clip_03,4,Sheldon tells Howard to sit down and he does.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e15_seg02_clip_24#enc#4,grey_s03e15_seg02_clip_24,4,Rick passes out as he is talking and Izzie is treating him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e21_seg02_clip_15#enc#4,friends_s06e21_seg02_clip_15,4,Rachel comes over and sits down next to Paul.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e09_seg02_clip_19#enc#0,castle_s02e09_seg02_clip_19,0,Beckett suddenly walks out after talking to Castle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e16_seg02_clip_19#enc#2,house_s04e16_seg02_clip_19,2,Cuddy walks near Wilson and talk to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e16_seg02_clip_19#enc#3,house_s04e16_seg02_clip_19,3,Wilson cries very emotionally while talking to Cuddy.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e16_seg02_clip_19#enc#4,house_s04e16_seg02_clip_19,4,Wilson watches as Chase works on trying to save Amber.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e02_seg02_clip_26#enc#4,castle_s05e02_seg02_clip_26,4,Beckett and Castle lean in towards each other to kiss and Beckett jerks away from him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e22_seg02_clip_15#enc#0,castle_s06e22_seg02_clip_15,0,Gates leans foward into Smith and Esposito as they talk.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e22_seg02_clip_15#enc#1,castle_s06e22_seg02_clip_15,1,Ryan and Esposito turn as Gates talks to them from behind.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e22_seg02_clip_15#enc#4,castle_s06e22_seg02_clip_15,4,Smith turns around and walks away from Castle and Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s08e05_seg01_clip_01#enc#0,s08e05_seg01_clip_01,0,Howard is next to Leonard as he speaks to Sheldon.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s08e05_seg01_clip_01#enc#3,s08e05_seg01_clip_01,3,Sheldon is sitting beside Raj as he speaks to Leonard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s05e02_seg02_clip_13#enc#2,met_s05e02_seg02_clip_13,2,Jen apologizes after Jen says what she initially thought of him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e19_seg02_clip_08#enc#0,s04e19_seg02_clip_08,0,Raj is sitting across from Sheldon while he speaks to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e16_seg02_clip_15#enc#4,s03e16_seg02_clip_15,4,Stuart calls after Penny and she comes back looking very suspicious of him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s06e13_seg02_clip_13#enc#2,s06e13_seg02_clip_13,2,Amy is pacing up and down as she speaks to Penny.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e10_seg02_clip_24#enc#0,castle_s02e10_seg02_clip_24,0,Castle is leaning over Beckett as they are speaking to Laura.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e10_seg02_clip_13#enc#2,friends_s09e10_seg02_clip_13,2,Monica sits down while Chandler then sits next to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e20_seg02_clip_16#enc#2,castle_s07e20_seg02_clip_16,2,Castle gets mad after Beckett tells him he can't go.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e02_seg02_clip_04#enc#0,s01e02_seg02_clip_04,0,Leonard tells Penny that Sheldon was just trying to be funny but she doesn't understand.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e10_seg02_clip_05#enc#3,castle_s02e10_seg02_clip_05,3,Sarah Reed is standing speaking to Castle and Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e01_seg02_clip_01#enc#0,friends_s07e01_seg02_clip_01,0,Phoebe tells Joey he looks way older than he thought.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e01_seg02_clip_25#enc#1,castle_s05e01_seg02_clip_25,1,Bracken is facing Beckett as he speaks to her and then turns around.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e01_seg02_clip_25#enc#3,castle_s05e01_seg02_clip_25,3,Bracken is walking away from Beckett and then he turns around to hear her speak.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e01_seg02_clip_25#enc#4,castle_s05e01_seg02_clip_25,4,Beckett looks down and then at Bracken as he is walking away from her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e20_seg02_clip_17#enc#1,castle_s07e20_seg02_clip_17,1,Beckett and Ryan are beside each other as they speak to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e20_seg02_clip_17#enc#3,castle_s07e20_seg02_clip_17,3,Ryan and Beckett were standing beside each other as they were talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e11_seg02_clip_12#enc#3,friends_s10e11_seg02_clip_12,3,Roy points at Phoebe saying that she cringed and she denies it.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s02e16_seg02_clip_07#enc#4,met_s02e16_seg02_clip_07,4,Barney turns to leave and Marshall stops him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s09e04_seg02_clip_14#enc#3,s09e04_seg02_clip_14,3,Howard tells Raj to hold on and they hug.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e23-24_seg02_clip_15#enc#1,friends_s09e23-24_seg02_clip_15,1,Monica tells Mike where Phoebe is and that he needs to contact her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e14_seg02_clip_00#enc#3,house_s01e14_seg02_clip_00,3,Dr. House asks Dr. Cameron to stop from talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e12_seg02_clip_18#enc#0,friends_s03e12_seg02_clip_18,0,Chandler starts laughing and runs away from Ross.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s02e11_seg02_clip_15#enc#3,friends_s02e11_seg02_clip_15,3,Monica threatens Ross and he gets up to help her out.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e21_seg02_clip_19#enc#1,castle_s05e21_seg02_clip_19,1,Beckett turn around and walk while talking to Eric.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e23_seg02_clip_14#enc#1,castle_s03e23_seg02_clip_14,1,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e23_seg02_clip_14#enc#2,castle_s03e23_seg02_clip_14,2,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e23_seg02_clip_14#enc#4,castle_s03e23_seg02_clip_14,4,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e01_seg02_clip_09#enc#0,friends_s01e01_seg02_clip_09,0,Ross says where he remembered Paul from while Joey leaves on him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e05_seg02_clip_01#enc#4,met_s06e05_seg02_clip_01,4,Marshall is freaked out when talking to Lily.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e10_seg02_clip_18#enc#2,house_s06e10_seg02_clip_18,2,Thirteen pushes Eddie away because she doesn't want him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e17_seg02_clip_19#enc#2,friends_s09e17_seg02_clip_19,2,Monica tells Tom who Chandler is dating now.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s02e02_seg02_clip_04#enc#2,friends_s02e02_seg02_clip_04,2,Todd and Annabelle walk away from Joey together.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s02e02_seg02_clip_04#enc#4,friends_s02e02_seg02_clip_04,4,Todd walks up behind Joey as he speaks to Annabelle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e20_seg02_clip_14#enc#0,friends_s06e20_seg02_clip_14,0,Monica is mad while asking Rachel if she meant to hurt her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e21_seg02_clip_04#enc#1,met_s06e21_seg02_clip_04,1,Jerry leans back and says that he will become wilder.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e24_seg02_clip_05#enc#1,castle_s02e24_seg02_clip_05,1,Montgomery tells Beckett what to do when they stop walking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e08_seg02_clip_18#enc#0,grey_s02e08_seg02_clip_18,0,Talia stands up when she sees Burke and Christina.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e24_seg02_clip_20#enc#1,house_s03e24_seg02_clip_20,1,House turns around from the white board and talks to Foreman.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e19_seg02_clip_02#enc#1,castle_s04e19_seg02_clip_02,1,Beckett checks on Castle to make sure he is ok.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e09_seg02_clip_06#enc#0,castle_s05e09_seg02_clip_06,0,Castle and Beckett are conversing with Dunne who is dressed as Santa Claus.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e09_seg02_clip_06#enc#2,castle_s05e09_seg02_clip_06,2,Castle and Beckett are standing beside each other as they are with Dunne.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e16_seg02_clip_08#enc#0,friends_s05e16_seg02_clip_08,0,Joey turns around and faces Monica after having walked away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s10e13_seg02_clip_11#enc#2,s10e13_seg02_clip_11,2,Amy invited Sheldon outside and leaves Penyy and Leonard to talk.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e20_seg02_clip_03#enc#4,grey_s03e20_seg02_clip_03,4,Izzie follows George after he walked away from her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e10_seg02_clip_14#enc#0,friends_s03e10_seg02_clip_14,0,Phoebe and Joey were talking angrily at each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e05_seg02_clip_17#enc#3,friends_s05e05_seg02_clip_17,3,Rachel smiles at Ross who is sitting next to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e20_seg02_clip_21#enc#0,castle_s02e20_seg02_clip_21,0,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e20_seg02_clip_21#enc#1,castle_s02e20_seg02_clip_21,1,Zach tells Castle and Beckett what he was paid to do.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e20_seg02_clip_21#enc#2,castle_s02e20_seg02_clip_21,2,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e20_seg02_clip_21#enc#3,castle_s02e20_seg02_clip_21,3,Beckett and Castle talking to each other before Beckett leaves,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e17_seg02_clip_01#enc#2,met_s03e17_seg02_clip_01,2,Ted walks up behind Barney and startles him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e01_seg02_clip_02#enc#1,s03e01_seg02_clip_02,1,Lenord and Penny stop kissing and pull away slightly.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s09e19_seg02_clip_16#enc#1,s09e19_seg02_clip_16,1,Amy jumps from where she is sitting while talking to Sheldon.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s10e10_seg02_clip_16#enc#3,friends_s10e10_seg02_clip_16,3,Monica and Chandler embrace and kiss each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e04_seg02_clip_00#enc#3,house_s06e04_seg02_clip_00,3,Cuddy and Roy are both sitting together and talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e01_seg02_clip_15#enc#2,friends_s05e01_seg02_clip_15,2,Chandler hugs Monica and then they give each other a high five.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e01_seg02_clip_15#enc#4,friends_s05e01_seg02_clip_15,4,Chandler and Monica hug and high five each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e21_seg02_clip_15#enc#1,house_s08e21_seg02_clip_15,1,Adams watches Derrick talk to Molly and looks uncomfortable.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e03_seg02_clip_26#enc#4,castle_s05e03_seg02_clip_26,4,Beckett smiles at Castle after he says he'll waiting for her to tell him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e24_seg02_clip_04#enc#1,castle_s05e24_seg02_clip_04,1,Castle and Beckett are speaking to Mr. and Mrs. Albrook.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e24_seg02_clip_04#enc#2,castle_s05e24_seg02_clip_04,2,Esposito walks out when he is done talking to Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s02e11_seg02_clip_11#enc#3,friends_s02e11_seg02_clip_11,3,Phoebe and Mr. A are conversing with each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e10_seg02_clip_24#enc#0,house_s07e10_seg02_clip_24,0,Ali walks out while still talking to Chase.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e10_seg02_clip_24#enc#1,house_s07e10_seg02_clip_24,1,Ali walk out immediately after talking to Chase.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e10_seg02_clip_24#enc#2,house_s07e10_seg02_clip_24,2,Ali was shocked when Chase suddenly came in and speak.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e10_seg02_clip_24#enc#3,house_s07e10_seg02_clip_24,3,Chase walks a little near Ali and continue talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e10_seg02_clip_24#enc#4,house_s07e10_seg02_clip_24,4,Chase walk a little closer to Ali and talk to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e03_seg02_clip_05#enc#0,friends_s03e03_seg02_clip_05,0,Rachel and Ross kiss each other and Chandler is disgusted.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e13_seg02_clip_13#enc#2,castle_s08e13_seg02_clip_13,2,Esposito explains to Castle what Eddie was working towards.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e05_seg02_clip_17#enc#2,castle_s07e05_seg02_clip_17,2,Gates walks over to the giant white board.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e21_seg02_clip_22#enc#1,house_s01e21_seg02_clip_22,1,Stacy gets very emotional while talking to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e21_seg02_clip_06#enc#3,friends_s09e21_seg02_clip_06,3,Joey walks into Central Perk and sits next to Ross.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e18_seg02_clip_25#enc#2,castle_s07e18_seg02_clip_25,2,Mia was intensely talking to Beckett and Castle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e10_seg02_clip_14#enc#1,s03e10_seg02_clip_14,1,"When Penny starts weeping, Sheldon asks her why and she tells him it's because she's not smart.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e23_seg02_clip_19#enc#2,castle_s07e23_seg02_clip_19,2,Beckett turns around to look at Castle and then back to Dr. Holtzman.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e04_seg02_clip_19#enc#2,castle_s06e04_seg02_clip_19,2,Esposito stands up and says he will find Sully.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e10_seg02_clip_20#enc#4,castle_s08e10_seg02_clip_20,4,Roger walks over to the safe and opens it.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e03_seg02_clip_01#enc#0,house_s01e03_seg02_clip_01,0,House is speaking to Chase and Cameron as he stands.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s04e01_seg02_clip_05#enc#1,met_s04e01_seg02_clip_05,1,Stella looks at Ted and says what him cooking means to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s04e01_seg02_clip_05#enc#2,met_s04e01_seg02_clip_05,2,Ted tells Stella who showed him how to cook.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e11_seg02_clip_13#enc#0,house_s07e11_seg02_clip_13,0,House and Foreman are yelling at each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e11_seg02_clip_13#enc#2,house_s07e11_seg02_clip_13,2,Taub walks over to be standing behind Chase.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e17_seg02_clip_25#enc#0,castle_s08e17_seg02_clip_25,0,Esposito walks up to Castle and Beckett and talks then they all leave.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e13_seg02_clip_13#enc#0,met_s03e13_seg02_clip_13,0,Ted starts to back away from Stella then turns around.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e12_seg02_clip_00#enc#2,friends_s08e12_seg02_clip_00,2,Ross corrects Rachel when she thinks he's getting promoted.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e16_seg02_clip_13#enc#1,house_s04e16_seg02_clip_13,1,Wilson and Cuddy stand across from each other and fight.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e16_seg02_clip_13#enc#4,house_s04e16_seg02_clip_13,4,James and Lisa were talking angrily at each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e15_seg02_clip_13#enc#0,s04e15_seg02_clip_13,0,Mrs. Latham looks down then over to Leonard and leans towards him while speaking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e13_seg02_clip_03#enc#2,castle_s04e13_seg02_clip_03,2,"Castle, Esposito, Beckett and Kelly were talking to each other.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e15_seg02_clip_23#enc#2,house_s08e15_seg02_clip_23,2,Robert Chase was talking angrily to Dr. Gregory.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e20_seg02_clip_04#enc#2,friends_s09e20_seg02_clip_04,2,Rachel jumps up and down over and over again.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e14_seg02_clip_15#enc#0,friends_s03e14_seg02_clip_15,0,Rachel makes it known that she doesn't listen to what Ross says.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s07e03_seg02_clip_06#enc#3,s07e03_seg02_clip_06,3,Howard picks up a green iPod and hands it to Amy.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e11_seg02_clip_04#enc#3,s04e11_seg02_clip_04,3,Sheldon walks over to stand by Stuart and they all look behind Howard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e19_seg02_clip_00#enc#3,met_s06e19_seg02_clip_00,3,Marshall walks over to sit down while saying who Barney is with.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e16_seg02_clip_14#enc#1,house_s01e16_seg02_clip_14,1,Cameron stops midway and turns to speak to Chase.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s02e21_seg02_clip_18#enc#0,met_s02e21_seg02_clip_18,0,Lily and Marshall kiss after Barney tells them to.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s02e21_seg02_clip_18#enc#1,met_s02e21_seg02_clip_18,1,Barney says that Lily and Marshall are married.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e11_seg02_clip_20#enc#2,castle_s05e11_seg02_clip_20,2,Esposito turns the Laptop away and looks at joey.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e17_seg02_clip_12#enc#4,house_s07e17_seg02_clip_12,4,Dr. Gregory was writing down whilst talking to James.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s09e08_seg02_clip_15#enc#4,s09e08_seg02_clip_15,4,Dave mentions how both Sheldon and he have be able to makeout with Amy.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e02_seg02_clip_16#enc#0,castle_s03e02_seg02_clip_16,0,Toni Johnston turns around and faces Castle and Beckett as she talks.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e16_seg02_clip_25#enc#0,castle_s06e16_seg02_clip_25,0,Beckett walks towards Pam to speak to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e16_seg02_clip_25#enc#1,castle_s06e16_seg02_clip_25,1,Eddie and Laura walk towards Pam to speak to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e06_seg02_clip_08#enc#0,house_s08e06_seg02_clip_08,0,"Dr. House starts to leave, but turns back and talks with Dr. Foreman.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e06_seg02_clip_25#enc#2,house_s07e06_seg02_clip_25,2,House walk away quickly after talking to Masters.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e21_seg02_clip_19#enc#2,house_s01e21_seg02_clip_19,2,Stacy walks over to Cuddy after speaking with House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e22_seg02_clip_07#enc#1,friends_s08e22_seg02_clip_07,1,Ross tries to be patient with Rachel while she complains about him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e22_seg02_clip_07#enc#4,friends_s08e22_seg02_clip_07,4,Rachel tells Ross that he's annoying her while she's pregnant.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e13_seg02_clip_01#enc#0,house_s04e13_seg02_clip_01,0,"House turns around to speak to Thirteen, Kunter, and Cameron in the ER.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e13_seg02_clip_16#enc#0,castle_s06e13_seg02_clip_16,0,Alexis and Mandy are talking to each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e08_seg02_clip_15#enc#4,house_s02e08_seg02_clip_15,4,Stacy and House are both looking in the officd then Stacy turns and talks to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e01_seg02_clip_15#enc#2,house_s04e01_seg02_clip_15,2,Doctor James walks in and talks to House before sitting down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e19_seg02_clip_02#enc#1,met_s03e19_seg02_clip_02,1,Barney is mad that Ted has blown him off after knowing him so long.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e11_seg02_clip_17#enc#1,friends_s07e11_seg02_clip_17,1,Monica leans down when Ross tells her why she's here.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e11_seg02_clip_19#enc#1,friends_s04e11_seg02_clip_19,1,Phoebe hugs Frank as he mention he's about to cry and Monica with Rachel stand behind Phoebe.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e17_seg02_clip_03#enc#1,castle_s04e17_seg02_clip_03,1,Castle walks over to look at the white board.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e11_seg01_clip_01#enc#0,s02e11_seg01_clip_01,0,Sheldon stands up then sits back down quickly.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e11_seg01_clip_01#enc#4,s02e11_seg01_clip_01,4,Leonard is sitting across from Sheldon while conversing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e20_seg02_clip_12#enc#1,friends_s04e20_seg02_clip_12,1,Rachel turns around when Gunther yells at Joshua.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e07_seg02_clip_22#enc#0,house_s03e07_seg02_clip_22,0,House talks to Gabe while he's sitting down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e07_seg02_clip_22#enc#1,house_s03e07_seg02_clip_22,1,Gabe wants to inquire of House and House wants to know what it is,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e12_seg02_clip_07#enc#2,met_s06e12_seg02_clip_07,2,Barney is confused when Ted says he should donate.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s10e12_seg02_clip_06#enc#0,s10e12_seg02_clip_06,0,Sheldon looks at Amy bewildered as she drives.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s10e12_seg02_clip_06#enc#1,s10e12_seg02_clip_06,1,Amy and Sheldon look at each other as Amy drives.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e13_seg02_clip_07#enc#1,s01e13_seg02_clip_07,1,Leonard does not want to go over and talk to Leslie.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e01_seg02_clip_16#enc#4,castle_s07e01_seg02_clip_16,4,Beckett turns and walks away from Ryan and Esposito and they look at each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e02_seg02_clip_18#enc#1,friends_s07e02_seg02_clip_18,1,Rachel gets aggravated with Joey and walks away from him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e02_seg02_clip_18#enc#4,friends_s07e02_seg02_clip_18,4,Rachel walks towards Joey who keeps backing up away from her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e04_seg02_clip_06#enc#3,friends_s04e04_seg02_clip_06,3,Phoebe asks Rick how he hurt himself and he lets her know.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e03_seg02_clip_03#enc#0,friends_s07e03_seg02_clip_03,0,Phoebe sits down next to Monica at Central Perk.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e21_seg02_clip_20#enc#1,friends_s09e21_seg02_clip_20,1,Charlie stands up to kiss Joey after she sees lf they're leaving.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e21_seg02_clip_20#enc#4,friends_s09e21_seg02_clip_20,4,Joey walks up to Charlie and she gets up and they kiss.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e07_seg02_clip_11#enc#0,house_s03e07_seg02_clip_11,0,Gabe is driving and talking to House and Wilson.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e05_seg02_clip_26#enc#1,castle_s04e05_seg02_clip_26,1,Serena corrects Beckett on what happened with Castle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s01e04_seg02_clip_08#enc#3,grey_s01e04_seg02_clip_08,3,Burk smiles at Christiana as he gets ready to walk away,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s07e01_seg02_clip_11#enc#3,s07e01_seg02_clip_11,3,Sheldon and Penny are sitting beside each other as Sheldon tries to console Penny about missing Leonard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s02e02_seg02_clip_01#enc#3,friends_s02e02_seg02_clip_01,3,Joey smiles when Annabelle walks up to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s07e11_seg02_clip_04#enc#1,s07e11_seg02_clip_04,1,Leoanrd is standing before Penny mentioning to her that he would not urinate himself after meeting her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s05e18_seg02_clip_18#enc#1,friends_s05e18_seg02_clip_18,1,Kim did not want to upset Rachel and tells her that's why they were not open.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e07_seg02_clip_09#enc#4,house_s02e07_seg02_clip_09,4,House and cameron walk away and leave Chase standing alone.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s09e16_seg02_clip_11#enc#3,s09e16_seg02_clip_11,3,Amy sits next to Sheldon and starts talking to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e12_seg02_clip_05#enc#4,castle_s04e12_seg02_clip_05,4,Harvey walks in and begins to talk with Beckett and House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s06e02_seg02_clip_23#enc#4,castle_s06e02_seg02_clip_23,4,Julie introduces Parker to Reed and then walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e07_seg02_clip_06#enc#0,s02e07_seg02_clip_06,0,"Sheldon, Raj and Leonard eat at the Cheesecake Factory where Penny works.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e01_seg02_clip_19#enc#0,friends_s06e01_seg02_clip_19,0,Rachel walks away from Phoebe and Ross at Central Perk.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e01_seg02_clip_19#enc#1,friends_s06e01_seg02_clip_19,1,Ross tells Phoebe that he and Rachel are still married and then walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e01_seg02_clip_19#enc#3,friends_s06e01_seg02_clip_19,3,Ross walks into Central Perk and hugs Rachel.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e14_seg02_clip_15#enc#2,friends_s08e14_seg02_clip_15,2,Joey stands up and asks to be able to talk to them.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e08_seg02_clip_04#enc#0,house_s03e08_seg02_clip_04,0,Dr. Cameron turns around to face Dr. House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e10_seg02_clip_11#enc#0,castle_s08e10_seg02_clip_11,0,Joanna and Roger never suspected Sadie was carrying on with Nicki.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s02e06_seg02_clip_03#enc#3,friends_s02e06_seg02_clip_03,3,Terry tells Rachel what Phoebe makes him want to do.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e10_seg02_clip_01#enc#1,friends_s08e10_seg02_clip_01,1,Joey is about to sit down then stands back up.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e01_seg02_clip_14#enc#2,friends_s08e01_seg02_clip_14,2,Ross walks over to Mona and asks her to dance.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e10_seg02_clip_18#enc#4,friends_s07e10_seg02_clip_18,4,Rachel tries to tell Phoebe that she's okay with living where she has been.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e17_seg02_clip_16#enc#4,house_s06e17_seg02_clip_16,4,Wilson and Sam start making out after they walk in.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e08_seg02_clip_26#enc#0,house_s04e08_seg02_clip_26,0,Dr Hadley approaches House to stand close to him as she talks to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e08_seg02_clip_26#enc#1,house_s04e08_seg02_clip_26,1,Thirteen walks towards House as she is talking to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e08_seg02_clip_26#enc#3,house_s04e08_seg02_clip_26,3,Thirteen and House are standing very close as they are talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e02_seg02_clip_03#enc#0,friends_s08e02_seg02_clip_03,0,Rachel stands up  and sits next to Phoebe.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e04_seg02_clip_13#enc#3,house_s02e04_seg02_clip_13,3,Cameron stands over Sebastian and talks to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e09_seg02_clip_14#enc#4,house_s02e09_seg02_clip_14,4,House talks to Foreman as he follows after him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s01e01_seg02_clip_09#enc#4,grey_s01e01_seg02_clip_09,4,Meredith is offended by how Katie is talking to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e12_seg02_clip_19#enc#4,house_s08e12_seg02_clip_19,4,Chase yells at Adams who then walks towards him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s01e09_seg02_clip_01#enc#1,castle_s01e09_seg02_clip_01,1,"Beckett, Castle and Montgomery were standing across each other.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e04_seg02_clip_16#enc#3,grey_s03e04_seg02_clip_16,3,Izzie asks Mr. Duquette where he was when Denny was sick.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e24-25_seg02_clip_06#enc#2,friends_s06e24-25_seg02_clip_06,2,Rachel tries to get Joey to understand he just bid.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e24-25_seg02_clip_06#enc#3,friends_s06e24-25_seg02_clip_06,3,Joey starts to stand up but Rachel pulls him back down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e01_seg02_clip_03#enc#1,castle_s08e01_seg02_clip_03,1,Castle denies Alexis telling him about employing her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e14_seg02_clip_08#enc#0,house_s02e14_seg02_clip_08,0,Cameron turns and glances over at Foreman and Chase.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e14_seg02_clip_08#enc#3,house_s02e14_seg02_clip_08,3,House and Wilson are playing while they are talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s08e01_seg02_clip_02#enc#2,s08e01_seg02_clip_02,2,Raj responds acerbically to ask why Howard is speaking bitterly.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e01_seg02_clip_18#enc#4,friends_s08e01_seg02_clip_18,4,Ross is startled when Gert walks toward him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e07_seg02_clip_15#enc#2,castle_s05e07_seg02_clip_15,2,Beckett is speaking to Keith as she stands and he sits.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e05_seg02_clip_20#enc#0,castle_s08e05_seg02_clip_20,0,Ryan and Eposito are standing beside each other speaking to Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s02e16_seg02_clip_18#enc#0,castle_s02e16_seg02_clip_18,0,Esposito stands up and walks over to Mistress.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e11_seg02_clip_15#enc#2,s03e11_seg02_clip_15,2,Beverly is angry Leonard didn't tell him he was going out with Penny.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e15_seg02_clip_12#enc#4,grey_s03e15_seg02_clip_12,4,Richard tells Yang he knows that Burke proposed to her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s02e20_seg02_clip_03#enc#1,grey_s02e20_seg02_clip_03,1,Dr. Bailey turns around to look at Christina.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e20_seg02_clip_16#enc#2,house_s02e20_seg02_clip_16,2,Foreman and Joey both talk to each other as they lay down.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s02e03_seg02_clip_03#enc#3,met_s02e03_seg02_clip_03,3,Marshall and Lily are arguing as they sit down with each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e12_seg02_clip_11#enc#3,house_s08e12_seg02_clip_11,3,Chase crutches away from House but House follows him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e12_seg02_clip_10#enc#1,friends_s08e12_seg02_clip_10,1,Joey talks about what happened while he was laughing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s10e02_seg02_clip_05#enc#0,s10e02_seg02_clip_05,0,"Leonard, Sheldon, Howard and Raj are all standing together.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e14_seg02_clip_15#enc#4,s01e14_seg02_clip_15,4,Mike walks through Raj and Howard and begins talking to Penny.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e18_seg02_clip_06#enc#4,s03e18_seg02_clip_06,4,Sheldon gets up from where he is sitting and stands upright.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e01_seg02_clip_26#enc#0,house_s03e01_seg02_clip_26,0,"Dr. Cuddy stands up and moves to leave, but is stopped by Dr. Wilson.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e01_seg02_clip_26#enc#2,house_s03e01_seg02_clip_26,2,Dr. wilson begins to move away from Dr. Cuddy,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e09_seg02_clip_03#enc#1,s03e09_seg02_clip_03,1,Howard explained why he did not call Bernadette back to Penny.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s03e07_seg01_clip_00#enc#0,s03e07_seg01_clip_00,0,Sheldon takes out the game board box and displays it.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s01e06_seg02_clip_11#enc#2,castle_s01e06_seg02_clip_11,2,Castle laughed at what Meredith have said and hugged Alexis.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e15_seg02_clip_17#enc#1,friends_s08e15_seg02_clip_17,1,"Chandler, Monica and Rachel were sitting beside each other.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e21_seg02_clip_14#enc#3,castle_s03e21_seg02_clip_14,3,Beckett takes down Jimmy after he was stopped by Ryan and Esposito.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s05e07_seg02_clip_14#enc#3,s05e07_seg02_clip_14,3,Leonard admits to Priya that he cheated on her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e10_seg02_clip_16#enc#3,friends_s07e10_seg02_clip_16,3,Chandler walks over to Ben and sits down with him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s06e22_seg02_clip_17#enc#3,s06e22_seg02_clip_17,3,Arthur nods at Sheldon when he is speaking to Sheldon.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e05_seg02_clip_00#enc#2,house_s02e05_seg02_clip_00,2,Wilson turns when he explains what he wrote on the white board.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e04_seg02_clip_00#enc#1,friends_s09e04_seg02_clip_00,1,Joey signals for Monica to come sit with him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e01_seg02_clip_19#enc#2,friends_s04e01_seg02_clip_19,2,Ross pretends to cry at Rachel then yells at her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s09e23-24_seg02_clip_47#enc#1,friends_s09e23-24_seg02_clip_47,1,Monica tries to convince Chandler she's ok by saying not to move.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e14_seg02_clip_20#enc#3,house_s06e14_seg02_clip_20,3,"Thirteen, Taub, Chase and Foreman walks out together.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e14_seg02_clip_16#enc#2,house_s07e14_seg02_clip_16,2,"House turns around and continues to talk with Foreman, Cameron, Taub, and Chase.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e01_seg02_clip_01#enc#3,friends_s08e01_seg02_clip_01,3,Phoebe tells Ross Monica and Rachel that she is pregnant.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e13_seg02_clip_07#enc#4,house_s06e13_seg02_clip_07,4,Cuddy leans back and looks up while talking to Regina.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e18_seg02_clip_04#enc#1,met_s03e18_seg02_clip_04,1,Ted sits down while he says what he will be eating.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s07e02_seg02_clip_14#enc#1,house_s07e02_seg02_clip_14,1,Lisa and Chris were talking angrily to Dr. Gregory.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e04_seg02_clip_12#enc#2,castle_s08e04_seg02_clip_12,2,Castle comes downstairs beside Ryan and Esposito are standing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s08e04_seg02_clip_12#enc#3,castle_s08e04_seg02_clip_12,3,"Esposito, Ryan, and Castle walk up to Eric and start conversing with him.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e07_seg02_clip_27#enc#3,castle_s04e07_seg02_clip_27,3,Alexis stands up and walks over to Castle.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e08_seg02_clip_03#enc#2,met_s06e08_seg02_clip_03,2,George walks out and leaves Ted and Zoey alone.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e23-24_seg02_clip_10#enc#4,friends_s07e23-24_seg02_clip_10,4,Rachel volunteers to help and Monica ignores her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e19_seg02_clip_13#enc#1,friends_s04e19_seg02_clip_13,1,Ross and Emily kiss each other and then hug.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s04e19_seg02_clip_13#enc#4,friends_s04e19_seg02_clip_13,4,Emily tells Ross that she thinks he is crazy and she walks away from him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e18_seg02_clip_07#enc#3,friends_s06e18_seg02_clip_07,3,Rachel looks angry when Monica tells her she'll have to move.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e20_seg02_clip_09#enc#3,house_s08e20_seg02_clip_09,3,Wilson bends over to throw up while House points at him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e21_seg02_clip_02#enc#3,s04e21_seg02_clip_02,3,"Priya walks towards Leonard, and they hug and kiss.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e21_seg02_clip_02#enc#4,s04e21_seg02_clip_02,4,Priya and Leonard kissed each other after Sheldon walked out.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s06e21_seg01_clip_01#enc#0,met_s06e21_seg01_clip_01,0,Barney looks sad when Jerry asks to see him again.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s01e02_seg02_clip_12#enc#1,castle_s01e02_seg02_clip_12,1,Chole is sitting in between Castle and Beckett as they are outside conversing.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s09e21_seg02_clip_10#enc#4,s09e21_seg02_clip_10,4,"While listening to Amy talk, Leonard sits up, angrily.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e12_seg02_clip_23#enc#2,house_s03e12_seg02_clip_23,2,Eve sits down next to Dr. House and begins to speak to him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s02e18_seg02_clip_05#enc#2,s02e18_seg02_clip_05,2,Sheldon draws Penny aside and speaks to her privately.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s08e22_seg02_clip_06#enc#3,s08e22_seg02_clip_06,3,Raj briskly walks over to Sheldon and Howard,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s08e17_seg02_clip_15#enc#4,s08e17_seg02_clip_15,4,"Amy lets go of Sheldon, steps back and looks at him.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e21_seg02_clip_19#enc#3,castle_s03e21_seg02_clip_19,3,Tommy describes to Castle and Beckett how he blackmailed Brian.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e16_seg02_clip_00#enc#4,friends_s08e16_seg02_clip_00,4,Rachel. Chandler. and Phoebe are sitting  as they converse with each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s05e09_seg02_clip_05#enc#0,s05e09_seg02_clip_05,0,Sheldon stands up and walk towards Howard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s02e04_seg02_clip_01#enc#1,house_s02e04_seg02_clip_01,1,Chase and Foreman look at each other while listening to the other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e11_seg02_clip_09#enc#3,s01e11_seg02_clip_09,3,Sheldon and Penny are walking upstairs while they are talking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e19_seg02_clip_00#enc#1,castle_s05e19_seg02_clip_00,1,Beckett doesn't believe Castle when he says he was not showboating.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s05e19_seg02_clip_00#enc#2,castle_s05e19_seg02_clip_00,2,Martha walks downstairs and meets up with Kate and Richard.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e20_seg02_clip_10#enc#1,friends_s06e20_seg02_clip_10,1,Chandler and Joey were talking angrily at each other.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s06e19_seg02_clip_06#enc#3,friends_s06e19_seg02_clip_06,3,Joey pushes Ross in to his Fridge then looks back at Chandler,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e23_seg02_clip_00#enc#4,s04e23_seg02_clip_00,4,"Priya doesn't want to marry right now, she is not prepared yet.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e03_seg02_clip_25#enc#0,castle_s04e03_seg02_clip_25,0,Cynthia laughs as she is speaking to Beckett.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e03_seg02_clip_25#enc#4,castle_s04e03_seg02_clip_25,4,Castle and Beckett are sitting across from Cynthia as they converse.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s01e14_seg02_clip_21#enc#4,house_s01e14_seg02_clip_21,4,Cameron stands up from being seated to talk to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s03e15_seg02_clip_15#enc#4,castle_s03e15_seg02_clip_15,4,Damian Westlake tells Beckett why he married Vicky.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e21_seg02_clip_07#enc#0,friends_s01e21_seg02_clip_07,0,Rachel and Phoebe are dancing together until Phoebe starts dancing wildly.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e21_seg02_clip_07#enc#2,friends_s01e21_seg02_clip_07,2,Ross tells Chandler and Joey where he has was earlier.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e21_seg02_clip_07#enc#4,friends_s01e21_seg02_clip_07,4,"Looking very depressed, Ross waves hi to Chandler and Joey in Central Perk.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e25_seg02_clip_12#enc#1,grey_s03e25_seg02_clip_12,1,Burke looks at Izzie and she looks back at him.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+met_s03e08_seg02_clip_01#enc#2,met_s03e08_seg02_clip_01,2,Barney gets up and walks over to where Marshall is sitting.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s07e02_seg02_clip_14#enc#3,friends_s07e02_seg02_clip_14,3,Chandler turns around to listen to Rachel speak.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s08e20_seg02_clip_05#enc#0,house_s08e20_seg02_clip_05,0,Adams tells Taub that House hasn't come in yet and neither is Wilson.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e05_seg02_clip_20#enc#1,house_s04e05_seg02_clip_20,1,House suddenly walks out after talking to Thirteen.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e05_seg02_clip_20#enc#4,house_s04e05_seg02_clip_20,4,Thirteen and Cole walks out after talking to House.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s04e18_seg02_clip_18#enc#0,castle_s04e18_seg02_clip_18,0,"Beckett, Jason and Castle were sitting across each other.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e12_seg01_clip_01#enc#0,s04e12_seg01_clip_01,0,Leonard and Sheldon looks disappointed on what Raj says.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s04e12_seg01_clip_01#enc#1,s04e12_seg01_clip_01,1,Howard continues to eat while Leonard is speaking.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s06e18_seg02_clip_17#enc#2,house_s06e18_seg02_clip_17,2,House seems to be shocked and he started smelling Taub all over.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+grey_s03e07_seg02_clip_25#enc#4,grey_s03e07_seg02_clip_25,4,Izzie opens up to Sydney and tells her she can't open up because it frightens her.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s08e08_seg02_clip_16#enc#2,friends_s08e08_seg02_clip_16,2,Ross grabs onto Mona and kisses her before Rachel comes back.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s04e05_seg02_clip_22#enc#2,house_s04e05_seg02_clip_22,2,Kutner turns back to see House and House walks away.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s06e02_seg02_clip_13#enc#2,s06e02_seg02_clip_13,2,Howard lies and says he is okay before admitting he is being picked on.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s01e20_seg02_clip_19#enc#1,friends_s01e20_seg02_clip_19,1,Rachel is shocked when Mindy says she's getting married.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+friends_s03e21_seg02_clip_03#enc#2,friends_s03e21_seg02_clip_03,2,Monica hugs Rachel and Rachel indicates that it hurts.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+s01e03_seg02_clip_10#enc#2,s01e03_seg02_clip_10,2,Leonard is talking to Penny and looks nervous.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e23_seg02_clip_14#enc#0,castle_s07e23_seg02_clip_14,0,Beckett is asked to sit down as she tries to leave.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+castle_s07e23_seg02_clip_14#enc#2,castle_s07e23_seg02_clip_14,2,Beckett looks shaken after Kaufman tells her to leave.,object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY
+house_s03e08_seg02_clip_18#enc#0,house_s03e08_seg02_clip_18,0,"Foreman, Chase, and Cameron walk in to talk with House.",object,,,0,,,,,True,,,0,,0,,,EMPTY,EMPTY,EMPTY

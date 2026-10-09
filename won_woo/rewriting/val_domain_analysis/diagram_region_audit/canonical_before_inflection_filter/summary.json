@@ -1,0 +1,178 @@
+{
+  "files": [
+    {
+      "csv_file": "action_A_train.csv",
+      "rows": 1762,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_B_train.csv",
+      "rows": 1181734,
+      "pairs": 1159775,
+      "issues": {
+        "INVALID_GENERATED_INFLECTION": 536
+      }
+    },
+    {
+      "csv_file": "action_B_val.csv",
+      "rows": 257033,
+      "pairs": 254548,
+      "issues": {
+        "INVALID_GENERATED_INFLECTION": 4628
+      }
+    },
+    {
+      "csv_file": "action_C_val.csv",
+      "rows": 84,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_EMPTY_train.csv",
+      "rows": 1426,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_EMPTY_val.csv",
+      "rows": 52,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_UNCLASSIFIED_train.csv",
+      "rows": 2,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_UNCLASSIFIED_val.csv",
+      "rows": 265,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_A_train.csv",
+      "rows": 6975,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_B_train.csv",
+      "rows": 369644,
+      "pairs": 313472,
+      "issues": {
+        "INVALID_GENERATED_INFLECTION": 184
+      }
+    },
+    {
+      "csv_file": "object_B_val.csv",
+      "rows": 62644,
+      "pairs": 56902,
+      "issues": {
+        "INVALID_GENERATED_INFLECTION": 2
+      }
+    },
+    {
+      "csv_file": "object_C_val.csv",
+      "rows": 721,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_EMPTY_train.csv",
+      "rows": 5906,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_EMPTY_val.csv",
+      "rows": 512,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_UNCLASSIFIED_train.csv",
+      "rows": 17,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_UNCLASSIFIED_val.csv",
+      "rows": 21,
+      "pairs": 0,
+      "issues": {}
+    }
+  ],
+  "rows_checked": 1888798,
+  "pairs_checked": 1784697,
+  "query_aspect_records_checked": 196138,
+  "source_expression_groups_checked": 408701,
+  "findings": {
+    "INVALID_GENERATED_INFLECTION": 5350
+  },
+  "rejected_source_terms": 305,
+  "rejected_reasons": {
+    "SOURCE_NOT_OBSERVED": 17,
+    "UNSUPPORTED_SOURCE_POS": 1,
+    "UNRESOLVED_CONTRACTION": 18,
+    "NONLEXICAL_LEMMA": 266,
+    "TRUNCATED_AUXILIARY": 3
+  },
+  "morphology_review_groups": 241,
+  "catalog_classification_errors": 0,
+  "normalization_corrected_source_occurrences": 1505,
+  "normalization_corrected_groups": 118,
+  "normalization_changed_region_occurrences": 129,
+  "changed_region_source_occurrences": 477,
+  "region_changes": {
+    "B->A": 5,
+    "A->B": 165,
+    "A->UNCLASSIFIED": 17,
+    "C->UNCLASSIFIED": 286,
+    "C->B": 2,
+    "B->C": 1,
+    "B->UNCLASSIFIED": 1
+  },
+  "independent_vocabulary_sizes": {
+    "object:train": 5871,
+    "action:train": 2495,
+    "object:validation": 2536,
+    "action:validation": 1089
+  },
+  "unknown_wordnet_term_records": 1555,
+  "method": "Original extraction raw/POS -> unique same-POS WordNet morphological root or legacy spaCy lemma -> same-POS WordNet synsets/direct lemma; also check observed tokens, all candidate witnesses, generated inflections, membership and rank-0 sidecars",
+  "limitations": "No word-sense disambiguation, video grounding or manual POS correction; surface/lemma sense differences are exported for review",
+  "wordnet_version": "3.0",
+  "seed": 2026,
+  "source_inputs_sha256": {
+    "/home/viglab2/won_woo/tvr/TextData/tvr_id_object_dict.json": "8a10ed960f3473d8b227f04f98f12d0ad21ca6e3b4578820496c83582be4322f",
+    "/home/viglab2/won_woo/tvr/TextData/tvr_id_action_dict.json": "773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67",
+    "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_domain_analysis.csv": "c2a6990fbaa74d80b4138e80ae0c7eda0ca18313a72cc962fdfc86de2df87a9a",
+    "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c"
+  },
+  "checked_csv_sha256": {
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_A_train.csv": "9974fc5a66b1f150222c766fc5005a1122a2ea9f2d816d6d84702ff52eed2be9",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/no_pair_annotations.csv": "247398e90f43603b401753929ca6a2783a6cd0f4b215c84e87ff6f5fe75d2bac",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_UNCLASSIFIED_val.csv": "eadd99b99d99083d2c9e6dc178a6ceef2ba002b073eb1e468893a4a091a1a4f7",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_C_val.csv": "b780db9ccea6fcc7d1aed3b61942fb011e50a302a2968d1da24143fbba2c35d4",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_UNCLASSIFIED_train.csv": "819950c72d18e11c096fc6daf43fe85ecc8cadd15bca8332f24ae083bb4b0c97",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_B_train.csv": "8c373025c40488e8df6d18ee5099f6124f59427ff1c06c46bc1b3419bb3104b6",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_B_train.csv": "d79454b65265e44730ed0dfd348343b3bdd91b548c9a6dbca54d2547ab081e15",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_EMPTY_val.csv": "049f6947f19f1c19f921899d9a763ece1d5e9e7668336cece70fa9404599d330",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_C_val.csv": "46c2636a4f20b3f7631bdb2b92c74f321151d35f7cf8072bee156f5359d8250c",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/query_membership.csv": "ab18fd65b53c9533611fff3b38c08cfadd3b2fe65b01c01148c8a8d3a4281af2",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_EMPTY_train.csv": "abb11034371e1d97130eb23824828d1d794130af7cb776333792d62953e8ce74",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_A_train.csv": "68d2991625b1866de7e5cc45417b3b02d69ec90c0785c7096ed8b09fb96ea859",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_UNCLASSIFIED_train.csv": "2f9908f5373f4b7b10c5c4060edee9112fbec18ea07841f2cc49b04f6899b6b7",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_EMPTY_train.csv": "6106e65c69a7a1ddd707efedf52c0bc6c77ad0ca391c430a61e6281d1fa98555",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_B_val.csv": "67582f60d229321f3bf50668c05d7ec33919c416d1d642f5db32fd3426f2ddc5",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_EMPTY_val.csv": "4257634db9c25e3b54e91969518a7ea5daab0d185867738e2cd52d44b332a33d",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/action_UNCLASSIFIED_val.csv": "a20ce8473b4e5ec9b2befdbb4b505492df009b5379227c262325f9b7d269cfa5",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging/object_B_val.csv": "04280e7f3953f528aa49fefffc49584817f0d5b89648043728ff0eeb4601388a"
+  },
+  "audit_script_sha256": "59a6e95b7adee3c8c94633b3efcced68ce7bb6bc779d15623f624acbf6cbc364"
+}

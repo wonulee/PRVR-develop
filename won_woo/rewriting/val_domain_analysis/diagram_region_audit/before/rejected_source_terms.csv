@@ -1,0 +1,286 @@
+﻿aspect,split,caption_id,caption,source_expression,source_lemma,source_pos,reason
+object,train,s04e12_seg02_clip_17#enc#3,Sheldon erases the equations from the dry-erase white board.,-erase,-erase,NN,SOURCE_NOT_OBSERVED
+action,train,friends_s08e04_seg02_clip_13#enc#2,Monica answers excitedly after Rachel asks if they wanna watch it.,wan,wan,VBP,SOURCE_NOT_OBSERVED
+object,train,house_s08e09_seg02_clip_22#enc#0,The male patient hands Dr. Wilson and x-ray.,x-,x-,NN,SOURCE_NOT_OBSERVED
+object,train,house_s01e22_seg02_clip_20#enc#4,Dr. Chase looks at the patient'e eyes with a light.,patie,patie,NN,SOURCE_NOT_OBSERVED
+object,train,house_s01e22_seg02_clip_20#enc#4,Dr. Chase looks at the patient'e eyes with a light.,nt'e,nt'e,NN,SOURCE_NOT_OBSERVED
+object,train,grey_s03e03_seg02_clip_19#enc#3,Callie looks at the patient' surgery chart and asks about her patient's scheduled surgery to which a nurse tell her it was cancelled by the patient since they left.,patie,patie,NN,SOURCE_NOT_OBSERVED
+action,train,s07e03_seg02_clip_11#enc#3,"Sheldon memorizes the numbers under the Rolling Stones poster, picks up his backpack and walks out the door.",Rolling,,NNP,UNSUPPORTED_SOURCE_POS
+object,train,grey_s01e05_seg02_clip_14#enc#4,Derek puts an cat scan of a patient's brain on the light box and asks Alex and Izzie to look at it and the walks up to see the cat-scan.,-scan,-scan,NN,SOURCE_NOT_OBSERVED
+object,train,friends_s07e10_seg02_clip_02#enc#1,Monica pulls Chandler's arm to pull him away from the maitre'd.,'d,'d,NN,SOURCE_NOT_OBSERVED
+object,train,friends_s07e20_seg02_clip_11#enc#4,Monica gets a Yoo-hoo out of the refrigerator.,-hoo,-hoo,NN,SOURCE_NOT_OBSERVED
+object,train,friends_s02e06_seg02_clip_10#enc#1,The doctor points to the location of the puncture wound on Monica's hand X-ray.,X-,x-,NN,SOURCE_NOT_OBSERVED
+object,train,grey_s02e02_seg02_clip_04#enc#0,"Alex, Cristina, Meredith, and Bailey look at x-ray films together.",-ray,-ray,NN,SOURCE_NOT_OBSERVED
+object,train,house_s03e19_seg02_clip_16#enc#0,Dr. Foreman applies defibrillator paddles to a young patien't chest.,patie,patie,NN,SOURCE_NOT_OBSERVED
+object,train,castle_s06e12_seg02_clip_21#enc#1,"Beckett and Castle walk into a crowded library room, and he opens a laptop and she looks at her phone, evidently checking for a particular wi-fi network.",wi-,wi-,NN,SOURCE_NOT_OBSERVED
+object,train,house_s03e09_seg02_clip_04#enc#3,Dr. House puts the back of hs=is hands at the child's forehead.,=is,=is,NN,SOURCE_NOT_OBSERVED
+object,train,house_s05e10_seg02_clip_17#enc#4,Irv walks in to the hospital room and sits on the side of the bed.,v,v,NN,SOURCE_NOT_OBSERVED
+object,train,friends_s10e07_seg02_clip_02#enc#0,Phoebe picks up a white t-shirt from the counter.,t-,t-,NN,SOURCE_NOT_OBSERVED
+object,train,s06e01_seg02_clip_14#enc#4,Raj walks into the store and Stuart is folding a t-shirt.,t-,t-,NN,SOURCE_NOT_OBSERVED
+object,train,house_s05e22_seg02_clip_07#enc#2,House and his team of doctors are examining a result of an x-ray.,-ray,-ray,NN,SOURCE_NOT_OBSERVED
+action,validation,castle_s06e12_seg02_clip_22#enc#0,Cross explains why he's laying in the bed to Beckett.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s09e11_seg02_clip_06#enc#4,Penny is counting on her fingers while she's talking.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e09_seg02_clip_02#enc#0,Tag is shocked to learn he's undergoing a performance review.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s04e04_seg02_clip_22#enc#2,House ask Cole if he's good with a solution that involves evolution and Cole agrees to which House calls him a two faced as he walks past him.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,friends_s04e14_seg02_clip_14#enc#3,Joey's co-actor tosses a bath towel at Joey.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,friends_s04e14_seg02_clip_14#enc#4,The man wearing suspenders asks Joey if that's his name then throws a towel at him before sitting on the sofa.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,met_s03e16_seg01_clip_03#enc#1,Robin's ex-boyfriend Simon nods his head while she talks to him.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,house_s05e09_seg02_clip_21#enc#3,The phone rings and Wilson picks it up and asks House if he's crazy.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s06e12_seg02_clip_00#enc#4,Wilson asks House why he's in the tub.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s01e08_seg01_clip_03#enc#4,Raj grabs his laptop and says he's going to look for new pals.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e10_seg02_clip_01#enc#1,Rachel tells Chandler where Paolo's going over the holidays.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e03_seg02_clip_07#enc#4,Monica abruptly stands from a stool she's sitting on.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,house_s03e05_seg02_clip_12#enc#3,"House points at an x-ray while talking with Cameron, Chase, and Foreman.",-,-,NN,NONLEXICAL_LEMMA
+object,validation,house_s03e05_seg02_clip_12#enc#4,House pulls down two x-rays and leaves the room.,-,-,NNS,NONLEXICAL_LEMMA
+action,validation,s05e16_seg02_clip_12#enc#0,Sheldon and Amy argue about her work while she's examining a brain with a scalpel.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s04e16_seg02_clip_21#enc#2,A man rests his head in his hand and moves his hand when he sees what's on the screen.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e10_seg02_clip_11#enc#2,Monica asks Joey if he's got issues with what she said and he responds in the negative.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,house_s03e01_seg02_clip_18#enc#1,House points to spots on the x-rays on the wall.,-,-,NNS,NONLEXICAL_LEMMA
+object,validation,house_s03e01_seg02_clip_18#enc#3,House sits on a stool and looks around at x-rays.,-,-,NNS,NONLEXICAL_LEMMA
+action,validation,friends_s08e01_seg02_clip_03#enc#1,Monica tells her parents she's not carrying a baby and then Judy walks away from her.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s04e01_seg02_clip_13#enc#3,Ted comes running back out to see what's on the show.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s09e08_seg01_clip_00#enc#1,Sheldon opens a small box and takes a ring box out then says he's going to find Amy and propose to her.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s03e11_seg02_clip_02#enc#0,Cuddy slams her files on the desk when she's talking to House.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s03e11_seg02_clip_02#enc#2,House walks into Cuddy's office when she's looking at a file.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e06_seg02_clip_03#enc#2,Leonard asks Penny if she's ashamed of her pals knowing about him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s06e14_seg02_clip_09#enc#4,Leonard yells at Sheldon so Sheldon says he's grumpy and walks to his bedroom.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e04_seg02_clip_13#enc#1,Monica and Rachel think it's sweet that Joey is enjoying dancing and he says he is because he's doing well with it.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e04_seg02_clip_13#enc#2,Monica asks Joey to show her some dancing steps but he said he's always followed when dancing.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e17_seg02_clip_13#enc#0,Ted angrily says why it's someone else based on their facial hair.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e17_seg02_clip_13#enc#4,Ted lifts his hands when he tries to say he's not to blame.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s06e21_seg02_clip_03#enc#0,Ross is scared when Paul tries to figure out what's wrong with him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s03e11_seg02_clip_11#enc#3,Castle looks contemplatively when the actress tells him she's taking the role seriously.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s04e16_seg02_clip_08#enc#2,Foreman says he needs to sleep because of multiple events he's been through.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s03e13_seg02_clip_06#enc#0,Beckett thumbs through the pages while saying no one's seen him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s01e16_seg02_clip_08#enc#2,"Sheldon is looking for a present for Leonard so he asks Penny for her advice and she just picks one of the two, because she's in a hurry.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s08e10_seg02_clip_11#enc#0,Sheldon tells his audience that he would stop doing the webshow for anything except now when he's stopping the webshow.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s07e17_seg02_clip_17#enc#4,House talks to Danny when he's in a hospital bed.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e06_seg02_clip_02#enc#2,Raj looks sad at Sheldon after Sheldon says he's keeping the gear.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s01e16_seg02_clip_01#enc#4,Howard tells Penny she's not allowed to have a threesome with him then changes his mind.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e11_seg02_clip_02#enc#3,Barney looks at his watch while he's eating Chinese food.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s06e14_seg02_clip_26#enc#3,Beckett tells Castle that Matilda had given her a bridal dress to try on and that's where she was when he phoned her.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e22_seg02_clip_06#enc#1,Susan smiles as she's talking with Bailey who is writing on a clipboard.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e15_seg02_clip_00#enc#2,Leonard picks up his jacket that's hanging on the back of the desk chair.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e14_seg02_clip_03#enc#1,Penny crosses her arms while she's talking to Sheldon.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e06_seg02_clip_11#enc#1,Joey walks in talking on the phone and tells the group that he's going to be in a big film.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e06_seg02_clip_11#enc#4,Monica realizes she's obsessed with cleanliness and order and wonders what she's become so Ross tells her that she's come their mother.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e05_seg02_clip_10#enc#2,Tim grabs his beeper from his waist and puts it up to his mouth like it's a microphone.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s05e07_seg02_clip_04#enc#0,Gates puts on her suit jacket while she's talking to Beckett.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e10_seg02_clip_11#enc#4,Monica and Ross begin their battle and Rachel decides she's knows enough and leaves.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e22_seg02_clip_03#enc#3,Gunther confirms that he's going to the party.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e12_seg02_clip_05#enc#1,The doctor apologizes to Phoebe while she's sitting on the exam table.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s06e07_seg02_clip_07#enc#1,Cameron talks to House - she's standing and he's sitting; she turns and walks away and he's left sitting at the desk.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s02e21_seg02_clip_11#enc#3,Chandler hands Ross a blue mug while he's sitting at the bar.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e07_seg02_clip_18#enc#0,Chandler looks confused when he realizes he's using other people's gum.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e07_seg02_clip_18#enc#3,Chandler chokes on the gum after realize it's other people's.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s09e08_seg02_clip_01#enc#4,Ross walks into the room and up to Rachel and Amy who's looking at the baby.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e13_seg02_clip_07#enc#1,Howard is kneeling while installing a new titanium deadbolt then stands when it's complete.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s02e06_seg02_clip_11#enc#1,Cristina walks up to Alex and Meredith telling them she can't find the misplaced body part and she's worried not finding it might effect her career.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s02e06_seg02_clip_11#enc#2,Burke looks at Cristina as he tells her that he is walking away and he walks away as she tells him that if she's fired he'll rethink his actions.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s09e16_seg02_clip_12#enc#3,Penny asks Sheldon if he's going to go up on stage in awhile.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e14_seg02_clip_00#enc#1,Rachel throws bread at Joey because of the comments he's making.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e04_seg02_clip_25#enc#2,Cristina walks into Burke's apartment and walks toward him in the kitchen as he tells her he's making her a meal and she smiles and walks away.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e15_seg02_clip_00#enc#2,House closes his laptop while he's talking to Foreman.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s02e06_seg02_clip_20#enc#0,House moves his stirrer like he's conducting a orchestra.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s05e24_seg02_clip_11#enc#4,Raj fixes Howard's bow time then announces it's time for the wedding to start.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,house_s02e13_seg02_clip_19#enc#0,House holds up an x-ray of his patient.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,grey_s03e22_seg02_clip_14#enc#0,Violet pushes her hair back when she's listening to her clients.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e22_seg02_clip_14#enc#1,A lady stops Dr. Feelgood as he's walking with Pete in the park.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e15_seg02_clip_18#enc#4,Monica and Rachel hide from the tv until Chandler tells them to see what's happening.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e22_seg02_clip_15#enc#4,Joey makes a funny face when he finds out the box he's holding contains a family member of Phoebe's.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e12_seg02_clip_01#enc#2,Raj stands slightly behind Sheldon his hands clasped in fists with pinky knuckles pressed together he's bent slightly over and Sheldon turns and looks at him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e11_seg02_clip_15#enc#0,Ross walks up to Chandler when he's talking to other men.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s05e05_seg02_clip_00#enc#2,Ted walks out and says that he's ready to leave.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e18_seg02_clip_01#enc#3,Meredith is in the locker room as she tells Bailey she's good and Bailey tells her that after her mother's death and her near death experience she's not good.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s01e06_seg02_clip_10#enc#2,Leonard and Sheldon approach Penny while she's talking to another man.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e22_seg02_clip_03#enc#1,Raj open the door and grabs his jacket because it's nippy.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e22_seg02_clip_03#enc#3,Penny explains to Amy why she's lying on the sofa with her feet up.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s06e12_seg02_clip_07#enc#3,Castle comes over after Beckett wonders if he's paying attention.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,grey_s01e07_seg02_clip_12#enc#3,An x-ray technician hands Derek a cup of triple espresso.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,s04e07_seg02_clip_14#enc#2,Sheldon reads out a list of cocktails he's checking out.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s08e13_seg02_clip_21#enc#2,"Caldwell walks to the end of the hallway, turns around and tells Castle he's wrong.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s08e13_seg02_clip_21#enc#3,Castle and Caldwell turn around after mentioning what's not in the hallway.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e15_seg02_clip_12#enc#2,Ross slams his book shut while he's talking to Chandler.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e15_seg02_clip_12#enc#3,Ross opens his book back up when he's talking to Chandler and starts flipping through pages.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s04e04_seg02_clip_04#enc#3,Amber mentions the patient being dead and buried to which Kutner says they'll unbury the body and Taub says he's not doing it unless they get a court order.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s03e07_seg02_clip_08#enc#2,Dr. Green takes a drink from the wine glass that's in front of him on the table.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s05e10_seg02_clip_14#enc#1,Taub turns off his pager while he's talking to House.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s05e10_seg02_clip_14#enc#3,House walks up to the vending machine as he's talking to the team.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s01e14_seg02_clip_17#enc#2,House makes it very clear to Cathy about what's at stake.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e16_seg02_clip_02#enc#2,Ross and Chandler punch Joey's head when it's wrapped in bubble wrap.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e10_seg02_clip_16#enc#2,Rachel's neighbor opens the door and she's on the other side.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s06e11_seg02_clip_16#enc#1,Valerie hugs her husband while she's in a hospital bed.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e06_seg02_clip_14#enc#1,Marshall runs into Lily's bed and says it's time for sex.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e19_seg02_clip_03#enc#3,Penny picks up a bowl and spoon and prepares to eat what's in it.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s02e23_seg02_clip_19#enc#4,Martha looks questioningly at Castle when he answers he's fine too quickly.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s07e21_seg02_clip_19#enc#2,Beckett call Castle about Marilyn who's inside the plane too.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e20_seg02_clip_05#enc#3,Ross opens the door and ask Rachel if she there's something she had said and she responds that she's just vocalizing.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s03e04_seg02_clip_23#enc#4,Castle asks Beckett to continue her theory when he's in costume.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s04e22_seg02_clip_26#enc#2,"A woman's hand opens a doorknob, and she sneaks through the semi-dark, then as she turns, it's seen that it's Alexis, and she screams when she sees that her target is a zombie who's really Castle and he laser-tags her and her vest lights up, and they sit down to talk.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s02e08_seg02_clip_09#enc#2,Leonard takes off his shoes while he's kissing Stephanie.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s02e08_seg02_clip_14#enc#2,Alex is sitting beside Izzie as he tells her she's getting too worked up and she mention to him if he's be okay is she'd be the one with cancer and she lost her looks.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s06e18_seg02_clip_16#enc#0,Amy is lying on the couch dressed as a Disney Princess and is trying to get Sheldon to kiss her and he's ignoring her.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,grey_s03e09_seg02_clip_08#enc#0,Bailey holds up an x-ray to show the patient.,-,-,NN,NONLEXICAL_LEMMA
+object,validation,grey_s03e09_seg02_clip_08#enc#4,Bailey enters the patient room holding an x-ray film.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,castle_s03e16_seg02_clip_11#enc#4,Montgomery points at the picture while connecting what's on the white board.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e15_seg02_clip_13#enc#1,Chandler pretends to play hockey while he's on the phone.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e19_seg02_clip_18#enc#0,Luisa gets Marcel to jump into the cage and she sneers as she's going to take him away.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,friends_s08e05_seg02_clip_02#enc#2,Joey introduces Rachel to his co-star Kash after filming stops.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,friends_s08e14_seg02_clip_02#enc#4,Chandler laughs when Monica asks him to set what he's holding down.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e19_seg02_clip_06#enc#1,Lily asks Barney's dad about why he's not talking to Barney despite their good times.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s05e05_seg02_clip_16#enc#1,Jerry Tyson walks towards the door then turns around and walks out backwards while telling Castle he's fortunate he will not be alive.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s05e05_seg02_clip_16#enc#4,Beckett is telling Castle that nothing points to Jerry Tyson being there while Castle is promising her that he's not lying about getting a visit from Tyson.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s07e02_seg02_clip_25#enc#4,Jenkins walks away from Castle after saying it's Castle's wishes.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s01e04_seg01_clip_00#enc#0,Leonard put's on his brown jacket and adjusts the lapels.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s09e13_seg02_clip_22#enc#1,Monica turns around when Chandler tells her why he's late.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s06e05_seg02_clip_17#enc#0,Ross sits beside Rachel as she tells him his markings on the documents make up for it and he gets up from his seat as he tells her she's done dumb things also.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s07e10_seg02_clip_22#enc#0,Beckett tries to calm Luca by saying she's not going to hurt him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s06e14_seg02_clip_04#enc#0,Joey tries to get Chandler to say he's going to tear up by telling him a sad dog story but Chandler said he'll make a lot of money.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e23_seg02_clip_01#enc#1,Monica is seated beside Chandler as she mentions wanting a child and he's leaning on her asleep as he mention having work the next day.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e11_seg02_clip_12#enc#3,Beverley says she is all warm in her hands and feet then Penny tells her it's good as long as the warm part isn't going south in her trousers.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e21_seg02_clip_02#enc#3,Monica sets down the spoon while saying she's making  a plan.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,house_s08e08_seg02_clip_08#enc#2,Adams puts an x-ray on top of the x-ray table.,-,-,NN,NONLEXICAL_LEMMA
+object,validation,house_s08e08_seg02_clip_08#enc#4,Adams and Chase are looking at some x-ray results.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,castle_s08e06_seg02_clip_05#enc#4,"Esposito says he's about to learn the name of the murderer based on a fingerprint, and when he gets a text with the name, he looks up at Ryan in horror.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s03e04_seg02_clip_06#enc#4,Rachel heads over to Phoebe who's playing her guitar.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s06e18_seg02_clip_10#enc#2,Phoebe walks in to Joey's apartment while she's on the phone with him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e16_seg02_clip_14#enc#3,Ross rubs the couch while he's sitting on it alone in the hallway.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s02e03_seg02_clip_16#enc#3,Penny describes her game problem to Sheldon while she's holding a computer.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e06_seg02_clip_03#enc#1,Burke is shaking Mrs. Byrd as he introduces himself to her and she is pleased to meet him since she's heard of him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s01e18_seg02_clip_05#enc#0,Chase throw the file he's holding on the table.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s02e08_seg02_clip_14#enc#0,The girls look at Chandler after Joey says it's his fault.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s06e02_seg02_clip_08#enc#0,Sheldon knocks on Leonard's bedroom door three times saying his name and then asks Leonard if he's asleep.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s06e02_seg02_clip_08#enc#4,Leonard tells Sheldon that Amy's changing him from a type of humanoid into a real guy and Sheldon says it's stupid.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s05e08_seg01_clip_01#enc#3,Amy explains to Sheldon why  she's going with the girls and closes the door behind her.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e11_seg02_clip_09#enc#4,Penny opens the door and ask Sheldon what's his problem.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s07e11_seg01_clip_00#enc#2,Amy and Penny are playing a skiing game and Penny tells Amy she's great at it.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e02_seg02_clip_18#enc#4,Monica and Chandler decide to say it's a tie and high five.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s05e07_seg02_clip_00#enc#0,Ryan tells Beckett she's do what she asks when he walks away from her.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e01_seg02_clip_17#enc#1,George opens his locker while he's talking to Derek.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s06e07_seg02_clip_15#enc#3,Alexis takes the phone from Castle's hand as he's driving the car.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e22_seg02_clip_13#enc#4,Raj walks over to a female sitting at a table and apologizes for looking at her but says she's really pretty.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s02e07_seg02_clip_18#enc#1,Ross is upset with Rachel for telling him how she feels when he's in a relationship.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s08e08_seg02_clip_22#enc#4,The camera shows the photo of the man that's paying Acosta's rent.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s02e04_seg02_clip_07#enc#3,Raj calls out to a bar patron who turns around and takes off his glasses it's Charlie Sheen.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s02e14_seg02_clip_18#enc#4,"Esposito and Ryan show interest in what's being discusses by Castle, Beckett, and Montgomery.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e18_seg02_clip_05#enc#1,Monica waves Phoebe's hand off her and say's it's uncomfortable.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e06_seg02_clip_13#enc#4,Izzie moves the book on the chair and sits onto the seat mentioning that she's not being let do anything in the hospital since she came back.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,house_s05e17_seg02_clip_13#enc#3,Taub gives House the e-mails he got for him after spying.,-,-,NNS,NONLEXICAL_LEMMA
+action,validation,friends_s08e14_seg02_clip_20#enc#3,Phoebe is giving Monica a massage and Monica starts moaning like she's having sex which gets Phoebe talking.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e14_seg02_clip_20#enc#4,Joey talks about being by himself for eternity and wonders why no one's embracing him so Chandler runs over to him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e22_seg02_clip_00#enc#4,Penny asks about Sheldon's previous roomie's when she's painting her nails.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s03e12_seg02_clip_18#enc#3,Ross says goodbye to Chandler and Chandlers runs over and says he's not so interested in the pen anymore so he asks Ross to get him some nudie flicks.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e09_seg02_clip_23#enc#0,Cristina is looking at an heart on a person's chest mentioning that it's beating and she asks the nurse if the patient is ready to be let off bypass.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e09_seg02_clip_23#enc#1,Meredith notice Burke flex his hand during surgery and Derek standing beside Meredith asks her if she's distracted from the brain.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s09e04_seg02_clip_04#enc#3,Sheldon gives Leonard the pen to sign a document but Leonard hesitates saying that it's difficult to sign.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e23_seg02_clip_01#enc#0,Sheldon sits on the table and Leonard ask if he's okay.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s08e21_seg02_clip_03#enc#1,"Castle looks toward a grate that's the source of a noise, and he removes the grate, reaches in, and jumps back as several rats come running out, squeaking.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s02e24_seg02_clip_05#enc#4,Beckett walks through the station telling Montgomery what she's done.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s02e14_seg02_clip_19#enc#4,George comes in to Sophie's room while she's watching television.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s03e04_seg02_clip_04#enc#2,Beckett drops a gun that's in a plastic bag on the table.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e22_seg02_clip_18#enc#2,Phoebe is holding a glass when she says she's cool.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s01e16_seg02_clip_14#enc#0,There's a green  balloon behind Raj's back as he sings.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e05_seg02_clip_01#enc#1,Chase and Taub walk into the room and House tells them they're not on time but Taub says he's 7 days early.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e01_seg02_clip_16#enc#3,Cindy leans in and kisses the girl that she's been talking to.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e02_seg02_clip_15#enc#0,House is talking on Park's cell phone and when he's done he puts it in his pocket.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e02_seg02_clip_15#enc#4,"House greets Pinto in the hallway and once he's sure he's gone, House enters Pinto's office.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s02e09_seg02_clip_09#enc#4,Ted is waving some papers around while he's talking to Robin.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e05_seg02_clip_17#enc#2,Rachel shakes her head so Ross tries to say he's fine with it.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s05e14_seg02_clip_26#enc#4,Gates reads from a Valentines card that's for Castle.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e10_seg02_clip_16#enc#2,Monica hugs Chandler then is shocked to see the canine statue and asks him why it's there.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s06e15_seg02_clip_08#enc#0,Leonard looks irritated and questions Sheldon about why he's here after opening the door.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e03_seg02_clip_03#enc#2,Sheldon retorts to Leonard that he's had to deal with Penny's antics.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s02e21_seg02_clip_17#enc#2,Foreman denies Cameron's realization about his dad while he's in a hospital bed.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s01e10_seg02_clip_11#enc#4,Wilson looks if there's someone outside and then closes the door of the office.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s05e03_seg02_clip_26#enc#2,Beckett has a doll in her hand when she's talking to Castle.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s06e15-16_seg02_clip_38#enc#1,Rachel walks over to the coffee house couch while she's taking off a black and white jacket.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e14_seg02_clip_00#enc#4,Joey says his feelings for Rachel when she's about to give labor.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,grey_s01e07_seg02_clip_04#enc#0,Burke is looking at an x-ray with Alex and he points to it.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,s06e24_seg02_clip_05#enc#1,Penny shakes her head after Raj mentions she's scary.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s01e16_seg02_clip_22#enc#0,Chase tells Vogler that he has been telling him information on House so he'd keep his job safe and Vogler tells him he's talking to Cameron for back up so he doesn't need him as they are speaking in his office.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e02_seg02_clip_01#enc#1,Ross starts to ask Carol if she's still a homosexual and she cuts him off and responds in the affirmative.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e10_seg02_clip_14#enc#1,"When Penny starts weeping, Sheldon asks her why and she tells him it's because she's not smart.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s06e03_seg02_clip_14#enc#0,Castles hands Beckett a coffee drink and she's thrilled about it until she realizes he's trying to induce her to give him information.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s03e03_seg02_clip_00#enc#3,Rachel and Ross walk into the apartment and Monica lets them know what she's been up to.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e11_seg01_clip_00#enc#4,"Rachel walks in and Chandler tells her to have a taste of the delicious, creamy tart he's eating.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s07e15_seg02_clip_06#enc#4,"Taub hangs an IV bag and talks to a young man patient who's lying in a hospital bed, then Taub takes money from his wallet and hands it to the young man.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e12_seg02_clip_00#enc#2,Ross corrects Rachel when she thinks he's getting promoted.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e04_seg02_clip_20#enc#2,Park talks to the other doctors when she's getting evaluated.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e16_seg02_clip_17#enc#2,Ross tries to move the couch himself but it's stuck.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s06e23_seg02_clip_11#enc#0,Raj tells Lucy she's terrific in his eyes and they kiss through the chain link fence.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s04e23_seg02_clip_25#enc#3,Castle asks Beckett why she's here after he opens the door.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s03e05_seg02_clip_05#enc#4,Foreman shakes his head and says he's not gambling on a patient's response.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e15_seg02_clip_23#enc#4,House is talking to Brant about his time in Afghanistan and tells him the lice in the rodents carry typhus and that's what he has wrong with him.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s08e21_seg02_clip_07#enc#1,Castle walks into the office and goes to Ryan who's holding up papers.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,castle_s03e08_seg02_clip_02#enc#1,"Lanie points her right hand towards the x-ray,",-,-,NN,NONLEXICAL_LEMMA
+object,validation,castle_s03e08_seg02_clip_02#enc#2,Lanie pushes a button on the x-ray display in the exam room.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,friends_s09e12_seg02_clip_00#enc#2,Phoebe tries to get Mike's help with the crossword she's looking at.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e11_seg02_clip_04#enc#1,Zack is moving his lips as he's reading a comic book.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s08e14_seg02_clip_02#enc#3,Lanie walks up to Ryan while he's talking on the phone and he hangs up.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s07e22_seg02_clip_04#enc#4,Chase takes off his coat while he's talking with Thirteen.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e23_seg02_clip_11#enc#4,Rachel takes a sip of coffee from her cup since it's on the table next to her.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e22_seg02_clip_07#enc#4,Rachel tells Ross that he's annoying her while she's pregnant.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s02e08_seg02_clip_15#enc#3,A blonde woman is keying Dr. Ayersman red Porsche while he's chasing her around the car.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s03e15_seg02_clip_23#enc#0,Cristina tells Alex she's been sewing up patients and Alex says it's like making something for her grandmother.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e11_seg02_clip_17#enc#1,Monica leans down when Ross tells her why she's here.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e05_seg02_clip_25#enc#1,Everyone thinks there's been no change in the office until House shows them the wall opens and they can see Wilson sitting at his desk.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e12_seg02_clip_12#enc#4,Ross tells Monica he's not going to be in a worse place than Chandler.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e11_seg02_clip_19#enc#1,Phoebe hugs Frank as he mention he's about to cry and Monica with Rachel stand behind Phoebe.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s04e17_seg02_clip_03#enc#4,Leslie denies the clothes she's looking at belonged to her sister.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s04e20_seg02_clip_12#enc#2,Rachel asks Joshua for more but Joshua said he's still married and he hardly knows her after just several dates so he declines her request.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s03e07_seg02_clip_22#enc#0,House talks to Gabe while he's sitting down.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e21_seg01_clip_00#enc#4,Monica reads the review and ask her friends if they think it's accurate.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,house_s03e19_seg02_clip_20#enc#0,Foreman looks at the x-rays with House and points to them.,-,-,NNS,NONLEXICAL_LEMMA
+action,validation,grey_s01e04_seg02_clip_08#enc#2,Cristina runs up the stairs and asks if the procedure is done and she's told it is.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e18_seg02_clip_18#enc#1,Kim did not want to upset Rachel and tells her that's why they were not open.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s03e15_seg02_clip_07#enc#1,Ted picks up the phone and Marshall tells him to act like it's his girlfriend on the phone instead.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s03e15_seg02_clip_07#enc#2,Ted walks down the stairs and find Marshall who tells him he's not doing well.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s03e15_seg02_clip_07#enc#3,"Ted is sitting on the couch in his apartment when his cellphone rings. He picks it up and it's Marshall who says to Ted to not say it's him, but to say it's Stella. Ted plays along as Marshall asks Ted to come downstairs and find him. Ted says he'll be right now and they both end the call by saying I Love You. Lily is sitting on the floor and points out how they are already saying the ""L"" word.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s03e15_seg02_clip_07#enc#4,Ted is walking down the steps of his apartment building over to Marshall who is sitting on a car with a box of his office stuff eating a sandwich saying he's in trouble.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e15_seg02_clip_00#enc#0,Phoebe explains to Gunther why she's reading that part of the paper.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e15_seg02_clip_00#enc#3,Gunther is surprised of the section of the paper she's reading.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s02e07_seg02_clip_06#enc#2,Penny tells Sheldon he is banned from the restaurant because he's jerk and he tells her she's not allowed to do that.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,grey_s02e02_seg02_clip_08#enc#3,Meredith shows Burke and Patricia an x-ray and Burke holds it up to the light.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,friends_s08e01_seg02_clip_14#enc#3,Mona thinks it's very sweet when Ross is going to dance with the girl first.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e10_seg02_clip_18#enc#4,Rachel tries to tell Phoebe that she's okay with living where she has been.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s06e04_seg02_clip_07#enc#3,Thirteen talks on her cell while she's in a cab.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s09e02_seg02_clip_16#enc#0,Joey uses his hand to make air quotes as he's talking to Ross,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s08e12_seg02_clip_19#enc#3,Foreman walks away from Chase while he's on crutches.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e11_seg02_clip_20#enc#1,"Ross and Monica are leaving their cousins wedding when Monica stops Ross because she forgot her wrap. Monica pleads with Ross to go get it. Ross walks back to the table they were sitting at when his aunt sits down on Monica's wrap. As he pulls the wrap from under his aunt, she asks if he's leaving and says give me a kiss. The aunt puts her hands on his face and Ross is moving is head around to avoid kissing her because she always kisses him on the lips.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s03e03_seg02_clip_08#enc#0,Raj tells the girls at the bar that he does his work in the evening when it's dark outside and she thinks it's excellent.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e19_seg02_clip_04#enc#4,Phobe points at Joey while she's sitting on the coffee table.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e01_seg02_clip_18#enc#3,"Ross walks over to the table where Mona is sitting and she inquires as to whether it's her turn for a dance, but before he can reply, a large redheaded girl comes up from behind him and states that she will be Ross' next dance partner.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s02e12-13_seg02_clip_16#enc#1,Joey is trying to get a delusional Erica to understand that he's not the character he plays in the soap opera.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s02e01_seg02_clip_11#enc#3,Howard walks around the corner and asks who's at the door after the bell rings.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s02e21_seg02_clip_04#enc#2,Esposito and Ryan both look at Beckett while she's talking to them and then Ryan lifts his mug up to his mouth.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s09e04_seg02_clip_00#enc#4,"Joey suggests to Monica that she get on a plane and travel to see Chandler and Monica tells him she'd love to, but it's just too extravagant for her to be able to and she needs a day's respite from work.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s06e22_seg02_clip_10#enc#1,Paul asks Elizabeth if she's going to spend the night.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e01_seg02_clip_02#enc#2,"Ross walks into the room and catches Phoebe, Monica, and Chandler with their ears to the wall and asks them what's going on.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s09e23-24_seg02_clip_47#enc#1,Monica tries to convince Chandler she's ok by saying not to move.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s07e14_seg02_clip_16#enc#1,"The doctors discuss things during a patient's MRI, then they rush to the patient when they realize he's having a seizure.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s07e12_seg02_clip_01#enc#0,Joey tells Ross he has no idea what's holding the door now.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s02e05_seg02_clip_20#enc#0,The super shrugs slightly and nods his head from side to side when he's talking to Beckett.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s02e22_seg02_clip_13#enc#0,Ross takes off the glasses while he's holding a cigarette in his mouth.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e10_seg02_clip_04#enc#4,Joey introduces his sister in a way that makes Rachel think it's her.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s06e01_seg02_clip_01#enc#3,Sheldon interrupts Leonard while he's trying to answer his question.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,house_s03e13_seg02_clip_02#enc#3,Dr. Whitner puts her glasses on when she's talking to House.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s08e10_seg02_clip_09#enc#4,Phoebe goes up to her nephew while he's at the water fountain.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s01e01_seg01_clip_00#enc#2,Leonard walks over to the nurse's desk and looks to see what she's doing.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s02e12-13_seg02_clip_28#enc#2,Phoebe doesn't get Chandler's joke because she's a vegetarian.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e14_seg02_clip_03#enc#1,Rachel's boss sees her and greets and she lies to him about why she's there.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s10e03_seg02_clip_12#enc#4,Bernadette didn't know what's wrong about her. That's why she asked her friend.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e18_seg02_clip_04#enc#0,"Nate tells Robin, Marshall and Lily what's going on with his garden.",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,met_s06e18_seg02_clip_04#enc#2,Lily slaps Barney when he's in the doctor's office.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,castle_s08e07_seg02_clip_02#enc#0,Beckett reaches across her desk and tears a post-it note off of a stack.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,grey_s03e04_seg02_clip_12#enc#3,Burke hands Cristina a stop watch when it's clear she isn't going anywhere.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s05e04_seg02_clip_11#enc#0,Joey reaches out his arm to see if it's on tv.,'s,',VBZ,NONLEXICAL_LEMMA
+object,validation,house_s03e19_seg02_clip_19#enc#3,Three x-ray's are being put up on the x-ray board.,-,-,NN,NONLEXICAL_LEMMA
+action,validation,house_s01e03_seg02_clip_21#enc#4,Foreman describes the produce he's about to do to Brandon.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s04e23_seg02_clip_00#enc#1,"In a restaurant, there's a waitress wear a sunglasses,",'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s09e18_seg02_clip_01#enc#1,Penny asks Bernie to whiff a wrapped gift she's holding.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,grey_s02e02_seg02_clip_20#enc#4,Derek asks George to look after Meredith as he is standing at the door way and he's in a room after Derek walks away.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s03e12_seg02_clip_08#enc#4,Rachel moves a brown stuffed animal that's on the table.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,castle_s01e03_seg02_clip_03#enc#3,Martha describes to Castle what is going on in the store she's in.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s01e20_seg02_clip_19#enc#1,Rachel is shocked when Mindy says she's getting married.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,friends_s10e07_seg02_clip_12#enc#1,Ross starts freaking out that there's a spider on him when Rachel mentions spider.,'s,',VBZ,NONLEXICAL_LEMMA
+action,validation,s07e09_seg02_clip_08#enc#0,Sheldon sits on the couch while speaking to the group who's in there.,'s,',VBZ,NONLEXICAL_LEMMA

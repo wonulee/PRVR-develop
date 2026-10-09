@@ -1,0 +1,32 @@
+{
+  "checked_at_utc": "2026-10-07T01:55:56.747417+00:00",
+  "train_caption_ids": 87174,
+  "val_caption_ids": 10895,
+  "train_val_id_overlap": 0,
+  "dictionaries": [
+    {
+      "aspect": "action",
+      "dictionary_file": "/home/viglab2/won_woo/tvr/TextData/tvr_id_action_dict.json",
+      "dictionary_keys": 87174,
+      "train_id_matches": 87174,
+      "val_id_matches": 0,
+      "other_ids": 0,
+      "sha256": "773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67"
+    },
+    {
+      "aspect": "object",
+      "dictionary_file": "/home/viglab2/won_woo/tvr/TextData/tvr_id_object_dict.json",
+      "dictionary_keys": 87174,
+      "train_id_matches": 87174,
+      "val_id_matches": 0,
+      "other_ids": 0,
+      "sha256": "bc191f36afc520c42b36012c7b8e66cd0969f763213dd2891614aab4e22fb96a"
+    }
+  ],
+  "val_example_id": "friends_s01e03_seg02_clip_19#enc#0",
+  "example_membership": {
+    "action": false,
+    "object": false
+  },
+  "interpretation": "These exact files have Train caption keys only. Existing B_val outputs come from Val captions restricted to their surface/POS vocabulary; C_val=0 does not assess unrestricted Val vocabulary."
+}

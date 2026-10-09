@@ -1,0 +1,28 @@
+{
+  "train_queries": 87174,
+  "A_containing_queries": 8024,
+  "A_containing_query_percent": 9.20457934705302,
+  "A_only_valid_term_queries": 30,
+  "A_and_B_queries": 7994,
+  "A_unique_lemmas": 3757,
+  "A_query_lemma_exposures": 8743,
+  "B_query_lemma_exposures": 340204,
+  "A_share_of_extracted_query_lemma_exposures_percent": 2.5055380903117093,
+  "A_singleton_lemmas": 2317,
+  "A_singleton_percent": 61.67154644663295,
+  "A_lemmas_with_literal_Val_text_match": 436,
+  "A_lemmas_without_literal_Val_text_match": 3321,
+  "A_lemmas_without_WordNet_entry": 1220,
+  "training_effect_status": "Not measured. Neither literal absence nor frequency proves a term decreases validation recall.",
+  "exposure_unit": "Distinct (caption_id, aspect, lemma) entries, not encoder tokens, attention weights, gradient mass, or training repetitions",
+  "presence_unit": "Case-insensitive standalone source-expression or lemma string in a Val caption; does not establish matching POS/meaning",
+  "source_sha256": {
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/query_membership.csv": "2bd6c13fe735fe35f51bdf553fc73a3da4d19da874d7c30f2574cd31c2bbe2c9",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_region_audit/context_review/final_term_regions.csv": "5810684b432d69c87efc3c30424f29ea413491c7905e857bda66d79235818a5f",
+    "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+    "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_A_train.csv": "f07b95a50f488da5829a0faa8cf64e7b228ce8ac6503f63150d678868dd2f639",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_A_train.csv": "fc65a9e015ba6af1eb422f92f9cf9b30f0f7e0755c2be8a63bd29cbcee36f0c3"
+  },
+  "script_sha256": "167fc83ea0e53b25a5fb97a5b3c02daba86181aec8ee6d87a681f08ae9671ff9"
+}

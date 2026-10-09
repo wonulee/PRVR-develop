@@ -1,0 +1,25 @@
+{
+  "unique_evaluated_queries": 10895,
+  "source_rows_preserved": true,
+  "independent_region_joins_correct": true,
+  "recall_recomputed_from_gt_rank": true,
+  "C_queries": 776,
+  "R1_C_failures": 621,
+  "R100_C_failures": 104,
+  "A_recall_unmeasured": true,
+  "source_files_unchanged": true,
+  "bootstrap_seed": 2026,
+  "bootstrap_iterations": 2000,
+  "output_csv_sha256": {
+    "C_failure_queries_R1.csv": "b7816fe6358309605135383a031a23e4266180e9b3013a0f5faae5fdb43289eb",
+    "C_failure_queries_R100.csv": "6017dd9df28717ef00d0207cd537cda3993a1c4b28790c0a019462d835bd9070",
+    "C_vs_B_comparison.csv": "a8bef9cc9c824f1d90980c201cd93355e769e93a5355e7b92e3dbe6902c9c729",
+    "object_action_matrix.csv": "d9fcc34b83c2a8983df72671183a313743b649646f7948ff9649e88d28c3b502",
+    "paired_result_comparison.csv": "cd9fc22d63332eacd421057c02ac8553cf859d77656a28a6b407dbcd22a6d4a9",
+    "query_region_results.csv": "1278b01626df8449542321365154c83d25964442d60e03b86fd7f12ee252733e",
+    "recorded_performance_comparison.csv": "5307ca38725de786dc23b830fc44b62d7b7f36e3ec36dc94baeaa2fda48be236",
+    "region_recall.csv": "7f8597df8c2a6bd9d412b18f11207085b956fc9da8e66decbb67b7e6ab715a23",
+    "region_recall_without_unclassified.csv": "f6b04007a6c62fd4c23a2352312df87a5e050ea3e4909c48708e83470cb06365",
+    "term_recall.csv": "972c9369394d57076f258ec7524bcf743513cde64f4fa5a44f3971586ee98d6b"
+  }
+}

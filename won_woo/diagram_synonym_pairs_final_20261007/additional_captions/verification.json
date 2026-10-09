@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "llm_used": false,
+  "seed": 2026,
+  "input_queries": 87174,
+  "eligible_current_queries": 4308,
+  "generated_queries": 161,
+  "source_queries": 105,
+  "generated_by_aspect": {
+    "object": 119,
+    "action": 42
+  },
+  "original_annotation_basis": {
+    "projected_previous_substitution": 157,
+    "original_id_annotation": 4
+  },
+  "unresolved_source_timestamp_queries": 523,
+  "timestamp_policy": "Unique timestamp for the exact video/baseline-caption pair in tvr_train_release.jsonl",
+  "merged_queries": 87335,
+  "mapping_filter_counts": {
+    "object/usable": 43,
+    "object/outside_existing_conservative_families": 3059,
+    "object/reference_without_replacement": 1913,
+    "object/observed_val_form_or_pos_mismatch": 1510,
+    "action/observed_val_form_or_pos_mismatch": 8544,
+    "action/outside_existing_conservative_families": 2767,
+    "action/reference_without_replacement": 1058,
+    "action/usable": 6
+  },
+  "candidate_status_counts": {
+    "duplicate_pre_replacement_query_for_video": 663,
+    "compound_preserved": 199,
+    "ambiguous_lift_context": 40,
+    "dialogue_only_object": 144,
+    "drink_action_not_beverage": 42,
+    "no_physical_placement_context": 89,
+    "generated": 161,
+    "phrasal_verb_preserved": 49,
+    "unresolved_original_timestamp": 8,
+    "dialogue_content_preserved": 3,
+    "no_caption_specific_dictionary_evidence": 9,
+    "speech_content_or_argument_change": 12,
+    "ambiguous_hall_context": 5,
+    "rewritten_context_pos_or_dependency_mismatch": 15,
+    "nonvisual_caption_preserved": 13,
+    "ambiguous_bike_context": 2,
+    "article_mismatch": 2
+  },
+  "policy": "One observed Train-to-Val same-Penn-POS WordNet synonym per query; existing conservative families and syntax guards; 14-20 words, <30 RoBERTa tokens including special tokens.",
+  "novelty_policy": "Exclude existing current and pre-replacement baseline queries for the same video, plus generated duplicates",
+  "dictionary_scope_changed": false,
+  "original_files_unchanged": true,
+  "original_train_bytes_preserved": true,
+  "video_ids_and_source_timestamps_preserved": true,
+  "video_grounding_verified": false,
+  "tokenizer": "/home/viglab2/.cache/huggingface/hub/models--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+  "spacy_model": "en_core_web_md",
+  "spacy_version": "3.7.5",
+  "wordnet_version": "3.0",
+  "input_sha256": {
+    "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt": "0655949f2224d270bb37b16cba9de99f4ae9e88adf455244e0a6342a43691815",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/tvrtrain.caption.original.txt": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+    "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/tvr/TextData/tvrtest.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/tvr/TextData/tvr_train_release.jsonl": "ca6393a8afbedb041029e6f03a00d16cb7dcca0d4bdab2fa50358e192087d15a",
+    "/home/viglab2/won_woo/tvr/TextData/tvr_id_object_dict.json": "bc191f36afc520c42b36012c7b8e66cd0969f763213dd2891614aab4e22fb96a",
+    "/home/viglab2/won_woo/tvr/TextData/tvr_id_action_dict.json": "773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67",
+    "/home/viglab2/won_woo/diagram_synonym_pairs_final_20261007/ABC_csv/object_B_train.csv": "106e269a40850b1169e6c2ca78d6bd3953e800dd0456d590446a74a8bd494154",
+    "/home/viglab2/won_woo/diagram_synonym_pairs_final_20261007/ABC_csv/action_B_train.csv": "689d9b351f9af3bbb3e2159ecea192f010238d0e6d53cf441526d60b47b1ef72"
+  },
+  "script_sha256": {
+    "generate_additional_train_queries.py": "20e1a78d2b9bfe62b37a0a08bd06ede2909706a6d70a1e1ec9c3c52ecfbaf90a",
+    "select_diagram_synonyms.py": "a7afbb5513c16588c2280cbe35475eab01685a7211a7612f68a42ccb6c5b5f3d"
+  },
+  "output_sha256": {
+    "action_additional_queries.csv": "6f48194c147664504b1b5810af4e2a313e6cf23aa6f63fc85b920180b179d907",
+    "additional_queries.csv": "c6e9383272be0f1540e0c4243649cde8d2065dd20889da3fed7d9b39823e3b9f",
+    "additional_queries.jsonl": "3e8628d62dd57c2804975fb909b8a8302b0f3d80bb85589249756a9a0f720628",
+    "candidate_audit.csv": "9257bf9222945873e887437ad5ca1a9259fe24e82e1b3d8e1d612bf3c07f2317",
+    "object_additional_queries.csv": "96aff50b3857993eb4fa262e1e9961a041b6ec6119794b1fb5415a51ee6f5ada",
+    "tvrtrain.additional.caption.txt": "8af041458b50d513217b071b82cb760eef902d5941fd1a23ce73d186a2c452f1",
+    "tvrtrain.caption.with_additional.txt": "8bcd90797c44192b7773af378c4bd438a6cea8fdd37bb817b71032650af53b4a"
+  }
+}

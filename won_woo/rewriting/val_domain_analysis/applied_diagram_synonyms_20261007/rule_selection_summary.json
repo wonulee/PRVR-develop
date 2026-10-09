@@ -1,0 +1,93 @@
+{
+  "train_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt",
+  "train_sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+  "val_file": "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt",
+  "val_sha256": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+  "pair_inputs": {
+    "/home/viglab2/won_woo/diagram_synonym_pairs/object_B_train.csv": {
+      "size": 324233983,
+      "mtime_ns": 1791301882200948441
+    },
+    "/home/viglab2/won_woo/diagram_synonym_pairs/action_B_train.csv": {
+      "size": 2018095271,
+      "mtime_ns": 1791301870814910725
+    }
+  },
+  "scan_counts": {
+    "object_rows": 368154,
+    "original_length_or_grounding_filter": 1391166,
+    "no_synonym": 78441,
+    "outside_conservative_families": 77733,
+    "action_rows": 1181034
+  },
+  "eligible_original_captions": 4308,
+  "shortlisted_pairs": 1848,
+  "pair_status_counts": {
+    "compound_preserved": 199,
+    "ambiguous_lift_context": 34,
+    "dialogue_only_object": 141,
+    "phrasal_verb_preserved": 107,
+    "dialogue_content_preserved": 4,
+    "speech_content_or_argument_change": 46,
+    "drink_action_not_beverage": 19,
+    "ambiguous_hall_context": 5,
+    "no_physical_placement_context": 60,
+    "nonvisual_caption_preserved": 16,
+    "context_pos_mismatch": 56,
+    "length_budget_exceeded": 3,
+    "no_object_to_close": 9,
+    "ambiguous_bike_context": 2,
+    "article_mismatch": 2,
+    "no_visible_inchoative_action": 1,
+    "rule_selected": 1140,
+    "alternative_for_same_source": 4
+  },
+  "selected_pairs": 1140,
+  "selected_captions": 1037,
+  "families": {
+    "object": [
+      "sofa couch",
+      "phone telephone",
+      "photo photograph",
+      "drink beverage",
+      "car auto automobile motorcar",
+      "shop store",
+      "hallway corridor hall",
+      "tie necktie",
+      "purse handbag pocketbook",
+      "tv television",
+      "trash garbage rubbish",
+      "elevator lift",
+      "truck lorry",
+      "napkin serviette",
+      "bike bicycle",
+      "cab taxi taxicab",
+      "gun firearm",
+      "airplane aeroplane plane",
+      "lab laboratory",
+      "doctor physician",
+      "cop policeman",
+      "lawyer attorney",
+      "gift present",
+      "baby infant",
+      "dorm dormitory",
+      "corpse cadaver",
+      "hat chapeau",
+      "tux tuxedo",
+      "motorcycle motorbike"
+    ],
+    "action": [
+      "talk speak",
+      "close shut",
+      "put place",
+      "start begin"
+    ]
+  },
+  "blocked_pattern": "\\b(?:he|she|it|they|him|her|his|their|them|its|himself|herself|themselves|you|your|we|our|us|I|me|my|mine|who|someone|something|another|not|never|no|without|upset|angry|happy|sad|afraid|worried|concerned|confused|surprised|embarrassed|jealous|thinks?|knows?|believes?|realizes?|wants?|needs?|feels?|remembers?|hopes?|wishes?|decision|thought|idea|fear|anger|sadness)\\b|\\b\\w+['’]t\\b",
+  "seed": 2026,
+  "llm_used_for_selection": false,
+  "video_grounding_verified": false,
+  "script_sha256": "e59fb6e7957cab9cc9b908984c4426ced5eafe654f9630bd0774f61eaf4858ff",
+  "tokenizer": "/home/viglab2/.cache/huggingface/hub/models--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+  "policy": "Conservative lexical families, observed Train/Val expressions, contextual POS and compound/phrasal/argument/article rules. 14-20 words and <30 RoBERTa tokens including special tokens; combined budget rechecked at apply time."
+}

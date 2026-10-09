@@ -1,0 +1,17 @@
+﻿aspect,split,region,csv_file,mapping_rows,full_rows,pairs,reference_rows,main_bytes,links_bytes,diagram_count,diagram_count_unit,source_expression_pos_count,source_lemma_count
+object,train,A,object_A_train.csv,3316,7395,0,0,373807,141700,3316,mapping rows,3316,2994
+object,train,B,object_B_train.csv,6525,328432,264466,63966,1143927,8712330,6525,mapping rows,4334,2876
+object,validation,B,object_B_val.csv,4779,53675,47453,6222,824211,1421645,4779,mapping rows,2413,1996
+object,validation,C,object_C_val.csv,0,0,0,0,305,85,0,mapping rows,0,0
+object,train,EMPTY,object_EMPTY_train.csv,1,5906,0,0,407,122038,5906,queries,0,0
+object,validation,EMPTY,object_EMPTY_val.csv,1,746,0,0,403,14897,746,queries,0,0
+object,train,UNCLASSIFIED,object_UNCLASSIFIED_train.csv,16,20,0,0,2295,456,20,source occurrences,16,15
+object,validation,UNCLASSIFIED,object_UNCLASSIFIED_val.csv,0,0,0,0,305,85,0,source occurrences,0,0
+action,train,A,action_A_train.csv,1250,1968,0,0,143305,40065,1250,mapping rows,1250,953
+action,train,B,action_B_train.csv,12375,945829,922119,23710,2206849,26484532,12375,mapping rows,4785,1525
+action,validation,B,action_B_val.csv,7648,148579,145853,2726,1345202,4071417,7648,mapping rows,1931,864
+action,validation,C,action_C_val.csv,0,0,0,0,305,85,0,mapping rows,0,0
+action,train,EMPTY,action_EMPTY_train.csv,1,1426,0,0,400,28749,1426,queries,0,0
+action,validation,EMPTY,action_EMPTY_val.csv,1,238,0,0,403,4737,238,queries,0,0
+action,train,UNCLASSIFIED,action_UNCLASSIFIED_train.csv,17,19,0,0,2481,435,19,source occurrences,17,16
+action,validation,UNCLASSIFIED,action_UNCLASSIFIED_val.csv,0,0,0,0,305,85,0,source occurrences,0,0

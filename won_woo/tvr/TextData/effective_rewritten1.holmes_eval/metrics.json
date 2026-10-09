@@ -1,0 +1,49 @@
+{
+  "checkpoint": "/home/viglab2/won_woo/Holmes_ICML/tvr-multi/tvr/20260914-235629(extract)/best.ckpt",
+  "val_captions": "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt",
+  "val_features": "/home/viglab2/won_woo/tvr/TextData/effective_rewritten1.hdf5",
+  "mode": "fusion",
+  "covered_queries": 10895,
+  "total_queries": 10895,
+  "output_dir": "/home/viglab2/won_woo/tvr/TextData/effective_rewritten1.holmes_eval",
+  "original_features": "/home/viglab2/won_woo/tvr/TextData/roberta_tvr_query_feat.hdf5",
+  "original": {
+    "queries": 10895,
+    "R@1": 17.430013767783386,
+    "R@5": 38.503900871959615,
+    "R@10": 50.096374483708125,
+    "R@100": 86.25057365764111,
+    "Rsum": 192.28086278109225
+  },
+  "original_plus_rewrite": {
+    "queries": 10895,
+    "R@1": 18.430472693896284,
+    "R@5": 40.697567691601655,
+    "R@10": 52.37264800367141,
+    "R@100": 87.5722808627811,
+    "Rsum": 199.07296925195044
+  },
+  "covered_original": {
+    "queries": 10895,
+    "R@1": 17.430013767783386,
+    "R@5": 38.503900871959615,
+    "R@10": 50.096374483708125,
+    "R@100": 86.25057365764111,
+    "Rsum": 192.28086278109225
+  },
+  "covered_original_plus_rewrite": {
+    "queries": 10895,
+    "R@1": 18.430472693896284,
+    "R@5": 40.697567691601655,
+    "R@10": 52.37264800367141,
+    "R@100": 87.5722808627811,
+    "Rsum": 199.07296925195044
+  },
+  "delta_full": {
+    "R@1": 1.0004589261128984,
+    "R@5": 2.19366681964204,
+    "R@10": 2.276273519963283,
+    "R@100": 1.3217072051399867,
+    "Rsum": 6.792106470858187
+  }
+}

@@ -1,0 +1,954 @@
+﻿유형,출처,영역,기본형_정규화,관측된_공식사전표현,관측캡션수,반대split_사전표현_유의어후보,공식사전내_WordNet후보,대응상태,근거caption_ID,사전근거_ID,근거caption_원문
+Action,Train,A,abhor,abhors,1,,loathes,UNCOVERED,s08e02_seg02_clip_01#enc#4,s08e02_seg02_clip_01#enc#4,Sheldon tells Mrs Davis that he abhors her idea.
+Action,Train,A,abouot,abouot,1,,,UNCOVERED,met_s06e12_seg02_clip_16#enc#3,met_s06e12_seg02_clip_16#enc#3,Ted flips a coin to help Robin make a decision abouot her career.
+Action,Train,A,about,about,1,,,UNCOVERED,friends_s08e11_seg02_clip_03#enc#0,friends_s08e11_seg02_clip_03#enc#0,Ross is laying on his couch reading a paper about to fall asleep.
+Action,Train,A,accors,accorss,1,,,UNCOVERED,friends_s02e08_seg02_clip_06#enc#0,friends_s02e08_seg02_clip_06#enc#0,Chandler hands  his medicine bottle to his right hand accorss  his side of the table.
+Action,Train,A,acuse,acuses,1,,,UNCOVERED,friends_s06e04_seg01_clip_01#enc#1,friends_s06e04_seg01_clip_01#enc#1,Ross acuses phoebe of wanting rachel while sarcastically mimicking what she says.
+Action,Train,A,admonish,admonishes,4,,discourage | discouraged | warn | warning | warns,UNCOVERED,s04e22_seg02_clip_01#enc#2,s04e22_seg02_clip_01#enc#2,"Leonard tells Sheldon Einstein had a busy sex life, and Sheldon admonishes him."
+Action,Train,A,adore,adores,1,,,UNCOVERED,friends_s10e17-18_seg02_clip_36#enc#0,friends_s10e17-18_seg02_clip_36#enc#0,Chandlers adores the baby duck he holds in his hand.
+Action,Train,A,advice,advice,1,,,UNCOVERED,s01e06_seg02_clip_12#enc#4,s01e06_seg02_clip_12#enc#4,Penny runs directly to Leonard and advice the topless guy to stop what he is doing.
+Action,Train,A,aeate,aeated,1,,,UNCOVERED,friends_s04e22_seg02_clip_16#enc#4,friends_s04e22_seg02_clip_16#enc#4,"A duck walks into the room as Chandler, Ross, and Joey are aeated."
+Action,Train,A,affix,affix | affixed | affixes,3,,,UNCOVERED,friends_s05e08_seg02_clip_02#enc#4,friends_s05e08_seg02_clip_02#enc#4,"Phoebe points with both hands while expressing she has the knowledge, she then describes Joey getting a holiday main dish affixed over his skull."
+Action,Train,A,againt,againts,2,,,UNCOVERED,castle_s08e01_seg02_clip_19#enc#1,castle_s08e01_seg02_clip_19#enc#1,Castle sitting while a woman holding a knife againts him.
+Action,Train,A,agglutinate,agglutinated,1,,,UNCOVERED,house_s05e13_seg02_clip_10#enc#3,house_s05e13_seg02_clip_10#enc#3,The timer on the medical equipment goes off so Foreman takes out a vial of blood and the blood is agglutinated then Thirteen mention that House was correct.
+Action,Train,A,agrue,agruing,1,,,UNCOVERED,house_s07e08_seg02_clip_25#enc#1,house_s07e08_seg02_clip_25#enc#1,Wilson and his wife are agruing in thier bedroom and his wife has decided to leave him.
+Action,Train,A,ak,aks,1,,,UNCOVERED,s01e10_seg01_clip_00#enc#2,s01e10_seg01_clip_00#enc#2,Sheldon aks Leonard to explain the logic behind a killer computer system creating a female assassin.
+Action,Train,A,alarm,alarmed,5,,alert | alerting | alerts | dismayed | horrified,UNCOVERED,friends_s07e22_seg02_clip_09#enc#2,friends_s07e22_seg02_clip_09#enc#2,Ross looks alarmed as he first notices the police car behind.
+Action,Train,A,alert,alert | alerting | alerts,5,,alarmed,UNCOVERED,s09e06_seg01_clip_01#enc#0,s09e06_seg01_clip_01#enc#0,Leonard knocks on an already open door to alert Barry that he is entering his office.
+Action,Train,A,alllowe,alllowed,1,,,UNCOVERED,s09e03_seg02_clip_02#enc#2,s09e03_seg02_clip_02#enc#2,The four boys were on their way. Many things are not alllowed to bring in the custom.
+Action,Train,A,amp,amp,1,,,UNCOVERED,castle_s08e09_seg02_clip_07#enc#0,castle_s08e09_seg02_clip_07#enc#0,The emcee tries to amp up the crowd for the riff off.
+Action,Train,A,amputate,amputated | amputating,2,,,UNCOVERED,house_s07e19_seg02_clip_23#enc#3,house_s07e19_seg02_clip_23#enc#3,Kendall gets upset when she realizes that her arm has been amputated.
+Action,Train,A,anger,angered | angering,2,,,UNCOVERED,friends_s06e08_seg02_clip_14#enc#2,friends_s06e08_seg02_clip_14#enc#2,Joey offended that Chandler is saying angering things about him.
+Action,Train,A,anouce,anouces,1,,,UNCOVERED,friends_s09e13_seg02_clip_14#enc#3,friends_s09e13_seg02_clip_14#enc#3,Mike reads and anouces the song he is ready to recite from an clip board at his piano. Monica is the one anounced to the stage event.
+Action,Train,A,anounce,anounced | anounces,2,,,UNCOVERED,castle_s02e15_seg02_clip_20#enc#1,castle_s02e15_seg02_clip_20#enc#1,Beckett anounces she has found an blood sample on the scene.
+Action,Train,A,antique,antique,1,,,UNCOVERED,met_s03e11_seg01_clip_04#enc#2,met_s03e11_seg01_clip_04#enc#2,Marshall turns his head and Robin says they will antique so hard.
+Action,Train,A,apear,apears,1,,,UNCOVERED,house_s06e18_seg02_clip_18#enc#1,house_s06e18_seg02_clip_18#enc#1,A nurse tries to comfort a patient who apears in pain.
+Action,Train,A,aplogize,aplogizes,1,,,UNCOVERED,house_s03e15_seg02_clip_20#enc#0,house_s03e15_seg02_clip_20#enc#0,Cuddy aplogizes to House and tells him she's there if he needs her.
+Action,Train,A,apologie,apologies,3,,,UNCOVERED,s03e07_seg02_clip_07#enc#2,s03e07_seg02_clip_07#enc#2,Penny apologies to Sheldon and reminds him that the situation doesn't involve him.
+Action,Train,A,appeal,appeal | appeals,3,,attract | attracted | attracting,UNCOVERED,s06e14_seg02_clip_03#enc#3,s06e14_seg02_clip_03#enc#3,Leonard appeals his existence to Sheldon by raising his hand while holding a bottle of milk.
+Action,Train,A,applaude,applaude,1,,,UNCOVERED,house_s08e05_seg02_clip_13#enc#1,house_s08e05_seg02_clip_13#enc#1,Denise pushes Bob in a wheelchair into a room while people applaude.
+Action,Train,A,applogize,applogize,1,,,UNCOVERED,friends_s03e11_seg02_clip_17#enc#3,friends_s03e11_seg02_clip_17#enc#3,"Joey says that he accepts Chandler appology but Chandler needs to applogize to Mary Angela too, but Chandler can't tell which sister is Mary Angela."
+Action,Train,A,appologize,appologize,1,,,UNCOVERED,met_s03e20_seg02_clip_11#enc#0,met_s03e20_seg02_clip_11#enc#0,Barney and Ted appologize to each other while Barney lays in a hospital bed.
+Action,Train,A,apporache,apporaches,1,,,UNCOVERED,friends_s03e14_seg02_clip_14#enc#0,friends_s03e14_seg02_clip_14#enc#0,Joey walks into the room while wearing a robe and apporaches Chandler and Monica.
+Action,Train,A,approache,approache,1,,,UNCOVERED,s06e05_seg02_clip_14#enc#3,s06e05_seg02_clip_14#enc#3,Penny and Leonard approache Howard and Bernadette and praise them
+Action,Train,A,approche,approched | approches,5,,,UNCOVERED,castle_s08e13_seg02_clip_06#enc#3,castle_s08e13_seg02_clip_06#enc#3,the class dismissed and a girl approched Castle and they handed each other.
+Action,Train,A,aproche,aproches,1,,,UNCOVERED,house_s02e10_seg02_clip_23#enc#2,house_s02e10_seg02_clip_23#enc#2,Stacy aproches House after security leaves and stands in front of him.
+Action,Train,A,arch,arches,2,,,UNCOVERED,friends_s10e05_seg02_clip_19#enc#3,friends_s10e05_seg02_clip_19#enc#3,Mike arches his back in preparation to get up out of his chair.
+Action,Train,A,aretalke,aretalking,1,,,UNCOVERED,grey_s03e04_seg02_clip_06#enc#4,grey_s03e04_seg02_clip_06#enc#4,Christina Yang enters room where Derek and Burke aretalking and answers no for Burke
+Action,Train,A,argumente,argumenting,1,,,UNCOVERED,s09e07_seg02_clip_05#enc#3,s09e07_seg02_clip_05#enc#3,Howard and Bernadette were argumenting seriously while Raj and Mr.Rostenkowski were observing the situation seriously.
+Action,Train,A,aroind,aroind,1,,,UNCOVERED,friends_s09e13_seg02_clip_14#enc#2,friends_s09e13_seg02_clip_14#enc#2,"Joey gets up, aroind the couch to join Michelle at the table."
+Action,Train,A,ashame,ashamed,2,,,UNCOVERED,castle_s02e24_seg02_clip_21#enc#3,castle_s02e24_seg02_clip_21#enc#3,Melissa refuses to be ashamed by Castle and Beckett.
+Action,Train,A,asleep,asleep,1,,,UNCOVERED,s10e04_seg02_clip_15#enc#3,s10e04_seg02_clip_15#enc#3,Sheldon nudges Amy off of the bed as they asleep embracing each other.
+Action,Train,A,asnwer,asnwers,1,,,UNCOVERED,castle_s06e01_seg02_clip_04#enc#4,castle_s06e01_seg02_clip_04#enc#4,"Castle asnwers his phone, it is Beckett and he tells her he hopes she isnt delayed. Beckett says she cannot meet him as she has been put on an urgent crime."
+Action,Train,A,astonish,astonished,2,,amazed | amazes,UNCOVERED,friends_s01e05_seg01_clip_00#enc#0,friends_s01e05_seg01_clip_00#enc#0,Ross is astonished that women can remove their bra while wearing it.
+Action,Train,A,asure,asure | asures,2,,,UNCOVERED,friends_s10e15_seg02_clip_01#enc#4,friends_s10e15_seg02_clip_01#enc#4,Monica worries Joey may read some bad news but Chandler asures he they won't run into this issue with him.
+Action,Train,A,atnd,atnds,1,,,UNCOVERED,house_s04e08_seg02_clip_20#enc#3,house_s04e08_seg02_clip_20#enc#3,House atnds up while holding his cup of coffee.
+Action,Train,A,auction,auctioning,1,,,UNCOVERED,castle_s05e03_seg02_clip_05#enc#4,castle_s05e03_seg02_clip_05#enc#4,The manager tells Castle and Beckett they're auctioning off the unit.
+Action,Train,A,audition,audition | auditioning,4,,,UNCOVERED,friends_s06e04_seg02_clip_12#enc#3,friends_s06e04_seg02_clip_12#enc#3,Joey auditioning in front of a camera next to a bag of dog food.
+Action,Train,A,awnser,awnsers,1,,,UNCOVERED,friends_s04e17_seg02_clip_12#enc#0,friends_s04e17_seg02_clip_12#enc#0,"Ross is sleepint sitting in a chair beside a bed, his upper body is twisted and on the bed, he is startled awake and awnsers the phone."
+Action,Train,A,awre,awre,1,,,UNCOVERED,castle_s08e01_seg02_clip_20#enc#0,castle_s08e01_seg02_clip_20#enc#0,Ryan and Esposito awre looking to a video in a cellphone.
+Action,Train,A,axe,axed,1,,,UNCOVERED,friends_s07e04_seg02_clip_12#enc#0,friends_s07e04_seg02_clip_12#enc#0,Joey answers his phone and it's the executive at his show telling him the show's been axed.
+Action,Train,A,babysitte,babysitting,1,,,UNCOVERED,friends_s09e12_seg02_clip_01#enc#3,friends_s09e12_seg02_clip_01#enc#3,Rachel walks into her office and thanks Gavin for babysitting.
+Action,Train,A,backslap,backslaps,1,,,UNCOVERED,friends_s10e02_seg02_clip_23#enc#3,friends_s10e02_seg02_clip_23#enc#3,Monica backslaps Chandler's shoulder while having  converstion.
+Action,Train,A,bag,bagged | bagging | bags,4,,pocket | pockets,UNCOVERED,s03e13_seg02_clip_00#enc#0,s03e13_seg02_clip_00#enc#0,Sheldon hands the officer a bagged soda can and a fingerprint card.
+Action,Train,A,bake,baked | baking,11,,,UNCOVERED,grey_s01e09_seg02_clip_07#enc#3,grey_s01e09_seg02_clip_07#enc#3,Mr. Duff asks Izzie for a baked good that surprises her.
+Action,Train,A,balance,balances | balancing,4,,,UNCOVERED,castle_s06e07_seg02_clip_01#enc#4,castle_s06e07_seg02_clip_01#enc#4,Castle balances pencils between his nose and his upper lip.
+Action,Train,A,ball,balled,6,,,UNCOVERED,house_s06e07_seg02_clip_19#enc#2,house_s06e07_seg02_clip_19#enc#2,House starts fake crying into his balled fist.
+Action,Train,A,barefoote,barefooted,1,,,UNCOVERED,house_s04e16_seg02_clip_24#enc#4,house_s04e16_seg02_clip_24#enc#4,"House, seated by a blonde woman, stands up and walks barefooted down the aisle of a mostly-white bus interior; the woman watches him go."
+Action,Train,A,bargain,bargain,2,,,UNCOVERED,friends_s02e18_seg02_clip_14#enc#1,friends_s02e18_seg02_clip_14#enc#1,Rachel and Monica try to bargain who would get the condom.
+Action,Train,A,bark,barking | barks,4,,,UNCOVERED,friends_s07e12_seg02_clip_13#enc#0,friends_s07e12_seg02_clip_13#enc#0,Ross knocks on the door and the dog barks.
+Action,Train,A,barrel,barreling,1,,,UNCOVERED,castle_s03e10_seg02_clip_19#enc#3,castle_s03e10_seg02_clip_19#enc#3,Alexis opens the refrigerator door and stuff comes barreling out.
+Action,Train,A,barry,barry,1,,,UNCOVERED,friends_s01e01_seg02_clip_13#enc#3,friends_s01e01_seg02_clip_13#enc#3,Rachel paces back and forth apologizing to barry about what she said a previous night.
+Action,Train,A,basket,basket,1,,,UNCOVERED,castle_s08e03_seg02_clip_13#enc#3,castle_s08e03_seg02_clip_13#enc#3,Alexis is being disappointed and worried when the man successfully basket two ping pong balls.
+Action,Train,A,battle,battle,1,,combat,UNCOVERED,house_s06e01_seg02_clip_09#enc#3,house_s06e01_seg02_clip_09#enc#3,Nolan tells House he could be an asset to the patients and to himself instead of just trying to battle with him.
+Action,Train,A,bead,beaded,1,,,UNCOVERED,house_s01e08_seg02_clip_05#enc#4,house_s01e08_seg02_clip_05#enc#4,Dr. Gregory was having a conversation with an old woman wearing beaded pink shirt.
+Action,Train,A,beef,beefs,1,,hollering | hollers,UNCOVERED,s03e12_seg02_clip_13#enc#4,s03e12_seg02_clip_13#enc#4,Sheldon beefs up pretending to be the Hulk while having a conversation with Raj.
+Action,Train,A,befind,befind,1,,,UNCOVERED,friends_s04e19_seg02_clip_03#enc#0,friends_s04e19_seg02_clip_03#enc#0,Joey stands slighltly befind Chandler with his left hand on Chandler's left shoulder while Joey pats Chandler's upper right arm with Joey's right hand which Joey then points towards Monica and Rachel.
+Action,Train,A,behidn,behidn,1,,,UNCOVERED,friends_s08e17_seg02_clip_08#enc#0,friends_s08e17_seg02_clip_08#enc#0,Ross hides behidn the couch in Mona's apartment.
+Action,Train,A,bellow,bellowing | bellows,2,,,UNCOVERED,friends_s03e04_seg02_clip_13#enc#0,friends_s03e04_seg02_clip_13#enc#0,"Phoebe enters the doorway, bellowing her presnece is near."
+Action,Train,A,belowe,belowing,1,,,UNCOVERED,castle_s07e12_seg02_clip_04#enc#3,castle_s07e12_seg02_clip_04#enc#3,"Sofia orders Manuel to leave her bedside, belowing."
+Action,Train,A,bendind,bendind,1,,,UNCOVERED,castle_s01e04_seg02_clip_24#enc#1,castle_s01e04_seg02_clip_24#enc#1,Castle went near Brandon and talking to him seriously by bendind on the table and standing beside him.
+Action,Train,A,bicker,bicker | bickering,3,,,UNCOVERED,grey_s03e20_seg02_clip_10#enc#1,grey_s03e20_seg02_clip_10#enc#1,Dr. Burke is bickering with Dr. Marlow about the procedure to do a heart transplant they are both preforming.
+Action,Train,A,blabber,blabbering,1,,,UNCOVERED,s08e11_seg02_clip_11#enc#1,s08e11_seg02_clip_11#enc#1,Leonard was searching something seriously in the phone while others are upset and blabbering.
+Action,Train,A,blanket,blankets,1,,,UNCOVERED,castle_s06e01_seg02_clip_07#enc#1,castle_s06e01_seg02_clip_07#enc#1,Kevin Ryan swaddles and blankets a baby doll for practice.
+Action,Train,A,blaze,blazing,1,,,UNCOVERED,house_s07e04_seg02_clip_21#enc#3,house_s07e04_seg02_clip_21#enc#3,"House puts his hand down on a blazing table, and nothing happens to him."
+Action,Train,A,blindfold,blindfolded,1,,,UNCOVERED,s09e03_seg01_clip_00#enc#3,s09e03_seg01_clip_00#enc#3,Howard and Leonard carry a blindfolded Sheldon into a van while Raj watches in the background.
+Action,Train,A,blood,blooded,2,,,UNCOVERED,friends_s04e02_seg02_clip_05#enc#3,friends_s04e02_seg02_clip_05#enc#3,Phoebe reminds people around her that her pet likes a limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.
+Action,Train,A,bloody,bloodied,2,,,UNCOVERED,friends_s04e15_seg02_clip_17#enc#4,friends_s04e15_seg02_clip_17#enc#4,Joey and Emily are helping Ross walk into Central Perk because he's all beaten up and bloodied from playing rugby and he loves it.
+Action,Train,A,bluff,bluffed,1,,,UNCOVERED,house_s02e17_seg02_clip_01#enc#0,house_s02e17_seg02_clip_01#enc#0,"Dr Cuddy and others in formal attire sit at a party table playing cards when a doctor walks up to talk to Cuddy, and she and House discuss, then the doctor leaves, and House quits playing cards, Cuddy is pleased to have bluffed him, and Wilson is intrigued to see that House actually had winning cards."
+Action,Train,A,blurt,blurt | blurts,4,,,UNCOVERED,friends_s08e04_seg02_clip_02#enc#3,friends_s08e04_seg02_clip_02#enc#3,Rachel is upset with Ross and asks for proof of something he said she did and he blurts out that he taped her doing it.
+Action,Train,A,blush,blush | blushes,2,,flushed | flushes,UNCOVERED,castle_s03e05_seg02_clip_06#enc#2,castle_s03e05_seg02_clip_06#enc#2,Greg blushes when Castle mentions him being liked at work.
+Action,Train,A,board,board | boards,2,,,UNCOVERED,friends_s10e17-18_seg02_clip_39#enc#0,friends_s10e17-18_seg02_clip_39#enc#0,Rachel walks away from Ross and boards her plane.
+Action,Train,A,bolt,bolts,1,,,UNCOVERED,castle_s02e13_seg02_clip_11#enc#4,castle_s02e13_seg02_clip_11#enc#4,"A man speaks excitedly from a stage to an audience, then holds a woman's hands and they walk barefoot over hot coals, but when detectives question him, he bolts out of the room and has to be tackled."
+Action,Train,A,bombard,bombarded,1,,pelt | pelted,UNCOVERED,s07e01_seg01_clip_00#enc#0,s07e01_seg01_clip_00#enc#0,As Leonard speaks to Sheldon he is bombarded with water and knocked to the floor of the boat he is on.
+Action,Train,A,boo,boo | booing,3,,hisses,UNCOVERED,friends_s09e13_seg02_clip_18#enc#4,friends_s09e13_seg02_clip_18#enc#4,Monica apologizes to a crowd while they boo and she walks off stage.
+Action,Train,A,bop,bopping | bops,2,,sock,UNCOVERED,friends_s02e05_seg02_clip_16#enc#1,friends_s02e05_seg02_clip_16#enc#1,Rachel and Phoebe drop their heads to the couch.    Chandler is bopping his head up and down the scratches his ear.
+Action,Train,A,borrow,borrow | borrowed | borrows,5,,adopt | adopted,UNCOVERED,house_s02e05_seg02_clip_06#enc#0,house_s02e05_seg02_clip_06#enc#0,Wilson tells Cameron how many times House has borrowed money from him.
+Action,Train,A,bottle,bottled,19,,,UNCOVERED,s02e17_seg02_clip_13#enc#2,s02e17_seg02_clip_13#enc#2,Raj puts his bottled beverage back on the table in front of him.
+Action,Train,A,bowl,bowl,2,,,UNCOVERED,s03e19_seg02_clip_14#enc#1,s03e19_seg02_clip_14#enc#1,Stuart gets up from his seat to bowl.
+Action,Train,A,box,boxed,7,,packaged,UNCOVERED,castle_s02e13_seg02_clip_10#enc#3,castle_s02e13_seg02_clip_10#enc#3,Beckett opens the locker and sees boxed dvd sets.
+Action,Train,A,brainstorm,brainstorm | brainstorms,4,,,UNCOVERED,s08e12_seg01_clip_01#enc#1,s08e12_seg01_clip_01#enc#1,Penny and Amy brainstorm different activities that they can do as a group.
+Action,Train,A,breakup,breakup,2,,,UNCOVERED,house_s01e08_seg02_clip_07#enc#3,house_s01e08_seg02_clip_07#enc#3,Chase is trying to breakup a blood clot in his patient.
+Action,Train,A,breath,breath,5,,,UNCOVERED,grey_s03e12_seg02_clip_06#enc#4,grey_s03e12_seg02_clip_06#enc#4,Callie walks into the room where Bailey is talking to George and his family about George's father not being able to breath by himself.
+Action,Train,A,brew,brewed,2,,,UNCOVERED,s09e10_seg02_clip_08#enc#0,s09e10_seg02_clip_08#enc#0,Leonard started making a brewed coffee in the mixer.
+Action,Train,A,brief,brief | briefing | briefs,3,,,UNCOVERED,castle_s06e09_seg02_clip_09#enc#1,castle_s06e09_seg02_clip_09#enc#1,Gates is briefing the whole police force as she speaks in front of the case board.
+Action,Train,A,brighten,brightens,1,,clear | cleared | clearing | clears,UNCOVERED,grey_s02e12_seg02_clip_26#enc#1,grey_s02e12_seg02_clip_26#enc#1,"Cristina looks disappointed when she sees the Christmas tree, but brightens up when she notices a Menorah."
+Action,Train,A,brink,brinks,1,,,UNCOVERED,s05e04_seg02_clip_03#enc#1,s05e04_seg02_clip_03#enc#1,Raj brinks some drinks to the table where Howard is sitting.
+Action,Train,A,buffalo,buffalo,1,,,UNCOVERED,castle_s02e01_seg02_clip_21#enc#1,castle_s02e01_seg02_clip_21#enc#1,Beckett runs into some bouncers going to the entrance and tries to buffalo her way in.
+Action,Train,A,bully,bullied | bullying,2,,,UNCOVERED,s06e18_seg02_clip_04#enc#2,s06e18_seg02_clip_04#enc#2,Howard reflects on how often he was abused and bullied at the school.
+Action,Train,A,bum,bum | bummed,3,,,UNCOVERED,castle_s06e06_seg02_clip_16#enc#0,castle_s06e06_seg02_clip_16#enc#0,Castle is bummed-out and turns around a walks towards the elevator.
+Action,Train,A,bus,busing,1,,,UNCOVERED,s03e14_seg02_clip_11#enc#4,s03e14_seg02_clip_11#enc#4,Penny walks over to Sheldon as he begins busing a table.
+Action,Train,A,bustle,bustles,1,,hustling,UNCOVERED,castle_s08e11_seg02_clip_00#enc#0,castle_s08e11_seg02_clip_00#enc#0,Castle bustles through the door carrying several shopping bags and sets them down front of Martha and Alexis.
+Action,Train,A,but,buts,3,,,UNCOVERED,friends_s10e14_seg02_clip_08#enc#2,friends_s10e14_seg02_clip_08#enc#2,"Ross pours Rachel, himself and Phoebe a glass of champagne then buts the bottle on the table."
+Action,Train,A,butter,butter | buttering | butters,5,,,UNCOVERED,s07e20_seg02_clip_10#enc#1,s07e20_seg02_clip_10#enc#1,Emily is buttering bread on her plate at dinner.
+Action,Train,A,bypass,bypass | bypasses,2,,,UNCOVERED,house_s07e17_seg02_clip_18#enc#1,house_s07e17_seg02_clip_18#enc#1,Dr. House exits the patient's treatment room and bypasses the nurse's station
+Action,Train,A,cackle,cackling,1,,,UNCOVERED,s03e14_seg02_clip_04#enc#2,s03e14_seg02_clip_04#enc#2,Penny is awakened by Leonard's new ringtone of a man cackling .
+Action,Train,A,calll,callls,1,,,UNCOVERED,s07e05_seg02_clip_13#enc#4,s07e05_seg02_clip_13#enc#4,Sheldon knocks gently on the door and callls to Amy quietly.
+Action,Train,A,camp,camping,1,,,UNCOVERED,met_s02e15_seg02_clip_12#enc#3,met_s02e15_seg02_clip_12#enc#3,Ted and Robin pass a group of people camping out on the sidewalk in front of a bridal store.
+Action,Train,A,cane,caned,1,,,UNCOVERED,house_s05e10_seg02_clip_22#enc#4,house_s05e10_seg02_clip_22#enc#4,House has his caned leaned on his chin as he stands.
+Action,Train,A,cap,caps,1,,,UNCOVERED,s04e12_seg02_clip_06#enc#4,s04e12_seg02_clip_06#enc#4,Sheldon caps his marker and places by his white board.
+Action,Train,A,carasse,carasses,1,,,UNCOVERED,friends_s08e03_seg02_clip_00#enc#1,friends_s08e03_seg02_clip_00#enc#1,Phoebe carasses Joey's chin as she walks around him.
+Action,Train,A,carpet,carpeted,2,,,UNCOVERED,house_s05e04_seg02_clip_16#enc#2,house_s05e04_seg02_clip_16#enc#2,Dr. House and Dr. Wilson walks together in a carpeted floor.
+Action,Train,A,carve,carved | carving,4,,,UNCOVERED,castle_s02e06_seg02_clip_13#enc#0,castle_s02e06_seg02_clip_13#enc#0,Martha enters the room and asks Castle and Alexis what they are carving.
+Action,Train,A,castle,Castle | castle,3,,,UNCOVERED,castle_s06e21_seg02_clip_25#enc#3,castle_s06e21_seg02_clip_25#enc#3,Suspect hands castle his skateboard and makes a run for the door.
+Action,Train,A,cater,cater,1,,provide | provided | provides | supplied,UNCOVERED,house_s04e05_seg02_clip_13#enc#1,house_s04e05_seg02_clip_13#enc#1,Taub is in front of Foreman as he tells him that he and Cuddy seem to be good people but House isn't and they have to cater to him eventually to which he is sorry for.
+Action,Train,A,cave,caves,1,,undermine | undermines,UNCOVERED,friends_s02e03_seg02_clip_14#enc#0,friends_s02e03_seg02_clip_14#enc#0,Phoebe is disappointed in Ross when he caves and agrees with her.
+Action,Train,A,chain,chained | chains,3,,,UNCOVERED,s10e07_seg02_clip_14#enc#2,s10e07_seg02_clip_14#enc#2,Penny smacks Leonard who is chained to a wall with a small whip.
+Action,Train,A,chant,chanting,4,,,UNCOVERED,s06e04_seg02_clip_00#enc#2,s06e04_seg02_clip_00#enc#2,When Howie enters the airport lobby with another famous Howie he is met by a wall of reporters chanting  their name.
+Action,Train,A,chap,chaps,1,,,UNCOVERED,s08e18_seg02_clip_06#enc#0,s08e18_seg02_clip_06#enc#0,Sheldon chaps on the door repeatedly to share news with Leonard regarding an important issue.
+Action,Train,A,char,charred,1,,,UNCOVERED,friends_s01e14_seg02_clip_15#enc#3,friends_s01e14_seg02_clip_15#enc#3,Monica grabs a charred photograph from a fire fighter.
+Action,Train,A,checkout,checkout,1,,,UNCOVERED,castle_s07e08_seg02_clip_14#enc#1,castle_s07e08_seg02_clip_14#enc#1,Beckett and Castle came inside the room to checkout something.
+Action,Train,A,cherish,cherishing,1,,,UNCOVERED,house_s01e21_seg02_clip_01#enc#0,house_s01e21_seg02_clip_01#enc#0,The ball goes inside the hole and so the player wearing green dress is cherishing about it.
+Action,Train,A,chill,chill,1,,cool | cooling,UNCOVERED,house_s07e22_seg02_clip_19#enc#3,house_s07e22_seg02_clip_19#enc#3,"Taub has surprised a stripper who's walking to her car after her shift, she's angry when she recognizes him and pulls a handgun out and points it at him; deaf to his claims of really being a physician and for her to chill out, she orders Taub to his knees and down on his knees he goes."
+Action,Train,A,chime,chimes,7,,,UNCOVERED,friends_s03e23_seg02_clip_05#enc#4,friends_s03e23_seg02_clip_05#enc#4,Chandler chimes in with his advice and then Joey makes fun of him.
+Action,Train,A,chomp,chomps,1,,,UNCOVERED,s05e24_seg02_clip_12#enc#3,s05e24_seg02_clip_12#enc#3,Penny chomps her teeth and very slightly bites her bottom lip .
+Action,Train,A,chow,chow,1,,,UNCOVERED,friends_s06e14_seg01_clip_00#enc#2,friends_s06e14_seg01_clip_00#enc#2,"Joey walks in and sees Rachel standing by the window and starts making up some lame excuse as to why he's there, remembers she no longer lives there, and says he's there to chow down on some grub."
+Action,Train,A,chuckle,chuckle | chuckles,11,,,UNCOVERED,house_s06e16_seg02_clip_01#enc#3,house_s06e16_seg02_clip_01#enc#3,James look out the window and slightly chuckles.
+Action,Train,A,chug,chugs,2,,,UNCOVERED,grey_s03e02_seg02_clip_22#enc#3,grey_s03e02_seg02_clip_22#enc#3,Alex chugs the rest of his beer and makes his way to the bathroom immediately.
+Action,Train,A,clamp,clamp | clamps,3,,,UNCOVERED,grey_s02e01_seg02_clip_15#enc#4,grey_s02e01_seg02_clip_15#enc#4,Dr. Burke uses a clamp to clamp something in the patient's chest.
+Action,Train,A,classpe,classping,1,,,UNCOVERED,friends_s06e09_seg02_clip_21#enc#3,friends_s06e09_seg02_clip_21#enc#3,Chandler's muth falls open as he spreads his arms before classping his hand in front of him as he faces Ross's and Monica's mother.
+Action,Train,A,claw,claws,2,,,UNCOVERED,friends_s07e21_seg02_clip_04#enc#1,friends_s07e21_seg02_clip_04#enc#1,Chandler claws at his sweater saying that his parachute is a knapsack and falls behind the couch.
+Action,Train,A,cliche,cliches,1,,,UNCOVERED,friends_s10e12_seg02_clip_16#enc#3,friends_s10e12_seg02_clip_16#enc#3,Rachel raises her fists up and down then cliches them together.
+Action,Train,A,clinck,clinck,1,,,UNCOVERED,met_s03e02_seg02_clip_17#enc#3,met_s03e02_seg02_clip_17#enc#3,Robin and Barney clinck glasses togehter while sitting at a table.
+Action,Train,A,clotheline,clothelines,1,,,UNCOVERED,friends_s03e09_seg02_clip_13#enc#1,friends_s03e09_seg02_clip_13#enc#1,Phoebe clothelines Chandler while running with a football.
+Action,Train,A,code,coding,1,,inscribes,UNCOVERED,grey_s02e15_seg02_clip_04#enc#1,grey_s02e15_seg02_clip_04#enc#1,A student assists Meredith while she helps a patient who's coding.
+Action,Train,A,coe,coes,1,,,UNCOVERED,friends_s02e04_seg02_clip_16#enc#3,friends_s02e04_seg02_clip_16#enc#3,Rachel coes out of the house and talks with Ross
+Action,Train,A,coffee,coffee,1,,,UNCOVERED,s08e04_seg02_clip_04#enc#2,s08e04_seg02_clip_04#enc#2,Penny sets her briefcase and coffee down on the patient seat.
+Action,Train,A,cohabit,cohabiting,2,,,UNCOVERED,friends_s08e15_seg01_clip_00#enc#2,friends_s08e15_seg01_clip_00#enc#2,Rachel is frustrated with Ross's television choices now that they're cohabiting.
+Action,Train,A,coincide,coincide,1,,concurs,UNCOVERED,castle_s02e06_seg02_clip_16#enc#4,castle_s02e06_seg02_clip_16#enc#4,Beckett picks up a poster on the desk and notices the dates on the poster coincide with the suspect going to the party their victim did no the same night.
+Action,Train,A,coke,Coke,1,,,UNCOVERED,house_s04e08_seg02_clip_16#enc#2,house_s04e08_seg02_clip_16#enc#2,Taub hands Coke an envelope and tells him the amount of money inside it.
+Action,Train,A,collaborate,collaborate,1,,cooperate,UNCOVERED,castle_s05e03_seg02_clip_24#enc#3,castle_s05e03_seg02_clip_24#enc#3,Angelica refuses to collaborate with Castle and Beckett as she goes down the stairs.
+Action,Train,A,collide,collide,1,,,UNCOVERED,castle_s05e05_seg02_clip_25#enc#2,castle_s05e05_seg02_clip_25#enc#2,A car suddenly collide on Castle and Beckett's car.
+Action,Train,A,com,com,1,,,UNCOVERED,s04e22_seg02_clip_07#enc#4,s04e22_seg02_clip_07#enc#4,Sheldon stands aside and lets Raj com in then closes the door behind him.
+Action,Train,A,combat,combat,1,,battle,UNCOVERED,s10e03_seg02_clip_07#enc#2,s10e03_seg02_clip_07#enc#2,Sheldon gets alarmed because he wants to drink another bevarage to combat his tiredness.
+Action,Train,A,commentate,commentate,1,,,UNCOVERED,friends_s01e04_seg02_clip_05#enc#1,friends_s01e04_seg02_clip_05#enc#1,Chandler and Joey commentate them playing hockey on the street.
+Action,Train,A,compartmentalize,compartmentalize,1,,,UNCOVERED,friends_s07e18_seg02_clip_16#enc#2,friends_s07e18_seg02_clip_16#enc#2,Phoebe tries to get Monica to start to compartmentalize.
+Action,Train,A,compel,compelled,1,,obliged,UNCOVERED,s01e02_seg02_clip_05#enc#4,s01e02_seg02_clip_05#enc#4,Leonard tells Sheldon he can't break and enter Penny's place to cleanse it and Sheldon says he is compelled to.
+Action,Train,A,compete,competed | competes | competing,4,,,UNCOVERED,castle_s02e22_seg02_clip_10#enc#1,castle_s02e22_seg02_clip_10#enc#1,"Beckett and Kate were given the name of a suspect who's fingerprints were found on one of the items near the murder victim, and then watch footage of an angry exchange between the suspect and the deceased from the cooking show they competed on."
+Action,Train,A,complae,complaing,1,,,UNCOVERED,house_s05e05_seg02_clip_04#enc#3,house_s05e05_seg02_clip_04#enc#3,The patient is complaing about her being admitted in the hospital.
+Action,Train,A,complement,complements,17,,,UNCOVERED,s02e19_seg02_clip_04#enc#1,s02e19_seg02_clip_04#enc#1,Alicia complements Penny on her attire while standing outside her door.
+Action,Train,A,complete,complete | completes,8,,discharged | finishing | finishs | nailed,UNCOVERED,castle_s02e22_seg02_clip_00#enc#3,castle_s02e22_seg02_clip_00#enc#3,"Beckett answers her phone, takes and completes a phone call."
+Action,Train,A,compromise,compromise | compromising,5,,,UNCOVERED,s02e20_seg02_clip_03#enc#4,s02e20_seg02_clip_03#enc#4,Leonard tries to suggest a way that Sheldon and Howard can compromise.
+Action,Train,A,concerene,concerened,1,,,UNCOVERED,house_s08e19_seg02_clip_09#enc#2,house_s08e19_seg02_clip_09#enc#2,Foreman picks up a syring bottle and looks at it concerened.
+Action,Train,A,condemn,condemning,1,,,UNCOVERED,house_s03e14_seg02_clip_18#enc#4,house_s03e14_seg02_clip_18#enc#4,Foreman is talking to Cameron and told her that he is not condemning her.
+Action,Train,A,configure,configure,1,,,UNCOVERED,s02e05_seg02_clip_10#enc#1,s02e05_seg02_clip_10#enc#1,Howard sits at a desk in front of a laptop after telling Sheldon he has to configure his program.
+Action,Train,A,congrat,congrats,1,,,UNCOVERED,friends_s08e11_seg02_clip_01#enc#1,friends_s08e11_seg02_clip_01#enc#1,Mona leaves the scene and Joey takes up her spot on the couch and jokingly congrats Ross on getting married.
+Action,Train,A,coninue,coninues,1,,,UNCOVERED,castle_s02e02_seg02_clip_13#enc#0,castle_s02e02_seg02_clip_13#enc#0,"Ryan and Esposito watch an interrogation through a window, then they look at each other and rush away through a door quickly and without speaking, while the interrogation coninues."
+Action,Train,A,conole,conole,1,,,UNCOVERED,friends_s03e18_seg02_clip_14#enc#1,friends_s03e18_seg02_clip_14#enc#1,Phoebe tries to conole Frank as he is upset.
+Action,Train,A,consol,consol,1,,,UNCOVERED,friends_s08e03_seg02_clip_17#enc#1,friends_s08e03_seg02_clip_17#enc#1,Rachel is crying and Ross tries to consol her.
+Action,Train,A,conspire,conspired,1,,conjured | conjures,UNCOVERED,castle_s04e14_seg02_clip_00#enc#1,castle_s04e14_seg02_clip_00#enc#1,Castle and Beckett enters the room where a crime has conspired.
+Action,Train,A,contian,contians,1,,,UNCOVERED,castle_s08e13_seg02_clip_04#enc#4,castle_s08e13_seg02_clip_04#enc#4,Ryan presents a briefcase full of money and Beckett and tells the amount it contians.
+Action,Train,A,contradict,contradict | contradicts,4,,negates | opposes | opposing,UNCOVERED,castle_s08e06_seg02_clip_25#enc#0,castle_s08e06_seg02_clip_25#enc#0,"Esposito and Ryan sit in front of a man and talk, while the man nods, but contradicts what they are saying, then he rubs his hands and puts them near his face, closes his eyes, then accidentally confesses to a murder."
+Action,Train,A,conversate,conversate,1,,,UNCOVERED,s08e12_seg01_clip_00#enc#1,s08e12_seg01_clip_00#enc#1,Sheldon and Leonard conversate over which shade they will represent until Sheldon wins.
+Action,Train,A,convice,convice,1,,,UNCOVERED,friends_s04e22_seg02_clip_17#enc#1,friends_s04e22_seg02_clip_17#enc#1,Rachel and Monica try to convice Phoebe that being and aunt is better than being a parent.
+Action,Train,A,convict,convict,1,,,UNCOVERED,castle_s02e13_seg02_clip_21#enc#4,castle_s02e13_seg02_clip_21#enc#4,Coonan gives Beckett a last deal for his cooperation and it for her to convict Rathborne and he goes free as they are in the interrogation room.
+Action,Train,A,coo,coo | cooing,3,,,UNCOVERED,friends_s09e07_seg02_clip_13#enc#2,friends_s09e07_seg02_clip_13#enc#2,Rachel bends over to coo to the baby in the swing.
+Action,Train,A,cool,cool | cooling,4,,chill,UNCOVERED,s06e20_seg02_clip_09#enc#3,s06e20_seg02_clip_09#enc#3,Sheldon blows on his mug to cool it down.
+Action,Train,A,cooperate,cooperate,2,,collaborate,UNCOVERED,house_s01e12_seg02_clip_23#enc#4,house_s01e12_seg02_clip_23#enc#4,"Chase wonders why Hank is not willing to cooperate, whereas before he wasn't."
+Action,Train,A,cord,corded,1,,,UNCOVERED,friends_s07e13_seg02_clip_09#enc#0,friends_s07e13_seg02_clip_09#enc#0,Phoebe sits at a cubicle and talks on a corded phone.
+Action,Train,A,corner,cornered,1,,,UNCOVERED,castle_s04e01_seg02_clip_16#enc#3,castle_s04e01_seg02_clip_16#enc#3,"They arrested two suspects, the was caught eventually and the other try to escape so Beckett chase him until he get cornered."
+Action,Train,A,costume,costumed,1,,,UNCOVERED,friends_s03e18_seg02_clip_03#enc#1,friends_s03e18_seg02_clip_03#enc#1,"Monica, costumed in a blonde wig and fake breasts, passes something to Rachel across a counter."
+Action,Train,A,cradle,cradles | cradling,5,,,UNCOVERED,house_s08e06_seg02_clip_05#enc#1,house_s08e06_seg02_clip_05#enc#1,House is cradling a baby while he is sitting in the office.
+Action,Train,A,craft,crafting,1,,,UNCOVERED,s02e18_seg02_clip_01#enc#2,s02e18_seg02_clip_01#enc#2,"Leonard and Penny sitting down, crafting something while singing together and Leonard, Raj and Howard comes at the door."
+Action,Train,A,crane,cranes,2,,,UNCOVERED,s06e15_seg02_clip_15#enc#2,s06e15_seg02_clip_15#enc#2,Amy leans over and cranes her neck to see into Penny's apartment.
+Action,Train,A,cross-eye,cross-eyed,1,,,UNCOVERED,s09e06_seg02_clip_09#enc#3,s09e06_seg02_clip_09#enc#3,"After viewing cross-eyed Mike's picture, Penny cocks her head to one side and laughs."
+Action,Train,A,crow,crowed,2,,gloats,UNCOVERED,friends_s07e18_seg02_clip_10#enc#1,friends_s07e18_seg02_clip_10#enc#1,Joey looks at the crowed as the clap in an angry way.
+Action,Train,A,crticise,crticises,1,,,UNCOVERED,s02e15_seg02_clip_07#enc#1,s02e15_seg02_clip_07#enc#1,Leornards mother crticises Howard for living at home with is mum.
+Action,Train,A,cudle,cudled,1,,,UNCOVERED,s09e15_seg02_clip_12#enc#1,s09e15_seg02_clip_12#enc#1,Raj sits cudled up in a blanket on the couch while talking to his laptop.
+Action,Train,A,cup,cup | cups,9,,,UNCOVERED,met_s03e12_seg01_clip_02#enc#1,met_s03e12_seg01_clip_02#enc#1,"Marshall cups his hands in front of his face, smells them and then holds them out for Lily to smell."
+Action,Train,A,curtain,curtained,1,,,UNCOVERED,castle_s07e07_seg02_clip_07#enc#2,castle_s07e07_seg02_clip_07#enc#2,Castle walks out wearing a cowboy hat from a curtained room.
+Action,Train,A,cushion,cushioned,1,,,UNCOVERED,met_s03e06_seg01_clip_02#enc#4,met_s03e06_seg01_clip_02#enc#4,"A tree, presumably being cut down by a logging company, has its fall cushioned somewhat by crashing onto a group of trees that are still standing."
+Action,Train,A,dap,dap,2,,,UNCOVERED,castle_s07e03_seg02_clip_02#enc#0,castle_s07e03_seg02_clip_02#enc#0,Beckett and Castle are talking to Henry in a hallway as Castle notice the shirt Henry's is wearing and they dap each other.
+Action,Train,A,dare,dare | dares | daring,3,,presumed,UNCOVERED,house_s04e08_seg02_clip_05#enc#4,house_s04e08_seg02_clip_05#enc#4,House is daring Amber to show his bra and she told him he was a bit rude.
+Action,Train,A,davene,davening,1,,,UNCOVERED,grey_s01e09_seg02_clip_12#enc#3,grey_s01e09_seg02_clip_12#enc#3,Alex walks in while Devo is davening and thinks it's humorous.
+Action,Train,A,deadpan,deadpans,1,,,UNCOVERED,met_s06e14_seg02_clip_11#enc#4,met_s06e14_seg02_clip_11#enc#4,Ted deadpans how great it is to talk about his personal life.
+Action,Train,A,debuff,debuffs,1,,,UNCOVERED,house_s07e09_seg02_clip_15#enc#4,house_s07e09_seg02_clip_15#enc#4,Wilson tries to defend Cuddy's daughter but Arlene debuffs him.
+Action,Train,A,deceive,deceive | deceiving,2,,betrayed | betraying,UNCOVERED,house_s06e11_seg02_clip_15#enc#2,house_s06e11_seg02_clip_15#enc#2,Bill accuses Valerie of deceiving him and being unfaithful.
+Action,Train,A,decompose,decomposing,1,,,UNCOVERED,castle_s06e20_seg02_clip_07#enc#4,castle_s06e20_seg02_clip_07#enc#4,"Beckett, Lanie and Castle are observing and discussing a decomposing (burnt?) body."
+Action,Train,A,deface,defaced,1,,disfigured,UNCOVERED,house_s07e09_seg02_clip_05#enc#2,house_s07e09_seg02_clip_05#enc#2,House stands infront of a defaced bus stop advertisement which depicts Taub with a Hitler moustache and haircut.
+Action,Train,A,dehydrate,dehydrated,1,,,UNCOVERED,friends_s01e16-17_seg02_clip_29#enc#2,friends_s01e16-17_seg02_clip_29#enc#2,Mr. Geller Compares naturally dehydrated Nightshade fruit to purple stone fruit grown on trees.
+Action,Train,A,delievere,delievered,1,,,UNCOVERED,s01e11_seg02_clip_07#enc#0,s01e11_seg02_clip_07#enc#0,Penny mentions to Sheldon about having his food delievered and he stares at her.
+Action,Train,A,demme,Demming,1,,,UNCOVERED,castle_s02e23_seg02_clip_14#enc#2,castle_s02e23_seg02_clip_14#enc#2,Demming points for Marty to sit down on the bench.
+Action,Train,A,denigrate,denigrate | denigrates | denigrating,3,,,UNCOVERED,met_s03e03_seg02_clip_11#enc#4,met_s03e03_seg02_clip_11#enc#4,Lily and Marshall denigrate Ted for something he said.
+Action,Train,A,deploy,deploys,1,,,UNCOVERED,house_s02e21_seg02_clip_02#enc#2,house_s02e21_seg02_clip_02#enc#2,House deploys the rat on a moldy paper plate in the trash.
+Action,Train,A,deserve,deserves,2,,merits,UNCOVERED,friends_s03e02_seg02_clip_01#enc#2,friends_s03e02_seg02_clip_01#enc#2,Chandler tries to explain to Joey why he deserves the spot he's in.
+Action,Train,A,desist,desist,1,,refrain | refraining,UNCOVERED,grey_s03e08_seg02_clip_13#enc#3,grey_s03e08_seg02_clip_13#enc#3,Chief tells Derek and Addison to desist in their effort to aid him.
+Action,Train,A,despair,despairs,1,,,UNCOVERED,s03e04_seg02_clip_02#enc#2,s03e04_seg02_clip_02#enc#2,Raj realises how he is going to miss his beefburger and despairs at the thought of the lack of them in his home country.
+Action,Train,A,despise,despising,1,,scorns,UNCOVERED,house_s05e10_seg02_clip_25#enc#1,house_s05e10_seg02_clip_25#enc#1,Thirteen tells Foreman about despising her mother because she was sick and said hurtful things then Foreman holds Thirteen in his arms.
+Action,Train,A,destress,destress,1,,,UNCOVERED,friends_s09e19_seg02_clip_16#enc#0,friends_s09e19_seg02_clip_16#enc#0,Ross tries to destress Chandler from the bill by tapping him on the shoulder.
+Action,Train,A,detach,detaches,1,,,UNCOVERED,met_s02e12_seg02_clip_10#enc#0,met_s02e12_seg02_clip_10#enc#0,Ted detaches the crowd control belt while talking to his friends.
+Action,Train,A,detail,details,4,,,UNCOVERED,castle_s07e13_seg02_clip_25#enc#3,castle_s07e13_seg02_clip_25#enc#3,Beckett details the evidence they recovered in a person's automobile.
+Action,Train,A,detangle,detangling,1,,,UNCOVERED,s07e11_seg02_clip_07#enc#2,s07e11_seg02_clip_07#enc#2,Raj is on the couch detangling Christmas tree lights.
+Action,Train,A,devastate,devastated,1,,waste | wasted | wasting,UNCOVERED,friends_s07e01_seg02_clip_02#enc#3,friends_s07e01_seg02_clip_02#enc#3,Chandler walks out of the bedroom devastated because he was unable to have sex and Monica is telling him it's not just him with the problem.
+Action,Train,A,di,dis,1,,,UNCOVERED,house_s08e01_seg02_clip_05#enc#4,house_s08e01_seg02_clip_05#enc#4,House tells Stamper that Rollo took his stereo after following him into his cell and that Rollo told House that he could take Stamper on after Stamper thought Rollo wouldn't dis him.
+Action,Train,A,diagnosi,diagnosis,1,,,UNCOVERED,house_s01e11_seg02_clip_01#enc#0,house_s01e11_seg02_clip_01#enc#0,House has a discussion with his team to diagnosis his new patient.
+Action,Train,A,diapere,diapering,1,,,UNCOVERED,grey_s02e20_seg02_clip_07#enc#3,grey_s02e20_seg02_clip_07#enc#3,Cristina is diapering a baby when Richard walks in.
+Action,Train,A,dice,dice,1,,,UNCOVERED,s01e17_seg02_clip_05#enc#4,s01e17_seg02_clip_05#enc#4,Leonard rolls dice the game board on the coffee table.
+Action,Train,A,didn,didn,1,,,UNCOVERED,castle_s06e19_seg02_clip_25#enc#1,castle_s06e19_seg02_clip_25#enc#1,Weston compliments Castle on the work he didn on the case as she walks towards him and Beckett.
+Action,Train,A,diet,dieting,1,,,UNCOVERED,castle_s04e11_seg02_clip_00#enc#3,castle_s04e11_seg02_clip_00#enc#3,Jenny explains to everyone how her and Ryan are dieting.
+Action,Train,A,dilate,dilated | dilating,2,,elaborate | enlarged | enlarges | expands,UNCOVERED,house_s01e11_seg02_clip_09#enc#1,house_s01e11_seg02_clip_09#enc#1,A close up of the patient's eye shows it dilating.
+Action,Train,A,dimisse,dimisses,1,,,UNCOVERED,s04e18_seg02_clip_09#enc#4,s04e18_seg02_clip_09#enc#4,Sheldon dimisses the concern leonard has with him hacking into a super computer.
+Action,Train,A,dine,dine | dining,6,,,UNCOVERED,s09e02_seg02_clip_12#enc#4,s09e02_seg02_clip_12#enc#4,Raj calls for Leonard across a cafeteria as they dine.
+Action,Train,A,disable,disable | disabled,2,,handicapped,UNCOVERED,castle_s07e19_seg02_clip_02#enc#1,castle_s07e19_seg02_clip_02#enc#1,Castle throws crumpled paper to a man who seems to be disabled.
+Action,Train,A,disappear,disappear | disappeared | disappearing | disappears,21,,melt | melting | vanishes,UNCOVERED,friends_s06e11_seg02_clip_19#enc#0,friends_s06e11_seg02_clip_19#enc#0,"Chandler and Joey look at each other, simultaneously head for the stairs and disappear up them."
+Action,Train,A,disarm,disarm,1,,,UNCOVERED,castle_s03e01_seg02_clip_00#enc#3,castle_s03e01_seg02_clip_00#enc#3,Beckett yells at Castle to disarm himself with her gun drawn.
+Action,Train,A,disburse,disburse,1,,,UNCOVERED,house_s08e08_seg02_clip_10#enc#1,house_s08e08_seg02_clip_10#enc#1,The team of doctors get up from the briefing table and disburse.
+Action,Train,A,discourage,discourage | discouraged,3,,admonishes | warn | warning | warns,UNCOVERED,s06e24_seg01_clip_01#enc#3,s06e24_seg01_clip_01#enc#3,Raj Tells Sheldon not to discourage Leonard about something.
+Action,Train,A,discriminate,discriminating,1,,separate | separated | separates | separating,UNCOVERED,s04e02_seg02_clip_14#enc#4,s04e02_seg02_clip_14#enc#4,Sheldon accuses Penny of discriminating against him because he isn't there.
+Action,Train,A,discu,discus,1,,,UNCOVERED,friends_s04e18_seg01_clip_01#enc#0,friends_s04e18_seg01_clip_01#enc#0,Phoebe and Alice settle on the chair to discus names.
+Action,Train,A,disecte,disecting,2,,,UNCOVERED,house_s01e11_seg02_clip_21#enc#0,house_s01e11_seg02_clip_21#enc#0,House is disecting an animal very seriously on the room.
+Action,Train,A,disembark,disembark,1,,,UNCOVERED,castle_s02e11_seg02_clip_13#enc#1,castle_s02e11_seg02_clip_13#enc#1,The elevator doors open and a group of men disembark.
+Action,Train,A,diseren,diseren,1,,,UNCOVERED,castle_s05e08_seg02_clip_21#enc#4,castle_s05e08_seg02_clip_21#enc#4,Dolan can just look at Castle and diseren the directions to the location he wants.
+Action,Train,A,disfigure,disfigured,1,,defaced,UNCOVERED,castle_s01e08_seg02_clip_22#enc#4,castle_s01e08_seg02_clip_22#enc#4,Castle says the suspect may be disfigured or handicapped. This elicits a name from the man which catches Beckett's attention as the name is of interest.
+Action,Train,A,disguise,disguised,1,,mask,UNCOVERED,friends_s07e10_seg02_clip_14#enc#4,friends_s07e10_seg02_clip_14#enc#4,"Monica and Ross, who is disguised as an armadillo approach Chandler."
+Action,Train,A,disgust,disgusted,8,,repels,UNCOVERED,met_s06e14_seg02_clip_11#enc#3,met_s06e14_seg02_clip_11#enc#3,Ted is disgusted after his dad tells him of his new girlfriend.
+Action,Train,A,dismay,dismayed,1,,alarmed | horrified,UNCOVERED,met_s04e03_seg02_clip_08#enc#0,met_s04e03_seg02_clip_08#enc#0,"Barney holds a fist up to Lily, who appears dismayed."
+Action,Train,A,disorganize,disorganized,1,,,UNCOVERED,friends_s06e05_seg02_clip_16#enc#1,friends_s06e05_seg02_clip_16#enc#1,Chandler gets mad at Phoebe for being disorganized in the apartment.
+Action,Train,A,disown,disowns,1,,,UNCOVERED,s02e08_seg02_clip_13#enc#1,s02e08_seg02_clip_13#enc#1,Howard disowns Leonard and goes into his house slamming the door in front of him.
+Action,Train,A,disparage,disparages,2,,,UNCOVERED,s04e17_seg02_clip_00#enc#3,s04e17_seg02_clip_00#enc#3,Sheldon disparages Raj's tv while outside his door to Leonard.
+Action,Train,A,disrespect,disrespects,1,,,UNCOVERED,met_s02e13_seg02_clip_00#enc#0,met_s02e13_seg02_clip_00#enc#0,Druthers isn't impressed by Ted and disrespects his design.
+Action,Train,A,dissapointe,dissapointed,3,,,UNCOVERED,s04e11_seg02_clip_11#enc#0,s04e11_seg02_clip_11#enc#0,Sheldon tells Raj who to dress up as and Raj is dissapointed.
+Action,Train,A,disscusse,disscussing,1,,,UNCOVERED,s02e20_seg02_clip_11#enc#1,s02e20_seg02_clip_11#enc#1,"Stuart and Sheldon are disscussing who could be batman two, until Penny tells them she's found coffee and the both enter her apartment."
+Action,Train,A,dissect,dissects,1,,analyze | analyzed | analyzing,UNCOVERED,s04e10_seg02_clip_01#enc#1,s04e10_seg02_clip_01#enc#1,Sheldon eats with chopsticks while Amy dissects a brain.
+Action,Train,A,dissolve,dissolved | dissolving,2,,dismiss | dismissed | dismisses | dismissing | melt | melting | resolve | resolved,UNCOVERED,castle_s03e22_seg02_clip_09#enc#2,castle_s03e22_seg02_clip_09#enc#2,Lanie picks up a petri dish and is stunned by seeing dissolving bullets.
+Action,Train,A,distress,distressed | distresses,4,,,UNCOVERED,house_s05e06_seg02_clip_26#enc#2,house_s05e06_seg02_clip_26#enc#2,Cuddy is distressed with tears in her eyes.
+Action,Train,A,dive,dive | dives,6,,plunks,UNCOVERED,s04e04_seg01_clip_01#enc#1,s04e04_seg01_clip_01#enc#1,Howard leaps off his chair and dives under the table.
+Action,Train,A,divorce,divorce | divorced,6,,,UNCOVERED,s09e02_seg02_clip_15#enc#2,s09e02_seg02_clip_15#enc#2,Leonard asks Penny not to divorce him and she agrees.
+Action,Train,A,document,documents,1,,,UNCOVERED,castle_s02e01_seg02_clip_14#enc#1,castle_s02e01_seg02_clip_14#enc#1,Esposito hands Beckett documents as she walks by him.
+Action,Train,A,dogpile,dogpiles,1,,,UNCOVERED,friends_s03e09_seg02_clip_21#enc#2,friends_s03e09_seg02_clip_21#enc#2,"The group runs and dogpiles a football on the ground, Monica yells at ross to let go because she's a woman."
+Action,Train,A,dominate,dominate,1,,overlook | overlooking | rule | ruled,UNCOVERED,met_s03e01_seg02_clip_07#enc#0,met_s03e01_seg02_clip_07#enc#0,Lily gets excited by say how she could dominate a man.
+Action,Train,A,donw,donw,1,,,UNCOVERED,castle_s02e23_seg02_clip_07#enc#3,castle_s02e23_seg02_clip_07#enc#3,Castle slams his hand donw on the table and points his finger at Lance.
+Action,Train,A,doodle,doodles,1,,,UNCOVERED,castle_s06e05_seg02_clip_13#enc#1,castle_s06e05_seg02_clip_13#enc#1,Beckett doodles on a yellow note pad while looking at a news paper.
+Action,Train,A,downplay,downplays,1,,,UNCOVERED,met_s03e06_seg02_clip_02#enc#3,met_s03e06_seg02_clip_02#enc#3,Jeff looks at himself in the mirror while he downplays himself.
+Action,Train,A,doze,doze | dozes,3,,,UNCOVERED,friends_s08e11_seg02_clip_03#enc#4,friends_s08e11_seg02_clip_03#enc#4,Ross dozes off while laying on the couch and reading.
+Action,Train,A,draft,drafted,1,,,UNCOVERED,s09e18_seg02_clip_12#enc#1,s09e18_seg02_clip_12#enc#1,"Howard, Bernadette, Amy, Penny, and Leonard are all reading the contract Sheldon had drafted."
+Action,Train,A,drain,drained,2,,,UNCOVERED,house_s07e22_seg02_clip_06#enc#3,house_s07e22_seg02_clip_06#enc#3,Thirteen mentions the swelling almost done being drained as Chase is putting on gloves mentioning that its not enough since they don't know what the woman lying has.
+Action,Train,A,dramatize,dramatizes,1,,adopt | adopted | embroidered | padded,UNCOVERED,friends_s02e01_seg02_clip_21#enc#1,friends_s02e01_seg02_clip_21#enc#1,Ross dramatizes what if would be to be in bed with Rachel.
+Action,Train,A,dread,dreads,1,,fearing | fears,UNCOVERED,met_s03e02_seg02_clip_16#enc#1,met_s03e02_seg02_clip_16#enc#1,Having dreads Robin asks Robin if she wants to return from her vacation.
+Action,Train,A,drine,drining,1,,,UNCOVERED,s05e01_seg02_clip_03#enc#1,s05e01_seg02_clip_03#enc#1,Penny still drining a wine in glass and Amy knocks the door.
+Action,Train,A,drool,drooling | drools,2,,dribbles,UNCOVERED,grey_s03e23_seg02_clip_01#enc#4,grey_s03e23_seg02_clip_01#enc#4,Addison points at the other women and says they were drooling too much.
+Action,Train,A,drown,drown | drowned,3,,overwhelmed | swim | swims,UNCOVERED,castle_s06e17_seg02_clip_22#enc#0,castle_s06e17_seg02_clip_22#enc#0,Beckett is grasping for some air while Simmons tried to drown her.
+Action,Train,A,drppoe,drppoed,1,,,UNCOVERED,castle_s08e19_seg02_clip_15#enc#3,castle_s08e19_seg02_clip_15#enc#3,Castle answered the phone talking and drppoed the phone call.
+Action,Train,A,drug,drugged,1,,,UNCOVERED,house_s01e06_seg02_clip_06#enc#0,house_s01e06_seg02_clip_06#enc#0,The patient falls asleep after being drugged in their hospital bed.
+Action,Train,A,dute,duting,1,,,UNCOVERED,castle_s05e01_seg02_clip_07#enc#2,castle_s05e01_seg02_clip_07#enc#2,Esposito pulled out a black folder duting a talk with Castle.
+Action,Train,A,easere,easering,1,,,UNCOVERED,s05e07_seg01_clip_00#enc#0,s05e07_seg01_clip_00#enc#0,Sheldon looking at the white board then closing the marker and easering something.
+Action,Train,A,eavesdrop,eavesdrop | eavesdropping | eavesdrops,8,,,UNCOVERED,friends_s03e16_seg02_clip_17#enc#1,friends_s03e16_seg02_clip_17#enc#1,"Chandler, Joey, Monica and Phoebe are all eavesdropping next to a door."
+Action,Train,A,egg,egged | egging,2,,,UNCOVERED,met_s03e09_seg02_clip_04#enc#3,met_s03e09_seg02_clip_04#enc#3,Ted waves his hands while egging Barney to tell him.
+Action,Train,A,elaborate,elaborate,1,,dilated | dilating | enlarged | enlarges | expands,UNCOVERED,s06e08_seg02_clip_05#enc#1,s06e08_seg02_clip_05#enc#1,Leonard asks Sheldon to elaborate  while he is standing.
+Action,Train,A,elbow,elbows,2,,,UNCOVERED,s09e19_seg02_clip_09#enc#0,s09e19_seg02_clip_09#enc#0,Leonard elbows Howard while they are at the theater.
+Action,Train,A,electrocute,electrocute,1,,fried,UNCOVERED,castle_s07e05_seg02_clip_25#enc#4,castle_s07e05_seg02_clip_25#enc#4,A man is taped to a chair and gagged with duct tape. He rocks violently back and forth while several men electrocute him via large pads attached to his body.
+Action,Train,A,elope,elope,1,,,UNCOVERED,met_s02e08_seg02_clip_12#enc#2,met_s02e08_seg02_clip_12#enc#2,Lily wants to use maritime law to elope with Marshall.
+Action,Train,A,email,emailed,1,,,UNCOVERED,s02e17_seg02_clip_07#enc#1,s02e17_seg02_clip_07#enc#1,Sheldon puts his laptop away as Leonard explains how they can get the paper Sheldon left at home emailed to them.
+Action,Train,A,embarasse,embarassed,1,,,UNCOVERED,friends_s05e23-24_seg02_clip_13#enc#4,friends_s05e23-24_seg02_clip_13#enc#4,Rachel and Ross feel they both share the same trait and are not easily embarassed.
+Action,Train,A,embarrase,embarrased,1,,,UNCOVERED,friends_s09e20_seg02_clip_10#enc#4,friends_s09e20_seg02_clip_10#enc#4,Chandler sits down in a theatre seat while feeling embarrased.
+Action,Train,A,embrasse,embrasses,1,,,UNCOVERED,met_s06e19_seg02_clip_01#enc#0,met_s06e19_seg02_clip_01#enc#0,Robin embrasses herself by thinking a real geographic location is a make believe land.
+Action,Train,A,embroider,embroidered,1,,dramatizes | padded,UNCOVERED,s07e08_seg01_clip_01#enc#3,s07e08_seg01_clip_01#enc#3,Leonard hold a bright red sweater with his aunt's nickname for him embroidered on it.
+Action,Train,A,emerge,emerge | emerges,8,,issued | issues | issuing,UNCOVERED,s03e23_seg02_clip_12#enc#4,s03e23_seg02_clip_12#enc#4,Sheldon emerges from his room and walks into the main part of the apartment.
+Action,Train,A,emphasi,emphasis,1,,,UNCOVERED,castle_s04e20_seg02_clip_03#enc#0,castle_s04e20_seg02_clip_03#enc#0,As Castle speaks he raises his eyebrows to emphasis a point.
+Action,Train,A,encase,encased,3,,,UNCOVERED,s07e24_seg02_clip_12#enc#2,s07e24_seg02_clip_12#enc#2,Sheldon holds up a comic book encased in plastic.
+Action,Train,A,enetr,enetrs,1,,,UNCOVERED,house_s05e13_seg02_clip_17#enc#3,house_s05e13_seg02_clip_17#enc#3,"House enetrs the room and has a conversation with dr Cameron, who is sitting on a sofa holding a stack of papers."
+Action,Train,A,enlighten,enlightens,1,,clear | cleared | clearing | clears | illuminate | illuminated,UNCOVERED,house_s01e15_seg02_clip_16#enc#3,house_s01e15_seg02_clip_16#enc#3,Cuddy expresses disbelief about a cause for organ shut down while flipping through papers and House enlightens her as to what drug it was reacting with.
+Action,Train,A,ensue,ensues,1,,resulted,UNCOVERED,castle_s08e22_seg02_clip_20#enc#1,castle_s08e22_seg02_clip_20#enc#1,"After Esposito and Ryan walk up to the reception desk, the two employees try to draw their weapons and a fight ensues."
+Action,Train,A,entangle,entangled,1,,,UNCOVERED,friends_s06e04_seg02_clip_03#enc#4,friends_s06e04_seg02_clip_03#enc#4,"Joey plays with a rope in his hands, entangled in between his hands."
+Action,Train,A,enterr,enterrs,1,,,UNCOVERED,house_s05e10_seg02_clip_00#enc#4,house_s05e10_seg02_clip_00#enc#4,Dr.House enterrs the other office and speaks with the other doctors there.
+Action,Train,A,enthuse,enthused,1,,,UNCOVERED,met_s03e09_seg02_clip_00#enc#1,met_s03e09_seg02_clip_00#enc#1,Barney looks not enthused when Lily and Marshall mentions their holiday.
+Action,Train,A,entice,entice,3,,luring | tempted,UNCOVERED,castle_s04e03_seg02_clip_16#enc#0,castle_s04e03_seg02_clip_16#enc#0,Castle wonders what would entice a person to have unsafe surgery while putting a pancake on Martha's plate.
+Action,Train,A,envy,envies,1,,,UNCOVERED,s07e10_seg02_clip_00#enc#1,s07e10_seg02_clip_00#enc#1,"Penny asks sheldon why he isnt pleased just to be skinny and content, to her horror, she then realises she envies him."
+Action,Train,A,erace,eraces,1,,,UNCOVERED,house_s05e15_seg02_clip_22#enc#4,house_s05e15_seg02_clip_22#enc#4,House eraces the top symptom from off the white board.
+Action,Train,A,exam,exams,1,,,UNCOVERED,house_s03e18_seg02_clip_00#enc#0,house_s03e18_seg02_clip_00#enc#0,Wilson is checking in his patients eyes as he exams her.
+Action,Train,A,examin,examin,1,,,UNCOVERED,castle_s03e10_seg02_clip_01#enc#4,castle_s03e10_seg02_clip_01#enc#4,Kate Beckett kneels down to examin a body and start a conversation with an officer on scene.
+Action,Train,A,excel,excels,1,,surpassed | surpassing,UNCOVERED,s10e10_seg02_clip_16#enc#2,s10e10_seg02_clip_16#enc#2,The old man claims that putting his private parts on things is something he excels at.
+Action,Train,A,exemplify,exemplified,1,,illustrate | illustrates | illustrating | represent | representing,UNCOVERED,met_s03e17_seg02_clip_10#enc#0,met_s03e17_seg02_clip_10#enc#0,Marshall reminds Barney of how Ted exemplified the code.
+Action,Train,A,exhale,exhaled | exhales,7,,,UNCOVERED,friends_s01e06_seg02_clip_03#enc#4,friends_s01e06_seg02_clip_03#enc#4,Estelle exhales a large plume of cigarette smoke.
+Action,Train,A,exhuste,exhusted,1,,,UNCOVERED,grey_s02e18_seg02_clip_01#enc#3,grey_s02e18_seg02_clip_01#enc#3,Ellis is seated in her chair as she tells Meredith she exhusted and Meredith tells her that she is also.
+Action,Train,A,exonerate,exonerates,1,,clear | cleared | clearing | clears | discharged,UNCOVERED,castle_s03e03_seg02_clip_14#enc#4,castle_s03e03_seg02_clip_14#enc#4,Ryan shares news that exonerates a person of murder.
+Action,Train,A,experiment,experimenting,1,,,UNCOVERED,s03e03_seg02_clip_07#enc#1,s03e03_seg02_clip_07#enc#1,Leonard forbids Sheldon to try to change Penny with his experimenting so Sheldon sits back on the couch and grabs a bottle.
+Action,Train,A,explane,explaning,2,,,UNCOVERED,castle_s04e16_seg02_clip_19#enc#3,castle_s04e16_seg02_clip_19#enc#3,Sophia walking back and forth while explaning about the where they could get more information.
+Action,Train,A,explin,explins,1,,,UNCOVERED,house_s03e19_seg02_clip_23#enc#1,house_s03e19_seg02_clip_23#enc#1,Dr.House talks with a patients dad and explins him that he is the root cause for the patients disease.
+Action,Train,A,extinguish,extinguishes,1,,eliminated,UNCOVERED,s03e12_seg02_clip_09#enc#3,s03e12_seg02_clip_09#enc#3,Leonard picks up another figure while walking toward the figure on fire and extinguishes the fire.
+Action,Train,A,eye,eyed | eyeing,3,,,UNCOVERED,friends_s01e06_seg02_clip_01#enc#2,friends_s01e06_seg02_clip_01#enc#2,Chandler walks up to the woman that he was eyeing.
+Action,Train,A,fabricate,fabricated,1,,invented | manufactured,UNCOVERED,castle_s07e09_seg02_clip_09#enc#0,castle_s07e09_seg02_clip_09#enc#0,Castle is stunned to know a backstory has been fabricated.
+Action,Train,A,faint,faint | faints,9,,swoon,UNCOVERED,house_s06e08_seg02_clip_12#enc#3,house_s06e08_seg02_clip_12#enc#3,Dr. House faints and falls on the couch.
+Action,Train,A,falnk,falnk,1,,,UNCOVERED,friends_s02e11_seg02_clip_18#enc#1,friends_s02e11_seg02_clip_18#enc#1,Susan's parents falnk her on both sides as she comes down the isle.
+Action,Train,A,fan,fan | fanned | fanning,7,,,UNCOVERED,house_s08e17_seg02_clip_02#enc#0,house_s08e17_seg02_clip_02#enc#0,A woman is sitting at House's desk with a deck of cards fanned out in front of House.
+Action,Train,A,fantasize,fantasize | fantasizing,3,,,UNCOVERED,s05e18_seg02_clip_03#enc#1,s05e18_seg02_clip_03#enc#1,Amy tells Sheldon he would be handsome with a longish hairstyle and starts to fantasize about him.
+Action,Train,A,fat,fat,1,,plumps,UNCOVERED,s07e11_seg02_clip_13#enc#4,s07e11_seg02_clip_13#enc#4,Fat Raj points out his fork to fat Leonard while they enjoy their meal.
+Action,Train,A,fce,fce,1,,,UNCOVERED,house_s01e18_seg02_clip_14#enc#2,house_s01e18_seg02_clip_14#enc#2,Dr. James Wilson takes a turn to fce Dr. House.
+Action,Train,A,feak,feak,1,,,UNCOVERED,grey_s02e10_seg02_clip_13#enc#0,grey_s02e10_seg02_clip_13#enc#0,Then the patient start to feak out. And they try to make him calm.
+Action,Train,A,fear,fearing | fears,2,,dreads,UNCOVERED,house_s07e03_seg02_clip_17#enc#0,house_s07e03_seg02_clip_17#enc#0,"House denies the patient has lupus, fearing she will commit suicide."
+Action,Train,A,fib,fib | fibbing,3,,,UNCOVERED,house_s02e05_seg02_clip_16#enc#4,house_s02e05_seg02_clip_16#enc#4,Cuddy tells Cameron she doesn't have to fib to House because Taddy is on the way there.
+Action,Train,A,filter,filter,1,,dribbles | straining | strains | trickle,UNCOVERED,house_s01e15_seg02_clip_14#enc#4,house_s01e15_seg02_clip_14#enc#4,A pig is being used to filter a patient's blood.
+Action,Train,A,fingeree,fingereed,1,,,UNCOVERED,castle_s03e24_seg02_clip_06#enc#1,castle_s03e24_seg02_clip_06#enc#1,An bullet holes in  an helicopter is fingereed by Castle.
+Action,Train,A,fininsh,fininshs,1,,,UNCOVERED,castle_s03e22_seg02_clip_15#enc#2,castle_s03e22_seg02_clip_15#enc#2,"Beckett fininshs writing ""Ground"" on an investigaation chalkboard."
+Action,Train,A,fish,fish | fishes | fishing,9,,angle | angles,UNCOVERED,friends_s05e18_seg02_clip_14#enc#0,friends_s05e18_seg02_clip_14#enc#0,Rachel throws things in the trash and then tries to fish them out later.
+Action,Train,A,fist,fist,8,,,UNCOVERED,met_s04e03_seg02_clip_02#enc#4,met_s04e03_seg02_clip_02#enc#4,Barney and Marshall fist bump each other across the couch.
+Action,Train,A,five,fives,1,,,UNCOVERED,met_s02e10_seg02_clip_18#enc#2,met_s02e10_seg02_clip_18#enc#2,Barney is talking to his infant nephew and he high fives him.
+Action,Train,A,flabbergast,flabbergasted,1,,,UNCOVERED,s07e24_seg02_clip_07#enc#1,s07e24_seg02_clip_07#enc#1,Sheldon gets up from the chair and is flabbergasted by something Leonard says to him.
+Action,Train,A,flag,flags,1,,,UNCOVERED,friends_s01e16-17_seg01_clip_00#enc#1,friends_s01e16-17_seg01_clip_00#enc#1,Joey flags down a waitress using his arms.
+Action,Train,A,flake,flaked,1,,peel | peeling | peels,UNCOVERED,met_s06e19_seg02_clip_04#enc#3,met_s06e19_seg02_clip_04#enc#3,"Lily, Ted and Robin are all sitting on the couch and voice their concern to Barney because his father hasn't been in Barney's life and has flaked on him, they don't want to see Barney get hurt. Barney reassures his friends that his father is cool."
+Action,Train,A,flat,flatted,1,,,UNCOVERED,friends_s01e01_seg02_clip_15#enc#0,friends_s01e01_seg02_clip_15#enc#0,Monica is flatted that Paul mentions seeing her again.
+Action,Train,A,flatline,flatlines,1,,,UNCOVERED,house_s05e17_seg02_clip_20#enc#2,house_s05e17_seg02_clip_20#enc#2,Nick flatlines and Audrey walks out of the room.
+Action,Train,A,flatter,flattered,1,,,UNCOVERED,s08e20_seg02_clip_09#enc#1,s08e20_seg02_clip_09#enc#1,Josh shows a picture to Howard and Howard is flattered.
+Action,Train,A,flavor,flavored,1,,,UNCOVERED,grey_s02e12_seg02_clip_15#enc#3,grey_s02e12_seg02_clip_15#enc#3,Bailey tells Meredith to get her a fruit flavored drink.
+Action,Train,A,flod,flods,1,,,UNCOVERED,house_s02e24_seg02_clip_03#enc#4,house_s02e24_seg02_clip_03#enc#4,House gets back in his bed and flods his hand on his chest.
+Action,Train,A,flood,flood | flooded,3,,,UNCOVERED,house_s02e04_seg02_clip_25#enc#0,house_s02e04_seg02_clip_25#enc#0,House and Wilson ar on the balcony of the hospital as they watch Sebastian get flooded by reporters and House mentions how he Sebastian enjoys it and Wilson tells him he's just mad at him for loving his job.
+Action,Train,A,flop,flopping | flops,3,,,UNCOVERED,friends_s02e11_seg02_clip_08#enc#2,friends_s02e11_seg02_clip_08#enc#2,Rachel flops down onto the couch while talking to her mother.
+Action,Train,A,floss,flossing,1,,,UNCOVERED,s02e13_seg02_clip_16#enc#2,s02e13_seg02_clip_16#enc#2,"Barry walks into the lounge, flossing his teeth."
+Action,Train,A,flower,flowered,1,,,UNCOVERED,s01e06_seg02_clip_17#enc#4,s01e06_seg02_clip_17#enc#4,Raj and a girl lay in bed with a flowered duvet.
+Action,Train,A,fluctuate,fluctuated,1,,wavering,UNCOVERED,met_s03e05_seg01_clip_01#enc#3,met_s03e05_seg01_clip_01#enc#3,Barney illustrates how his old girlfriend fluctuated on the chart.
+Action,Train,A,flush,flushed | flushes,5,,blush | blushes | levels,UNCOVERED,house_s03e16_seg02_clip_00#enc#2,house_s03e16_seg02_clip_00#enc#2,Wilson flushes the urinal with his elbow and walks over to the sinks.
+Action,Train,A,fluster,flustered,2,,,UNCOVERED,grey_s03e13_seg02_clip_27#enc#1,grey_s03e13_seg02_clip_27#enc#1,Derek walks towards Meredith showing he is flustered.
+Action,Train,A,forawrd,forawrd,1,,,UNCOVERED,house_s07e08_seg02_clip_23#enc#4,house_s07e08_seg02_clip_23#enc#4,Dr Chase leans forawrd near Dr Taub to look closer at something.
+Action,Train,A,forgive,forgive | forgiven | forgives,7,,,UNCOVERED,s03e01_seg02_clip_17#enc#4,s03e01_seg02_clip_17#enc#4,"Sheldon and his mom discuss evolution, creation, fact and opinion; he decides to forgive his friends and get out of there."
+Action,Train,A,fork,forks,2,,separate | separated | separates | separating,UNCOVERED,friends_s09e08_seg02_clip_12#enc#1,friends_s09e08_seg02_clip_12#enc#1,"Phoebe forks her own food in her mouth at the table, silently."
+Action,Train,A,forward,forwarded | forwards,4,,,UNCOVERED,friends_s08e04_seg02_clip_15#enc#2,friends_s08e04_seg02_clip_15#enc#2,Rachel fast forwards through a part of the tape.
+Action,Train,A,frazzle,frazzled,1,,,UNCOVERED,castle_s07e21_seg02_clip_24#enc#4,castle_s07e21_seg02_clip_24#enc#4,Castle is shaking Aaron calling his name and he doesn't wake up until after a while he wake up frazzled looking at his watch.
+Action,Train,A,frisk,frisks,1,,sporting,UNCOVERED,castle_s02e02_seg02_clip_19#enc#2,castle_s02e02_seg02_clip_19#enc#2,Ryan frisks a man for weapons in an alley.
+Action,Train,A,frustreate,frustreated,1,,,UNCOVERED,friends_s09e07_seg02_clip_13#enc#0,friends_s09e07_seg02_clip_13#enc#0,Rachel is frustreated trying Entertaining Emma by clapping her hands.
+Action,Train,A,fry,fried,2,,electrocute,UNCOVERED,friends_s06e13_seg02_clip_21#enc#1,friends_s06e13_seg02_clip_21#enc#1,Joey is holding a plate of pasta and a fried chicken leg as he speaks to a blonde woman.
+Action,Train,A,fuigure,fuigures,1,,,UNCOVERED,house_s02e07_seg02_clip_24#enc#0,house_s02e07_seg02_clip_24#enc#0,Stacy gets upset when she fuigures out something about House.
+Action,Train,A,fund,fund,1,,,UNCOVERED,friends_s05e23-24_seg02_clip_14#enc#4,friends_s05e23-24_seg02_clip_14#enc#4,Joey comes up with a plan to make enough money to fund the movie.
+Action,Train,A,fuss,fusses,1,,fretting,UNCOVERED,friends_s06e01_seg02_clip_09#enc#1,friends_s06e01_seg02_clip_09#enc#1,Phoebe fusses at Joey about how long she's been driving.
+Action,Train,A,gargle,gargles,2,,rinses | rinsing,UNCOVERED,friends_s06e05_seg02_clip_11#enc#0,friends_s06e05_seg02_clip_11#enc#0,Chandler takes a drink from the water bottle and then gargles with the water.
+Action,Train,A,gaslight,gaslight,1,,,UNCOVERED,friends_s02e14_seg02_clip_08#enc#2,friends_s02e14_seg02_clip_08#enc#2,Rachel stops Ross when he tries to gaslight her opinion of his actions.
+Action,Train,A,gel,gelled,1,,,UNCOVERED,friends_s04e11_seg01_clip_01#enc#0,friends_s04e11_seg01_clip_01#enc#0,Frank rubs his hand through his really gelled hair.
+Action,Train,A,giver,giver,1,,,UNCOVERED,friends_s09e10_seg02_clip_16#enc#0,friends_s09e10_seg02_clip_16#enc#0,Chandler is standing in front of Monica as he tells her that he will do what it takes to make her content and giver her the wedding she wants and she kisses and embraces Chandler in response.
+Action,Train,A,givin,givin,2,,,UNCOVERED,castle_s03e16_seg02_clip_02#enc#2,castle_s03e16_seg02_clip_02#enc#2,"Two names are givin up from Jamal, he is talking with Beckett and Castle."
+Action,Train,A,glace,glaces,1,,,UNCOVERED,s08e01_seg02_clip_12#enc#0,s08e01_seg02_clip_12#enc#0,Leonard glaces up to check his rear view mirror.
+Action,Train,A,glaire,glairing,1,,,UNCOVERED,house_s03e18_seg02_clip_15#enc#3,house_s03e18_seg02_clip_15#enc#3,Cameron and Chase get up from their seats to leave while glairing at Chase.
+Action,Train,A,glide,glides,1,,,UNCOVERED,s06e03_seg02_clip_09#enc#4,s06e03_seg02_clip_09#enc#4,An astronaut glides by behind Howard as he talks with Bernadette.
+Action,Train,A,gloat,gloats,1,,crowed,UNCOVERED,friends_s04e13_seg02_clip_07#enc#4,friends_s04e13_seg02_clip_07#enc#4,"Rachel comes through the front door and gloats about having the greatest place of employment, and how a really hot guy was there and she got to have him try outfits on for her entire shift."
+Action,Train,A,glove,gloved,2,,,UNCOVERED,grey_s02e01_seg02_clip_13#enc#4,grey_s02e01_seg02_clip_13#enc#4,Bags of ice are placed on Joe's neck by gloved hands while he lays on the operating table under anesthesia.
+Action,Train,A,glue,gluing,1,,pasted,UNCOVERED,grey_s03e19_seg02_clip_17#enc#2,grey_s03e19_seg02_clip_17#enc#2,The patients daughter is gluing a piece of furniture together when the patient is talking to Izzie
+Action,Train,A,gnaw,gnawing,1,,,UNCOVERED,castle_s04e10_seg02_clip_22#enc#4,castle_s04e10_seg02_clip_22#enc#4,A tiger is gnawing at the wall of the room where Castle and Beckett are at.
+Action,Train,A,goad,goaded,1,,pricked | pricks,UNCOVERED,friends_s06e09_seg02_clip_21#enc#2,friends_s06e09_seg02_clip_21#enc#2,"Mrs. gellar asks Ross about the drugs and the divorce, he responds that he was goaded into it."
+Action,Train,A,goof,goofing,1,,sining,UNCOVERED,s04e20_seg01_clip_00#enc#1,s04e20_seg01_clip_00#enc#1,Amy tells Sheldon she's happy they were there because it felt like they were goofing off.
+Action,Train,A,google,googling,1,,,UNCOVERED,met_s06e13_seg02_clip_10#enc#0,met_s06e13_seg02_clip_10#enc#0,Ted says what his is googling in the computer.
+Action,Train,A,gore,gores,1,,,UNCOVERED,s06e10_seg02_clip_04#enc#3,s06e10_seg02_clip_04#enc#3,Sheldon gets up from the couch and gores to the kitchen.
+Action,Train,A,graduate,graduating,1,,,UNCOVERED,house_s03e22_seg02_clip_20#enc#0,house_s03e22_seg02_clip_20#enc#0,House is talking to Foreman about a daughter who graduating after a few years from now.
+Action,Train,A,grap,graps,1,,,UNCOVERED,s05e10_seg01_clip_02#enc#4,s05e10_seg01_clip_02#enc#4,Howard graps an object out of Leonard's hand.
+Action,Train,A,grill,grilled | grills,3,,,UNCOVERED,friends_s06e14_seg02_clip_00#enc#0,friends_s06e14_seg02_clip_00#enc#0,Rachel grills Ross on how his romantic night out went.
+Action,Train,A,grit,grits,1,,,UNCOVERED,s03e04_seg02_clip_17#enc#4,s03e04_seg02_clip_17#enc#4,"Sheldon grits his teeth, bends over slightly and shakes his arms in a gesture of frustration."
+Action,Train,A,grunt,grunts,1,,,UNCOVERED,house_s05e24_seg02_clip_22#enc#0,house_s05e24_seg02_clip_22#enc#0,House presses Eugene's abdomen a few times and he grunts.
+Action,Train,A,guilt,guilts,1,,,UNCOVERED,friends_s01e09_seg02_clip_11#enc#4,friends_s01e09_seg02_clip_11#enc#4,Phoebe guilts Monica into adding her requested order to the meal.
+Action,Train,A,gulp,gulping | gulps,4,,,UNCOVERED,friends_s01e05_seg02_clip_08#enc#4,friends_s01e05_seg02_clip_08#enc#4,Chandler is handed his espresso and he gulps it down immediately.
+Action,Train,A,gush,gushes | gushing,3,,spurts,UNCOVERED,castle_s07e12_seg02_clip_27#enc#0,castle_s07e12_seg02_clip_27#enc#0,"A lady with a foreign accent wears a large black hat and gold earrings, and talks to Castle and Beckett, then Esposito walks up and asks for the lady's autograph, while gushing about what a fan he is."
+Action,Train,A,hae,haed,1,,,UNCOVERED,castle_s07e12_seg02_clip_04#enc#1,castle_s07e12_seg02_clip_04#enc#1,"Sofoa weeps holding her haed in an moderate gag posture, with an handerchief."
+Action,Train,A,haire,haired,8,,,UNCOVERED,house_s05e09_seg02_clip_22#enc#2,house_s05e09_seg02_clip_22#enc#2,"House stands in a room where Thirteen sits on an exam table with a gray-haired man seated nearby, and a younger man in the background; the gray-haired man talks to a hostage negotiator who is outside the room; he releases the young man hostage."
+Action,Train,A,hake,hakes,2,,,UNCOVERED,grey_s03e05_seg02_clip_07#enc#1,grey_s03e05_seg02_clip_07#enc#1,Dr. Savoy hakes his head at Bailey in the elevator.
+Action,Train,A,hammer,hammering,3,,forged,UNCOVERED,house_s03e06_seg02_clip_20#enc#3,house_s03e06_seg02_clip_20#enc#3,Dr. House is hammering his knees when a lawyer is discussing him a thing.
+Action,Train,A,han,hans,1,,,UNCOVERED,house_s06e05_seg02_clip_04#enc#3,house_s06e05_seg02_clip_04#enc#3,House hans the woman the black phone as she stands in front of him.
+Action,Train,A,handicap,handicapped,1,,disable | disabled,UNCOVERED,castle_s01e08_seg02_clip_22#enc#4,castle_s01e08_seg02_clip_22#enc#4,Castle says the suspect may be disfigured or handicapped. This elicits a name from the man which catches Beckett's attention as the name is of interest.
+Action,Train,A,handshake,handshake,1,,,UNCOVERED,house_s05e18_seg02_clip_02#enc#3,house_s05e18_seg02_clip_02#enc#3,Neil Zane handshake Dr. Taub who is looking confused.
+Action,Train,A,hangout,hangout,1,,,UNCOVERED,met_s06e11_seg02_clip_03#enc#4,met_s06e11_seg02_clip_03#enc#4,Lily suggested to Ted that he should hangout with two persons.
+Action,Train,A,hank,hank,1,,,UNCOVERED,castle_s06e03_seg02_clip_12#enc#2,castle_s06e03_seg02_clip_12#enc#2,Esposito pulls out his badge and shows it to hank.
+Action,Train,A,harass,harasses,1,,provoke | provokes,UNCOVERED,met_s02e10_seg02_clip_09#enc#2,met_s02e10_seg02_clip_09#enc#2,Barney harasses a man and wanted him to show him his phone.
+Action,Train,A,harm,harm | harmed | harming,10,,,UNCOVERED,house_s08e08_seg02_clip_02#enc#2,house_s08e08_seg02_clip_02#enc#2,Dr.Taub taks with Olivia about Tommy and the possibility that someone tried to harm him.
+Action,Train,A,harrasse,harrassed,2,,,UNCOVERED,friends_s01e12_seg02_clip_09#enc#2,friends_s01e12_seg02_clip_09#enc#2,Phoebe gets sexually harrassed while giving a customer a massage.
+Action,Train,A,harvest,harvested,1,,,UNCOVERED,house_s02e11_seg02_clip_20#enc#0,house_s02e11_seg02_clip_20#enc#0,Dr. Chase brings the specimen they just harvested into the microscope.
+Action,Train,A,haunt,haunting,1,,obsessing | stalk | stalked | stalking | stalks,UNCOVERED,friends_s02e11_seg02_clip_13#enc#2,friends_s02e11_seg02_clip_13#enc#2,Rachel peels lemons while asking Phoebe about the spirit haunting Phoebe.
+Action,Train,A,hdeade,hdeaded,1,,,UNCOVERED,friends_s01e16-17_seg02_clip_16#enc#3,friends_s01e16-17_seg02_clip_16#enc#3,Joey gets up from his seat and Phoebe asks him where he is hdeaded.
+Action,Train,A,heckle,heckles,1,,,UNCOVERED,met_s06e15_seg02_clip_05#enc#4,met_s06e15_seg02_clip_05#enc#4,Robin heckles Marshall for not being able to ignore an incoming call.
+Action,Train,A,heppene,heppened,1,,,UNCOVERED,s03e15_seg01_clip_01#enc#1,s03e15_seg01_clip_01#enc#1,Sheldon explains the history of what heppened to Saint Valentine.
+Action,Train,A,hiccup,hiccups,1,,,UNCOVERED,met_s05e02_seg02_clip_03#enc#2,met_s05e02_seg02_clip_03#enc#2,Marshall is side-eyeing Lily and then pops a paper bag to scare her but she hiccups.
+Action,Train,A,high,high,2,,,UNCOVERED,met_s05e02_seg02_clip_04#enc#1,met_s05e02_seg02_clip_04#enc#1,Marshall raises his hand for a high five but Barney does not high five him.
+Action,Train,A,hijack,hijack,1,,,UNCOVERED,castle_s05e09_seg02_clip_12#enc#4,castle_s05e09_seg02_clip_12#enc#4,Mr. Mudge explains how easy it would be to hijack his vehicels.
+Action,Train,A,hike,hiking,1,,,UNCOVERED,friends_s10e11_seg02_clip_13#enc#3,friends_s10e11_seg02_clip_13#enc#3,Roy tells Phoebe that he did a lot of things including taking mass transit and hiking the long stairway.
+Action,Train,A,hinge,hinged,1,,,UNCOVERED,house_s07e16_seg02_clip_10#enc#0,house_s07e16_seg02_clip_10#enc#0,House tells Carnell that he pays for repair of the hinged barrier at the entrance to a room.
+Action,Train,A,hiss,hisses,1,,boo | booing,UNCOVERED,friends_s05e21_seg02_clip_14#enc#0,friends_s05e21_seg02_clip_14#enc#0,Rachel attempts to touch a cat and is startled when it hisses at her.
+Action,Train,A,hitchhike,hitchhike | hitchhiking,2,,hitched | thumb,UNCOVERED,s06e13_seg02_clip_08#enc#1,s06e13_seg02_clip_08#enc#1,The guys are dressed up as characters from Star Trek and are hitchhiking in the desert when car passes them by.
+Action,Train,A,hog,hogging,1,,,UNCOVERED,friends_s03e22_seg01_clip_00#enc#4,friends_s03e22_seg01_clip_00#enc#4,"Rachel tells Phoebe to disconnect her call because she's been hogging the phone for hours and she needs to telephone her father, and Phoebe tells her that he rang a couple of hours before."
+Action,Train,A,holdig,holdig,1,,,UNCOVERED,castle_s06e08_seg02_clip_14#enc#1,castle_s06e08_seg02_clip_14#enc#1,Esposito is holdig the back of his head as he listens to Ryan.
+Action,Train,A,holdng,holdng,1,,,UNCOVERED,house_s08e13_seg02_clip_06#enc#3,house_s08e13_seg02_clip_06#enc#3,Adams holdng a pen lifts and drops her hand from the table.
+Action,Train,A,hole,holing,2,,,UNCOVERED,friends_s08e07_seg01_clip_00#enc#0,friends_s08e07_seg01_clip_00#enc#0,The man wearing glasses was sitting on a couch while holing a book.
+Action,Train,A,holster,holsters,1,,,UNCOVERED,castle_s07e07_seg02_clip_26#enc#2,castle_s07e07_seg02_clip_26#enc#2,"Beckett spins her gun around her finger, then she holsters the gun."
+Action,Train,A,horrify,horrified,4,,alarmed | dismayed,UNCOVERED,s05e14_seg02_clip_14#enc#3,s05e14_seg02_clip_14#enc#3,Penny puts one hand over her mouth in a show of being horrified.
+Action,Train,A,hose,hoses,1,,,UNCOVERED,castle_s01e08_seg02_clip_13#enc#0,castle_s01e08_seg02_clip_13#enc#0,Lee and Castle approach Jared Swanstrom with questions as he hoses off a sidewalk.
+Action,Train,A,hospitalize,hospitalized,1,,,UNCOVERED,castle_s04e22_seg02_clip_17#enc#3,castle_s04e22_seg02_clip_17#enc#3,Beckett shows the hospitalized man a picture of him as a suspect.
+Action,Train,A,host,hosting,1,,,UNCOVERED,s03e11_seg02_clip_07#enc#3,s03e11_seg02_clip_07#enc#3,Penny walks into the apartment where Leonard is hosting a party.
+Action,Train,A,house,House | house,6,,,UNCOVERED,house_s08e01_seg02_clip_24#enc#0,house_s08e01_seg02_clip_24#enc#0,Adams gives House something and tells him to watch his back.
+Action,Train,A,huddle,huddle | huddled,8,,cowering,UNCOVERED,castle_s03e17_seg02_clip_04#enc#2,castle_s03e17_seg02_clip_04#enc#2,Castle and Beckett are huddled together on the floor of a freezer.
+Action,Train,A,hugh,hughs,1,,,UNCOVERED,friends_s06e06_seg02_clip_19#enc#1,friends_s06e06_seg02_clip_19#enc#1,"Monica is watching the empty room, chandler appears and hughs her from the back."
+Action,Train,A,humiliate,humiliating,1,,mortified,UNCOVERED,house_s01e02_seg02_clip_03#enc#1,house_s01e02_seg02_clip_03#enc#1,Cameron talks to House and told him that he is humiliating her.
+Action,Train,A,hunch,hunched | hunches,6,,,UNCOVERED,s06e17_seg02_clip_01#enc#3,s06e17_seg02_clip_01#enc#3,Penny hunches over and puts her hands up in front of her.
+Action,Train,A,hurtle,hurtles,1,,cast | casts | hurls | lunge | lunges | thrusting | thrusts,UNCOVERED,friends_s01e04_seg02_clip_11#enc#4,friends_s01e04_seg02_clip_11#enc#4,A puck hurtles toward the stands and then Ross leans back in his chair with both hands covering his face.
+Action,Train,A,hyave,hyave,1,,,UNCOVERED,friends_s05e15_seg02_clip_15#enc#3,friends_s05e15_seg02_clip_15#enc#3,Ross and Phoebe hyave a conversation as they both eat from a bag of chips.
+Action,Train,A,hype,hyped,2,,,UNCOVERED,friends_s05e23-24_seg02_clip_31#enc#3,friends_s05e23-24_seg02_clip_31#enc#3,Monica and Chandler were having a hyped up conversation.
+Action,Train,A,hyperventilate,hyperventilating,2,,,UNCOVERED,s04e19_seg01_clip_01#enc#4,s04e19_seg01_clip_01#enc#4,Sheldon is breathing into a paper bag hyperventilating.
+Action,Train,A,hypothosize,hypothosizes,1,,,UNCOVERED,house_s01e21_seg02_clip_06#enc#0,house_s01e21_seg02_clip_06#enc#0,Wilson sacastically hypothosizes why House's ex wants House to treat her husband
+Action,Train,A,idolize,idolizes,1,,,UNCOVERED,s02e01_seg02_clip_10#enc#1,s02e01_seg02_clip_10#enc#1,Sheldon offends Raj by insulting someone he idolizes and then he says he's sorry.
+Action,Train,A,ifte,ifting,1,,,UNCOVERED,s09e16_seg02_clip_04#enc#2,s09e16_seg02_clip_04#enc#2,Penny looks to the side while ifting her wine glass.
+Action,Train,A,illicit,illicit,1,,,UNCOVERED,castle_s08e09_seg02_clip_14#enc#3,castle_s08e09_seg02_clip_14#enc#3,Castle tries to illicit a high five from Esposito.
+Action,Train,A,illustrate,illustrate | illustrates | illustrating,5,,exemplified,UNCOVERED,castle_s04e03_seg02_clip_12#enc#4,castle_s04e03_seg02_clip_12#enc#4,Lanie the forensic tech holds her hands together to illustrate a point.
+Action,Train,A,imform,imforms,1,,,UNCOVERED,castle_s03e13_seg02_clip_07#enc#2,castle_s03e13_seg02_clip_07#enc#2,Beckett imforms Simmons he can still be arrested for murder.
+Action,Train,A,impale,impaled,2,,spiked,UNCOVERED,castle_s04e05_seg02_clip_01#enc#3,castle_s04e05_seg02_clip_01#enc#3,"Castle and Beckett walk over to Bryan Hayes, who has been impaled on a piece of art."
+Action,Train,A,implicate,implicates | implicating,4,,entails,UNCOVERED,met_s03e03_seg02_clip_06#enc#4,met_s03e03_seg02_clip_06#enc#4,Marshall rolls his head when Lily implicates he will sleep alone.
+Action,Train,A,import,imported,1,,spell | spelled | spells,UNCOVERED,castle_s03e13_seg02_clip_13#enc#3,castle_s03e13_seg02_clip_13#enc#3,Beckett looks at photos she has imported and pulled up on her computer.
+Action,Train,A,improve,improve | improved | improving,5,,,UNCOVERED,friends_s03e04_seg02_clip_17#enc#3,friends_s03e04_seg02_clip_17#enc#3,Phoebe sets down a piece of paper for things that Joey needs to improve.
+Action,Train,A,inact,inacts,1,,,UNCOVERED,castle_s01e04_seg02_clip_15#enc#4,castle_s01e04_seg02_clip_15#enc#4,Alexis inacts her own punishment after her father fails to take it seriously.
+Action,Train,A,incourage,incouraging,1,,,UNCOVERED,friends_s08e12_seg02_clip_19#enc#1,friends_s08e12_seg02_clip_19#enc#1,Monica and Chandler are incouraging Phoebe to suceed in winning game.
+Action,Train,A,indentify,indentifys,1,,,UNCOVERED,castle_s04e17_seg02_clip_06#enc#2,castle_s04e17_seg02_clip_06#enc#2,Esposito mentions the victims medicaid card and indentifys her as Kristina as he tells Beckett.
+Action,Train,A,indict,indict,1,,,UNCOVERED,friends_s02e24_seg02_clip_07#enc#3,friends_s02e24_seg02_clip_07#enc#3,Joey  holds his fingers close together to indict something small.
+Action,Train,A,inebriate,inebriated,1,,soaked | soaks | thrilled,UNCOVERED,grey_s02e01_seg02_clip_01#enc#0,grey_s02e01_seg02_clip_01#enc#0,Meredith says she is inebriated when they are handing out charts.
+Action,Train,A,infect,infected,1,,,UNCOVERED,s05e02_seg02_clip_01#enc#4,s05e02_seg02_clip_01#enc#4,Sheldon wants to look in his hair for lice that he thinks have infected him.
+Action,Train,A,infest,infested | infesting,2,,invade | invading,UNCOVERED,friends_s10e14_seg02_clip_10#enc#1,friends_s10e14_seg02_clip_10#enc#1,Chandler looks confused when Joey says what their house is infested with.
+Action,Train,A,infuriate,infuriates,1,,,UNCOVERED,s10e01_seg02_clip_17#enc#3,s10e01_seg02_clip_17#enc#3,Sheldon says something to Mary that infuriates her.
+Action,Train,A,inherit,inherited,1,,,UNCOVERED,grey_s02e22_seg02_clip_15#enc#1,grey_s02e22_seg02_clip_15#enc#1,Meredith notices the ring on Molly's finger as she mention it being beautiful and she tells Meredith that it was inherited by her grandmothers.
+Action,Train,A,inhibit,inhibited,1,,subduing,UNCOVERED,castle_s01e10_seg02_clip_02#enc#2,castle_s01e10_seg02_clip_02#enc#2,A dead man has trama to his hands that appear to have inhibited his escape.
+Action,Train,A,initiate,initiate | initiates | initiating,6,,Starting | Starts | starting,UNCOVERED,friends_s10e08_seg01_clip_00#enc#0,friends_s10e08_seg01_clip_00#enc#0,Chandler and Monica enter the cafe together from the entrance and initiate a conversation with the others
+Action,Train,A,ink,inked,1,,,UNCOVERED,s03e03_seg02_clip_09#enc#3,s03e03_seg02_clip_09#enc#3,Bethany is sitting in a tattoo shop getting inked by an tattoo artist.
+Action,Train,A,input,input | inputs,2,,,UNCOVERED,s02e03_seg02_clip_13#enc#1,s02e03_seg02_clip_13#enc#1,Sheldon tricks Penny into saying her age which he then inputs into a dating website.
+Action,Train,A,inputte,inputting,1,,,UNCOVERED,s02e17_seg02_clip_01#enc#4,s02e17_seg02_clip_01#enc#4,Sheldon is sitting in front of his laptop inputting all the details of his socks.
+Action,Train,A,insinuate,Insinuates | insinuate | insinuated | insinuates,9,,,UNCOVERED,castle_s04e05_seg02_clip_22#enc#1,castle_s04e05_seg02_clip_22#enc#1,Beckett takes a drink after she insinuates seduction for information.
+Action,Train,A,instal,installed,2,,,UNCOVERED,castle_s03e16_seg02_clip_07#enc#3,castle_s03e16_seg02_clip_07#enc#3,Beckett is talking to Craig as she mention him breaking the law for the security cameras he installed.
+Action,Train,A,intake,intakes,1,,,UNCOVERED,s03e20_seg02_clip_00#enc#3,s03e20_seg02_clip_00#enc#3,Raj asks Howard what he thinks will happen in his afterlife because of the food he intakes.
+Action,Train,A,interfere,interfere | interfered | interferes,3,,intervene | intervened,UNCOVERED,house_s02e07_seg02_clip_15#enc#2,house_s02e07_seg02_clip_15#enc#2,The mouse interferes with Cuddy and House's conversation.
+Action,Train,A,interogate,interogating,2,,,UNCOVERED,castle_s03e18_seg02_clip_06#enc#3,castle_s03e18_seg02_clip_06#enc#3,introduction came and Castle and Beckett interogating a woman.
+Action,Train,A,interragate,interragated,1,,,UNCOVERED,castle_s05e14_seg02_clip_05#enc#0,castle_s05e14_seg02_clip_05#enc#0,Penelope is yelling at Beckett as she is being interragated.
+Action,Train,A,intervene,intervene | intervened,2,,interfere | interfered | interferes,UNCOVERED,castle_s08e02_seg02_clip_10#enc#3,castle_s08e02_seg02_clip_10#enc#3,Beckett tells how she intervened to prevent Castle from suffering great affliction.
+Action,Train,A,intrigue,intrigued,7,,fascinated,UNCOVERED,castle_s06e05_seg02_clip_17#enc#2,castle_s06e05_seg02_clip_17#enc#2,"After listening to Hasting, Castle looks at Beckett, intrigued."
+Action,Train,A,intterupt,intterupt,1,,,UNCOVERED,castle_s03e05_seg02_clip_01#enc#1,castle_s03e05_seg02_clip_01#enc#1,the old woman intterupt the inspector and said something.
+Action,Train,A,invade,invade | invading,2,,infested | infesting | occupied | occupying,UNCOVERED,house_s03e15_seg02_clip_09#enc#0,house_s03e15_seg02_clip_09#enc#0,House enters the office and yells at the team for invading his privacy
+Action,Train,A,invent,invented,3,,devising | fabricated | forged | formulating | manufactured,UNCOVERED,s09e09_seg02_clip_14#enc#0,s09e09_seg02_clip_14#enc#0,Sheldon was offering Amy to play a game he said he invented.
+Action,Train,A,invision,invisions,1,,,UNCOVERED,house_s04e16_seg02_clip_23#enc#3,house_s04e16_seg02_clip_23#enc#3,House is in a coma and invisions himself on a bus.
+Action,Train,A,irrirate,irrirated,1,,,UNCOVERED,s04e16_seg01_clip_01#enc#1,s04e16_seg01_clip_01#enc#1,Howard gets out of bed and Bernadette gets irrirated.
+Action,Train,A,isl,isl,1,,,UNCOVERED,castle_s05e01_seg02_clip_18#enc#0,castle_s05e01_seg02_clip_18#enc#0,Beckett is talking to Smith as he isl lying on a hospital bed injured.
+Action,Train,A,isng,isng,1,,,UNCOVERED,castle_s06e22_seg02_clip_01#enc#0,castle_s06e22_seg02_clip_01#enc#0,woman having a coffree wgile isng her laptop.
+Action,Train,A,jack,jacking,1,,,UNCOVERED,house_s08e05_seg02_clip_12#enc#2,house_s08e05_seg02_clip_12#enc#2,Park leans over the couch to talk to House while he's on the floor hi-jacking the cable.
+Action,Train,A,jangle,jangles,1,,jingle | jingles,UNCOVERED,friends_s02e06_seg01_clip_00#enc#1,friends_s02e06_seg01_clip_00#enc#1,Monica looks back at Ross and he jangles his keys at Ben.
+Action,Train,A,jewel,jeweled,1,,,UNCOVERED,castle_s07e12_seg02_clip_07#enc#3,castle_s07e12_seg02_clip_07#enc#3,Castle is excited to find a valuable jeweled accessory.
+Action,Train,A,jimmy,jimmy,1,,pries | pry | prying,UNCOVERED,friends_s01e23_seg02_clip_12#enc#3,friends_s01e23_seg02_clip_12#enc#3,Ross breaks his credit card trying to jimmy the lock.
+Action,Train,A,jingle,jingle | jingles,3,,jangles,UNCOVERED,friends_s02e14_seg02_clip_14#enc#1,friends_s02e14_seg02_clip_14#enc#1,Joey and Chandler jingle their bracelets side by side.
+Action,Train,A,jitter,jitters,1,,,UNCOVERED,house_s05e11_seg02_clip_08#enc#4,house_s05e11_seg02_clip_08#enc#4,Janice jitters around while she is talking to Thirteen.
+Action,Train,A,jive,jiving,1,,,UNCOVERED,s07e15_seg02_clip_10#enc#3,s07e15_seg02_clip_10#enc#3,Penny notices that Raj and the veterinarian are jiving that well.
+Action,Train,A,jolt,jolts,2,,,UNCOVERED,friends_s07e12_seg02_clip_02#enc#1,friends_s07e12_seg02_clip_02#enc#1,Chandler jolts in bed as Monica kicks him under the sheets
+Action,Train,A,jot,jots | jotting,2,,,UNCOVERED,friends_s05e03_seg02_clip_04#enc#0,friends_s05e03_seg02_clip_04#enc#0,The doctor approaches Phoebe and jots stuff down on paper during a conversation.
+Action,Train,A,juggle,juggle | juggles | juggling,8,,,UNCOVERED,met_s03e11_seg01_clip_01#enc#2,met_s03e11_seg01_clip_01#enc#2,Ted walks into the room juggling an item in his hand.
+Action,Train,A,kanoodle,kanoodling,1,,,UNCOVERED,met_s03e03_seg02_clip_08#enc#3,met_s03e03_seg02_clip_08#enc#3,Barney is kanoodling with two females and then knocks a wine glass over with his knee.
+Action,Train,A,kid,kidding,4,,,UNCOVERED,s04e20_seg01_clip_01#enc#3,s04e20_seg01_clip_01#enc#3,Sheldon waves his hand at Dr.Green and explains he was kidding with him.
+Action,Train,A,kit,kits,1,,,UNCOVERED,friends_s07e10_seg02_clip_10#enc#4,friends_s07e10_seg02_clip_10#enc#4,Phoebe points at the kit when she kits Rachel not to play.
+Action,Train,A,knod,knods,1,,,UNCOVERED,house_s06e04_seg02_clip_06#enc#3,house_s06e04_seg02_clip_06#enc#3,"Foreman shakes his head side to side, House said something to him then Forman knods' and leaves."
+Action,Train,A,lable,labled,1,,,UNCOVERED,house_s01e02_seg02_clip_20#enc#4,house_s01e02_seg02_clip_20#enc#4,Cameron picks up two cups labled mommy and daddy.
+Action,Train,A,lacerate,lacerates,1,,,UNCOVERED,house_s01e01_seg02_clip_06#enc#1,house_s01e01_seg02_clip_06#enc#1,Dr. Chase lacerates the neck of the patient.
+Action,Train,A,lament,laments,2,,,UNCOVERED,house_s02e03_seg02_clip_19#enc#0,house_s02e03_seg02_clip_19#enc#0,Cuddy laments to Stacy about what she wishes she could do to the patient.
+Action,Train,A,lauge,lauging,1,,,UNCOVERED,s10e13_seg02_clip_14#enc#0,s10e13_seg02_clip_14#enc#0,Sheldon grabs his cell phone from his back pocket and Amy starts lauging then points at him.
+Action,Train,A,law,laws,1,,,UNCOVERED,met_s03e01_seg02_clip_01#enc#0,met_s03e01_seg02_clip_01#enc#0,Barney laws the game controller down and starts to answer Lily.
+Action,Train,A,leak,leaking,2,,,UNCOVERED,house_s03e16_seg02_clip_21#enc#0,house_s03e16_seg02_clip_21#enc#0,Chase lifts House's pants leg to discover a leaking bag of urine strapped to his leg.
+Action,Train,A,leanin,leanin,1,,,UNCOVERED,house_s04e04_seg02_clip_01#enc#0,house_s04e04_seg02_clip_01#enc#0,Cameron is leanin on the desk as she tells House to not be mean to Cole and House takes a hundred dollar bill from his desk and shows it to her.
+Action,Train,A,leer,leering,1,,,UNCOVERED,house_s04e08_seg02_clip_05#enc#3,house_s04e08_seg02_clip_05#enc#3,"Kutner walks out of the room, leering at Amber as he passes her."
+Action,Train,A,legge,legged,5,,,UNCOVERED,friends_s03e01_seg02_clip_17#enc#4,friends_s03e01_seg02_clip_17#enc#4,Chandler sit down next to Ross cross legged on the counch
+Action,Train,A,lengthen,lengthen,1,,,UNCOVERED,castle_s05e09_seg02_clip_10#enc#0,castle_s05e09_seg02_clip_10#enc#0,Ryan explains how the suspect was trying to lengthen the case.
+Action,Train,A,leonard,leonard,1,,,UNCOVERED,s02e02_seg01_clip_01#enc#3,s02e02_seg01_clip_01#enc#3,Sheldon reveals to leonard that he made his own underwear.
+Action,Train,A,levitate,levitate,1,,hover | hovering | hovers,UNCOVERED,house_s08e18_seg02_clip_15#enc#1,house_s08e18_seg02_clip_15#enc#1,House stands in his office and tries to levitate off of the ground.
+Action,Train,A,lid,lid,1,,,UNCOVERED,friends_s01e03_seg02_clip_06#enc#0,friends_s01e03_seg02_clip_06#enc#0,Chandler picks up a trash can lid over his head.
+Action,Train,A,lidde,lidded,1,,,UNCOVERED,met_s02e12_seg02_clip_09#enc#1,met_s02e12_seg02_clip_09#enc#1,Lily takes a drink from the lidded cup she's holding.
+Action,Train,A,life,life,1,,,UNCOVERED,castle_s04e01_seg02_clip_23#enc#3,castle_s04e01_seg02_clip_23#enc#3,Castle waves over his co-workers and together they life a mattress to see a large blood stain underneath.
+Action,Train,A,lily,Lily,1,,,UNCOVERED,met_s06e16_seg02_clip_01#enc#3,met_s06e16_seg02_clip_01#enc#3,Judy leads Lily through the living room and puts her coat down.
+Action,Train,A,linger,lingers,1,,hover | hovering | hovers | lounges | lounging | lurking,UNCOVERED,friends_s04e02_seg02_clip_09#enc#3,friends_s04e02_seg02_clip_09#enc#3,A man in blue sweater who lingers in the door decided to exit it.
+Action,Train,A,lip,lips,1,,,UNCOVERED,grey_s01e09_seg02_clip_07#enc#2,grey_s01e09_seg02_clip_07#enc#2,Izzie lips her lips when Mr. Duff describes what he wants to eat.
+Action,Train,A,listsene,listsening,1,,,UNCOVERED,met_s02e12_seg02_clip_17#enc#2,met_s02e12_seg02_clip_17#enc#2,Barney buttons his jacket while standing in line listsening to Ted.
+Action,Train,A,loathe,loathes,1,,abhors,UNCOVERED,house_s04e09_seg02_clip_19#enc#1,house_s04e09_seg02_clip_19#enc#1,Jimmy asks Amber if she loathes him while laying in a hospital bed.
+Action,Train,A,loke,loking,1,,,UNCOVERED,castle_s04e14_seg02_clip_13#enc#3,castle_s04e14_seg02_clip_13#enc#3,Castle is loking at a crime scene photo
+Action,Train,A,loo,loo,1,,,UNCOVERED,friends_s05e14_seg01_clip_00#enc#4,friends_s05e14_seg01_clip_00#enc#4,Rachel walks over to the window to loo out with Phoebe.
+Action,Train,A,lounge,lounges | lounging,4,,lingers | lurking,UNCOVERED,house_s07e16_seg02_clip_15#enc#3,house_s07e16_seg02_clip_15#enc#3,"House flips up his sunglasses as he lounges, holding hands with a dark haired woman in a bikini."
+Action,Train,A,lover,lover,1,,,UNCOVERED,friends_s08e08_seg02_clip_03#enc#2,friends_s08e08_seg02_clip_03#enc#2,Monica enters the cafe and taps Chandler on his shoulder as she tells him that he's going to lover her even more.
+Action,Train,A,lunch,lunch,1,,,UNCOVERED,house_s05e17_seg02_clip_12#enc#1,house_s05e17_seg02_clip_12#enc#1,Taub invites Wilson to lunch and WIlson asks him why.
+Action,Train,A,lunge,lunge | lunges,8,,hurls | hurtles | thrusting | thrusts,UNCOVERED,castle_s02e07_seg02_clip_04#enc#2,castle_s02e07_seg02_clip_04#enc#2,"Beckett throws the hoodie off the suspect's head, the suspect lunges at her and Beckett hits him tin the back."
+Action,Train,A,lure,luring,1,,entice | tempted,UNCOVERED,castle_s08e17_seg02_clip_23#enc#4,castle_s08e17_seg02_clip_23#enc#4,Esposito and Castle admit to luring Marion to the station under false pretenses.
+Action,Train,A,lurk,lurking,1,,lingers | lounges | lounging,UNCOVERED,friends_s05e23-24_seg02_clip_38#enc#3,friends_s05e23-24_seg02_clip_38#enc#3,A woman lurking behind Phobe puts her hand on her chest.
+Action,Train,A,lust,lusting,2,,,UNCOVERED,friends_s10e10_seg01_clip_00#enc#3,friends_s10e10_seg01_clip_00#enc#3,Monica is lusting after cake as she eats it induldgingly
+Action,Train,A,lwan,lwans,1,,,UNCOVERED,s08e14_seg02_clip_15#enc#2,s08e14_seg02_clip_15#enc#2,Penny crosses her leg and lwans forward putting an elbow on her knee.
+Action,Train,A,mad,mad,1,,,UNCOVERED,friends_s01e02_seg02_clip_02#enc#4,friends_s01e02_seg02_clip_02#enc#4,Chandler tries to explain why he mad a balled up piece of paper after Monic finds it on the table.
+Action,Train,A,magnetise,magnetised,1,,mesmerised | mesmerized,UNCOVERED,s05e18_seg02_clip_08#enc#4,s05e18_seg02_clip_08#enc#4,Leonard hurriedly took a piece of paper magnetised in their refrigerator.
+Action,Train,A,magnetize,magnetized | magnetizes,3,,mesmerised | mesmerized,UNCOVERED,house_s01e15_seg02_clip_19#enc#4,house_s01e15_seg02_clip_19#enc#4,House mentions wanting to use the device he is holding and he turns it on to which the device magnetizes the scissors on the counter.
+Action,Train,A,manicure,manicured,1,,,UNCOVERED,castle_s03e02_seg02_clip_06#enc#2,castle_s03e02_seg02_clip_06#enc#2,A couple in the background casually strolls up the sidewalk with nicely green manicured lawns.
+Action,Train,A,manufacture,manufactured,1,,fabricated | invented,UNCOVERED,house_s03e07_seg02_clip_10#enc#0,house_s03e07_seg02_clip_10#enc#0,Gabe tells House he used to own a building where goods are manufactured and he was respected by others.
+Action,Train,A,map,maps,1,,represent | representing,UNCOVERED,castle_s05e15_seg02_clip_12#enc#1,castle_s05e15_seg02_clip_12#enc#1,Ryan maps out an area on the board that forms a square.
+Action,Train,A,mask,mask,2,,disguised,UNCOVERED,grey_s03e09_seg02_clip_25#enc#0,grey_s03e09_seg02_clip_25#enc#0,Bailey walks into the room holding he mask up.
+Action,Train,A,masterbate,masterbate,3,,,UNCOVERED,s04e04_seg02_clip_01#enc#2,s04e04_seg02_clip_01#enc#2,An imaginary Bernadette appears before Howard who is laying in bed getting ready to masterbate.
+Action,Train,A,masturbate,masturbates | masturbating,2,,,UNCOVERED,friends_s09e01_seg02_clip_01#enc#3,friends_s09e01_seg02_clip_01#enc#3,Ross gets angry when Phoebe insinuated he masturbates.
+Action,Train,A,mature,mature | maturing,2,,grew | grow | growing | grown | grows,UNCOVERED,friends_s04e21_seg02_clip_07#enc#2,friends_s04e21_seg02_clip_07#enc#2,Ross and Rachel are under bed covers as Rachel mentions Ross maturing and them making it work after his infidelity.
+Action,Train,A,medicate,medicating,1,,,UNCOVERED,house_s02e10_seg02_clip_23#enc#1,house_s02e10_seg02_clip_23#enc#1,House is able to decipher the patient has a mental disorder he has been secretly medicating.
+Action,Train,A,merit,merits,1,,deserves,UNCOVERED,grey_s02e03_seg02_clip_20#enc#1,grey_s02e03_seg02_clip_20#enc#1,George tells Ellis he dislikes how Ellis communicates with Meredith and that Meredith merits more from Ellis.
+Action,Train,A,mesmerise,mesmerised,1,,magnetised | magnetized | magnetizes,UNCOVERED,met_s06e01_seg02_clip_03#enc#4,met_s06e01_seg02_clip_03#enc#4,Barney is mesmerised by the lack of self care Robin is displaying.
+Action,Train,A,mesmerize,mesmerized,1,,magnetised | magnetized | magnetizes,UNCOVERED,house_s04e05_seg02_clip_21#enc#0,house_s04e05_seg02_clip_21#enc#0,The patient is seems to be mesmerized by 13 good looks.
+Action,Train,A,miff,miffed,1,,,UNCOVERED,s03e06_seg02_clip_01#enc#3,s03e06_seg02_clip_01#enc#3,Howard looks out the window and looking slightly miffed.
+Action,Train,A,minapulate,minapulated,1,,,UNCOVERED,met_s03e06_seg02_clip_02#enc#2,met_s03e06_seg02_clip_02#enc#2,Barney tells Marshall that Jeff has minapulated him like he does his women.
+Action,Train,A,misdiagnose,misdiagnosed,1,,,UNCOVERED,house_s08e10_seg02_clip_23#enc#2,house_s08e10_seg02_clip_23#enc#2,Adams and Chase realise while performing surgery they have misdiagnosed the patient.
+Action,Train,A,misidentifie,misidentified,1,,,UNCOVERED,castle_s07e09_seg02_clip_09#enc#1,castle_s07e09_seg02_clip_09#enc#1,Beckett feels the woman in the photograph purposely wants to be misidentified.
+Action,Train,A,misidentify,misidentifying,1,,mistaken | mistakes,UNCOVERED,castle_s08e17_seg02_clip_17#enc#1,castle_s08e17_seg02_clip_17#enc#1,Castle apologizes for misidentifying a woman he turns around on the street.
+Action,Train,A,misinterpret,misinterpreted,1,,misunderstand | misunderstands | misunderstood,UNCOVERED,met_s06e16_seg02_clip_00#enc#4,met_s06e16_seg02_clip_00#enc#4,Ted misinterpreted what his friends told him and it led to a undesired outcome on his date.
+Action,Train,A,mislead,mislead | misleading,3,,,UNCOVERED,castle_s07e18_seg02_clip_00#enc#4,castle_s07e18_seg02_clip_00#enc#4,Castle gets mad when he learns the cops were misleading him.
+Action,Train,A,misquote,misquoting,1,,,UNCOVERED,castle_s02e14_seg02_clip_01#enc#1,castle_s02e14_seg02_clip_01#enc#1,Castle gets nervous about what Beckett will think about a newspaper misquoting him in a profile.
+Action,Train,A,misunderstand,misunderstand | misunderstands | misunderstood,8,,misinterpreted,UNCOVERED,s08e12_seg02_clip_07#enc#0,s08e12_seg02_clip_07#enc#0,Howard misunderstands what place Raj is taking them to.
+Action,Train,A,monitor,monitor | monitoring | monitors,5,,supervise,UNCOVERED,house_s07e17_seg02_clip_24#enc#2,house_s07e17_seg02_clip_24#enc#2,Masters walks up to Danny's bed and checks out his IV and monitor readings.
+Action,Train,A,mop,mop | mopping,8,,pouting | pouts,UNCOVERED,s10e08_seg02_clip_07#enc#0,s10e08_seg02_clip_07#enc#0,The cleaning lady pulls the mop from the bucket and starts mopping the floor.
+Action,Train,A,more,mores,1,,,UNCOVERED,friends_s02e02_seg02_clip_10#enc#4,friends_s02e02_seg02_clip_10#enc#4,Carol mores over and tries to hand Ross a bottle.
+Action,Train,A,morph,morphing | morphs,3,,,UNCOVERED,house_s05e19_seg02_clip_14#enc#0,house_s05e19_seg02_clip_14#enc#0,Camera zooms into a patients eye which morphs into the earth and continues to zoom until you see the patient and House standing in a park facing each other
+Action,Train,A,mortify,mortified,2,,humiliating | subduing,UNCOVERED,friends_s01e13_seg01_clip_00#enc#3,friends_s01e13_seg01_clip_00#enc#3,Chandler sees Rachel naked and they are both mortified.
+Action,Train,A,mourn,mourning | mourns,2,,,UNCOVERED,castle_s02e14_seg02_clip_04#enc#4,castle_s02e14_seg02_clip_04#enc#4,A man comforted his wife who is mourning over a loss.
+Action,Train,A,mover,mover,1,,,UNCOVERED,friends_s10e05_seg02_clip_05#enc#2,friends_s10e05_seg02_clip_05#enc#2,Phoebe tells the man seated beside her seat to mover his food and she sits in her seat.
+Action,Train,A,muffle,muffle,1,,mutes | smothering | stifles | strangling,UNCOVERED,friends_s05e07_seg02_clip_15#enc#1,friends_s05e07_seg02_clip_15#enc#1,Joey answers the phone and then puts his hand over the receiver to muffle him speaking.
+Action,Train,A,mug,mugged | mugging,4,,,UNCOVERED,friends_s07e01_seg02_clip_07#enc#0,friends_s07e01_seg02_clip_07#enc#0,Chandler fakes being mugged when Joey leans over.
+Action,Train,A,mumble,mumbled | mumbles | mumbling,4,,mutters,UNCOVERED,friends_s01e04_seg02_clip_18#enc#4,friends_s01e04_seg02_clip_18#enc#4,Ross mumbles something incoherently as he's talking to Joey and Chandler.
+Action,Train,A,munch,munching,1,,,UNCOVERED,friends_s01e14_seg02_clip_04#enc#3,friends_s01e14_seg02_clip_04#enc#3,Joey and his date are munching on the same piece of spaghetti noodle until they kiss while Chandler and Janice disgusted.
+Action,Train,A,murmur,murmurs,1,,mutters,UNCOVERED,house_s06e13_seg02_clip_18#enc#3,house_s06e13_seg02_clip_18#enc#3,Cuddy is on the phone as she murmurs to herself for a someone to pick up as Foreman walks into her office and she gestures to him that she's occupied.
+Action,Train,A,mute,mutes,1,,muffle,UNCOVERED,s02e07_seg02_clip_01#enc#1,s02e07_seg02_clip_01#enc#1,"Howard drops his food, picks up a remote control and mutes the TV."
+Action,Train,A,mutter,mutters,2,,mumbled | mumbles | mumbling | murmurs,UNCOVERED,friends_s09e10_seg02_clip_09#enc#2,friends_s09e10_seg02_clip_09#enc#2,Chandler wishes everyone a happy holiday and Phoebe mutters gibberish in return.
+Action,Train,A,nap,naps,1,,,UNCOVERED,friends_s06e01_seg02_clip_08#enc#4,friends_s06e01_seg02_clip_08#enc#4,Phoebe drives a car as Joey naps in the passenger seat.
+Action,Train,A,narrow,narrow | narrows,2,,contracted | specifies,UNCOVERED,castle_s04e09_seg02_clip_12#enc#1,castle_s04e09_seg02_clip_12#enc#1,Dt. Ryan says that the DNA did nothing to narrow down the suspects.
+Action,Train,A,navigate,navigate,2,,,UNCOVERED,castle_s06e09_seg02_clip_24#enc#2,castle_s06e09_seg02_clip_24#enc#2,Gates and Beckett are making sure to navigate a mistake that could effect the department.
+Action,Train,A,negate,negates,1,,contradict | contradicts,UNCOVERED,house_s03e24_seg02_clip_05#enc#0,house_s03e24_seg02_clip_05#enc#0,House negates Chases idea of what is wrong with the patient.
+Action,Train,A,negotiate,negotiate | negotiates | negotiating,8,,,UNCOVERED,castle_s02e19_seg02_clip_26#enc#4,castle_s02e19_seg02_clip_26#enc#4,Beckett and Chacaw negotiate a deal while he's in jail.
+Action,Train,A,net,net,1,,clear | cleared | clearing | clears,UNCOVERED,met_s03e19_seg02_clip_01#enc#3,met_s03e19_seg02_clip_01#enc#3,Marshall tells Lily her clothes would net more income than his.
+Action,Train,A,nickname,nicknames,1,,,UNCOVERED,grey_s02e18_seg02_clip_06#enc#2,grey_s02e18_seg02_clip_06#enc#2,Meredith looks at Mark and nicknames him as Cristina and Izzie turn around to look at him.
+Action,Train,A,normalize,normalizing,1,,,UNCOVERED,house_s07e04_seg02_clip_21#enc#1,house_s07e04_seg02_clip_21#enc#1,House unplugs the pacemaker wires and the patient's heart monitor shows her heartbeat normalizing.
+Action,Train,A,nudge,nudge | nudges,8,,prods,UNCOVERED,s07e09_seg02_clip_05#enc#2,s07e09_seg02_clip_05#enc#2,Amy nudges Sheldon and pushes him past Howard.
+Action,Train,A,numb,numbing | numbs,2,,,UNCOVERED,house_s01e19_seg02_clip_05#enc#3,house_s01e19_seg02_clip_05#enc#3,foreman numbs Mary's back for the pain in the middle of the hallway.
+Action,Train,A,obsess,obsessing,1,,haunting,UNCOVERED,friends_s07e08_seg02_clip_07#enc#3,friends_s07e08_seg02_clip_07#enc#3,Ross is looking at a yellow note pad and obsessing about it.
+Action,Train,A,offload,offloaded,1,,unload | unloaded | unloading | unloads,UNCOVERED,grey_s03e14_seg02_clip_01#enc#4,grey_s03e14_seg02_clip_01#enc#4,Burke walks to the ambulance when Ellis and Meredith are getting offloaded.
+Action,Train,A,ok,ok,1,,,UNCOVERED,house_s02e08_seg02_clip_12#enc#3,house_s02e08_seg02_clip_12#enc#3,Cuddy signs the forms to ok the patient's liver transplant and hands them to House.
+Action,Train,A,oke,oke,1,,,UNCOVERED,house_s01e15_seg02_clip_15#enc#1,house_s01e15_seg02_clip_15#enc#1,The patient oke up and calls out to the guy sitting on the couch.
+Action,Train,A,oncome,oncoming,2,,,UNCOVERED,house_s08e09_seg02_clip_12#enc#0,house_s08e09_seg02_clip_12#enc#0,Alex is with Chase as she asks him if he was in a situation of oncoming death and if he'd commit suicide to lessen the burden of his loved ones and Chase agrees that he would to which Adams thinks it too severe.
+Action,Train,A,ook,ooks,2,,,UNCOVERED,house_s05e17_seg02_clip_07#enc#4,house_s05e17_seg02_clip_07#enc#4,House puts his head on his hand and ;ooks at Taub.
+Action,Train,A,opene,opene,1,,,UNCOVERED,met_s02e15_seg01_clip_00#enc#4,met_s02e15_seg01_clip_00#enc#4,Ted and Robin rushy opene a door at the airport.
+Action,Train,A,openne,openning,2,,,UNCOVERED,castle_s04e16_seg02_clip_11#enc#3,castle_s04e16_seg02_clip_11#enc#3,The super tells Beckett and Castle who the apartment belonged to before openning it.
+Action,Train,A,opne,opnes,1,,,UNCOVERED,castle_s08e07_seg02_clip_05#enc#0,castle_s08e07_seg02_clip_05#enc#0,Beckett opnes an gift laid out by Caslte as he waits by the door.
+Action,Train,A,outfit,outfitted,1,,fit | fits,UNCOVERED,house_s03e15_seg02_clip_05#enc#0,house_s03e15_seg02_clip_05#enc#0,Foreman and Cameron chat while Foreman is being outfitted for some sort of procedure.
+Action,Train,A,outrank,outranks,1,,,UNCOVERED,house_s03e09_seg02_clip_04#enc#2,house_s03e09_seg02_clip_04#enc#2,The mother of the little girl informs House she outranks him.
+Action,Train,A,overact,overact | overacting,3,,,UNCOVERED,friends_s06e20_seg01_clip_00#enc#2,friends_s06e20_seg01_clip_00#enc#2,Phoebe keeps patting herself on the back so Joey decides he can't take anymore of Phoebe and goes into his bedroom but Phoebe stands up and continues overacting.
+Action,Train,A,overcome,overcoming,1,,defeat | overwhelmed | subduing,UNCOVERED,s07e20_seg02_clip_02#enc#2,s07e20_seg02_clip_02#enc#2,"Sheldon says that based on a popular publication, tossing keepsakes is important for overcoming a separation."
+Action,Train,A,overexaggerate,overexaggerates,1,,,UNCOVERED,friends_s09e10_seg02_clip_06#enc#4,friends_s09e10_seg02_clip_06#enc#4,Ross overexaggerates speaking when asking Santa about his arrival.
+Action,Train,A,overload,overloaded,1,,clogging | clogs,UNCOVERED,s04e07_seg02_clip_05#enc#0,s04e07_seg02_clip_05#enc#0,Sheldon complains to the Federal Bureau of Investigations agent that he sent in a burned receptacle of poop and never heard back then she replies that the Federal Bureau of Investigations is overloaded with work.
+Action,Train,A,overreact,overreacting | overreacts,3,,,UNCOVERED,friends_s05e11_seg02_clip_20#enc#2,friends_s05e11_seg02_clip_20#enc#2,Joey overreacts to Rachel wanting her things back at this moment.
+Action,Train,A,overthinke,overthinking,1,,,UNCOVERED,s01e07_seg02_clip_03#enc#2,s01e07_seg02_clip_03#enc#2,Sheldon is very overthinking of negative things that may happen.
+Action,Train,A,overwhelm,overwhelmed,1,,drown | drowned | overcoming,UNCOVERED,s08e15_seg02_clip_15#enc#2,s08e15_seg02_clip_15#enc#2,Penny becomes overwhelmed by Sheldon's words and breaks into tears.
+Action,Train,A,ovulate,ovulating,1,,,UNCOVERED,s10e08_seg02_clip_09#enc#4,s10e08_seg02_clip_09#enc#4,Sheldon tells Amy for how long she will be ovulating.
+Action,Train,A,owe,owe | owed | owes | owing,10,,,UNCOVERED,s02e14_seg02_clip_16#enc#4,s02e14_seg02_clip_16#enc#4,Leonard tries to persuade a much bigger man to give him something that Penny is owed.
+Action,Train,A,package,packaged,1,,boxed,UNCOVERED,met_s06e17_seg02_clip_11#enc#0,met_s06e17_seg02_clip_11#enc#0,Marshall stops the kiss to ask about the way the alcohol is packaged.
+Action,Train,A,pad,padded,3,,dramatizes | embroidered,UNCOVERED,castle_s06e03_seg02_clip_16#enc#2,castle_s06e03_seg02_clip_16#enc#2,Beckett lays a gun down into a padded case.
+Action,Train,A,paddle,paddles,3,,spanks,UNCOVERED,castle_s04e03_seg02_clip_13#enc#1,castle_s04e03_seg02_clip_13#enc#1,Beckett paddles through and reviews an few detail notes.
+Action,Train,A,page,page | paged | paging,9,,,UNCOVERED,house_s06e08_seg02_clip_01#enc#0,house_s06e08_seg02_clip_01#enc#0,House tells the person on the phone who to page.
+Action,Train,A,palpitate,palpitating,1,,flutter | fluttering | flutters,UNCOVERED,house_s08e01_seg02_clip_12#enc#2,house_s08e01_seg02_clip_12#enc#2,Dr. House assesses the guy by palpitating his chest.
+Action,Train,A,panel,panels,1,,,UNCOVERED,castle_s04e10_seg02_clip_03#enc#4,castle_s04e10_seg02_clip_03#enc#4,Lanie panels the strobe light down in the Autopsy room.
+Action,Train,A,panic,panic | panicked | panicking | panics,13,,,UNCOVERED,castle_s04e07_seg02_clip_14#enc#1,castle_s04e07_seg02_clip_14#enc#1,Sal gets up panicking and takes his jacket off and falls to the floor in front of Castle.
+Action,Train,A,paperclip-e,paperclip-ed,1,,,UNCOVERED,castle_s02e23_seg02_clip_22#enc#3,castle_s02e23_seg02_clip_22#enc#3,A picture of a little girl paperclip-ed to a file is shown on the screen.
+Action,Train,A,paperclippe,paperclipped,1,,,UNCOVERED,house_s01e10_seg02_clip_24#enc#0,house_s01e10_seg02_clip_24#enc#0,Dr. Wilson passes a paper with 2 photographs paperclipped to it to Dr. Foreman.
+Action,Train,A,paralyze,paralyzed,2,,,UNCOVERED,house_s03e16_seg02_clip_12#enc#4,house_s03e16_seg02_clip_12#enc#4,Wilson and another man were calling John who seem paralyzed.
+Action,Train,A,parrot,parrot,1,,,UNCOVERED,friends_s07e16_seg02_clip_10#enc#4,friends_s07e16_seg02_clip_10#enc#4,"Rachel is trying to talk to Ben but all he does is parrot what she says, driving her crazy."
+Action,Train,A,party,party | partying,2,,,UNCOVERED,castle_s04e08_seg02_clip_20#enc#1,castle_s04e08_seg02_clip_20#enc#1,Alexis opens up the apartment door to another kid wanting to come and party.
+Action,Train,A,passse,passses,1,,,UNCOVERED,house_s03e21_seg02_clip_06#enc#1,house_s03e21_seg02_clip_06#enc#1,"Chase picks up a file from the desk in front of him, skims through it and passses it to Cameron."
+Action,Train,A,paste,pasted,4,,gluing,UNCOVERED,castle_s03e23_seg02_clip_17#enc#3,castle_s03e23_seg02_clip_17#enc#3,Castle calls for Beckett to show her photos pasted to the wall.
+Action,Train,A,pattern,patterned,2,,models,UNCOVERED,castle_s08e12_seg02_clip_11#enc#1,castle_s08e12_seg02_clip_11#enc#1,A man in a diamond patterned sweater walks across the room in bewilderment about keys.
+Action,Train,A,peep,peep | peeping | peeps,4,,,UNCOVERED,s09e18_seg02_clip_10#enc#0,s09e18_seg02_clip_10#enc#0,Penny peeps through a peephole in a door.
+Action,Train,A,pende,pending,2,,,UNCOVERED,castle_s02e15_seg02_clip_19#enc#2,castle_s02e15_seg02_clip_19#enc#2,Beckett sits down and explains the charges pending Quintana.
+Action,Train,A,penny,penny,1,,,UNCOVERED,s04e01_seg02_clip_01#enc#3,s04e01_seg02_clip_01#enc#3,Penny spits water out onto Howard and the robot hands penny a napkin.
+Action,Train,A,perceive,perceive | perceived,2,,comprehends,UNCOVERED,house_s03e05_seg02_clip_08#enc#0,house_s03e05_seg02_clip_08#enc#0,Jeremy rants about how his interracial relationship is perceived.
+Action,Train,A,perfrome,perfromed,1,,,UNCOVERED,house_s02e08_seg02_clip_16#enc#3,house_s02e08_seg02_clip_16#enc#3,Chase explains the history of fa procedure perfromed on two patients.
+Action,Train,A,perjure,perjure,1,,,UNCOVERED,castle_s07e02_seg02_clip_11#enc#3,castle_s07e02_seg02_clip_11#enc#3,Beckett tells Natalie what she knows so Natalie doesn't perjure herself.
+Action,Train,A,perk,perk | perks,6,,,UNCOVERED,friends_s05e08_seg02_clip_10#enc#4,friends_s05e08_seg02_clip_10#enc#4,Ross' head perks up when Chandler mentions their club plans.
+Action,Train,A,persevere,persevered,1,,,UNCOVERED,house_s04e07_seg02_clip_09#enc#4,house_s04e07_seg02_clip_09#enc#4,Wilson smirks while saying House persevered through adversity but won't say what it was.
+Action,Train,A,persue,persues,1,,,UNCOVERED,s01e15_seg02_clip_10#enc#2,s01e15_seg02_clip_10#enc#2,Sheldon explains to why he shows sudden concern over who persues his sister
+Action,Train,A,phoebe,phoebe,1,,,UNCOVERED,friends_s02e03_seg02_clip_07#enc#4,friends_s02e03_seg02_clip_07#enc#4,Ross is playing a small toys and see it to phoebe.
+Action,Train,A,pic,pics,2,,,UNCOVERED,friends_s10e09_seg02_clip_19#enc#3,friends_s10e09_seg02_clip_19#enc#3,Erica pics up the picture and shows it to Monica.
+Action,Train,A,picka,pickas,1,,,UNCOVERED,friends_s10e03_seg02_clip_01#enc#0,friends_s10e03_seg02_clip_01#enc#0,Monica pickas up a magazine and Phoebe enters the coffee shop.
+Action,Train,A,picket,picket,1,,,UNCOVERED,castle_s05e14_seg02_clip_14#enc#4,castle_s05e14_seg02_clip_14#enc#4,Beckett picket up a blazer from the chair.
+Action,Train,A,pickle,pickled,2,,,UNCOVERED,castle_s02e13_seg02_clip_02#enc#0,castle_s02e13_seg02_clip_02#enc#0,The bar tender pops a pickled egg into his mouth and begins chewing on it.
+Action,Train,A,pickup,pickup | pickups,2,,,UNCOVERED,friends_s01e01_seg02_clip_26#enc#3,friends_s01e01_seg02_clip_26#enc#3,Ross and Rachel try to pickup the cookie at the same time
+Action,Train,A,pierce,pierced | pierces | piercing,5,,thrusting | thrusts,UNCOVERED,s09e03_seg02_clip_08#enc#3,s09e03_seg02_clip_08#enc#3,Penny announces the job of piercing Amy's ears is complete.
+Action,Train,A,pimp,pimping,2,,,UNCOVERED,s01e15_seg02_clip_10#enc#0,s01e15_seg02_clip_10#enc#0,Missy is angry when she catches Sheldon pimping her out for cheese.
+Action,Train,A,pionte,pionting,1,,,UNCOVERED,house_s05e09_seg02_clip_03#enc#1,house_s05e09_seg02_clip_03#enc#1,there was a man holding a gun pionting Dr.House while he was on the phone.
+Action,Train,A,pipe,pipe,1,,,UNCOVERED,s03e09_seg02_clip_05#enc#4,s03e09_seg02_clip_05#enc#4,Kripke rigs tanks to pipe gas into Sheldon's office.
+Action,Train,A,placate,placate,1,,,UNCOVERED,castle_s01e07_seg02_clip_03#enc#0,castle_s01e07_seg02_clip_03#enc#0,Joanne tells Beckett to stop trying to placate her.
+Action,Train,A,plane,planed,1,,shaved | shaves | shaving | skimming | skims,UNCOVERED,s05e04_seg02_clip_10#enc#3,s05e04_seg02_clip_10#enc#3,Howards tells Penny that he does not think that things will go as planed.
+Action,Train,A,plaster,plastered,3,,,UNCOVERED,castle_s02e18_seg02_clip_22#enc#4,castle_s02e18_seg02_clip_22#enc#4,Beckett saw a woman with duct tape plastered on her mouth.
+Action,Train,A,playback,playback,1,,,UNCOVERED,castle_s04e19_seg02_clip_11#enc#0,castle_s04e19_seg02_clip_11#enc#0,Castle asks Ryan to rewind or playback the video.
+Action,Train,A,plea,pleas,1,,,UNCOVERED,s03e12_seg02_clip_12#enc#1,s03e12_seg02_clip_12#enc#1,Raj sits on the couch beside Sheldon as he pleas with him.
+Action,Train,A,please,pleasing,1,,,UNCOVERED,castle_s08e04_seg02_clip_07#enc#4,castle_s08e04_seg02_clip_07#enc#4,Castle stands up and pleasing some polices to stop.
+Action,Train,A,pleasure,pleasure,1,,,UNCOVERED,friends_s04e11_seg02_clip_13#enc#1,friends_s04e11_seg02_clip_13#enc#1,Rachel and Monica are teaching Chandler how to pleasure a woman.
+Action,Train,A,plot,plot,1,,,UNCOVERED,castle_s06e01_seg02_clip_10#enc#0,castle_s06e01_seg02_clip_10#enc#0,Beckett uses her hand to plot a route on an interactive map.
+Action,Train,A,pocket,pocket | pockets,2,,bagged | bagging | bags,UNCOVERED,friends_s07e10_seg02_clip_05#enc#1,friends_s07e10_seg02_clip_05#enc#1,Chandler looks in his jacket and pockets frantically.
+Action,Train,A,poin,poins,1,,,UNCOVERED,s08e01_seg02_clip_12#enc#1,s08e01_seg02_clip_12#enc#1,Sheldon poins over his shoulder toward the window with his thumb.
+Action,Train,A,poison,poison | poisoned,4,,,UNCOVERED,house_s02e15_seg02_clip_13#enc#2,house_s02e15_seg02_clip_13#enc#2,House stands near a wall of x-rays while Cameron sits at a computer and they discuss the possibilities of how the patient was poisoned.
+Action,Train,A,poop,poops,2,,,UNCOVERED,castle_s02e13_seg02_clip_02#enc#3,castle_s02e13_seg02_clip_02#enc#3,Castle poops a pickled egg into his mouth and begins to choke on it.
+Action,Train,A,poope,pooped,1,,,UNCOVERED,house_s07e16_seg02_clip_10#enc#4,house_s07e16_seg02_clip_10#enc#4,Masters states if the patient pooped and looks under the sheet.
+Action,Train,A,poore,pooring,1,,,UNCOVERED,met_s02e07_seg02_clip_06#enc#1,met_s02e07_seg02_clip_06#enc#1,Marshal looks towards the living room while pooring a couple of beers.
+Action,Train,A,portrait,portrait,1,,,UNCOVERED,castle_s04e05_seg02_clip_23#enc#3,castle_s04e05_seg02_clip_23#enc#3,the woman portrait how the scene happened exactly.
+Action,Train,A,posse,posses,1,,,UNCOVERED,castle_s03e08_seg02_clip_20#enc#3,castle_s03e08_seg02_clip_20#enc#3,Elliot tells that they does not posses any animals.
+Action,Train,A,postpone,postpone,1,,,UNCOVERED,friends_s05e02_seg02_clip_09#enc#4,friends_s05e02_seg02_clip_09#enc#4,Rachel tells Dave she has to postpone their plan to help her sick roommate.
+Action,Train,A,pounce,pounces,2,,swoop | swooping | swoops,UNCOVERED,friends_s07e01_seg02_clip_02#enc#0,friends_s07e01_seg02_clip_02#enc#0,Monica pounces on Chandler and they fall on the bed.
+Action,Train,A,pout,pouting | pouts,6,,mop | mopping | sulks,UNCOVERED,s09e03_seg02_clip_00#enc#4,s09e03_seg02_clip_00#enc#4,Sheldon is pouting in the back seat of a van and begins to look up at the ceiling.
+Action,Train,A,powder,powdered | powdering,3,,pulverizes,UNCOVERED,met_s02e14_seg02_clip_06#enc#1,met_s02e14_seg02_clip_06#enc#1,Lou sheepishly eats a powdered donut in front of a green screen.
+Action,Train,A,power,powered,2,,,UNCOVERED,castle_s07e19_seg02_clip_13#enc#3,castle_s07e19_seg02_clip_13#enc#3,Ryan opens a case of and takes out a high powered binoculars.
+Action,Train,A,prank,prank | pranking,2,,,UNCOVERED,friends_s07e16_seg02_clip_25#enc#1,friends_s07e16_seg02_clip_25#enc#1,Ross and Ben prank Rachel by throwing a dummy body down the stairs.
+Action,Train,A,pre-approve,pre-approved,1,,,UNCOVERED,friends_s07e20_seg02_clip_01#enc#2,friends_s07e20_seg02_clip_01#enc#2,Rachel helps Chandler pick out a tuxedo with three that Monica pre-approved.
+Action,Train,A,prejudice,prejudiced,1,,,UNCOVERED,s04e09_seg02_clip_00#enc#0,s04e09_seg02_clip_00#enc#0,Raj asks Howard if what Sheldon said was prejudiced and Howard tells him that Sheldon was calling him an idiot not all Indians.
+Action,Train,A,preoccupy,preoccupied,2,,,UNCOVERED,s05e18_seg02_clip_02#enc#0,s05e18_seg02_clip_02#enc#0,Sheldon is preoccupied on the computer looking for a place to get a haircut because he says it's growing too fast.
+Action,Train,A,preposition,prepositions,1,,,UNCOVERED,friends_s03e12_seg02_clip_17#enc#4,friends_s03e12_seg02_clip_17#enc#4,"While talking to Ross, Rachel prepositions herself on the couch."
+Action,Train,A,preppe,prepped,1,,,UNCOVERED,house_s04e03_seg02_clip_26#enc#0,house_s04e03_seg02_clip_26#enc#0,House looks over the patient that is prepped for surgery.
+Action,Train,A,presee,presees,1,,,UNCOVERED,friends_s09e03_seg02_clip_14#enc#0,friends_s09e03_seg02_clip_14#enc#0,Chandler hold his hand out palm down and moves it upward three times then Monica grabs it and presees it to her cheek.
+Action,Train,A,presume,presumed,1,,Assuming | assume | assumes | assuming | dare | dares | daring,UNCOVERED,castle_s04e05_seg02_clip_11#enc#4,castle_s04e05_seg02_clip_11#enc#4,Beckett is jealous of Castles presumed whereabouts.
+Action,Train,A,preview,previews,1,,,UNCOVERED,met_s04e01_seg02_clip_04#enc#1,met_s04e01_seg02_clip_04#enc#1,Robin previews the next news segment and does not approve of the pun she has to say.
+Action,Train,A,proclaim,proclaims,2,,exclaim | exclaimed | exclaiming | exclaims,UNCOVERED,s04e07_seg02_clip_01#enc#1,s04e07_seg02_clip_01#enc#1,Raj stands up and proclaims his love for the United States of America.
+Action,Train,A,profile,profile,1,,,UNCOVERED,castle_s02e18_seg02_clip_07#enc#1,castle_s02e18_seg02_clip_07#enc#1,The cops try to profile the murderer while Beckett is in front of the white board.
+Action,Train,A,prosper,prosper,1,,,UNCOVERED,s03e13_seg02_clip_15#enc#3,s03e13_seg02_clip_15#enc#3,"Sheldon uses a Star Trek hand gesture and says ""Live long and prosper."""
+Action,Train,A,psyche,psyche,2,,,UNCOVERED,friends_s08e16_seg02_clip_10#enc#3,friends_s08e16_seg02_clip_10#enc#3,Joey tries to psyche himself up before knocking on the door.
+Action,Train,A,pu,pus,1,,,UNCOVERED,friends_s07e05_seg02_clip_09#enc#2,friends_s07e05_seg02_clip_09#enc#2,Rachel pus down a bag on the desk and gets startled.
+Action,Train,A,puke,puke | puked | pukes | puking,5,,cast | casts | chuck | honks | retch | spew | vomit | vomited | vomiting | vomits,UNCOVERED,s08e18_seg02_clip_16#enc#1,s08e18_seg02_clip_16#enc#1,Leonard says he's attempting to release gas from his mouth without puking.
+Action,Train,A,puls,pulss,1,,,UNCOVERED,house_s04e05_seg02_clip_12#enc#1,house_s04e05_seg02_clip_12#enc#1,Kutner pulss back the blanket from the patient.
+Action,Train,A,pulse,pulsing,1,,,UNCOVERED,house_s04e02_seg02_clip_07#enc#1,house_s04e02_seg02_clip_07#enc#1,Kunter uses a fire extingusher on Greta and then checks her neck as he mentions her heart pulsing.
+Action,Train,A,pulverize,pulverizes,1,,powdered | powdering,UNCOVERED,house_s02e02_seg02_clip_24#enc#1,house_s02e02_seg02_clip_24#enc#1,House pulverizes his medication using a razor blade.
+Action,Train,A,puncture,punctures,2,,,UNCOVERED,house_s06e17_seg02_clip_05#enc#2,house_s06e17_seg02_clip_05#enc#2,Thirteen takes the needle and punctures the patient's arm.
+Action,Train,A,punish,punish | punished,4,,,UNCOVERED,house_s07e13_seg02_clip_05#enc#3,house_s07e13_seg02_clip_05#enc#3,Zack explains the reason why he and Colleen are punished.
+Action,Train,A,qualify,qualified,1,,specifies,UNCOVERED,met_s04e03_seg02_clip_06#enc#3,met_s04e03_seg02_clip_06#enc#3,The phone clarifies what Robin qualified for when she dances.
+Action,Train,A,quarantine,quarantined,3,,,UNCOVERED,castle_s08e22_seg02_clip_09#enc#0,castle_s08e22_seg02_clip_09#enc#0,Castle explains why his mother and daughter are quarantined when Alexis asks.
+Action,Train,A,rache,raches,1,,,UNCOVERED,friends_s07e16_seg02_clip_08#enc#0,friends_s07e16_seg02_clip_08#enc#0,Phoebe raches over and grabs her left hip.
+Action,Train,A,raepair,raepair,1,,,UNCOVERED,s08e22_seg02_clip_07#enc#4,s08e22_seg02_clip_07#enc#4,Raj gets angry and explains that Howard and Sheldon have raepair the drone as he intends to take it back to the shop.
+Action,Train,A,rain,raining | rains,7,,,UNCOVERED,friends_s02e08_seg02_clip_20#enc#0,friends_s02e08_seg02_clip_20#enc#0,Ross approaches a window and looks out as it's raining.
+Action,Train,A,rant,rant | ranting | rants,6,,,UNCOVERED,met_s04e01_seg02_clip_03#enc#3,met_s04e01_seg02_clip_03#enc#3,Barney rants to Lily about how much he is fixated on Robin
+Action,Train,A,rattle,rattle | rattled | rattles,5,,,UNCOVERED,house_s04e12_seg02_clip_07#enc#1,house_s04e12_seg02_clip_07#enc#1,"House taps his chin with a marker, shakes the pen, gestures with the pen, rattles the pen while referring to the marker board and talking to to the group around the table."
+Action,Train,A,ravel,ravels,1,,unravel,UNCOVERED,s05e20_seg02_clip_13#enc#1,s05e20_seg02_clip_13#enc#1,Howard ravels up some electrical wiring connected to soldering iron.
+Action,Train,A,re,re,1,,,UNCOVERED,s09e21_seg02_clip_15#enc#3,s09e21_seg02_clip_15#enc#3,Stuart fell from trying to re ride a bicycle.
+Action,Train,A,re-arrange,re-arranged | re-arranges,3,,,UNCOVERED,castle_s06e21_seg02_clip_00#enc#4,castle_s06e21_seg02_clip_00#enc#4,Castle re-arranges Scrabble tiles on a stand and sounds out the letters.
+Action,Train,A,re-calibrate,re-calibrate,1,,,UNCOVERED,s08e22_seg02_clip_01#enc#4,s08e22_seg02_clip_01#enc#4,Howard reads out the first step to re-calibrate the device Sheldon is holding.
+Action,Train,A,re-close,re-closes,1,,,UNCOVERED,s08e15_seg02_clip_10#enc#0,s08e15_seg02_clip_10#enc#0,Sheldon opens the door of his apartment to find Amy and Penny and quickly re-closes it.
+Action,Train,A,re-emerge,re-emerge,1,,,UNCOVERED,s06e06_seg02_clip_13#enc#1,s06e06_seg02_clip_13#enc#1,"Penny storms into the bathroom and slams the door, only to immediately re-emerge."
+Action,Train,A,re-enter,re-enters,2,,,UNCOVERED,friends_s09e23-24_seg02_clip_38#enc#0,friends_s09e23-24_seg02_clip_38#enc#0,Joey leaves and then re-enters the room with Rachel.
+Action,Train,A,re-erect,re-erects,1,,,UNCOVERED,s01e05_seg02_clip_00#enc#3,s01e05_seg02_clip_00#enc#3,"Leonard bends down to pick up his bow, knocks over his sheet stand and re-erects it."
+Action,Train,A,re-fill,re-fills,1,,,UNCOVERED,s05e13_seg02_clip_14#enc#2,s05e13_seg02_clip_14#enc#2,Penny walks over to the table holding a pitcher and re-fills the water glasses.
+Action,Train,A,re-install,re-installs,1,,,UNCOVERED,castle_s06e17_seg02_clip_18#enc#0,castle_s06e17_seg02_clip_18#enc#0,Beckett removes and re-installs the magazine on her handgun.
+Action,Train,A,re-open,re-open,1,,,UNCOVERED,castle_s07e10_seg02_clip_10#enc#1,castle_s07e10_seg02_clip_10#enc#1,Beckett enters the break room with a cup of coffee surprised to find out that Castle wants to re-open the case for Eric.
+Action,Train,A,re-position,re-position,1,,,UNCOVERED,friends_s05e16_seg02_clip_12#enc#3,friends_s05e16_seg02_clip_12#enc#3,"Joey walks in the front door, Rachel asks him to help her re-position the sofa and he tells he can't because he has to be at his performing arts course, but then states he could skip class to assist her."
+Action,Train,A,readjust,readjusts,1,,reset,UNCOVERED,friends_s01e05_seg02_clip_14#enc#2,friends_s01e05_seg02_clip_14#enc#2,Janice readjusts her position on the sofa and sits back.
+Action,Train,A,reagrde,reagrding,1,,,UNCOVERED,castle_s06e02_seg02_clip_18#enc#4,castle_s06e02_seg02_clip_18#enc#4,Beckett speaks to Secretary Reed reagrding an investigation.
+Action,Train,A,rearrange,rearranges | rearranging,5,,,UNCOVERED,castle_s02e17_seg02_clip_03#enc#1,castle_s02e17_seg02_clip_03#enc#1,"Beckett rearranges the letters on bullets into ""Nikki""."
+Action,Train,A,rebuff,rebuffed | rebuffs,3,,repels | repulsed | snubbed,UNCOVERED,met_s02e10_seg02_clip_02#enc#4,met_s02e10_seg02_clip_02#enc#4,Barney walks up to a woman at the bar but is rebuffed as she turns around.
+Action,Train,A,rebutton,rebuttons,1,,,UNCOVERED,met_s06e18_seg02_clip_03#enc#4,met_s06e18_seg02_clip_03#enc#4,Barney unbuttons and then rebuttons his shirt revealing medical equipment on his chest.
+Action,Train,A,recieve,recieved | recieves,4,,,UNCOVERED,friends_s01e09_seg02_clip_06#enc#3,friends_s01e09_seg02_clip_06#enc#3,Rachel recieves a gift of money from monica and chandler. She excitedly thanks them and gives them a hug.
+Action,Train,A,recipricate,recipricates,1,,,UNCOVERED,friends_s01e07_seg02_clip_20#enc#0,friends_s01e07_seg02_clip_20#enc#0,"Ross points to Paolo and makes a small gesture with his fingers, and Paolo recipricates the gesture."
+Action,Train,A,reclaim,reclaim | reclaimed | reclaiming | reclaims,8,,recover | recovered | recovering,UNCOVERED,castle_s04e16_seg02_clip_04#enc#0,castle_s04e16_seg02_clip_04#enc#0,Sophia tosses a file folder on a desk and turns as she reclaims Beckett and Castle for going ahead of her and not telling her they solved a code.
+Action,Train,A,reconstruct,reconstruct,1,,redo | restored,UNCOVERED,grey_s03e03_seg02_clip_25#enc#1,grey_s03e03_seg02_clip_25#enc#1,"Cristina chops a whole chicken in half, tosses a baggy of medical tools at Burke - who is seated in a chair - and tell him to reconstruct the chicken."
+Action,Train,A,recrosse,recrosses,1,,,UNCOVERED,friends_s07e20_seg02_clip_13#enc#2,friends_s07e20_seg02_clip_13#enc#2,Joey points out the door then recrosses his arms.
+Action,Train,A,redirect,redirect,2,,,UNCOVERED,house_s07e22_seg02_clip_13#enc#0,house_s07e22_seg02_clip_13#enc#0,Dr Cuddy leans down to redirect a little gitl in pink clothes.
+Action,Train,A,redo,redo,2,,reconstruct,UNCOVERED,castle_s01e10_seg02_clip_23#enc#0,castle_s01e10_seg02_clip_23#enc#0,Beckett hands Esposito papers and urges him to redo his work.
+Action,Train,A,redouble,redouble,1,,,UNCOVERED,s06e14_seg02_clip_11#enc#3,s06e14_seg02_clip_11#enc#3,"Sheldon is told that he had some great ideas, but needs to redouble his attention to get results."
+Action,Train,A,reenter,reenters,2,,,UNCOVERED,friends_s07e15_seg02_clip_13#enc#1,friends_s07e15_seg02_clip_13#enc#1,Joey goes out the door and reenters to recite lines.
+Action,Train,A,reentere,reentering,1,,,UNCOVERED,s06e06_seg02_clip_13#enc#4,s06e06_seg02_clip_13#enc#4,"Penny enters the bathroom while yelling at Leonard who is sitting on the bed, she immediately exits the bathroom and yells a story at Leonard some more before reentering the bathroom while Leonard remains seated on the bed."
+Action,Train,A,reface,refaces,1,,,UNCOVERED,met_s02e17_seg02_clip_14#enc#3,met_s02e17_seg02_clip_14#enc#3,Barney faces a big glass window and refaces his two friends.
+Action,Train,A,referee,referee,1,,,UNCOVERED,friends_s06e12_seg02_clip_13#enc#3,friends_s06e12_seg02_clip_13#enc#3,Chandler and Ross call Monica and ask her to referee.
+Action,Train,A,reference,references | referencing,4,,cites,UNCOVERED,castle_s05e12_seg02_clip_08#enc#3,castle_s05e12_seg02_clip_08#enc#3,"Ryan enters Beckett's office carrying papers, he references the papers as he speaks."
+Action,Train,A,refold,refolds,3,,,UNCOVERED,friends_s07e03_seg02_clip_08#enc#0,friends_s07e03_seg02_clip_08#enc#0,Ross unfolds his arms to point slightly and refolds his arms..
+Action,Train,A,refrain,refrain | refraining,2,,desist,UNCOVERED,friends_s04e02_seg02_clip_05#enc#1,friends_s04e02_seg02_clip_05#enc#1,Rachel puts her hand on her mouth as if she has to refrain saying anything to Phoebe.
+Action,Train,A,refute,refutes,3,,,UNCOVERED,house_s04e02_seg02_clip_24#enc#1,house_s04e02_seg02_clip_24#enc#1,The Russian canidate refutes her being cut from try outs for the team.
+Action,Train,A,regret,regret | regrets | regretting,5,,,UNCOVERED,grey_s02e11_seg02_clip_23#enc#2,grey_s02e11_seg02_clip_23#enc#2,Addison tried to teach Izzie a lesson and is now regretting it.
+Action,Train,A,reinforce,reinforces,2,,,UNCOVERED,s06e02_seg02_clip_09#enc#2,s06e02_seg02_clip_09#enc#2,Sheldon reinforces that he can't divulge any information.
+Action,Train,A,reinsert,reinsert | reinserts,2,,,UNCOVERED,house_s04e05_seg02_clip_10#enc#3,house_s04e05_seg02_clip_10#enc#3,Brennan pulls out the needle from the patient's belly and then reinserts it.
+Action,Train,A,relax,relax | relaxes | relaxing,16,,loose | loosen | loosened | loosens | looses | loosing,UNCOVERED,friends_s09e15_seg02_clip_06#enc#3,friends_s09e15_seg02_clip_06#enc#3,Ross tells Phoebe to relax with his voice and hand.
+Action,Train,A,relent,relents,1,,,UNCOVERED,friends_s01e03_seg02_clip_01#enc#4,friends_s01e03_seg02_clip_01#enc#4,Chandler asks Joey for something and Joey at first says no but then relents.
+Action,Train,A,relive,reliving,1,,,UNCOVERED,friends_s07e20_seg02_clip_17#enc#2,friends_s07e20_seg02_clip_17#enc#2,Rachel is shocked when Melissa admits she's been reliving the moment.
+Action,Train,A,rell,rells,1,,,UNCOVERED,s06e11_seg02_clip_13#enc#0,s06e11_seg02_clip_13#enc#0,"Amy rells a story where she was undesirable, and Penny has a hard time holding back laughter."
+Action,Train,A,reload,reloads,1,,,UNCOVERED,s04e20_seg02_clip_00#enc#4,s04e20_seg02_clip_00#enc#4,"Sheldon reloads, lines up and shoots a Nintendo console bow and arrow."
+Action,Train,A,relocate,relocate | relocating,3,,,UNCOVERED,friends_s05e07_seg02_clip_19#enc#3,friends_s05e07_seg02_clip_19#enc#3,Ross walks into the apartment and tells Joey and Chandler about his plans for relocating.
+Action,Train,A,reminice,reminicing,1,,,UNCOVERED,castle_s04e02_seg02_clip_26#enc#0,castle_s04e02_seg02_clip_26#enc#0,Castle and Beckett staring to a teen couple reminicing their past before.
+Action,Train,A,rename,renames,1,,,UNCOVERED,friends_s06e15-16_seg02_clip_06#enc#4,friends_s06e15-16_seg02_clip_06#enc#4,Phoebe renames someone she is talking to on the phone.
+Action,Train,A,reopen,reopens,3,,,UNCOVERED,s09e24_seg02_clip_08#enc#2,s09e24_seg02_clip_08#enc#2,Howard closes his laptop and Raj reopens it then closes it again.
+Action,Train,A,reorder,reorders,1,,,UNCOVERED,s07e05_seg02_clip_01#enc#3,s07e05_seg02_clip_01#enc#3,Sheldon reorders the playing cards that are in his hand.
+Action,Train,A,reproduce,reproduce,1,,,UNCOVERED,s04e01_seg02_clip_17#enc#1,s04e01_seg02_clip_17#enc#1,Sheldon and Penny walk up the stairs talking about Sheldon's decision to reproduce.
+Action,Train,A,reprogram,reprograms,1,,,UNCOVERED,s06e13_seg02_clip_03#enc#4,s06e13_seg02_clip_03#enc#4,Sheldon reprograms the GPS with a new destination.
+Action,Train,A,rescure,rescure,1,,,UNCOVERED,friends_s08e19_seg02_clip_14#enc#1,friends_s08e19_seg02_clip_14#enc#1,Joey shakes his head when he's trying to figure out how Ross should rescure him.
+Action,Train,A,resent,resented,1,,,UNCOVERED,castle_s03e07_seg02_clip_17#enc#0,castle_s03e07_seg02_clip_17#enc#0,"Ryan says when the suspect was questioned about being put on trial by TV, he said he resented the man who played him in the program."
+Action,Train,A,reset,reset,2,,readjusts,UNCOVERED,friends_s02e23_seg02_clip_11#enc#2,friends_s02e23_seg02_clip_11#enc#2,Monica is in bed with Richard as she tells him that she is going to reset his clocks to synchronize with her clocks.
+Action,Train,A,restart,restart | restarts,3,,resume | resumes | resuming,UNCOVERED,met_s02e07_seg02_clip_16#enc#2,met_s02e07_seg02_clip_16#enc#2,Lily points backward while telling Marshall to restart the date.
+Action,Train,A,resume,resume | resumes | resuming,11,,restart | restarts,UNCOVERED,house_s05e10_seg02_clip_06#enc#4,house_s05e10_seg02_clip_06#enc#4,Dr Cuddy hangs up the phone and turns to resume a conversation.
+Action,Train,A,resussitate,resussitated,1,,,UNCOVERED,house_s08e08_seg02_clip_18#enc#1,house_s08e08_seg02_clip_18#enc#1,The patient is being resussitated as Chase and Taub enter the room.
+Action,Train,A,retrive,retrive,1,,,UNCOVERED,house_s08e08_seg02_clip_04#enc#0,house_s08e08_seg02_clip_04#enc#0,Park bosses Adams around directing her to retrive a device for her.
+Action,Train,A,reunite,reunite,1,,,UNCOVERED,met_s06e03_seg02_clip_08#enc#4,met_s06e03_seg02_clip_08#enc#4,Marshall tries to tell Robin his band will reunite when she's about to delete them from his phone.
+Action,Train,A,rev,revs,1,,,UNCOVERED,house_s02e05_seg02_clip_03#enc#0,house_s02e05_seg02_clip_03#enc#0,"House revs a motorcycle, while the four doctors stand around him talking about a case, then three of them walk away and Wilson stays and talks to House."
+Action,Train,A,reveil,reveils,1,,,UNCOVERED,house_s02e20_seg02_clip_22#enc#2,house_s02e20_seg02_clip_22#enc#2,Dr. Cameron reveils to House that she has been pricked by a used needle.
+Action,Train,A,revise,revise,1,,,UNCOVERED,grey_s03e05_seg02_clip_06#enc#2,grey_s03e05_seg02_clip_06#enc#2,Derek and Addison are in the lawyer's office as Derek takes full blame for their separation as Addison only had a couple of nights with Mark and he had a full relationship with Meredith and he tells the lawyer to revise the divorce so he could sign it that day.
+Action,Train,A,revisit,revisiting,1,,,UNCOVERED,friends_s06e15-16_seg02_clip_09#enc#2,friends_s06e15-16_seg02_clip_09#enc#2,Monica is revisiting her past when she was fat Monica and is talking to Chandler.
+Action,Train,A,rewind,rewind | rewinds,9,,,UNCOVERED,castle_s07e18_seg02_clip_18#enc#2,castle_s07e18_seg02_clip_18#enc#2,Tory rewinds the surveillance footage to identify the suspect.
+Action,Train,A,rhyme,rhymes,1,,,UNCOVERED,friends_s04e10_seg02_clip_05#enc#4,friends_s04e10_seg02_clip_05#enc#4,Phoebe insults Rachel's name because she can't think of anything that rhymes with it.
+Action,Train,A,rib,ribbed,1,,ridicule | ridicules | roasted | roasting,UNCOVERED,friends_s02e20_seg02_clip_14#enc#4,friends_s02e20_seg02_clip_14#enc#4,Richard holds his own when getting ribbed by Chandler.
+Action,Train,A,ridicule,ridicule | ridicules,3,,ribbed | roasted | roasting,UNCOVERED,s03e13_seg02_clip_15#enc#4,s03e13_seg02_clip_15#enc#4,"Sheldon abruptly opens the door, ridicules everyone else in the room, then immediately closes the door"
+Action,Train,A,roast,roasted | roasting,3,,ribbed | ridicule | ridicules,UNCOVERED,castle_s06e10_seg02_clip_26#enc#4,castle_s06e10_seg02_clip_26#enc#4,Castle is removing a roasted turkey from the oven.
+Action,Train,A,robin,robin,1,,,UNCOVERED,met_s03e06_seg02_clip_06#enc#2,met_s03e06_seg02_clip_06#enc#2,Lily hands robin a blue dress from out of her shopping bag.
+Action,Train,A,ros,ross,1,,,UNCOVERED,friends_s05e07_seg02_clip_10#enc#2,friends_s05e07_seg02_clip_10#enc#2,chandler is reading the newspaper and insinuates to ross that he should see the apartment listing .
+Action,Train,A,route,route,1,,,UNCOVERED,castle_s05e09_seg02_clip_11#enc#1,castle_s05e09_seg02_clip_11#enc#1,Esposito tells Beckett the suspects route after she asks.
+Action,Train,A,row,rowing,1,,,UNCOVERED,grey_s01e07_seg02_clip_22#enc#1,grey_s01e07_seg02_clip_22#enc#1,Alex is rowing in the locker room and tosses the handle.
+Action,Train,A,ruff,ruff,1,,,UNCOVERED,castle_s07e07_seg02_clip_12#enc#3,castle_s07e07_seg02_clip_12#enc#3,Ollie tries to ruff up Castle because he thinks someone sent him.
+Action,Train,A,run-limp,run-limps,1,,,UNCOVERED,friends_s04e15_seg02_clip_14#enc#1,friends_s04e15_seg02_clip_14#enc#1,"Ross run-limps away from the rugby players and over to Emily, Phoebe, and Joey."
+Action,Train,A,runaway,runaway,1,,,UNCOVERED,castle_s06e19_seg02_clip_20#enc#3,castle_s06e19_seg02_clip_20#enc#3,Beckett and Castle thinks that the suspects tried to runaway.
+Action,Train,A,sabotage,sabotaging,1,,undermine | undermines,UNCOVERED,met_s03e09_seg02_clip_10#enc#1,met_s03e09_seg02_clip_10#enc#1,Lily wants to know why Robin is sabotaging a holiday social gathering.
+Action,Train,A,sadden,saddened,1,,,UNCOVERED,castle_s02e07_seg02_clip_00#enc#2,castle_s02e07_seg02_clip_00#enc#2,Alexis is saddened to find out a singer she likes is dead.
+Action,Train,A,salt,salts,1,,,UNCOVERED,friends_s05e07_seg02_clip_05#enc#0,friends_s05e07_seg02_clip_05#enc#0,Phoebe salts her food and throws a handful over her shoulder.
+Action,Train,A,san,sans,1,,,UNCOVERED,met_s06e09_seg02_clip_09#enc#3,met_s06e09_seg02_clip_09#enc#3,Lily is upset because a friend is doing something sans her.
+Action,Train,A,sand,sands,2,,,UNCOVERED,s04e03_seg02_clip_05#enc#3,s04e03_seg02_clip_05#enc#3,Penny sands her feet with a stone while sitting in the living room.
+Action,Train,A,satnde,satnding,1,,,UNCOVERED,house_s02e23_seg02_clip_03#enc#4,house_s02e23_seg02_clip_03#enc#4,Dr Foreman looks at papers while satnding and having a conversation.
+Action,Train,A,scamme,scammed,1,,,UNCOVERED,castle_s06e23_seg02_clip_24#enc#4,castle_s06e23_seg02_clip_24#enc#4,Castle gives Rogan a bag of cash that had been scammed from him.
+Action,Train,A,scarf,scarfing,1,,,UNCOVERED,met_s05e05_seg02_clip_11#enc#0,met_s05e05_seg02_clip_11#enc#0,Marshall and Ted are sitting in a pizza joint scarfing down pizza.
+Action,Train,A,scent,scents,1,,wind | winded | winding | winds | wound | wounded,UNCOVERED,met_s02e08_seg02_clip_05#enc#4,met_s02e08_seg02_clip_05#enc#4,Robin scents the aroma of exotic dancers in the room.
+Action,Train,A,school,school,1,,trained | trains,UNCOVERED,met_s02e02_seg02_clip_04#enc#2,met_s02e02_seg02_clip_04#enc#2,Barney tries to school a newly single Marshall in the art of picking up women. .
+Action,Train,A,scopp,scopps,1,,,UNCOVERED,friends_s03e07_seg02_clip_01#enc#0,friends_s03e07_seg02_clip_01#enc#0,Monica reaches into Chandler's cup and scopps out cream with her fingers.
+Action,Train,A,scrap,scrapping,1,,disputes | trashes,UNCOVERED,house_s07e05_seg02_clip_17#enc#1,house_s07e05_seg02_clip_17#enc#1,House is scrapping the label of the dosimeter with a scalpel.
+Action,Train,A,screamsmove,screamsmoves,1,,,UNCOVERED,friends_s02e18_seg02_clip_19#enc#1,friends_s02e18_seg02_clip_19#enc#1,Chandler screamsmoves back when he sees Eddie in the kitchen.
+Action,Train,A,screech,screeches | screeching,2,,whines | whining,UNCOVERED,castle_s07e01_seg02_clip_02#enc#0,castle_s07e01_seg02_clip_02#enc#0,A car screeches to a stop and Beckett gets out.
+Action,Train,A,scribble,scribbles,4,,,UNCOVERED,house_s05e09_seg02_clip_18#enc#0,house_s05e09_seg02_clip_18#enc#0,The technician withdraws a patient from the scanner and House scribbles on a pad and hands it to the boy.
+Action,Train,A,scurry,scurries,2,,,UNCOVERED,friends_s04e16_seg02_clip_08#enc#3,friends_s04e16_seg02_clip_08#enc#3,Rachel scurries into the room and approaches the group with an issue with her dress.
+Action,Train,A,seache,seaches,1,,,UNCOVERED,house_s02e20_seg02_clip_23#enc#3,house_s02e20_seg02_clip_23#enc#3,House seaches something on a trash bag while talking to Cameron.
+Action,Train,A,seal,seal | sealed,3,,,UNCOVERED,castle_s03e01_seg02_clip_22#enc#2,castle_s03e01_seg02_clip_22#enc#2,Beckett showed the man she is interrogating a gun carefully sealed in a plastic.
+Action,Train,A,seed,seeded,1,,,UNCOVERED,house_s03e16_seg02_clip_00#enc#4,house_s03e16_seg02_clip_00#enc#4,Wilson believes House has deep seeded paternal issues that causing his unusual dreams.
+Action,Train,A,seeem,seeem,1,,,UNCOVERED,house_s03e10_seg02_clip_17#enc#2,house_s03e10_seg02_clip_17#enc#2,Dr.House was inside a bathroom and he seeem to have difficulty of his hand.
+Action,Train,A,seein,seein,1,,,UNCOVERED,s10e04_seg02_clip_06#enc#2,s10e04_seg02_clip_06#enc#2,Any tells Sheldon that seein ghis underwear in the wash basket was making her frisky.
+Action,Train,A,seperate,seperate,1,,,UNCOVERED,friends_s03e08_seg02_clip_16#enc#4,friends_s03e08_seg02_clip_16#enc#4,Chandler tells Janice that kids don't forgive the people who cause their parents to seperate.
+Action,Train,A,sequine,sequined,1,,,UNCOVERED,castle_s03e23_seg02_clip_07#enc#3,castle_s03e23_seg02_clip_07#enc#3,Espostio is carrying an bag with a sequined jacket in it and place it on a desk.
+Action,Train,A,sese,sese,1,,,UNCOVERED,house_s06e09_seg02_clip_03#enc#0,house_s06e09_seg02_clip_03#enc#0,Wilson walks into the room to sese Tucker and a blonde woman.
+Action,Train,A,settelle,settelling,1,,,UNCOVERED,castle_s02e04_seg02_clip_00#enc#2,castle_s02e04_seg02_clip_00#enc#2,Jim is settelling down all the students in front of the monitor.
+Action,Train,A,shadow,shadowed,2,,,UNCOVERED,castle_s05e17_seg02_clip_22#enc#2,castle_s05e17_seg02_clip_22#enc#2,"Beckett is walking outdoors with her gun and raises it whens she sees a shadowed figure,"
+Action,Train,A,shatter,shattering | shatters,4,,,UNCOVERED,s02e05_seg02_clip_15#enc#4,s02e05_seg02_clip_15#enc#4,The cleaning lady drops a plate and it shatters on the floor.
+Action,Train,A,shave,shaved | shaves | shaving,10,,planed | trim,UNCOVERED,grey_s03e12_seg02_clip_15#enc#3,grey_s03e12_seg02_clip_15#enc#3,George is shaving his father's face as he lies in a hospital bed.
+Action,Train,A,shield,shield,1,,screened,UNCOVERED,s09e13_seg01_clip_02#enc#2,s09e13_seg01_clip_02#enc#2,Howard jumps back and lifts his left hand up to shield his face.
+Action,Train,A,shimmy,shimmies,1,,wobbles,UNCOVERED,s07e02_seg02_clip_12#enc#0,s07e02_seg02_clip_12#enc#0,Howard stands in front of the couch with his shirt pulled up and shimmies his torso.
+Action,Train,A,shoe,shoes,2,,,UNCOVERED,castle_s06e21_seg02_clip_04#enc#0,castle_s06e21_seg02_clip_04#enc#0,Beckett walks up to Manny and shoes him her badge.
+Action,Train,A,shoke,shoked,1,,,UNCOVERED,house_s01e20_seg02_clip_00#enc#3,house_s01e20_seg02_clip_00#enc#3,the other Doctor threw it up and a woman catch it and they were shoked.
+Action,Train,A,shoo,shooing | shoos,4,,,UNCOVERED,house_s03e10_seg02_clip_07#enc#1,house_s03e10_seg02_clip_07#enc#1,House shoos Dr Foreman aside and opens a drawer.
+Action,Train,A,shoplift,shoplifted,1,,,UNCOVERED,met_s02e06_seg02_clip_10#enc#4,met_s02e06_seg02_clip_10#enc#4,Lily tells Ted about a time she shoplifted a pair of pants and Ted reacts badly.
+Action,Train,A,shovel,shoveling,1,,,UNCOVERED,friends_s04e12_seg02_clip_11#enc#3,friends_s04e12_seg02_clip_11#enc#3,People are outside shoveling snow from the sidewalk.
+Action,Train,A,showcase,showcase,1,,,UNCOVERED,s09e08_seg02_clip_03#enc#0,s09e08_seg02_clip_03#enc#0,Raj and Howard discuss how to best showcase Sheldon to women.
+Action,Train,A,shower,showers,1,,,UNCOVERED,met_s03e02_seg02_clip_07#enc#1,met_s03e02_seg02_clip_07#enc#1,Gael's friend lifts the toilet seat while Robin showers.
+Action,Train,A,shred,shred | shredded | shredding | shreds,9,,,UNCOVERED,friends_s08e05_seg02_clip_19#enc#3,friends_s08e05_seg02_clip_19#enc#3,Bob is shredding paper all over the office when Chandler walks in.
+Action,Train,A,shrugge,shrugges,1,,,UNCOVERED,s07e20_seg02_clip_12#enc#1,s07e20_seg02_clip_12#enc#1,Emily smiles and shrugges her sholders after telling a creepy joke.
+Action,Train,A,shuck,shucking,1,,,UNCOVERED,s10e08_seg02_clip_13#enc#0,s10e08_seg02_clip_13#enc#0,Amy is fed up and leaves the room leaving Sheldon to ask her to return because he needs help shucking Crassostrea gigas.
+Action,Train,A,shudder,shudder | shudders,2,,thrilled,UNCOVERED,s09e06_seg02_clip_02#enc#1,s09e06_seg02_clip_02#enc#1,Sheldon shudders while remembering an encounter with a bully.
+Action,Train,A,shush,shush | shushes | shushing,13,,,UNCOVERED,met_s02e15_seg02_clip_15#enc#2,met_s02e15_seg02_clip_15#enc#2,The airline employee puts up his finger to shush Ted when he interrupts the conversation he and Robin
+Action,Train,A,si,sis,2,,,UNCOVERED,met_s02e10_seg02_clip_09#enc#1,met_s02e10_seg02_clip_09#enc#1,Barney grabs a cellphone from the man who sis standing beside him.
+Action,Train,A,side,sided | sides,3,,,UNCOVERED,house_s06e03_seg02_clip_25#enc#2,house_s06e03_seg02_clip_25#enc#2,Chase is in front of Foreman as he tells him that if he turns him over for faking a test result Dibala will get away with his plan and Foreman tells him that if he sides with him he becomes his accomplice.
+Action,Train,A,sin,sining,1,,goofing | trespassed,UNCOVERED,met_s06e03_seg02_clip_07#enc#2,met_s06e03_seg02_clip_07#enc#2,Marshall is on stage wearing a tall hat and sining funky music.
+Action,Train,A,sistte,sistting,1,,,UNCOVERED,house_s01e05_seg02_clip_02#enc#4,house_s01e05_seg02_clip_02#enc#4,A nun sistting in a chair holds up a remote control.
+Action,Train,A,sita,sitas,1,,,UNCOVERED,house_s07e06_seg02_clip_20#enc#3,house_s07e06_seg02_clip_20#enc#3,Dr Cuddy moves an ink pen back and forth in her hand as she sitas at a desk and talks to House.
+Action,Train,A,sitie,sitiing,1,,,UNCOVERED,castle_s02e15_seg02_clip_00#enc#1,castle_s02e15_seg02_clip_00#enc#1,Martha holding a walle in her hand and Alexis is sitiing down with a blindfold.
+Action,Train,A,sitte,sitted,2,,,UNCOVERED,s06e04_seg02_clip_14#enc#1,s06e04_seg02_clip_14#enc#1,A boy sitted in a chair wearing a blue jacket.
+Action,Train,A,sittin,sittin,1,,,UNCOVERED,met_s02e07_seg02_clip_06#enc#0,met_s02e07_seg02_clip_06#enc#0,Ted Mosby takes a sip of wine while sittin next to Barney.
+Action,Train,A,size,sized,6,,,UNCOVERED,house_s04e09_seg02_clip_01#enc#2,house_s04e09_seg02_clip_01#enc#2,House stands facing a wall-sized chalkboard filled with writing and symbols; he turns and walks toward a room full of others who are seated and referring to notebooks.
+Action,Train,A,sjake,sjakes,1,,,UNCOVERED,s09e14_seg02_clip_03#enc#4,s09e14_seg02_clip_03#enc#4,Amey sjakes the hand of the grandmother of Sheldon to introduce herself.
+Action,Train,A,skate,skate | skates | skating,5,,,UNCOVERED,met_s04e03_seg01_clip_00#enc#0,met_s04e03_seg01_clip_00#enc#0,Ted is on a train and a man roller skates down the aisle past him.
+Action,Train,A,skateboard,skateboarding,1,,,UNCOVERED,house_s08e03_seg02_clip_13#enc#4,house_s08e03_seg02_clip_13#enc#4,House watches videos of a man skateboarding into a pool.
+Action,Train,A,sketch,sketched | sketches | sketching,9,,,UNCOVERED,castle_s05e16_seg02_clip_15#enc#0,castle_s05e16_seg02_clip_15#enc#0,Esposito hands Beckett sketches of a suspect that has been accused of being in the area where Hansen was murdered.
+Action,Train,A,skype,skype | skypes | skyping,4,,,UNCOVERED,s04e14_seg02_clip_01#enc#4,s04e14_seg02_clip_01#enc#4,Amy pretends to be a fish while skyping with Sheldon
+Action,Train,A,slab,slabs,1,,,UNCOVERED,met_s02e09_seg02_clip_17#enc#1,met_s02e09_seg02_clip_17#enc#1,Marshall slabs Barney while Robin and Ted are kissing.
+Action,Train,A,sleepint,sleepint,1,,,UNCOVERED,friends_s04e17_seg02_clip_12#enc#0,friends_s04e17_seg02_clip_12#enc#0,"Ross is sleepint sitting in a chair beside a bed, his upper body is twisted and on the bed, he is startled awake and awnsers the phone."
+Action,Train,A,sleeve,sleeved,1,,,UNCOVERED,castle_s07e22_seg02_clip_21#enc#2,castle_s07e22_seg02_clip_21#enc#2,Beckett was showing a photo to the man wearing black long sleeved polo.
+Action,Train,A,sling,slinging | slung,2,,,UNCOVERED,castle_s01e09_seg02_clip_06#enc#2,castle_s01e09_seg02_clip_06#enc#2,Castle watches Alfred paint by slinging paint at the wall.
+Action,Train,A,slink,slinks,1,,,UNCOVERED,s06e17_seg02_clip_02#enc#2,s06e17_seg02_clip_02#enc#2,Sheldon clicks on the camera and slinks back into the couch.
+Action,Train,A,slouch,slouched | slouching,2,,slump | slumping | slumps,UNCOVERED,s02e17_seg02_clip_06#enc#4,s02e17_seg02_clip_06#enc#4,"Sheldon is slouching in his seat on the train, annoyed with Leonard."
+Action,Train,A,slow,slow | slowing | slows,10,,,UNCOVERED,castle_s02e22_seg02_clip_00#enc#4,castle_s02e22_seg02_clip_00#enc#4,"Castle rushes in then slows down carrying a tray of cups and a paper bag, he stops and turns his head when he sees Beckett."
+Action,Train,A,slurp,slurps,3,,,UNCOVERED,met_s06e06_seg02_clip_00#enc#3,met_s06e06_seg02_clip_00#enc#3,A little boy shows Lilly something that's in his mouth and then slurps it in.
+Action,Train,A,smock,smocking,2,,,UNCOVERED,friends_s04e14_seg02_clip_11#enc#1,friends_s04e14_seg02_clip_11#enc#1,The bald man thats smocking next to Phoebe stands up.
+Action,Train,A,snab,snab,1,,,UNCOVERED,house_s07e13_seg02_clip_21#enc#0,house_s07e13_seg02_clip_21#enc#0,A guy tried to snab the doctor and they arguing infront of the students.
+Action,Train,A,snack,snacking,1,,,UNCOVERED,s07e22_seg02_clip_11#enc#4,s07e22_seg02_clip_11#enc#4,"Lenard, carrying a napkin he is snacking from, and Penny, carrying a cup she is sipping from, walk into a room and Leonard asks Penny her thoughts on the only laying to rest ceremony she has attended so far."
+Action,Train,A,snd,snd,1,,,UNCOVERED,friends_s08e02_seg02_clip_09#enc#2,friends_s08e02_seg02_clip_09#enc#2,"Joey asks monica why can't phoebe marry him, She says she can snd kisses him."
+Action,Train,A,snicker,snickering,1,,,UNCOVERED,s04e02_seg02_clip_00#enc#3,s04e02_seg02_clip_00#enc#3,Raj puts his hand up to Howard's ear and they start snickering.
+Action,Train,A,snore,snores | snoring,2,,,UNCOVERED,house_s05e14_seg02_clip_26#enc#3,house_s05e14_seg02_clip_26#enc#3,Foreman and Thirteen are in bed as she tells him that he snores and he tells her to be quiet.
+Action,Train,A,snort,snorting,1,,huffs,UNCOVERED,friends_s06e24-25_seg02_clip_10#enc#3,friends_s06e24-25_seg02_clip_10#enc#3,Rachel makes a snorting noise through her nose as she laughs.
+Action,Train,A,snow,snowing | snows,3,,,UNCOVERED,house_s02e09_seg02_clip_19#enc#2,house_s02e09_seg02_clip_19#enc#2,House and Anica is seated outside while it is snowing and talking about her condition.
+Action,Train,A,socialize,socialize,1,,,UNCOVERED,s01e06_seg02_clip_07#enc#1,s01e06_seg02_clip_07#enc#1,Leonard stands up to go socialize with other people
+Action,Train,A,sock,sock,1,,bopping | bops,UNCOVERED,friends_s08e03_seg02_clip_04#enc#1,friends_s08e03_seg02_clip_04#enc#1,Joey and Phoebe play rock em sock em robots in the kitchen.
+Action,Train,A,solidify,solidifies,1,,,UNCOVERED,s02e23_seg02_clip_01#enc#4,s02e23_seg02_clip_01#enc#4,Sheldon says people will publish volumes about him if he solidifies a scientific model.
+Action,Train,A,somthe,somthing,1,,,UNCOVERED,house_s07e13_seg02_clip_07#enc#3,house_s07e13_seg02_clip_07#enc#3,A patient coughs while a nurse holds her hand by his mouth; others rush in while the coughing gets worse and the man leans forward; he eventually spits up somthing bloody.
+Action,Train,A,sort,sort | sorting | sorts,8,,screened | separate | separated | separates | separating,UNCOVERED,friends_s07e05_seg02_clip_10#enc#1,friends_s07e05_seg02_clip_10#enc#1,Tag is sorting through mail as he talks with Rachel at his desk.
+Action,Train,A,sot,sots,1,,,UNCOVERED,house_s08e16_seg02_clip_25#enc#3,house_s08e16_seg02_clip_25#enc#3,"Wilson slowly sots down while reading a piece of paper he is holding,"
+Action,Train,A,spak,spaks,2,,,UNCOVERED,castle_s07e08_seg02_clip_18#enc#3,castle_s07e08_seg02_clip_18#enc#3,A woman in a pink dress spaks to a woman with long dark hair.
+Action,Train,A,spake,spakes,1,,,UNCOVERED,s05e07_seg01_clip_00#enc#4,s05e07_seg01_clip_00#enc#4,Sheldon puts the marker on the table and walks towards the door where the light in the hallway spakes.
+Action,Train,A,spank,spanks,2,,paddles,UNCOVERED,s06e10_seg02_clip_17#enc#3,s06e10_seg02_clip_17#enc#3,Amy goes onto Sheldon's lap and he spanks her.
+Action,Train,A,spar,spar | sparring,2,,,UNCOVERED,grey_s03e07_seg02_clip_17#enc#0,grey_s03e07_seg02_clip_17#enc#0,Alex and George are sparring out in the woods til Alex gets thrown into a rock.
+Action,Train,A,spear,spears,2,,,UNCOVERED,met_s06e11_seg02_clip_07#enc#3,met_s06e11_seg02_clip_07#enc#3,Robin picks up her fork and spears a piece of lettuce in her salad with it.
+Action,Train,A,spiral,spiraled,1,,gyrates,UNCOVERED,castle_s03e20_seg02_clip_11#enc#2,castle_s03e20_seg02_clip_11#enc#2,Castle picks up lined spiraled notepad and flips through it.
+Action,Train,A,splurge,splurge,1,,fling | flinging | flings,UNCOVERED,friends_s06e11_seg02_clip_08#enc#0,friends_s06e11_seg02_clip_08#enc#0,Ross turns away after Phoebe says he needs to splurge on himself.
+Action,Train,A,spoilere,spoilering,1,,,UNCOVERED,met_s02e14_seg02_clip_17#enc#3,met_s02e14_seg02_clip_17#enc#3,Robin lifts her head while chastising Barney for spoilering the game.
+Action,Train,A,sport,sporting,1,,boast | boasts | featuring | frisks,UNCOVERED,s02e11_seg02_clip_00#enc#4,s02e11_seg02_clip_00#enc#4,Howard imitates a sporting pose while playing a video game.
+Action,Train,A,sprawl,sprawled,2,,,UNCOVERED,s08e18_seg02_clip_16#enc#0,s08e18_seg02_clip_16#enc#0,Penny and Leonard are sprawled out on a couch.
+Action,Train,A,spritz,spritzes,1,,,UNCOVERED,friends_s05e14_seg02_clip_15#enc#0,friends_s05e14_seg02_clip_15#enc#0,Rachael spritzes some perfume and Pheobe walks into it and spins around.
+Action,Train,A,spurt,spurts,1,,forged | gushes | gushing,UNCOVERED,friends_s02e12-13_seg02_clip_03#enc#4,friends_s02e12-13_seg02_clip_03#enc#4,Chandler squeezes the bottle and soap spurts out of the top.
+Action,Train,A,square,squared,1,,,UNCOVERED,friends_s10e16_seg02_clip_17#enc#0,friends_s10e16_seg02_clip_17#enc#0,Chandler hands Monica the white squared objects he had in his hand.
+Action,Train,A,squee,squee,1,,,UNCOVERED,friends_s05e19_seg02_clip_18#enc#4,friends_s05e19_seg02_clip_18#enc#4,Ross and Rachel squee when they are looking at a card.
+Action,Train,A,squeegee,squeegees,1,,,UNCOVERED,s04e20_seg02_clip_03#enc#4,s04e20_seg02_clip_03#enc#4,Leonard sprays glass cleaner onto the bathroom mirror and squeegees it clean.
+Action,Train,A,squish,squished | squishing,2,,splashes,UNCOVERED,friends_s06e15-16_seg02_clip_09#enc#1,friends_s06e15-16_seg02_clip_09#enc#1,Monica sits on the bed squishing Chandlers hand.
+Action,Train,A,srappe,srapped,1,,,UNCOVERED,friends_s08e10_seg02_clip_07#enc#4,friends_s08e10_seg02_clip_07#enc#4,Rachel hands Dina a sandwich srapped in foil.
+Action,Train,A,stade,stading,1,,,UNCOVERED,house_s03e16_seg02_clip_20#enc#3,house_s03e16_seg02_clip_20#enc#3,Cuddy is stading beside a male patient holding a medical file.
+Action,Train,A,stain,stained,9,,,UNCOVERED,house_s08e22_seg02_clip_22#enc#2,house_s08e22_seg02_clip_22#enc#2,Foreman stands at a lectern in front of stained glass window talking to a room of people at a funeral.
+Action,Train,A,stalk,stalk | stalked | stalking | stalks,10,,haunting,UNCOVERED,friends_s03e04_seg02_clip_15#enc#1,friends_s03e04_seg02_clip_15#enc#1,Chandler stalks Janice while she's in the grocery store.
+Action,Train,A,stall,stalling,2,,,UNCOVERED,castle_s08e08_seg02_clip_17#enc#2,castle_s08e08_seg02_clip_17#enc#2,Castle is stalling Beckett on the phone so Hayley can gain remote access.
+Action,Train,A,stammer,stammers,1,,stutters,UNCOVERED,castle_s02e11_seg02_clip_25#enc#2,castle_s02e11_seg02_clip_25#enc#2,Darius stammers nervously and tries to deny Beckett and Castles's accusations.
+Action,Train,A,standng,standng,2,,,UNCOVERED,met_s03e16_seg02_clip_05#enc#3,met_s03e16_seg02_clip_05#enc#3,"While standng near the doorway, Robin agrees to go on a date with Simon."
+Action,Train,A,stane,staning,2,,,UNCOVERED,castle_s05e15_seg02_clip_04#enc#4,castle_s05e15_seg02_clip_04#enc#4,"Castle, Beckett,and Ryan are staning in front of the case board looking at a photo."
+Action,Train,A,staple,stapled | staples,2,,,UNCOVERED,grey_s02e02_seg02_clip_05#enc#2,grey_s02e02_seg02_clip_05#enc#2,George staples a patient's chest closed and then puts the stapler down.
+Action,Train,A,stash,stash | stashed | stashes,4,,,UNCOVERED,castle_s04e14_seg02_clip_26#enc#0,castle_s04e14_seg02_clip_26#enc#0,Joe recounts where he stashed a precious jewel when he was younger.
+Action,Train,A,steep,steeped,1,,absorbed,UNCOVERED,friends_s02e24_seg02_clip_18#enc#4,friends_s02e24_seg02_clip_18#enc#4,Monica and Richard were dancing and he steeped back and rolled his eyes.
+Action,Train,A,stetche,stetches,1,,,UNCOVERED,friends_s02e07_seg02_clip_21#enc#4,friends_s02e07_seg02_clip_21#enc#4,Monica places her left foot on the couch and stetches her leg.
+Action,Train,A,stiffen,stiffen,1,,tighten | tightens,UNCOVERED,house_s07e11_seg02_clip_14#enc#1,house_s07e11_seg02_clip_14#enc#1,Chase walks into the office and the other doctors stiffen up.
+Action,Train,A,stink,stunk,1,,,UNCOVERED,s10e08_seg02_clip_13#enc#3,s10e08_seg02_clip_13#enc#3,Sheldon is trying to be old-school sexy but Amy just thinks he stunk up the place with buck spray.
+Action,Train,A,stone,stoned,2,,pits,UNCOVERED,grey_s03e20_seg02_clip_05#enc#2,grey_s03e20_seg02_clip_05#enc#2,Izzie is stoned face when Caroline mentions her kid could pass away.
+Action,Train,A,stoneface,stonefaced,1,,,UNCOVERED,s04e15_seg02_clip_02#enc#1,s04e15_seg02_clip_02#enc#1,"Sheldon is web chatting with Amy on his laptop while she sits there, stonefaced."
+Action,Train,A,store,stored,1,,,UNCOVERED,friends_s10e16_seg02_clip_17#enc#3,friends_s10e16_seg02_clip_17#enc#3,Monica grabs a box from the floor and starts explaining how things are to be stored.
+Action,Train,A,straddle,straddle | straddled | straddles,3,,ranging,UNCOVERED,s06e04_seg02_clip_06#enc#2,s06e04_seg02_clip_06#enc#2,Bernadette moves to Howard's side of the bed and straddles him.
+Action,Train,A,straight,straights,1,,,UNCOVERED,met_s06e02_seg02_clip_09#enc#3,met_s06e02_seg02_clip_09#enc#3,Barney straights his tie while riding in a truck next to James.
+Action,Train,A,strengthen,strengthen,1,,,UNCOVERED,castle_s03e08_seg02_clip_17#enc#4,castle_s03e08_seg02_clip_17#enc#4,Dean waves his hand to strengthen his words.
+Action,Train,A,stride,stride,1,,,UNCOVERED,grey_s02e05_seg02_clip_03#enc#2,grey_s02e05_seg02_clip_03#enc#2,"Derek and Meredith stride towards the staircase, and then walk up one flight of stairs."
+Action,Train,A,stroll,strolls,4,,,UNCOVERED,met_s03e16_seg01_clip_01#enc#3,met_s03e16_seg01_clip_01#enc#3,A teenage Robin strolls down the beach with a boy in a leather jacket.
+Action,Train,A,stutter,stutters,1,,stammers,UNCOVERED,s05e07_seg02_clip_01#enc#0,s05e07_seg02_clip_01#enc#0,Stuart goes up to Alice and tries to speak to her but only stutters.
+Action,Train,A,style,style | styling,2,,titled,UNCOVERED,friends_s07e22_seg02_clip_00#enc#4,friends_s07e22_seg02_clip_00#enc#4,Ross moves his hands through his hair to style it.
+Action,Train,A,subdue,subduing,1,,inhibited | mortified | overcoming | reduce | reducing,UNCOVERED,house_s01e10_seg02_clip_00#enc#0,house_s01e10_seg02_clip_00#enc#0,A couple of police officers are subduing people in a room.
+Action,Train,A,sucee,suceed,1,,,UNCOVERED,friends_s08e12_seg02_clip_19#enc#1,friends_s08e12_seg02_clip_19#enc#1,Monica and Chandler are incouraging Phoebe to suceed in winning game.
+Action,Train,A,sugest,sugests,1,,,UNCOVERED,castle_s03e11_seg02_clip_24#enc#3,castle_s03e11_seg02_clip_24#enc#3,"Beckett sugests to the suspect that he would be out by a lot of money if he were to get a divorce, she then posits he then asked the vitctim for the incriminating images which she didn't give him so he murdered her."
+Action,Train,A,sulk,sulks,1,,pouting | pouts,UNCOVERED,friends_s02e10_seg01_clip_01#enc#0,friends_s02e10_seg01_clip_01#enc#0,Joey sits on the sidewalk floor as he sulks about the reviews written about him.
+Action,Train,A,sumise,sumises,1,,,UNCOVERED,castle_s02e23_seg02_clip_24#enc#0,castle_s02e23_seg02_clip_24#enc#0,Beckett sumises the killer used the victims blood to incriminate an outside party.
+Action,Train,A,summon,summon | summons,4,,cites,UNCOVERED,met_s06e05_seg02_clip_02#enc#4,met_s06e05_seg02_clip_02#enc#4,Ted summons Wendy over to the booth where he is sitting with Barney.
+Action,Train,A,surpise,surpised,1,,,UNCOVERED,friends_s04e06_seg01_clip_00#enc#4,friends_s04e06_seg01_clip_00#enc#4,Everyone is surpised that Ross was on a date with such a beautiful woman.
+Action,Train,A,suture,suturing,1,,,UNCOVERED,grey_s01e01_seg02_clip_13#enc#4,grey_s01e01_seg02_clip_13#enc#4,Cristina and Meredith are sitting on the window seat and Cristina is suturing a banana.
+Action,Train,A,swaddle,swaddles,1,,,UNCOVERED,castle_s06e01_seg02_clip_07#enc#1,castle_s06e01_seg02_clip_07#enc#1,Kevin Ryan swaddles and blankets a baby doll for practice.
+Action,Train,A,sweat,sweating,5,,,UNCOVERED,house_s05e06_seg02_clip_15#enc#0,house_s05e06_seg02_clip_15#enc#0,Taub told Jerry that he might be sweating with blood.
+Action,Train,A,swim,swim | swims,5,,drown | drowned | floating | floats,UNCOVERED,s03e14_seg02_clip_06#enc#1,s03e14_seg02_clip_06#enc#1,Sheldon dives into the ball pit and swims.
+Action,Train,A,swoon,swoon,1,,faint | faints,UNCOVERED,friends_s06e21_seg02_clip_07#enc#2,friends_s06e21_seg02_clip_07#enc#2,Monica and Chandler swoon when Phoebe says they have a good marriage.
+Action,Train,A,swoop,swoop | swooping | swoops,3,,pounces,UNCOVERED,castle_s05e10_seg02_clip_10#enc#2,castle_s05e10_seg02_clip_10#enc#2,Castle is talking on the phone then ends the call by swooping his hand over his head.
+Action,Train,A,sync,syncing,1,,synchronize | synchronized,UNCOVERED,s07e03_seg02_clip_11#enc#4,s07e03_seg02_clip_11#enc#4,Howard and Amy are lip-syncing with Howard doing some major hand movements to the song.
+Action,Train,A,synchronize,synchronize | synchronized,3,,syncing,UNCOVERED,castle_s03e03_seg02_clip_01#enc#3,castle_s03e03_seg02_clip_01#enc#3,"Becket and Castle stand to thier feet, in synchronized."
+Action,Train,A,tak,taks,1,,,UNCOVERED,house_s08e08_seg02_clip_02#enc#2,house_s08e08_seg02_clip_02#enc#2,Dr.Taub taks with Olivia about Tommy and the possibility that someone tried to harm him.
+Action,Train,A,taker,taker,1,,,UNCOVERED,castle_s08e04_seg02_clip_20#enc#4,castle_s08e04_seg02_clip_20#enc#4,Beckett taker her seat as Esposito and Ryan is having their conversation.
+Action,Train,A,takle,takling,1,,,UNCOVERED,s04e04_seg01_clip_00#enc#4,s04e04_seg01_clip_00#enc#4,Sheldon wipes his mouth with napkin as Raj is takling to him.
+Action,Train,A,takse,takse,1,,,UNCOVERED,friends_s07e17_seg02_clip_12#enc#0,friends_s07e17_seg02_clip_12#enc#0,"Ross takse the yellow paper from the Joey's hands, folds it and puts it in the inner pocket of his coat."
+Action,Train,A,tal,tals,1,,,UNCOVERED,house_s06e10_seg02_clip_21#enc#2,house_s06e10_seg02_clip_21#enc#2,Dr Foreman touches an IV bag as he tals to a male patien in a hospital bed.
+Action,Train,A,talkie,talkiing,1,,,UNCOVERED,house_s01e06_seg02_clip_04#enc#2,house_s01e06_seg02_clip_04#enc#2,The patient is spreading her bedsheet and doing some weird actions while House was talkiing to her.
+Action,Train,A,talkng,talkng,1,,,UNCOVERED,castle_s04e09_seg02_clip_11#enc#2,castle_s04e09_seg02_clip_11#enc#2,Beckett and Castle talkng and Beckett still wondering about the case.
+Action,Train,A,tallke,tallking,1,,,UNCOVERED,friends_s06e21_seg02_clip_05#enc#3,friends_s06e21_seg02_clip_05#enc#3,"Monica, Chandler and Phoebe are sitting on a couch and Monica is touching her face and clasping her hands together while tallking to a couple seated at a table then Monica turns towards Chandler and Phoebe."
+Action,Train,A,tart,tart,1,,,UNCOVERED,house_s04e14_seg02_clip_15#enc#4,house_s04e14_seg02_clip_15#enc#4,An examination chair ha been tilted to tart the examination.
+Action,Train,A,tasere,tasered,1,,,UNCOVERED,s08e19_seg02_clip_10#enc#0,s08e19_seg02_clip_10#enc#0,Sheldon exits Leonard's car and is chased by security guards and then is tasered.
+Action,Train,A,task,tasks,1,,,UNCOVERED,house_s02e04_seg02_clip_19#enc#4,house_s02e04_seg02_clip_19#enc#4,Dr. House tasks the patient to take the pills or what he will do.
+Action,Train,A,tattoo,tattooed | tattooing,2,,,UNCOVERED,s03e03_seg02_clip_12#enc#4,s03e03_seg02_clip_12#enc#4,Howard jumps off of the table in pain after the tattoo artist began tattooing him.
+Action,Train,A,taze,tazed,1,,,UNCOVERED,s08e19_seg02_clip_18#enc#3,s08e19_seg02_clip_18#enc#3,Sheldon smells a marker to check whether or not his olfactory functions have returned after being tazed.
+Action,Train,A,team,team,2,,,UNCOVERED,s07e17_seg02_clip_08#enc#1,s07e17_seg02_clip_08#enc#1,"Sheldon asks to team up with Howard as he is about to play a board game with Raj, Leonard, and Howard."
+Action,Train,A,tellsl,tellsl,1,,,UNCOVERED,house_s01e21_seg02_clip_17#enc#0,house_s01e21_seg02_clip_17#enc#0,Cuddy tellsl House the prognosis of his illness.
+Action,Train,A,tense,tense,1,,straining | strains,UNCOVERED,met_s02e17_seg02_clip_01#enc#1,met_s02e17_seg02_clip_01#enc#1,"Marshall is standing outside a house with his two brothers who are planning to hand over car keys to the Fiero. The brothers tense Marshall pretending to hand him the car keys, but tell him there's one more task he has to do in order to get the car. They brothers ask him to get 12 cups of coffee from a fast food place, but the brothers get to pick out what he wears and Marshall agrees to it."
+Action,Train,A,terrify,terrified | terrifies,4,,terrorize,UNCOVERED,s02e13_seg02_clip_12#enc#4,s02e13_seg02_clip_12#enc#4,Sheldon admits to being terrified of heights as he clings to the wall.
+Action,Train,A,terrorize,terrorize,1,,terrified | terrifies,UNCOVERED,house_s04e01_seg02_clip_12#enc#4,house_s04e01_seg02_clip_12#enc#4,House calls Wilson just like they were been terrorize.
+Action,Train,A,text,text,3,,,UNCOVERED,s09e19_seg02_clip_10#enc#0,s09e19_seg02_clip_10#enc#0,Penny motions to Raj not to text on his phone.
+Action,Train,A,the,thing,1,,,UNCOVERED,house_s07e15_seg02_clip_07#enc#3,house_s07e15_seg02_clip_07#enc#3,Masters is standing across from Taub as she mentions feeling refreshed to find someone else with humanity and Tuab tell her the reason she would thing that.
+Action,Train,A,there,theres,1,,,UNCOVERED,friends_s09e01_seg02_clip_05#enc#2,friends_s09e01_seg02_clip_05#enc#2,"Joey walks up to his dad and asks him what he's doing, he responds that he thinks theres people behind the door having sex."
+Action,Train,A,theyhave,theyhave,1,,,UNCOVERED,friends_s04e04_seg02_clip_05#enc#1,friends_s04e04_seg02_clip_05#enc#1,Ross grabs Chandler's shoulder as theyhave a conversation.
+Action,Train,A,thow,thows,1,,,UNCOVERED,friends_s03e01_seg02_clip_06#enc#3,friends_s03e01_seg02_clip_06#enc#3,Ross thows the papers he is reading on the bed.
+Action,Train,A,through,throughs,1,,,UNCOVERED,friends_s01e14_seg02_clip_11#enc#2,friends_s01e14_seg02_clip_11#enc#2,Rachel throughs an article of clothing in to the fire.
+Action,Train,A,tighten,tighten | tightens,7,,fasten | fastened | fastening | fastens | reduce | reducing | stiffen,UNCOVERED,s08e17_seg02_clip_12#enc#2,s08e17_seg02_clip_12#enc#2,Leonard tightens the belt to the bathrobe he is wearing.
+Action,Train,A,time,times,1,,,UNCOVERED,friends_s04e12_seg02_clip_13#enc#4,friends_s04e12_seg02_clip_13#enc#4,Chandler and Joey are playing a game while Ross times them.
+Action,Train,A,title,titled,1,,style | styling,UNCOVERED,castle_s05e17_seg02_clip_03#enc#2,castle_s05e17_seg02_clip_03#enc#2,Castle is reading a book titled Strange Urban Legends in front of Esposito in the precinct.
+Action,Train,A,toe,toeing,1,,,UNCOVERED,castle_s07e03_seg02_clip_12#enc#2,castle_s07e03_seg02_clip_12#enc#2,Beckett and Castle enter an apartment in the dark crossing police tape as Castle is tip toeing and Beckett asks him why he is doing so.
+Action,Train,A,toothe,toothed,1,,,UNCOVERED,s03e06_seg02_clip_15#enc#1,s03e06_seg02_clip_15#enc#1,Raj is sitting on a bench with Howard holding a saber-toothed cat toy.
+Action,Train,A,torture,torture | tortured,2,,,UNCOVERED,castle_s07e04_seg02_clip_16#enc#0,castle_s07e04_seg02_clip_16#enc#0,Lanie confirms to Esposito and Beckett about Dmitri not being tortured but died of other reasons that she points out to them.
+Action,Train,A,touchse,touchses,1,,,UNCOVERED,castle_s08e18_seg02_clip_03#enc#3,castle_s08e18_seg02_clip_03#enc#3,Esposito touchses the shoulder of Castle and pulls him away.
+Action,Train,A,tour,touring,1,,,UNCOVERED,met_s06e19_seg02_clip_03#enc#0,met_s06e19_seg02_clip_03#enc#0,Jerry was telling his son Barney about times that he would manage touring music groups
+Action,Train,A,tousle,tousles,1,,,UNCOVERED,friends_s04e21_seg02_clip_02#enc#0,friends_s04e21_seg02_clip_02#enc#0,"Rachel rises, tousles a seated Ross's hair, walks away; Ross twist his head side to side and starts to get up."
+Action,Train,A,touvh,touvh,1,,,UNCOVERED,house_s08e15_seg02_clip_10#enc#0,house_s08e15_seg02_clip_10#enc#0,Dr. Taub brings his hand up to touvh his forehead.
+Action,Train,A,tow,towed,1,,,UNCOVERED,house_s03e08_seg02_clip_00#enc#3,house_s03e08_seg02_clip_00#enc#3,Wilson walks up to a man while his car is getting towed and grabs the tow ticket.
+Action,Train,A,towel,toweling,1,,,UNCOVERED,friends_s01e03_seg02_clip_17#enc#4,friends_s01e03_seg02_clip_17#enc#4,Joey walks into the apartment dressed in a bathrobe and toweling off his hair.
+Action,Train,A,tower,towers,1,,,UNCOVERED,met_s06e23_seg02_clip_10#enc#1,met_s06e23_seg02_clip_10#enc#1,Ted turns to lay back down to bed while Barney towers over him.
+Action,Train,A,transferse,transferse,1,,,UNCOVERED,met_s06e13_seg02_clip_11#enc#4,met_s06e13_seg02_clip_11#enc#4,Marshall transferse the cup from his left hand to his right hand.
+Action,Train,A,tremble,tremble | trembles | trembling,9,,,UNCOVERED,s05e16_seg02_clip_13#enc#4,s05e16_seg02_clip_13#enc#4,Sheldon's hand trembles as he attempts to cut a slice of a brain.
+Action,Train,A,trespass,trespassed,1,,intrude | sining,UNCOVERED,s08e19_seg02_clip_13#enc#1,s08e19_seg02_clip_13#enc#1,"A nerdy guy confesses to Sheldon that he trespassed and was discovered making advances on a Wookie statue, and Sheldon then walks over to Leonard and sits down leaning towards Leonard."
+Action,Train,A,trick,tricked | tricking | tricks,6,,,UNCOVERED,friends_s08e06_seg02_clip_17#enc#4,friends_s08e06_seg02_clip_17#enc#4,Eric is disappointed with himself for not realising he was tricked.
+Action,Train,A,trickle,trickle,1,,dribbles | filter,UNCOVERED,met_s06e07_seg02_clip_17#enc#1,met_s06e07_seg02_clip_17#enc#1,Students trickle in to the classroom where Ted is sitting.
+Action,Train,A,true,truing,1,,,UNCOVERED,s07e04_seg02_clip_04#enc#1,s07e04_seg02_clip_04#enc#1,Penny tries to comfort Leonard by truing to hug him.
+Action,Train,A,trun,truns,1,,,UNCOVERED,castle_s08e08_seg02_clip_03#enc#4,castle_s08e08_seg02_clip_03#enc#4,Beckett truns her head to acknowledge Esposito's comment about the victim being a drug mule
+Action,Train,A,tune,tune,1,,,UNCOVERED,s08e20_seg02_clip_01#enc#0,s08e20_seg02_clip_01#enc#0,Wil tells Penny the number of people who tune in to his show.
+Action,Train,A,turnd,turnds,1,,,UNCOVERED,house_s07e18_seg02_clip_21#enc#2,house_s07e18_seg02_clip_21#enc#2,House turnds around and points his pressurized gun at him as Harold put his hands in the air and tell him he wouldn't shoot him.
+Action,Train,A,turnig,turnig,1,,,UNCOVERED,friends_s07e12_seg02_clip_02#enc#2,friends_s07e12_seg02_clip_02#enc#2,Monica was walking slowly while turnig on the lights.
+Action,Train,A,unbottle,unbottle,1,,,UNCOVERED,friends_s02e08_seg02_clip_06#enc#1,friends_s02e08_seg02_clip_06#enc#1,Joey fully uncaps and unbottle his beer can he has in his right hand.
+Action,Train,A,unbox,unboxing,1,,,UNCOVERED,s05e13_seg01_clip_00#enc#1,s05e13_seg01_clip_00#enc#1,"Leonard looks at Penny, Amy, and Bernadette standing in Penny's apartment unboxing something."
+Action,Train,A,unbuckle,unbuckle | unbuckles,6,,,UNCOVERED,s07e17_seg02_clip_11#enc#4,s07e17_seg02_clip_11#enc#4,Sheldon unbuckles his seat belt and taps Howard on the shoulder.
+Action,Train,A,unclasp,unclasps,4,,,UNCOVERED,house_s04e01_seg02_clip_10#enc#1,house_s04e01_seg02_clip_10#enc#1,"Mrs. Bradberry unclasps her hands while talking with Ben, Cuddy, and House."
+Action,Train,A,unclog,unclog | unclogged,2,,,UNCOVERED,friends_s04e04_seg01_clip_00#enc#2,friends_s04e04_seg01_clip_00#enc#2,Rachel is trying to put the garbage down the garbage shoot when she clogs it up after Treeger just unclogged the garbage shoot. Mr. Treeger starts yelling at Rachel how she is clogging up the shoot after he just unclogged it and calls her a little princes. He starts lecturing her which make Rachel cry and storm out of the garbage room.
+Action,Train,A,uncock,uncocks,1,,,UNCOVERED,castle_s04e07_seg02_clip_18#enc#3,castle_s04e07_seg02_clip_18#enc#3,"Trapper John has a gun to Castle's throat then after Kate threatens him, he uncocks his gun and agrees to the time she needs."
+Action,Train,A,uncuff,uncuff | uncuffs,2,,,UNCOVERED,castle_s08e16_seg02_clip_14#enc#1,castle_s08e16_seg02_clip_14#enc#1,Esposito opens the door and sonia puts out her wrists for him to uncuff her.
+Action,Train,A,undermine,undermine | undermines,2,,caves | sabotaging,UNCOVERED,house_s08e16_seg02_clip_01#enc#1,house_s08e16_seg02_clip_01#enc#1,Taub argues with the patient that fighting in Hockey undermines the sport.
+Action,Train,A,undersatand,undersatand,1,,,UNCOVERED,house_s07e13_seg02_clip_09#enc#1,house_s07e13_seg02_clip_09#enc#1,The teacher slowly shakes her head as she tries to undersatand House's explanation.
+Action,Train,A,unfasten,unfasten | unfastens,2,,,UNCOVERED,castle_s04e02_seg02_clip_04#enc#4,castle_s04e02_seg02_clip_04#enc#4,"Tony gets up, unfastens his belt, and proceeds to pull his pants down."
+Action,Train,A,unfurl,unfurls,3,,unroll | unrolls,UNCOVERED,castle_s07e09_seg02_clip_11#enc#4,castle_s07e09_seg02_clip_11#enc#4,Castle unfurls a poster and asks the cops if the suspect can autograph it.
+Action,Train,A,unimpresse,unimpressed,1,,,UNCOVERED,s02e21_seg02_clip_13#enc#0,s02e21_seg02_clip_13#enc#0,Howard in unimpressed by the food on offer at a buffet.
+Action,Train,A,unlatche,unlatches,1,,,UNCOVERED,met_s02e16_seg02_clip_10#enc#1,met_s02e16_seg02_clip_10#enc#1,Robin unlatches the leash from the man's neck and rubs his ear.
+Action,Train,A,unpack,unpack | unpacking | unpacks,7,,,UNCOVERED,s05e03_seg02_clip_08#enc#2,s05e03_seg02_clip_08#enc#2,Howard removes his shoes as Bernadette unpacks luggage on the bed.
+Action,Train,A,unpause,unpause,1,,,UNCOVERED,s04e01_seg02_clip_10#enc#4,s04e01_seg02_clip_10#enc#4,"When Leonard starts to unpause the program, Howard tells Leonard not to touch it because the automaton's fist will start turning."
+Action,Train,A,unpin,unpins,1,,,UNCOVERED,castle_s04e12_seg02_clip_25#enc#2,castle_s04e12_seg02_clip_25#enc#2,Beckett unpins a photograph from the wall and stares at it.
+Action,Train,A,unprompte,unprompted,1,,,UNCOVERED,castle_s04e05_seg02_clip_18#enc#3,castle_s04e05_seg02_clip_18#enc#3,Serena gives her alibi to Beckett unprompted to get the interview over.
+Action,Train,A,unpronounce,unpronounced,1,,,UNCOVERED,met_s02e08_seg02_clip_18#enc#1,met_s02e08_seg02_clip_18#enc#1,Lily and Marshall re- kisses each other after they are being unpronounced as husband and wife.
+Action,Train,A,unroll,unroll | unrolls,7,,unfurls,UNCOVERED,castle_s05e19_seg02_clip_19#enc#1,castle_s05e19_seg02_clip_19#enc#1,Beckett unrolls a giant roll of carpet that is inside a storage unit.
+Action,Train,A,unscoll,unscolls,1,,,UNCOVERED,castle_s07e09_seg02_clip_11#enc#2,castle_s07e09_seg02_clip_11#enc#2,Castle unscolls an poster of of teh archalogist from onside the mirror window.
+Action,Train,A,unsmile,unsmiling,1,,,UNCOVERED,house_s04e12_seg02_clip_14#enc#2,house_s04e12_seg02_clip_14#enc#2,"House talks with Wilson, and both men shake their heads unsmiling while talking, until Wilson turns and walks away."
+Action,Train,A,unsnap,unsnaps,1,,,UNCOVERED,friends_s08e02_seg02_clip_16#enc#1,friends_s08e02_seg02_clip_16#enc#1,"Joey and Rachel hug, and then he unsnaps her bra."
+Action,Train,A,unstick,unstick | unstuck,2,,,UNCOVERED,friends_s07e12_seg02_clip_07#enc#4,friends_s07e12_seg02_clip_07#enc#4,Ross and Joey are stuck on a fire escape deck and Joey is trying to unstick the ladder.
+Action,Train,A,unstop,unstopping,1,,,UNCOVERED,friends_s04e04_seg02_clip_01#enc#4,friends_s04e04_seg02_clip_01#enc#4,"Joey knocks on a door marked ""maintenance"", a man answers, acknowledges Joey by his last name, and immediately turns to get Joey a toilet unstopping device."
+Action,Train,A,unstrappe,unstrapping,1,,,UNCOVERED,castle_s05e07_seg02_clip_13#enc#0,castle_s05e07_seg02_clip_13#enc#0,"Keith turns away from talking to Kate and Richard, while unstrapping himself from his guitar."
+Action,Train,A,untangle,untangled | untangles,3,,unravel,UNCOVERED,friends_s06e10_seg01_clip_00#enc#3,friends_s06e10_seg01_clip_00#enc#3,Chandler untangles the lights while sitting on the floor.
+Action,Train,A,untuck,untucks,1,,,UNCOVERED,friends_s07e07_seg02_clip_06#enc#1,friends_s07e07_seg02_clip_06#enc#1,Rachel untucks her arms and scoots herself in the couch.
+Action,Train,A,upcome,upcoming,1,,,UNCOVERED,s03e15_seg01_clip_01#enc#4,s03e15_seg01_clip_01#enc#4,Raj explains what his plans are for the upcoming Valentines day.
+Action,Train,A,uplift,uplift,1,,,UNCOVERED,friends_s03e20_seg02_clip_13#enc#2,friends_s03e20_seg02_clip_13#enc#2,Sophie tries to uplift Joanna and Joanna insults her again.
+Action,Train,A,upturn,upturns,1,,,UNCOVERED,friends_s02e17_seg02_clip_14#enc#0,friends_s02e17_seg02_clip_14#enc#0,"Joey chats with Chandler, lifts the juice can, shakes it and upturns it ."
+Action,Train,A,vacuum,vacuuming | vacuums,3,,,UNCOVERED,house_s03e11_seg02_clip_11#enc#2,house_s03e11_seg02_clip_11#enc#2,A woman is vacuuming the rug area between chairs and couches.
+Action,Train,A,vandalize,vandalized | vandalizing,2,,,UNCOVERED,s06e09_seg02_clip_06#enc#4,s06e09_seg02_clip_06#enc#4,Sheldon went with Amy and removed Howard's name from a parking spot by vandalizing it.
+Action,Train,A,vent,venting | vents,6,,,UNCOVERED,friends_s02e07_seg02_clip_02#enc#3,friends_s02e07_seg02_clip_02#enc#3,Phoebe vents to her friends at the cafe about her date.
+Action,Train,A,verse,verse,2,,,UNCOVERED,friends_s05e12_seg02_clip_06#enc#2,friends_s05e12_seg02_clip_06#enc#2,Chandler and Monica verse Doug and his wife.
+Action,Train,A,videoe,videoed,1,,,UNCOVERED,castle_s07e16_seg02_clip_08#enc#1,castle_s07e16_seg02_clip_08#enc#1,"George Reyes is videoed going up the stairs in an apartment building then coming back down, shortly thereafter."
+Action,Train,A,vindicate,vindicating,1,,justifies | justify,UNCOVERED,s03e03_seg01_clip_01#enc#4,s03e03_seg01_clip_01#enc#4,Sheldon reminds Leonard that he and Penny were supposed to have sex only at her place but Leonard cites a vindicating situation.
+Action,Train,A,voguee,vogueing,1,,,UNCOVERED,house_s06e03_seg02_clip_11#enc#2,house_s06e03_seg02_clip_11#enc#2,House is vogueing while talking to the other doctors.
+Action,Train,A,voiceovere,voiceovering,1,,,UNCOVERED,friends_s08e13_seg01_clip_00#enc#4,friends_s08e13_seg01_clip_00#enc#4,Joey eats cereal while voiceovering about his feelings about Rachel.
+Action,Train,A,vomit,vomit | vomited | vomiting | vomits,30,,cast | casts | chuck | honks | puke | puked | pukes | puking | retch | spew,UNCOVERED,house_s05e24_seg02_clip_10#enc#1,house_s05e24_seg02_clip_10#enc#1,"Scott, who is having a medical procedure performed on him by Thirteen and Taub, sits up suddenly, leans over the side of the bed and vomits blood."
+Action,Train,A,vote,vote,1,,,UNCOVERED,house_s01e18_seg02_clip_10#enc#2,house_s01e18_seg02_clip_10#enc#2,Volger calls for a vote and the people around the table raise their hands to vote yes.
+Action,Train,A,vow,vows,1,,,UNCOVERED,s06e16_seg02_clip_14#enc#2,s06e16_seg02_clip_14#enc#2,Leonard puts his hand to his chest and vows not to make a proposal to Penny again.
+Action,Train,A,waere,waering,1,,,UNCOVERED,house_s08e17_seg02_clip_00#enc#0,house_s08e17_seg02_clip_00#enc#0,"A woman with black hair, waering a black dress and jacket enters the room."
+Action,Train,A,waiste,waisting,1,,,UNCOVERED,s09e08_seg02_clip_10#enc#4,s09e08_seg02_clip_10#enc#4,Dave apologizes to Amy about waisting their date by speaking about Sheldon the whole night.
+Action,Train,A,wak,waks,3,,,UNCOVERED,met_s03e10_seg02_clip_14#enc#4,met_s03e10_seg02_clip_14#enc#4,Rhonda waks up to the bar and tells Barney about her encounter with Ted at the fitness center.
+Action,Train,A,waker,waker,1,,,UNCOVERED,s06e04_seg02_clip_07#enc#4,s06e04_seg02_clip_07#enc#4,Bernadette starts snoring and keeps snoring until Howard waker her.
+Action,Train,A,wale,waling,1,,,UNCOVERED,castle_s06e05_seg02_clip_04#enc#3,castle_s06e05_seg02_clip_04#enc#3,Castle Beckett and Esposito are waling while talking.
+Action,Train,A,walkd,walkd,1,,,UNCOVERED,castle_s08e15_seg02_clip_02#enc#3,castle_s08e15_seg02_clip_02#enc#3,"Beckett, Ryan, and Esposito walkd down a hallway while talking."
+Action,Train,A,walker,walkers,1,,,UNCOVERED,s07e13_seg02_clip_15#enc#0,s07e13_seg02_clip_15#enc#0,"Leonard grabs Penny by the arms and walkers her back a few steps,"
+Action,Train,A,walkind,walkind,1,,,UNCOVERED,grey_s02e21_seg02_clip_11#enc#3,grey_s02e21_seg02_clip_11#enc#3,Meredith is walkind down the hallway of the hospital and run into each other.
+Action,Train,A,walkle,walkling,1,,,UNCOVERED,castle_s06e02_seg02_clip_07#enc#2,castle_s06e02_seg02_clip_07#enc#2,Castle leaves an talk with Becket while walkling away.
+Action,Train,A,walkng,walkng,2,,,UNCOVERED,castle_s06e02_seg02_clip_05#enc#4,castle_s06e02_seg02_clip_05#enc#4,Beckett and another woman walkng on the street.
+Action,Train,A,wallk,wallk | wallks,4,,,UNCOVERED,house_s02e16_seg02_clip_00#enc#4,house_s02e16_seg02_clip_00#enc#4,House wallks into the kitchen and looks behind him.
+Action,Train,A,wan't,wan'ts,1,,,UNCOVERED,castle_s03e11_seg02_clip_24#enc#4,castle_s03e11_seg02_clip_24#enc#4,Beckett asks Natalie if she wan'ts to join them while they go interview a suspect. Natalie says yes in a very cop show cliched way and realises it.
+Action,Train,A,warm,warm | warming,3,,,UNCOVERED,friends_s05e13_seg02_clip_05#enc#1,friends_s05e13_seg02_clip_05#enc#1,"Joey walks in to the coffee shop, running his hands to warm them."
+Action,Train,A,warn,warn | warning | warns,21,,admonishes | discourage | discouraged,UNCOVERED,friends_s01e18_seg02_clip_06#enc#2,friends_s01e18_seg02_clip_06#enc#2,Ross gets up from his chair and warns Rachel about his gaming strategy.
+Action,Train,A,watce,watces,1,,,UNCOVERED,house_s06e21_seg02_clip_09#enc#3,house_s06e21_seg02_clip_09#enc#3,Taub watces Jay from the screen as he is in the MRI.
+Action,Train,A,water,water,2,,,UNCOVERED,house_s05e06_seg02_clip_25#enc#0,house_s05e06_seg02_clip_25#enc#0,Cuddy's eyes start to water as she speaks with House.
+Action,Train,A,webcamme,webcamming,1,,,UNCOVERED,met_s06e06_seg02_clip_07#enc#3,met_s06e06_seg02_clip_07#enc#3,Marshall rubs his forehead while he is webcamming his dad.
+Action,Train,A,weirde,weirded,2,,,UNCOVERED,s09e01_seg02_clip_09#enc#4,s09e01_seg02_clip_09#enc#4,Penny makes a weirded out face to Leonard.
+Action,Train,A,werae,weraing,4,,,UNCOVERED,s02e02_seg02_clip_00#enc#1,s02e02_seg02_clip_00#enc#1,Sheldon moves from the living area to the kitchen while weraing a monk's costume.
+Action,Train,A,wet,wets | wetting,3,,,UNCOVERED,s10e09_seg02_clip_05#enc#0,s10e09_seg02_clip_05#enc#0,Leonard tells Sheldon his siblings acheivements were always weighed against his own and he dealt with that by wetting the bed.
+Action,Train,A,what,whats,1,,,UNCOVERED,house_s07e15_seg02_clip_18#enc#2,house_s07e15_seg02_clip_18#enc#2,Masters believes that Taub whats her opinion just to avoid that action.
+Action,Train,A,whimper,whimpers,2,,,UNCOVERED,friends_s01e03_seg02_clip_05#enc#2,friends_s01e03_seg02_clip_05#enc#2,Monica picks up a receipt and looks at it while she whimpers.
+Action,Train,A,whine,whines | whining,6,,screeches | screeching,UNCOVERED,friends_s09e02_seg02_clip_09#enc#2,friends_s09e02_seg02_clip_09#enc#2,Gunther smiles at Ross as he is whining in pan from his hand.
+Action,Train,A,whit,whit,1,,,UNCOVERED,met_s02e10_seg02_clip_01#enc#0,met_s02e10_seg02_clip_01#enc#0,Barney mum points at him whit a cigarette in her hand
+Action,Train,A,wire,wired,3,,,UNCOVERED,castle_s02e18_seg02_clip_22#enc#3,castle_s02e18_seg02_clip_22#enc#3,A man looks with binoculars through wired fence.
+Action,Train,A,wit,wit,1,,,UNCOVERED,castle_s03e01_seg02_clip_01#enc#4,castle_s03e01_seg02_clip_01#enc#4,Lanie comes down from a ladder and starts a conversation wit Beckett.
+Action,Train,A,witte,witting,1,,,UNCOVERED,house_s06e19_seg02_clip_12#enc#3,house_s06e19_seg02_clip_12#enc#3,A man enters a patient's room and greeted a woman witting in the couch.
+Action,Train,A,wlak,wlaks,1,,,UNCOVERED,s02e22_seg01_clip_02#enc#0,s02e22_seg01_clip_02#enc#0,Sheldon wlaks over to stuart and holds up a comic book
+Action,Train,A,wlk,wlks,1,,,UNCOVERED,friends_s02e19_seg01_clip_00#enc#4,friends_s02e19_seg01_clip_00#enc#4,Eddie wlks out of the room and shuts the door behind him.
+Action,Train,A,workinge,workinging,1,,,UNCOVERED,castle_s06e07_seg02_clip_05#enc#4,castle_s06e07_seg02_clip_05#enc#4,Sparks are flying as Frank is workinging on his car then stops.
+Action,Train,A,wrest,wresting,1,,,UNCOVERED,s01e16_seg01_clip_00#enc#4,s01e16_seg01_clip_00#enc#4,Sheldon and Raj are arm wresting and playing Tetris while Howard and Leonard cheer them on.
+Action,Train,A,yodel,yodelling,1,,,UNCOVERED,s07e10_seg02_clip_15#enc#2,s07e10_seg02_clip_15#enc#2,Penny and Amy listen to Sheldon yodelling on the radio.

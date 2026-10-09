@@ -1,0 +1,324 @@
+{
+  "train": {
+    "total": 87174,
+    "accepted": 11064,
+    "overall_acceptance_percent": 12.69185766398238,
+    "source_audit": "/home/viglab2/won_woo/experiments/rewrite_train_b64_20260930/audit.jsonl",
+    "source_audit_sha256": "fd42e0f67dfdd1f6f5ed690616e4b0b42c85ebc84216c2640518b1a2761c7b91",
+    "source_run": "/home/viglab2/won_woo/experiments/rewrite_train_b64_20260930/run.json",
+    "recorded_flag_patterns": {
+      "pronoun": "\\b(?:he|she|it|they|him|her|them|his|its|their|hers|theirs)\\b",
+      "negation": "\\b(?:not|no|never|without|neither|nor)\\b|\\b\\w+n['’]t\\b",
+      "mental_state": "\\b(?:upset|angry|happy|sad|afraid|worried|thinks?|believes?|wants?|feels?)\\b"
+    },
+    "exclusive_source_flag_combinations": [
+      {
+        "source_flag_combination": "세 flag 모두 없음",
+        "total_queries_with_combination": 36824,
+        "accepted_queries": 4606,
+        "percent_of_accepted": 41.63051337671728,
+        "acceptance_rate_within_combination": 12.508146860742993
+      },
+      {
+        "source_flag_combination": "대명사",
+        "total_queries_with_combination": 46331,
+        "accepted_queries": 5629,
+        "percent_of_accepted": 50.8767172812726,
+        "acceptance_rate_within_combination": 12.149532710280374
+      },
+      {
+        "source_flag_combination": "부정어",
+        "total_queries_with_combination": 366,
+        "accepted_queries": 86,
+        "percent_of_accepted": 0.777295733911786,
+        "acceptance_rate_within_combination": 23.497267759562842
+      },
+      {
+        "source_flag_combination": "감정·심리",
+        "total_queries_with_combination": 347,
+        "accepted_queries": 55,
+        "percent_of_accepted": 0.4971077368040492,
+        "acceptance_rate_within_combination": 15.85014409221902
+      },
+      {
+        "source_flag_combination": "대명사 + 부정어",
+        "total_queries_with_combination": 1701,
+        "accepted_queries": 409,
+        "percent_of_accepted": 3.6966738973246565,
+        "acceptance_rate_within_combination": 24.044679600235156
+      },
+      {
+        "source_flag_combination": "대명사 + 감정·심리",
+        "total_queries_with_combination": 1210,
+        "accepted_queries": 201,
+        "percent_of_accepted": 1.816702819956616,
+        "acceptance_rate_within_combination": 16.611570247933884
+      },
+      {
+        "source_flag_combination": "부정어 + 감정·심리",
+        "total_queries_with_combination": 36,
+        "accepted_queries": 6,
+        "percent_of_accepted": 0.05422993492407809,
+        "acceptance_rate_within_combination": 16.666666666666668
+      },
+      {
+        "source_flag_combination": "대명사 + 부정어 + 감정·심리",
+        "total_queries_with_combination": 359,
+        "accepted_queries": 72,
+        "percent_of_accepted": 0.6507592190889371,
+        "acceptance_rate_within_combination": 20.055710306406684
+      }
+    ],
+    "overlapping_source_flag_rates": [
+      {
+        "source_flag": "pronoun",
+        "accepted": 6311,
+        "percent_of_accepted": 57.040853217642805,
+        "total_with_flag": 49601,
+        "acceptance_rate_with_flag": 12.72353379972178
+      },
+      {
+        "source_flag": "negation",
+        "accepted": 573,
+        "percent_of_accepted": 5.178958785249458,
+        "total_with_flag": 2462,
+        "acceptance_rate_with_flag": 23.273761169780666
+      },
+      {
+        "source_flag": "mental_state",
+        "accepted": 334,
+        "percent_of_accepted": 3.0187997107736804,
+        "total_with_flag": 1952,
+        "acceptance_rate_with_flag": 17.110655737704917
+      }
+    ],
+    "validation_gates": {
+      "changed_and_text_schema_pass": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "max_22_words_pass": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "max_29_roberta_tokens_pass": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "temporal_marker_check_pass": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "literal_grounding_check_pass": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "target_event_preserved_verdict": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "participant_roles_preserved_verdict": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "negation_equivalent_verdict": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "temporal_relationships_preserved_verdict": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "no_sibling_event_import_verdict": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "no_unsupported_visual_details_verdict": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      },
+      "duplicate_guard_pass": {
+        "count": 11064,
+        "percent_of_accepted": 100.0
+      }
+    },
+    "word_budget": {
+      "soft_min": 16,
+      "max": 22,
+      "strict_min": false,
+      "below_soft_min": 10241
+    },
+    "grounding": {
+      "empty": 12,
+      "sibling_used": 373
+    },
+    "limitations": [
+      "source flags describe ORIGINAL wording, not the transformation performed or causal acceptance reason",
+      "object condition and applied transformation labels are absent in audit",
+      "LLM verification booleans are logged judgments, not proof of semantic correctness",
+      "literal grounding permits empty evidence and does not establish new candidate-detail correctness",
+      "word_min was soft in these historical runs; current 14-20-word requirement is not retroactively applied"
+    ]
+  },
+  "val": {
+    "total": 10895,
+    "accepted": 1290,
+    "overall_acceptance_percent": 11.840293712712253,
+    "source_audit": "/home/viglab2/won_woo/experiments/rewrite_val_b128_20260930/audit.jsonl",
+    "source_audit_sha256": "308c7b301a47880cf26f6ead4651bcf5c2c3a29b49032deb3c501a3edbc24af5",
+    "source_run": "/home/viglab2/won_woo/experiments/rewrite_val_b128_20260930/run.json",
+    "recorded_flag_patterns": {
+      "pronoun": "\\b(?:he|she|it|they|him|her|them|his|its|their|hers|theirs)\\b",
+      "negation": "\\b(?:not|no|never|without|neither|nor)\\b|\\b\\w+n['’]t\\b",
+      "mental_state": "\\b(?:upset|angry|happy|sad|afraid|worried|thinks?|believes?|wants?|feels?)\\b"
+    },
+    "exclusive_source_flag_combinations": [
+      {
+        "source_flag_combination": "세 flag 모두 없음",
+        "total_queries_with_combination": 4631,
+        "accepted_queries": 588,
+        "percent_of_accepted": 45.58139534883721,
+        "acceptance_rate_within_combination": 12.697041675664003
+      },
+      {
+        "source_flag_combination": "대명사",
+        "total_queries_with_combination": 5806,
+        "accepted_queries": 617,
+        "percent_of_accepted": 47.82945736434109,
+        "acceptance_rate_within_combination": 10.626937650706166
+      },
+      {
+        "source_flag_combination": "부정어",
+        "total_queries_with_combination": 36,
+        "accepted_queries": 3,
+        "percent_of_accepted": 0.23255813953488372,
+        "acceptance_rate_within_combination": 8.333333333333334
+      },
+      {
+        "source_flag_combination": "감정·심리",
+        "total_queries_with_combination": 51,
+        "accepted_queries": 7,
+        "percent_of_accepted": 0.5426356589147286,
+        "acceptance_rate_within_combination": 13.72549019607843
+      },
+      {
+        "source_flag_combination": "대명사 + 부정어",
+        "total_queries_with_combination": 207,
+        "accepted_queries": 47,
+        "percent_of_accepted": 3.643410852713178,
+        "acceptance_rate_within_combination": 22.705314009661837
+      },
+      {
+        "source_flag_combination": "대명사 + 감정·심리",
+        "total_queries_with_combination": 122,
+        "accepted_queries": 18,
+        "percent_of_accepted": 1.3953488372093024,
+        "acceptance_rate_within_combination": 14.754098360655737
+      },
+      {
+        "source_flag_combination": "부정어 + 감정·심리",
+        "total_queries_with_combination": 2,
+        "accepted_queries": 0,
+        "percent_of_accepted": 0.0,
+        "acceptance_rate_within_combination": 0.0
+      },
+      {
+        "source_flag_combination": "대명사 + 부정어 + 감정·심리",
+        "total_queries_with_combination": 40,
+        "accepted_queries": 10,
+        "percent_of_accepted": 0.7751937984496124,
+        "acceptance_rate_within_combination": 25.0
+      }
+    ],
+    "overlapping_source_flag_rates": [
+      {
+        "source_flag": "pronoun",
+        "accepted": 692,
+        "percent_of_accepted": 53.64341085271318,
+        "total_with_flag": 6175,
+        "acceptance_rate_with_flag": 11.206477732793521
+      },
+      {
+        "source_flag": "negation",
+        "accepted": 60,
+        "percent_of_accepted": 4.651162790697675,
+        "total_with_flag": 285,
+        "acceptance_rate_with_flag": 21.05263157894737
+      },
+      {
+        "source_flag": "mental_state",
+        "accepted": 35,
+        "percent_of_accepted": 2.7131782945736433,
+        "total_with_flag": 215,
+        "acceptance_rate_with_flag": 16.27906976744186
+      }
+    ],
+    "validation_gates": {
+      "changed_and_text_schema_pass": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "max_22_words_pass": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "max_29_roberta_tokens_pass": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "temporal_marker_check_pass": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "literal_grounding_check_pass": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "target_event_preserved_verdict": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "participant_roles_preserved_verdict": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "negation_equivalent_verdict": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "temporal_relationships_preserved_verdict": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "no_sibling_event_import_verdict": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "no_unsupported_visual_details_verdict": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      },
+      "duplicate_guard_pass": {
+        "count": 1290,
+        "percent_of_accepted": 100.0
+      }
+    },
+    "word_budget": {
+      "soft_min": 16,
+      "max": 22,
+      "strict_min": false,
+      "below_soft_min": 1203
+    },
+    "grounding": {
+      "empty": 0,
+      "sibling_used": 37
+    },
+    "limitations": [
+      "source flags describe ORIGINAL wording, not the transformation performed or causal acceptance reason",
+      "object condition and applied transformation labels are absent in audit",
+      "LLM verification booleans are logged judgments, not proof of semantic correctness",
+      "literal grounding permits empty evidence and does not establish new candidate-detail correctness",
+      "word_min was soft in these historical runs; current 14-20-word requirement is not retroactively applied"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "caption": "Ross sits on the couch beside Monica.",
+    "source": "couch",
+    "target": "sofa",
+    "raw": "{\"accepted\":[1], \"reason\":\"'couch' and 'sofa' are synonymous and both refer to the same piece of furniture in the context.\"}",
+    "passed": true
+  },
+  {
+    "caption": "Ross holds a phone in one hand.",
+    "source": "phone",
+    "target": "telephone",
+    "raw": "{\"accepted\":[1],\"reason\":\"'telephone' is a specific type of phone and maintains the exact object and action as the training caption.\"}",
+    "passed": true
+  },
+  {
+    "caption": "Phoebe picks up a drink from the bar.",
+    "source": "bar",
+    "target": "cake",
+    "raw": "{\"accepted\":[],\"reason\":\"The target 'cake' is narrower than 'bar', changing the object being picked up.\"}",
+    "passed": true
+  },
+  {
+    "caption": "Phoebe picks up a drink from the bar.",
+    "source": "picks",
+    "target": "blames",
+    "raw": "{\"accepted\":[],\"reason\":\"The target 'blames' is not a synonym for 'picks' as it changes the action and meaning of the sentence.\"}",
+    "passed": true
+  },
+  {
+    "caption": "Joey sits on the bed beside Rachel.",
+    "source": "bed",
+    "target": "bottom",
+    "raw": "{\"accepted\":[],\"reason\":\"The target 'bottom' is not a valid replacement for 'bed' as it changes the object from a piece of furniture to a part of an object. Additionally, the validation caption does not match the context of the train caption.\"}",
+    "passed": true
+  },
+  {
+    "caption": "Ross carries a cup across the room.",
+    "source": "cup",
+    "target": "mug",
+    "raw": "{\"accepted\":[1], \"reason\":\"Both 'cup' and 'mug' refer to the same type of object in this context, and the action and setting remain consistent.\"}",
+    "passed": false
+  }
+]

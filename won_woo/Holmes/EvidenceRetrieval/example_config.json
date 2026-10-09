@@ -1,0 +1,16 @@
+{
+  "risk_weights": [0.4, 0.2, 0.4],
+  "selection_weights": [0.2, 0.2, 0.2, 0.4, 1.0],
+  "top_m": 4,
+  "neighbors": 2,
+  "evidence_temperature": 0.05,
+  "query_temperature": 0.05,
+  "fusion_temperature": 0.1,
+  "risk_threshold": 0.6,
+  "grounding_threshold": 0.7,
+  "discrimination_threshold": 0.5,
+  "preservation_threshold": 0.95,
+  "improvement_margin": 0.01,
+  "rho": 0.25,
+  "candidates": 3
+}

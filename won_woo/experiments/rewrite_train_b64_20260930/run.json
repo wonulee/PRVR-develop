@@ -1,0 +1,58 @@
+{
+  "caption_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt",
+  "output": "/home/viglab2/won_woo/experiments/rewrite_train_b64_20260930",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "roberta": "../tvr/query_only/roberta-base_tuned_model",
+  "max_tokens": 29,
+  "word_min": 16,
+  "word_max": 22,
+  "strict_word_budget": false,
+  "limit": null,
+  "target_ids": null,
+  "seed": 0,
+  "batch_size": 64,
+  "caption_sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+  "source_sha256": "bf617d935402746c8173977f63c28f52e01ef031aad87ea5362950f8ba0e4a50",
+  "model_revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "prompt_sha256": "ec6197fbfc0e0a52babfe756bd7195a0b4a9bb27c8fee728679dcf43e8b286bb",
+  "protocol": "context-assisted/oracle",
+  "grounding": "target_and_siblings_only",
+  "roberta_files": {
+    "config.json": {
+      "size": 672,
+      "mtime_ns": 1787751608781595967
+    },
+    "merges.txt": {
+      "size": 456318,
+      "mtime_ns": 1787751609917591654
+    },
+    "pytorch_model.bin": {
+      "size": 498861675,
+      "mtime_ns": 1787751609741592322
+    },
+    "special_tokens_map.json": {
+      "size": 957,
+      "mtime_ns": 1787751609745592307
+    },
+    "tokenizer_config.json": {
+      "size": 1339,
+      "mtime_ns": 1787751609745592307
+    },
+    "training_args.bin": {
+      "size": 3951,
+      "mtime_ns": 1787751609741592322
+    },
+    "tvr_mlm_conditions.json": {
+      "size": 751,
+      "mtime_ns": 1787751609945591548
+    },
+    "vocab.json": {
+      "size": 999355,
+      "mtime_ns": 1787751609885591775
+    }
+  },
+  "total": 87174,
+  "accepted": 11064,
+  "fallback": 76110,
+  "clips": 17435
+}

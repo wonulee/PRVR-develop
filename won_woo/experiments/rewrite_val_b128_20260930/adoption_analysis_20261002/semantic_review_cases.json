@@ -1,0 +1,418 @@
+[
+  {
+    "line": 47,
+    "id": "friends_s08e07_seg02_clip_03#enc#1",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "participant_reference",
+    "explanation": "her mother changed to his mother; owner/reference differs.",
+    "original": "The neighbor corrects Ross about her mother not being gone.",
+    "candidate": "The neighbor tells Ross that his mother is still here.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures the core event of the neighbor correcting Ross about his mother not being gone. The negation is preserved through the use of'still here' instead of 'not gone'. No additional unsupported visual details are present."
+    },
+    "grounding": [
+      {
+        "text": "The neighbor corrects Ross about her mother not being gone.",
+        "caption_id": "friends_s08e07_seg02_clip_03#enc#1",
+        "quote": "The neighbor corrects Ross about her mother not being gone."
+      }
+    ],
+    "same_video_captions": {
+      "friends_s08e07_seg02_clip_03#enc#0": "Rachel is talking and gestures to herself by placing her hand on her chest.",
+      "friends_s08e07_seg02_clip_03#enc#1": "The neighbor corrects Ross about her mother not being gone.",
+      "friends_s08e07_seg02_clip_03#enc#2": "Ross is leaning against the door frame talking, and raises his right fist in a gesture.",
+      "friends_s08e07_seg02_clip_03#enc#3": "Rachel asks the neighbor what size apartment her mother lives in.",
+      "friends_s08e07_seg02_clip_03#enc#4": "Rachel is talking and raises her right hand and rubs her right eye."
+    }
+  },
+  {
+    "line": 639,
+    "id": "s01e10_seg02_clip_14#enc#3",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "clothing_attribute",
+    "explanation": "A jean shirt changed to jeans trousers; clothing attribute differs.",
+    "original": "Penny puts both her hands to her chest while listening to the man in a jean shirt.",
+    "candidate": "Penny places her hands on her chest while hearing the man in jeans speak.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures the core action (Penny putting her hands to her chest) and the context (listening to a man in a jean shirt). The paraphrase is faithful and harmless, maintaining the original meaning without importing unsupported details."
+    },
+    "grounding": [
+      {
+        "text": "Penny puts both her hands to her chest while listening to the man in a jean shirt.",
+        "caption_id": "s01e10_seg02_clip_14#enc#3",
+        "quote": "Penny puts both her hands to her chest while listening to the man in a jean shirt."
+      }
+    ],
+    "same_video_captions": {
+      "s01e10_seg02_clip_14#enc#0": "Lenard and Penny turn and walk to the door.",
+      "s01e10_seg02_clip_14#enc#1": "Sheldon approaches and interrupts Toby's dramatic speech about addiction.",
+      "s01e10_seg02_clip_14#enc#2": "Lenard touches Penny on the shoulder as the walk.",
+      "s01e10_seg02_clip_14#enc#3": "Penny puts both her hands to her chest while listening to the man in a jean shirt.",
+      "s01e10_seg02_clip_14#enc#4": "Penny invites Leonard to her apartment for some java."
+    }
+  },
+  {
+    "line": 1673,
+    "id": "castle_s06e19_seg02_clip_03#enc#2",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "transferred_object",
+    "explanation": "Hands a photo changed to giving the folder with a photo inside.",
+    "original": "Beckett opens a black folder and hands Jamie Burman a photo.",
+    "candidate": "Beckett opens a black folder and gives it to Jamie Burman with a photo inside.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately describes the target event with the correct participants and objects. The negation is preserved as both the target and candidate describe the same action without negation. There are no unsupported visual details added."
+    },
+    "grounding": [
+      {
+        "text": "opens a black folder and hands Jamie Burman a photo",
+        "caption_id": "castle_s06e19_seg02_clip_03#enc#2",
+        "quote": "Beckett opens a black folder and hands Jamie Burman a photo."
+      }
+    ],
+    "same_video_captions": {
+      "castle_s06e19_seg02_clip_03#enc#0": "Castle and Beckett walk into the office when Berman is making a metaphorical speech about murder.",
+      "castle_s06e19_seg02_clip_03#enc#1": "Castle and Beckett walk up to the reception desk talking about their wedding.",
+      "castle_s06e19_seg02_clip_03#enc#2": "Beckett opens a black folder and hands Jamie Burman a photo.",
+      "castle_s06e19_seg02_clip_03#enc#3": "Jamie Burman picks up a duffle bag and slides it across the table to  Neal.",
+      "castle_s06e19_seg02_clip_03#enc#4": "Neal stands up and unzips duffle bag, and empties it full of cash on the table."
+    }
+  },
+  {
+    "line": 3439,
+    "id": "house_s06e11_seg02_clip_16#enc#3",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "head_action",
+    "explanation": "Shakes head changed to nods head; different visible movements.",
+    "original": "A bald man in a black coat looks down and shakes his head.",
+    "candidate": "A bald man in a black coat lowers his eyes and nods his head in disagreement.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate maintains the key elements of the target: a bald man in a black coat looking down and shaking his head. The action swap from'shakes' to 'nods' does not change the core meaning, and both are affirmative states. The context and roles of participants are consistent."
+    },
+    "grounding": [
+      {
+        "text": "A bald man in a black coat looks down and shakes his head.",
+        "caption_id": "house_s06e11_seg02_clip_16#enc#3",
+        "quote": "A bald man in a black coat looks down and shakes his head."
+      }
+    ],
+    "same_video_captions": {
+      "house_s06e11_seg02_clip_16#enc#0": "Dr Cuddy turns and looks at a female patient as he hand is flat on the door.",
+      "house_s06e11_seg02_clip_16#enc#1": "Valerie hugs her husband while she's in a hospital bed.",
+      "house_s06e11_seg02_clip_16#enc#2": "Cuddy walks away from Valerie and Thirteen but doesn't leave the room.",
+      "house_s06e11_seg02_clip_16#enc#3": "A bald man in a black coat looks down and shakes his head.",
+      "house_s06e11_seg02_clip_16#enc#4": "Cuddy has her hand on the door but turns around."
+    }
+  },
+  {
+    "line": 3721,
+    "id": "s06e18_seg02_clip_16#enc#0",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "action_agent",
+    "explanation": "Getting Sheldon to kiss Amy changed to Amy trying to kiss Sheldon.",
+    "original": "Amy is lying on the couch dressed as a Disney Princess and is trying to get Sheldon to kiss her and he's ignoring her.",
+    "candidate": "Amy lying on the couch as a Disney Princess tries to kiss Sheldon, who ignores her.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures the key elements of the target, including Amy's position, her costume, her attempt to get Sheldon to kiss her, and Sheldon's response. The negation is preserved through the description of Sheldon ignoring her. There are no unsupported visual details added."
+    },
+    "grounding": [
+      {
+        "text": "Amy is lying on the couch dressed as a Disney Princess and is trying to get Sheldon to kiss her and he's ignoring her.",
+        "caption_id": "s06e18_seg02_clip_16#enc#0",
+        "quote": "Amy is lying on the couch dressed as a Disney Princess and is trying to get Sheldon to kiss her and he's ignoring her."
+      }
+    ],
+    "same_video_captions": {
+      "s06e18_seg02_clip_16#enc#0": "Amy is lying on the couch dressed as a Disney Princess and is trying to get Sheldon to kiss her and he's ignoring her.",
+      "s06e18_seg02_clip_16#enc#1": "Howard throws a blue jacket over the back of a chair.",
+      "s06e18_seg02_clip_16#enc#2": "Bernadette walks into the room dressed as Cinderella.",
+      "s06e18_seg02_clip_16#enc#3": "Leonard walks into the apartment, sees Penny dressed as a Disney Princess and immediately starts taking off his clothes.",
+      "s06e18_seg02_clip_16#enc#4": "Howard rips his shirt off of his chest when Bernadette walks into the room."
+    }
+  },
+  {
+    "line": 6797,
+    "id": "s06e24_seg02_clip_05#enc#1",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "head_action",
+    "explanation": "Penny shakes her head changed to Penny nods her head.",
+    "original": "Penny shakes her head after Raj mentions she's scary.",
+    "candidate": "Penny nods her head in disagreement after Raj comments that she is intimidating.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures the essence of the target event, with Penny shaking her head in response to Raj's comment about her being scary. The negation is preserved through the use of 'disagreement' instead of'shakes her head after.' The temporal relationship and participants' roles are correctly maintained."
+    },
+    "grounding": [
+      {
+        "text": "Penny shakes her head after Raj mentions she's scary.",
+        "caption_id": "s06e24_seg02_clip_05#enc#1",
+        "quote": "Penny shakes her head after Raj mentions she's scary."
+      }
+    ],
+    "same_video_captions": {
+      "s06e24_seg02_clip_05#enc#0": "In a quiet moment among all the friends, Sheldon jerks around and holds his food up.",
+      "s06e24_seg02_clip_05#enc#1": "Penny shakes her head after Raj mentions she's scary.",
+      "s06e24_seg02_clip_05#enc#2": "Raj is serving food to Lucy and Amy who are sitting at the table talking.",
+      "s06e24_seg02_clip_05#enc#3": "Penny questions why Raj didn't accept her idea.",
+      "s06e24_seg02_clip_05#enc#4": "Amy leans forward and puts her food on the coffee table then says something that confuses Raj."
+    }
+  },
+  {
+    "line": 8160,
+    "id": "s10e12_seg02_clip_06#enc#4",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "action_agent",
+    "explanation": "Sheldon lists people changed to Amy listing them in coordinated clause.",
+    "original": "Amy mentions to Sheldon that he is not alone and he lists off the people that are close to him.",
+    "candidate": "Amy tells Sheldon he is not alone and lists the people around him.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures the core event of Amy mentioning to Sheldon that he is not alone and him listing off the people close to him. The negation is preserved as an equivalent affirmative statement. The temporal relationship and roles of participants are consistent."
+    },
+    "grounding": [
+      {
+        "text": "Amy mentions to Sheldon that he is not alone and he lists off the people that are close to him.",
+        "caption_id": "s10e12_seg02_clip_06#enc#4",
+        "quote": "Amy mentions to Sheldon that he is not alone and he lists off the people that are close to him."
+      }
+    ],
+    "same_video_captions": {
+      "s10e12_seg02_clip_06#enc#0": "Sheldon looks at Amy bewildered as she drives.",
+      "s10e12_seg02_clip_06#enc#1": "Amy and Sheldon look at each other as Amy drives.",
+      "s10e12_seg02_clip_06#enc#2": "Amy is driving as she turns to tell Sheldon that she advised his mother they would live together.",
+      "s10e12_seg02_clip_06#enc#3": "Amy is driving as Sheldon is in the passenger seat.",
+      "s10e12_seg02_clip_06#enc#4": "Amy mentions to Sheldon that he is not alone and he lists off the people that are close to him."
+    }
+  },
+  {
+    "line": 10308,
+    "id": "s01e04_seg02_clip_03#enc#2",
+    "review_status": "confirmed_caption_meaning_change",
+    "category": "spatial_relation",
+    "explanation": "Behind Penny changed to alongside Penny.",
+    "original": "Sheldon pushes a green grocery cart behind Penny at the market.",
+    "candidate": "Sheldon pushes a green grocery cart alongside Penny at the market.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate maintains the key elements of the target: Sheldon pushing a green grocery cart and it being behind Penny at the market. The only difference is the use of 'alongside' instead of 'behind', which is a valid paraphrase."
+    },
+    "grounding": [
+      {
+        "text": "Sheldon pushes a green grocery cart behind Penny at the market.",
+        "caption_id": "s01e04_seg02_clip_03#enc#2",
+        "quote": "Sheldon pushes a green grocery cart behind Penny at the market."
+      }
+    ],
+    "same_video_captions": {
+      "s01e04_seg02_clip_03#enc#0": "Sheldon thanks Penny and another woman at the supermaket.",
+      "s01e04_seg02_clip_03#enc#1": "Penny blinks her eyelashes several times while driving down the road with Sheldon.",
+      "s01e04_seg02_clip_03#enc#2": "Sheldon pushes a green grocery cart behind Penny at the market.",
+      "s01e04_seg02_clip_03#enc#3": "Penny is putting food inside a plastic bag in the produce section of the market.",
+      "s01e04_seg02_clip_03#enc#4": "Sheldon lets Penny know she is tailgating the car in front of her."
+    }
+  },
+  {
+    "line": 5,
+    "id": "friends_s01e03_seg02_clip_19#enc#4",
+    "review_status": "needs_visual_or_event_review",
+    "category": "unsupported_visible_state",
+    "explanation": "Upset changed to looks sad; no explicit expression evidence; breakup causation also altered.",
+    "original": "Joey is upset that Monica's relationship just ended.",
+    "candidate": "Joey looks sad because Monica broke up with her boyfriend.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures Joey being upset about Monica's relationship ending, which is equivalent to the target statement through rephrasing. There are no unsupported visual details added."
+    },
+    "grounding": [
+      {
+        "text": "Joey is upset that Monica's relationship just ended.",
+        "caption_id": "friends_s01e03_seg02_clip_19#enc#4",
+        "quote": "Joey is upset that Monica's relationship just ended."
+      }
+    ],
+    "same_video_captions": {
+      "friends_s01e03_seg02_clip_19#enc#0": "Phoebe puts one of her ponytails in her mouth.",
+      "friends_s01e03_seg02_clip_19#enc#1": "Joey touches Chandler's right shoulder with his hand.",
+      "friends_s01e03_seg02_clip_19#enc#2": "Ross gets off of the sofa and walks over to Monica.",
+      "friends_s01e03_seg02_clip_19#enc#3": "Rachel tells Monica that they are wearing the same clothes.",
+      "friends_s01e03_seg02_clip_19#enc#4": "Joey is upset that Monica's relationship just ended."
+    }
+  },
+  {
+    "line": 37,
+    "id": "castle_s06e13_seg02_clip_26#enc#1",
+    "review_status": "needs_visual_or_event_review",
+    "category": "target_vs_sibling",
+    "explanation": "On-face changed to away-face, but a sibling caption supports away-face; target wording ambiguous.",
+    "original": "Alexis combed her hair on her face using her fingers.",
+    "candidate": "Alexis combed her hair away from her face with her fingers.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate maintains the same action (combing hair), the same actor (Alexis), the same object (hair), and the same manner (using fingers). The phrase 'away from her face' in the candidate is an equivalent affirmative description of the action compared to 'on her face' in the target, thus preserving the negation meaning."
+    },
+    "grounding": [
+      {
+        "text": "combed her hair on her face using her fingers",
+        "caption_id": "castle_s06e13_seg02_clip_26#enc#1",
+        "quote": "Alexis combed her hair on her face using her fingers."
+      }
+    ],
+    "same_video_captions": {
+      "castle_s06e13_seg02_clip_26#enc#0": "Alexis reaches up and brushes her hair back from her face as she stands next to Castle.",
+      "castle_s06e13_seg02_clip_26#enc#1": "Alexis combed her hair on her face using her fingers.",
+      "castle_s06e13_seg02_clip_26#enc#2": "Mandy runs up to Zach and gives him a hug in the hallway of the police station.",
+      "castle_s06e13_seg02_clip_26#enc#3": "Castle steps forward and grabs a newspaper from Ryan's hands.",
+      "castle_s06e13_seg02_clip_26#enc#4": "Mandy walks towards Zach and she hugged him."
+    }
+  },
+  {
+    "line": 305,
+    "id": "friends_s10e08_seg02_clip_15#enc#4",
+    "review_status": "needs_visual_or_event_review",
+    "category": "ambiguous_door_state",
+    "explanation": "Cracked door changed to broken door; cracked may mean ajar, but source alone is ambiguous.",
+    "original": "Phoebe hands a trophy to Monica through the cracked door. ",
+    "candidate": "Phoebe gives a trophy to Monica through a broken door.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures the key elements of the target: Phoebe handing a trophy to Monica through a damaged door. The candidate uses 'broken' instead of 'cracked', which is a valid negation equivalent. There are no unsupported visual details added."
+    },
+    "grounding": [
+      {
+        "text": "through the cracked door",
+        "caption_id": "friends_s10e08_seg02_clip_15#enc#4",
+        "quote": "Phoebe hands a trophy to Monica through the cracked door."
+      }
+    ],
+    "same_video_captions": {
+      "friends_s10e08_seg02_clip_15#enc#0": "Monica turns and sets the trophy on the counter. ",
+      "friends_s10e08_seg02_clip_15#enc#1": "Monica puts the trophy right down on the counter.",
+      "friends_s10e08_seg02_clip_15#enc#2": "Monica picks up the trophy that Phoebe hands her through the door.",
+      "friends_s10e08_seg02_clip_15#enc#3": "Chandler wags his finger at Joey and Ross. ",
+      "friends_s10e08_seg02_clip_15#enc#4": "Phoebe hands a trophy to Monica through the cracked door. "
+    }
+  },
+  {
+    "line": 453,
+    "id": "s07e15_seg02_clip_07#enc#2",
+    "review_status": "needs_visual_or_event_review",
+    "category": "object_substitution",
+    "explanation": "Chocolate changed to Cinnamon (dog); verifier assumes original typo, requiring source/video review.",
+    "original": "Penny tells the vet about the size of chocolate after she asks.",
+    "candidate": "Penny informs the vet about the size of Cinnamon after asking.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate maintains the core event (Penny telling the vet about the size), the participants (Penny and the vet), and the temporal relationship (after she asks). The only change is the substitution of 'chocolate' with 'Cinnamon', which is likely a typo or misinterpretation since 'Cinnamon' is mentioned as the dog's name in the context."
+    },
+    "grounding": [
+      {
+        "text": "Penny tells the vet about the size of chocolate after she asks.",
+        "caption_id": "s07e15_seg02_clip_07#enc#2",
+        "quote": "Penny tells the vet about the size of chocolate after she asks."
+      }
+    ],
+    "same_video_captions": {
+      "s07e15_seg02_clip_07#enc#0": "The vet picks up Cinnamon and heads towards the door with her.",
+      "s07e15_seg02_clip_07#enc#1": "Leonard and Penny are standing beside each other as they speak to the vet.",
+      "s07e15_seg02_clip_07#enc#2": "Penny tells the vet about the size of chocolate after she asks.",
+      "s07e15_seg02_clip_07#enc#3": "Raj walks into the vet room and goes to his dog, Cinnamon.",
+      "s07e15_seg02_clip_07#enc#4": "Leonard points at Penny when the vet scoffs at them."
+    }
+  },
+  {
+    "line": 6199,
+    "id": "house_s04e05_seg02_clip_26#enc#3",
+    "review_status": "needs_visual_or_event_review",
+    "category": "sibling_event_import",
+    "explanation": "Another caption walking-out event included; matching target event/time not established.",
+    "original": "Dr. House is very disappointed with his team.",
+    "candidate": "Dr. House looks disappointed as he walks out of the auditorium.",
+    "verdict": {
+      "target_event_preserved": true,
+      "participant_roles_preserved": true,
+      "negation_equivalent": true,
+      "temporal_relationships_preserved": true,
+      "sibling_event_imported": false,
+      "unsupported_visual_details": [],
+      "reason": "The candidate accurately captures Dr. House's disappointment as described in the target, without introducing unsupported details or swapping events."
+    },
+    "grounding": [
+      {
+        "text": "walks out of the auditorium",
+        "caption_id": "house_s04e05_seg02_clip_26#enc#2",
+        "quote": "House walks out of the auditorium and Foreman follows behind."
+      }
+    ],
+    "same_video_captions": {
+      "house_s04e05_seg02_clip_26#enc#0": "House points his cane at a couple doctors in the auditorium.",
+      "house_s04e05_seg02_clip_26#enc#1": "Two of the doctors high five while they are in auditorium.",
+      "house_s04e05_seg02_clip_26#enc#2": "House walks out of the auditorium and Foreman follows behind.",
+      "house_s04e05_seg02_clip_26#enc#3": "Dr. House is very disappointed with his team.",
+      "house_s04e05_seg02_clip_26#enc#4": "Dr. House pointed two doctor at the back with his cane."
+    }
+  }
+]

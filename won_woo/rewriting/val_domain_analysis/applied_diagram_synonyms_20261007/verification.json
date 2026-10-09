@@ -1,0 +1,34 @@
+{
+  "caption_count": 87174,
+  "changed_caption_count": 1037,
+  "unchanged_caption_count": 86137,
+  "applied_object_pairs": 633,
+  "applied_action_pairs": 507,
+  "replacement_occurrences": 1158,
+  "ids_order_separators_endings_preserved": true,
+  "all_changed_captions_within_budget": true,
+  "all_changes_reconstructed_from_approved_pairs": true,
+  "val_unchanged": true,
+  "backup_verified": true,
+  "file_mode_preserved": true,
+  "train_sha256": "444c0f75a83c79f170616bf30f762c15e69bc6c2a7569b5befeac0e2068698f5",
+  "val_sha256": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+  "source_directory": "/home/viglab2/won_woo/diagram_synonym_pairs",
+  "examples": [
+    {
+      "id": "grey_s03e08_seg02_clip_02#enc#3",
+      "before": "Callie is talking to Ronnie and Jerry when Bailey and George walk in Mr. O'Malley's room.",
+      "after": "Callie is speaking to Ronnie and Jerry when Bailey and George walk in Mr. O'Malley's room."
+    },
+    {
+      "id": "met_s06e04_seg02_clip_08#enc#3",
+      "before": "Barney is standing with a drink as Ted, Lily,and Marshall are seated at a table.",
+      "after": "Barney is standing with a beverage as Ted, Lily,and Marshall are seated at a table."
+    },
+    {
+      "id": "friends_s09e23-24_seg02_clip_37#enc#2",
+      "before": "While sitting on the bed, Rachel uses the remote to turn off the TV.",
+      "after": "While sitting on the bed, Rachel uses the remote to turn off the television."
+    }
+  ]
+}

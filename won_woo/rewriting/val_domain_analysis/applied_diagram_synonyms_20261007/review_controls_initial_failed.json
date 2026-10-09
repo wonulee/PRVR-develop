@@ -1,0 +1,44 @@
+[
+  {
+    "caption": "Ross sits on the couch beside Monica.",
+    "source": "couch",
+    "target": "sofa",
+    "raw": "{\"accepted\":[1]}",
+    "passed": true
+  },
+  {
+    "caption": "Ross holds a phone in one hand.",
+    "source": "phone",
+    "target": "telephone",
+    "raw": "{\"accepted\":[]}",
+    "passed": false
+  },
+  {
+    "caption": "Phoebe picks up a drink from the bar.",
+    "source": "bar",
+    "target": "cake",
+    "raw": "{\"accepted\":[]}",
+    "passed": true
+  },
+  {
+    "caption": "Phoebe picks up a drink from the bar.",
+    "source": "picks",
+    "target": "blames",
+    "raw": "{\"accepted\":[]}",
+    "passed": true
+  },
+  {
+    "caption": "Joey sits on the bed beside Rachel.",
+    "source": "bed",
+    "target": "bottom",
+    "raw": "{\"accepted\":[]}",
+    "passed": true
+  },
+  {
+    "caption": "Ross carries a cup across the room.",
+    "source": "cup",
+    "target": "mug",
+    "raw": "{\"accepted\":[1]}",
+    "passed": false
+  }
+]

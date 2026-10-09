@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "csv_file": "action_A_train.csv",
+      "rows": 1856,
+      "pairs": 0,
+      "issues": {
+        "INVALID_SOURCE_IN_REGION": 1
+      }
+    },
+    {
+      "csv_file": "action_B_train.csv",
+      "rows": 1178839,
+      "pairs": 1156554,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_B_val.csv",
+      "rows": 255445,
+      "pairs": 252819,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_C_val.csv",
+      "rows": 349,
+      "pairs": 0,
+      "issues": {
+        "INVALID_SOURCE_IN_REGION": 245
+      }
+    },
+    {
+      "csv_file": "action_EMPTY_train.csv",
+      "rows": 1426,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_EMPTY_val.csv",
+      "rows": 52,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_UNCLASSIFIED_train.csv",
+      "rows": 1,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_A_train.csv",
+      "rows": 7058,
+      "pairs": 0,
+      "issues": {
+        "INVALID_SOURCE_IN_REGION": 16
+      }
+    },
+    {
+      "csv_file": "object_B_train.csv",
+      "rows": 369320,
+      "pairs": 313016,
+      "issues": {
+        "INVALID_SOURCE_IN_REGION": 1
+      }
+    },
+    {
+      "csv_file": "object_B_val.csv",
+      "rows": 62706,
+      "pairs": 56942,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_C_val.csv",
+      "rows": 743,
+      "pairs": 0,
+      "issues": {
+        "INVALID_SOURCE_IN_REGION": 21
+      }
+    },
+    {
+      "csv_file": "object_EMPTY_train.csv",
+      "rows": 5906,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_EMPTY_val.csv",
+      "rows": 512,
+      "pairs": 0,
+      "issues": {}
+    }
+  ],
+  "rows_checked": 1884213,
+  "pairs_checked": 1779331,
+  "query_aspect_records_checked": 196138,
+  "source_expression_groups_checked": 408701,
+  "findings": {
+    "INVALID_SOURCE_IN_REGION": 284
+  },
+  "rejected_source_terms": 285,
+  "rejected_reasons": {
+    "SOURCE_NOT_OBSERVED": 18,
+    "UNSUPPORTED_SOURCE_POS": 1,
+    "NONLEXICAL_LEMMA": 266
+  },
+  "morphology_review_groups": 343,
+  "catalog_classification_errors": 0,
+  "method": "Original extraction raw/POS -> independently recomputed lemmas -> same-POS WordNet synsets/direct lemma; also check observed token vocabulary and all candidate witnesses",
+  "limitations": "No word-sense disambiguation, video grounding or manual POS correction; surface/lemma sense differences are exported for review",
+  "wordnet_version": "3.0",
+  "seed": 2026,
+  "source_inputs_sha256": {
+    "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_domain_analysis.csv": "c2a6990fbaa74d80b4138e80ae0c7eda0ca18313a72cc962fdfc86de2df87a9a",
+    "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c"
+  },
+  "audit_script_sha256": "52a0289a4c1f6f627df37274b07a8e7497396c2af568dd24f3b632f41fae59d5"
+}

@@ -1,0 +1,101 @@
+{
+  "status": "PASS",
+  "llm_used": false,
+  "outside_dictionary_terms": 0,
+  "csv_columns": 37,
+  "all_original_dictionary_entries_preserved": true,
+  "all_whitelisted_validation_entries_preserved": true,
+  "aspect_transfers": 0,
+  "generated_surface_forms": 0,
+  "counts": {
+    "dictionary_backed_source_rows": 1485917,
+    "rows": 1494233,
+    "pairs": 1379891
+  },
+  "files": {
+    "object_A_train.csv": {
+      "rows": 7395,
+      "pairs": 0,
+      "sha256": "7e1a98ad6bc16bef4b2dd4c3c32a1f6c875b59c34ddbdc1445cc713d45270080"
+    },
+    "object_B_train.csv": {
+      "rows": 328432,
+      "pairs": 264466,
+      "sha256": "fce74403c5df8b94347a14eaf9472c135a7fa1cc69e213c6b3f527afc02fc6dc"
+    },
+    "object_B_val.csv": {
+      "rows": 53675,
+      "pairs": 47453,
+      "sha256": "c78f975c7790bb1c9dfa7d48c8918175c9e4c4787ee69a2de58a31798c02b816"
+    },
+    "object_C_val.csv": {
+      "rows": 0,
+      "pairs": 0,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6"
+    },
+    "object_EMPTY_train.csv": {
+      "rows": 5906,
+      "pairs": 0,
+      "sha256": "e81a91e3550a96ca720557f5de33893882d54c2cdb678c15d961ecf1229f9127"
+    },
+    "object_EMPTY_val.csv": {
+      "rows": 746,
+      "pairs": 0,
+      "sha256": "fbd2218731be99914e281b48d9a9b04adc35fa4693f2ef0d1ac3e1eb7a5cbef7"
+    },
+    "object_UNCLASSIFIED_train.csv": {
+      "rows": 20,
+      "pairs": 0,
+      "sha256": "0eaadcec18a68ec14c7d7c47c26bddd005e046fbc50f0a7bf7c337c6c1e90531"
+    },
+    "object_UNCLASSIFIED_val.csv": {
+      "rows": 0,
+      "pairs": 0,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6"
+    },
+    "action_A_train.csv": {
+      "rows": 1968,
+      "pairs": 0,
+      "sha256": "f43e778f35a24cd787d1fd50d647cf26472c370b163365ef680e42e7ebe575f3"
+    },
+    "action_B_train.csv": {
+      "rows": 945829,
+      "pairs": 922119,
+      "sha256": "1d5ffe124f3f8375126957e01d2b946c6a397e24ae4b8315ae18d6bab044d8cf"
+    },
+    "action_B_val.csv": {
+      "rows": 148579,
+      "pairs": 145853,
+      "sha256": "61d2a7d26a8a464cbeaf1d263008ccf934e48dd611147f58241ecea7449a6914"
+    },
+    "action_C_val.csv": {
+      "rows": 0,
+      "pairs": 0,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6"
+    },
+    "action_EMPTY_train.csv": {
+      "rows": 1426,
+      "pairs": 0,
+      "sha256": "ba1fbf0e0bd5b7ab215a07fa84c229a7b796bba22d6bc8b71c110c40d49fb669"
+    },
+    "action_EMPTY_val.csv": {
+      "rows": 238,
+      "pairs": 0,
+      "sha256": "64895261e02306ba6ed410f5bd471e469069ba4014b916c8cc748b9549ce029a"
+    },
+    "action_UNCLASSIFIED_train.csv": {
+      "rows": 19,
+      "pairs": 0,
+      "sha256": "a583222b1ff58d1cc7fb9ff9f9a43c465df9ba61a787b4e1240b709d49ce764a"
+    },
+    "action_UNCLASSIFIED_val.csv": {
+      "rows": 0,
+      "pairs": 0,
+      "sha256": "8c9f8e7ef41ff57aca29aa580e878cc9d93b2498df778495f96d0972267312f6"
+    }
+  },
+  "dictionary_sha256": {
+    "object": "bc191f36afc520c42b36012c7b8e66cd0969f763213dd2891614aab4e22fb96a",
+    "action": "773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67"
+  }
+}

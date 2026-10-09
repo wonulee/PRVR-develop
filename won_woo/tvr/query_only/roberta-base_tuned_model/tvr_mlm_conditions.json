@@ -1,0 +1,21 @@
+{
+  "initial_model": "roberta-base",
+  "objective": "masked_language_modeling",
+  "epochs": 1.0,
+  "mlm_probability": 0.15,
+  "max_length_including_special_tokens": 32,
+  "per_device_batch_size": 4,
+  "gradient_accumulation_steps": 1,
+  "learning_rate": 5e-05,
+  "weight_decay": 0.0,
+  "warmup_steps": 0,
+  "max_grad_norm": 1.0,
+  "seed": 42,
+  "mode": "query_only",
+  "caption_file": "/mnt/hdd/sunjaeyoon/won_woo/GMMFormer_v2/tvr/TextData/tvrtrain.caption.txt",
+  "caption_file_sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+  "number_of_training_queries": 87174,
+  "lowercase": false,
+  "mask_replacement_policy": "80% mask, 10% random, 10% unchanged",
+  "downstream_projection_transformer_attention_included": false
+}

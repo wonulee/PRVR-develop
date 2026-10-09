@@ -1,0 +1,35 @@
+{
+  "formula": "|Train intersection Val| / |Train union Val| = B / (A+B+C)",
+  "unit": {
+    "lemma": "Distinct extracted valid lemma, separately for Object and Action",
+    "selected_wordnet_synset": "Distinct selected same-POS WordNet synset; not lemma count"
+  },
+  "selected_synset_missing_lemma_counts": {
+    "object_train": 912,
+    "object_validation": 186,
+    "action_train": 383,
+    "action_validation": 74
+  },
+  "original_WordNet_coverage_regions": {
+    "object": {
+      "train_A": 2875,
+      "train_B": 2991,
+      "validation_B": 2209,
+      "validation_C": 322
+    },
+    "action": {
+      "train_A": 882,
+      "train_B": 1595,
+      "validation_B": 1006,
+      "validation_C": 81
+    }
+  },
+  "sources_sha256": {
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_region_audit/context_review/final_term_regions.csv": "5810684b432d69c87efc3c30424f29ea413491c7905e857bda66d79235818a5f",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_region_audit/context_review/final_region_summary.csv": "966080cf2aadd9c6b7a626f5afb61896b299d6e2beac94450400c62ca940629f"
+  },
+  "script_sha256": "9a6377885a3f7ffe5915f9ec255d4b55fd9ac29b58b4cff473699db48af65880",
+  "csv_sha256": "7b8b0aa474643d2a62ed2688f3bd437746c7668f1b26d5e949ae8ef134052813",
+  "verification": "Disjoint A/B/C partitions, input summary reconciliation, exported intersection and union recomputation passed",
+  "scope": "Vocabulary overlap; not query-ID overlap, literal full-caption overlap, frequency weighting, or retrieval performance"
+}

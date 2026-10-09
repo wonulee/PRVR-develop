@@ -1,0 +1,83 @@
+{
+  "train_captions": 87174,
+  "validation_captions": 10895,
+  "val_action_pool_size": 879,
+  "val_object_pool_size": 1997,
+  "decisions": {
+    "KEEP": 74126,
+    "REWRITE": 13031,
+    "REVIEW": 17
+  },
+  "rewrite_reasons": {
+    "action_and_object_ood": 807,
+    "action_ood": 3420,
+    "object_ood": 8804
+  },
+  "rewriting_percentage": 14.9483,
+  "unique_ood_actions": 1657,
+  "unique_ood_objects": 3896,
+  "extraction_flags": {
+    "empty_action": 1426,
+    "empty_object": 5906,
+    "invalid_action_pos": 1
+  },
+  "validation_dictionary_coverage": {
+    "action": 0,
+    "object": 0
+  },
+  "method": {
+    "dictionary_only": true,
+    "llm_used": false,
+    "train_terms": "Supplied dictionaries; original term/POS mappings preserved",
+    "validation_terms": "Supplied entries when available; otherwise exact surface AND Penn POS pairs already in the same supplied aspect dictionary; no new words, forms or aspect transfers",
+    "action_tags": [
+      "VB",
+      "VBD",
+      "VBG",
+      "VBN",
+      "VBP",
+      "VBZ"
+    ],
+    "object_tags": [
+      "NN",
+      "NNS"
+    ],
+    "validation_stopword_filter": false,
+    "normalization": "Unicode casefold + spaCy rule lemmatizer, forced VERB/NOUN from supplied POS; NN uses Number=Sing",
+    "reference_domain": "Validation lemmas only, separately for actions and objects",
+    "candidate_rule": "Any normalized action OR object outside its validation pool",
+    "empty_rule": "Empty categories are flagged, never counted as OOD; both empty => REVIEW",
+    "invalid_pos_rule": "Preserve and flag unsupported POS; exclude from lemma membership; REVIEW unless other terms are OOD",
+    "semantic_scope": "Lexical vocabulary coverage, not a semantic OOD or rewrite-feasibility guarantee",
+    "limitations": [
+      "Dictionaries cover Train IDs only; restricted Val vocabulary cannot measure Val words outside the supplied dictionaries.",
+      "POS and rule-based lemmas can be wrong or ambiguous; raw forms remain in every row.",
+      "Individual terms do not encode phrasal verbs, action-object relations, or temporal alignment.",
+      "No automatic replacement or LLM rewrite has been performed."
+    ],
+    "spacy_version": "3.7.5",
+    "model": "en_core_web_md",
+    "model_version": "3.7.1",
+    "seed": 2026,
+    "n_process": 1,
+    "output_order": "Original caption order; pools alphabetical; frequency descending"
+  },
+  "inputs": {
+    "tvrtrain.caption.txt": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/tvrtrain.caption.original.txt",
+      "sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d"
+    },
+    "tvrval.caption.txt": {
+      "path": "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt",
+      "sha256": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1"
+    },
+    "tvr_id_action_dict.json": {
+      "path": "/home/viglab2/won_woo/tvr/TextData/tvr_id_action_dict.json",
+      "sha256": "773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67"
+    },
+    "tvr_id_object_dict.json": {
+      "path": "/home/viglab2/won_woo/tvr/TextData/tvr_id_object_dict.json",
+      "sha256": "bc191f36afc520c42b36012c7b8e66cd0969f763213dd2891614aab4e22fb96a"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+2026-10-04 12:08:45,950 - INFO - Partially Relevant Video Retrieval Training: tvr
+2026-10-04 12:08:45,952 - INFO - set seed: 0
+2026-10-04 12:08:45,999 - INFO - used gpu: 1
+2026-10-04 12:08:45,999 - INFO - Hyper Parameter ......
+2026-10-04 12:08:45,999 - INFO - {'model_name': 'Holmes', 'dataset_name': 'tvr', 'seed': 0, 'root': '/home/viglab2/won_woo', 'data_root': '/home/viglab2/won_woo', 'visual_feature': 'i3d_resnet', 'collection': 'tvr', 'map_size': 32, 'clip_scale_w': 0.5, 'frame_scale_w': 0.5, 'model_root': '/home/viglab2/won_woo/Holmes_ICML/tvr-multi/tvr/20261004-120845', 'ckpt_path': '/home/viglab2/won_woo/Holmes_ICML/tvr-multi/tvr/20261004-120845/ckpt', 'sft_factor': 0.09, 'num_workers': 32, 'no_core_driver': False, 'no_pin_memory': False, 'batchsize': 128, 'visual_feat_dim': 3072, 'lr': 0.0003, 'lr_warmup_proportion': 0.01, 'wd': 0.01, 'margin': 0.1, 'n_epoch': 150, 'max_es_cnt': 20, 'hard_negative_start_epoch': 20, 'hard_pool_size': 20, 'use_hard_negative': False, 'loss_factor': [0.05, 0.04, 8e-05, 0.1, 0.01, 0.0], 'neg_factor': [0.15, 32, 1], 'eval_query_bsz': 50, 'eval_context_bsz': 100, 'max_desc_l': 30, 'max_ctx_l': 128, 'sub_feat_size': 768, 'q_feat_size': 768, 'max_position_embeddings': 300, 'hidden_size': 384, 'n_heads': 4, 'input_drop': 0.2, 'drop': 0.2, 'initializer_range': 0.02, 'pin_memory': True, 'pot_scale': 0.1, 'pot_prompt_ratio': 0.3, 'edl_tau': 0.2, 'edl_intra_video_tau': 0.04, 'warmup_epoch': 20, 'warmup_end': False, 'division_beta': 0.3, 'smooth_beta': 0.2}
+2026-10-04 12:08:45,999 - INFO - Loading Data ......
+2026-10-04 12:09:07,836 - INFO - Loading Model ......
+2026-10-04 12:13:45,763 - INFO - ==========================================================================================================
+2026-10-04 12:13:45,764 - INFO - Epoch:  0    New Best Model !!!
+2026-10-04 12:13:45,764 - INFO - Average Loss: 1.6042
+2026-10-04 12:13:45,764 - INFO - R@1: 1.0
+2026-10-04 12:13:45,765 - INFO - R@5: 3.7
+2026-10-04 12:13:45,765 - INFO - R@10: 6.6
+2026-10-04 12:13:45,765 - INFO - R@100: 37.6
+2026-10-04 12:13:45,765 - INFO - Rsum: 48.9
+2026-10-04 12:13:45,765 - INFO - Best: R@1: 1.0 R@5: 3.7 R@10: 6.6 R@100: 37.6 Rsum: 48.9
+2026-10-04 12:13:45,765 - INFO - ==========================================================================================================

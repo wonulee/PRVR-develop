@@ -1,0 +1,17 @@
+﻿mapping_id,train_expression,val_expression,train_pos,val_pos,train_lemma,val_lemma,replacement_expression,term_type,source_split,term_region,mapping_type,source_coverage_status,source_wordnet_id,meaning_id,full_rows,source_caption_count,example_train_caption_id,example_val_caption_id,requires_review
+14623,rprise,,NN,,rprise,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7869,,1,1,friends_s08e23-24_seg02_clip_20#enc#2,,True
+14624,-erase,,NN,,-erase,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7870,,1,1,s04e12_seg02_clip_17#enc#3,,True
+14625,x-,,NN,,x-,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7871,,1,1,house_s08e09_seg02_clip_22#enc#0,,True
+14626,patie,,NN,,patie,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7872,,3,3,house_s01e22_seg02_clip_20#enc#4,,True
+14627,nt'e,,NN,,nt'e,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7873,,1,1,house_s01e22_seg02_clip_20#enc#4,,True
+14628,ses,,NN,,ses,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7874,,1,1,met_s02e14_seg02_clip_08#enc#1,,True
+14629,-scan,,NN,,-scan,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7875,,1,1,grey_s01e05_seg02_clip_14#enc#4,,True
+14630,'d,,NN,,'d,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7876,,1,1,friends_s07e10_seg02_clip_02#enc#1,,True
+14631,-hoo,,NN,,-hoo,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7877,,1,1,friends_s07e20_seg02_clip_11#enc#4,,True
+14632,X-,,NN,,x-,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7871,,1,1,friends_s02e06_seg02_clip_10#enc#1,,True
+14633,-ray,,NN,,-ray,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7878,,2,2,grey_s02e02_seg02_clip_04#enc#0,,True
+14634,wi-,,NN,,wi-,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7879,,1,1,castle_s06e12_seg02_clip_21#enc#1,,True
+14635,=is,,NN,,=is,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7880,,1,1,house_s03e09_seg02_clip_04#enc#3,,True
+14636,v,,NN,,v,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,5460,,1,1,house_s05e10_seg02_clip_17#enc#4,,True
+14637,t-,,NN,,t-,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7881,,2,2,friends_s10e07_seg02_clip_02#enc#0,,True
+14638,womens,,NNS,,women,,,object,train,UNCLASSIFIED,UNCLASSIFIED,UNCLASSIFIED,7882,,1,1,met_s02e03_seg02_clip_12#enc#4,,True

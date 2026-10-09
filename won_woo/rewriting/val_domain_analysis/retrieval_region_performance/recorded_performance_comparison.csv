@@ -1,0 +1,6 @@
+﻿source,variant,checkpoint,evaluated_queries,R@1,R@5,R@10,R@100,Rsum
+/home/viglab2/won_woo/tvr_test_results.csv,requested_csv,Not recorded in CSV,10895,18.375401560348784,40.688389169343736,52.023864157870584,87.48967416245985,198.57732905002297
+/home/viglab2/won_woo/tvr/holmes_tvr_test_results_1.csv,additional_query_result_csv,Not recorded in CSV,10895,16.649839375860488,37.84304726938963,49.33455713630106,86.45250114731529,190.27994492886648
+/home/viglab2/won_woo/experiments/eval_train_effective_best_20261002/metrics.json,single,/home/viglab2/won_woo/Holmes_ICML/tvr-multi/tvr/20261002-115051(train_effective)/best.ckpt,10895,17.971546581000457,40.550711335474986,52.28086278109224,87.45296007342817,198.25608077099585
+/home/viglab2/won_woo/tvr/TextData/effective_rewritten1.holmes_eval/metrics.json,original,/home/viglab2/won_woo/Holmes_ICML/tvr-multi/tvr/20260914-235629(extract)/best.ckpt,10895,17.430013767783386,38.503900871959615,50.096374483708125,86.25057365764111,192.28086278109225
+/home/viglab2/won_woo/tvr/TextData/effective_rewritten1.holmes_eval/metrics.json,original_plus_rewrite,/home/viglab2/won_woo/Holmes_ICML/tvr-multi/tvr/20260914-235629(extract)/best.ckpt,10895,18.430472693896284,40.697567691601655,52.37264800367141,87.5722808627811,199.07296925195044

@@ -1,0 +1,35 @@
+{
+  "rows_checked": 1884213,
+  "pairs_checked": 1779331,
+  "rows_with_findings": 8349,
+  "findings_by_category": {
+    "REGION_MISMATCH": 552,
+    "SOURCE_LEMMA_CORRECTION": 1763,
+    "INVALID_SOURCE_IN_REGION": 379,
+    "INVALID_OPPOSITE_WITNESS": 6111,
+    "INVALID_GENERATED_INFLECTION": 5300
+  },
+  "changed_region_source_groups": 498,
+  "invalid_source_groups_previously_in_ABC": 325,
+  "normalized_source_groups": 1646,
+  "row_numbers": "Header-excluded 1-based row numbers in the previous export; multiple categories may describe the same row",
+  "previous_csv_sha256": {
+    "action_A_train.csv": "f3a6414bfc7d6d63605ab4b041cba74b4e003efa919364dd58efce6e8025665b",
+    "action_B_train.csv": "0f881e982d9d2b89d7d3e20921c5a1700677075c2a6f1b1135a6e16e2f215ad9",
+    "action_B_val.csv": "1442aa8fe6ee4a421aebbf3af51b8c1228c5018defeae01cabe0dd3ba5e1b9a1",
+    "action_C_val.csv": "f1cb0930b4d5f32843c5374f988dcfbcaecc57c13beef2d463ed2986876681e2",
+    "action_EMPTY_train.csv": "f841664306f3b78dcb8c9a35aa5b017bdb10cb02acf021a0fea6cbbb7129b73a",
+    "action_EMPTY_val.csv": "5817cf50b6e82553bdd3d6af613f1017653b79ea00fb4784b19a1dd6db3745c6",
+    "action_UNCLASSIFIED_train.csv": "e9cf96bacc8cbd1f7d86de1c853f1d63f4e3d3093cc2b95d604d9322728401a1",
+    "object_A_train.csv": "edbed64486db93fcea14ec6d5f8f82f3c462005dd27b0a9299f199f234b9af5e",
+    "object_B_train.csv": "105c5160c49563fd837d319f1e68f8b6aeda66a32020fa1583153e0a399579e4",
+    "object_B_val.csv": "54ad2ed8b4ae0110df5a9a487e01f2eaa6994d9b07f23c2c47a56e6bd95b4cd0",
+    "object_C_val.csv": "05443365c07bfc5b867bfce00400d4f356ad1bf4394d676faa46ff12f711da91",
+    "object_EMPTY_train.csv": "5af383b5b9f56c7903b67724f707097336c068158803495548fbed68f0133656",
+    "object_EMPTY_val.csv": "c6302d13465b80cadd733e33223ba0f5f1a0d8297a5b5000508754d6b8cf61e9"
+  },
+  "comparison_audit_sha256": "3b2ef114216567efa6486d9b0c0ea0bdc95f249dc1a0a4d885453945f1250749",
+  "script_sha256": "213f7633b4e8ffa908b90dcbec3b9be5625c747bc916a51892f0f962bf3a812a",
+  "previous_directory_after_promotion": "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_before_independent_audit",
+  "comparison_audit_snapshot": "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_region_audit/after/execution_summary.json"
+}

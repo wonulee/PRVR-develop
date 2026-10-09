@@ -1,0 +1,15 @@
+{
+  "previous_pairs": 1140,
+  "outside_corrected_dictionary_scope_pairs": 8,
+  "affected_captions": 8,
+  "reasons": {
+    "Val_witness_not_in_dictionary_only_extraction": 5,
+    "replacement_surface_or_POS_not_in_dictionary": 3
+  },
+  "captions_modified_in_this_audit": false,
+  "status": "CORRECTED: eight invalid applied pairs removed",
+  "captions_modified_in_this_correction": 8,
+  "remaining_applied_pairs": 1132,
+  "remaining_rewritten_captions": 1031,
+  "correction_verification": "/home/viglab2/won_woo/rewriting/val_domain_analysis/applied_dictionary_scope_repair_20261007/repair_verification.json"
+}

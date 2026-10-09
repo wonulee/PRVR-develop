@@ -1,0 +1,151 @@
+{
+  "status": "PASS",
+  "llm_used": false,
+  "all_source_rows_preserved": true,
+  "all_columns_and_values_preserved": true,
+  "order_preserved_within_each_file": true,
+  "files": [
+    {
+      "유형": "Object",
+      "영역": "A",
+      "출처": "Train",
+      "전체항목_행수": 7395,
+      "고유기본형수": 2994,
+      "CSV파일": "object_A_train.csv"
+    },
+    {
+      "유형": "Object",
+      "영역": "B",
+      "출처": "Train",
+      "전체항목_행수": 174561,
+      "고유기본형수": 2876,
+      "CSV파일": "object_B_train.csv"
+    },
+    {
+      "유형": "Object",
+      "영역": "B",
+      "출처": "Val",
+      "전체항목_행수": 22088,
+      "고유기본형수": 1996,
+      "CSV파일": "object_B_val.csv"
+    },
+    {
+      "유형": "Object",
+      "영역": "C",
+      "출처": "Val",
+      "전체항목_행수": 0,
+      "고유기본형수": 0,
+      "CSV파일": "object_C_val.csv"
+    },
+    {
+      "유형": "Object",
+      "영역": "EMPTY",
+      "출처": "Train",
+      "전체항목_행수": 5906,
+      "고유기본형수": 0,
+      "CSV파일": "object_EMPTY_train.csv"
+    },
+    {
+      "유형": "Object",
+      "영역": "EMPTY",
+      "출처": "Val",
+      "전체항목_행수": 746,
+      "고유기본형수": 0,
+      "CSV파일": "object_EMPTY_val.csv"
+    },
+    {
+      "유형": "Object",
+      "영역": "UNCLASSIFIED",
+      "출처": "Train",
+      "전체항목_행수": 20,
+      "고유기본형수": 15,
+      "CSV파일": "object_UNCLASSIFIED_train.csv"
+    },
+    {
+      "유형": "Object",
+      "영역": "UNCLASSIFIED",
+      "출처": "Val",
+      "전체항목_행수": 0,
+      "고유기본형수": 0,
+      "CSV파일": "object_UNCLASSIFIED_val.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "A",
+      "출처": "Train",
+      "전체항목_행수": 1968,
+      "고유기본형수": 953,
+      "CSV파일": "action_A_train.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "B",
+      "출처": "Train",
+      "전체항목_행수": 166242,
+      "고유기본형수": 1525,
+      "CSV파일": "action_B_train.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "B",
+      "출처": "Val",
+      "전체항목_행수": 20611,
+      "고유기본형수": 864,
+      "CSV파일": "action_B_val.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "C",
+      "출처": "Val",
+      "전체항목_행수": 0,
+      "고유기본형수": 0,
+      "CSV파일": "action_C_val.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "EMPTY",
+      "출처": "Train",
+      "전체항목_행수": 1426,
+      "고유기본형수": 0,
+      "CSV파일": "action_EMPTY_train.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "EMPTY",
+      "출처": "Val",
+      "전체항목_행수": 238,
+      "고유기본형수": 0,
+      "CSV파일": "action_EMPTY_val.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "UNCLASSIFIED",
+      "출처": "Train",
+      "전체항목_행수": 19,
+      "고유기본형수": 16,
+      "CSV파일": "action_UNCLASSIFIED_train.csv"
+    },
+    {
+      "유형": "Action",
+      "영역": "UNCLASSIFIED",
+      "출처": "Val",
+      "전체항목_행수": 0,
+      "고유기본형수": 0,
+      "CSV파일": "action_UNCLASSIFIED_val.csv"
+    }
+  ],
+  "wordnet_columns": [
+    "has_wordnet_entry",
+    "wordnet_candidate_count",
+    "wordnet_candidates",
+    "other_split_candidate_count",
+    "other_split_candidates",
+    "wordnet_synsets",
+    "selected_wordnet_synsets",
+    "context_wordnet_candidates",
+    "wordnet_meanings",
+    "term_coverage_status",
+    "requires_review"
+  ],
+  "existing_source_rows_and_columns_preserved": true
+}

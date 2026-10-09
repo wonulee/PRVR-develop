@@ -1,0 +1,17 @@
+﻿aspect,split,region,mapping_rows,source_expression_pos_count,source_lemma_count,diagram_count,diagram_count_unit,original_rows,original_synonym_pair_rows,mapping_csv,links_csv,csv_file,bytes
+object,train,A,3316,3316,2994,3316,mapping rows,7395,0,../mapping/main/object_A_train.csv,../mapping/links/object_A_train.csv,object_A_train.csv,847300
+object,train,B,6525,4334,2876,6525,mapping rows,328432,264466,../mapping/main/object_B_train.csv,../mapping/links/object_B_train.csv,object_B_train.csv,4250315
+object,validation,B,4779,2413,1996,4779,mapping rows,53675,47453,../mapping/main/object_B_val.csv,../mapping/links/object_B_val.csv,object_B_val.csv,3413850
+object,validation,C,0,0,0,0,mapping rows,0,0,../mapping/main/object_C_val.csv,../mapping/links/object_C_val.csv,object_C_val.csv,535
+object,train,EMPTY,1,0,0,5906,queries,5906,0,../mapping/main/object_EMPTY_train.csv,../mapping/links/object_EMPTY_train.csv,object_EMPTY_train.csv,709
+object,validation,EMPTY,1,0,0,746,queries,746,0,../mapping/main/object_EMPTY_val.csv,../mapping/links/object_EMPTY_val.csv,object_EMPTY_val.csv,687
+object,train,UNCLASSIFIED,16,16,15,20,source occurrences,20,0,../mapping/main/object_UNCLASSIFIED_train.csv,../mapping/links/object_UNCLASSIFIED_train.csv,object_UNCLASSIFIED_train.csv,4543
+object,validation,UNCLASSIFIED,0,0,0,0,source occurrences,0,0,../mapping/main/object_UNCLASSIFIED_val.csv,../mapping/links/object_UNCLASSIFIED_val.csv,object_UNCLASSIFIED_val.csv,535
+action,train,A,1250,1250,953,1250,mapping rows,1968,0,../mapping/main/action_A_train.csv,../mapping/links/action_A_train.csv,action_A_train.csv,329845
+action,train,B,12375,4785,1525,12375,mapping rows,945829,922119,../mapping/main/action_B_train.csv,../mapping/links/action_B_train.csv,action_B_train.csv,16624575
+action,validation,B,7648,1931,864,7648,mapping rows,148579,145853,../mapping/main/action_B_val.csv,../mapping/links/action_B_val.csv,action_B_val.csv,12316502
+action,validation,C,0,0,0,0,mapping rows,0,0,../mapping/main/action_C_val.csv,../mapping/links/action_C_val.csv,action_C_val.csv,535
+action,train,EMPTY,1,0,0,1426,queries,1426,0,../mapping/main/action_EMPTY_train.csv,../mapping/links/action_EMPTY_train.csv,action_EMPTY_train.csv,695
+action,validation,EMPTY,1,0,0,238,queries,238,0,../mapping/main/action_EMPTY_val.csv,../mapping/links/action_EMPTY_val.csv,action_EMPTY_val.csv,700
+action,train,UNCLASSIFIED,17,17,16,19,source occurrences,19,0,../mapping/main/action_UNCLASSIFIED_train.csv,../mapping/links/action_UNCLASSIFIED_train.csv,action_UNCLASSIFIED_train.csv,12176
+action,validation,UNCLASSIFIED,0,0,0,0,source occurrences,0,0,../mapping/main/action_UNCLASSIFIED_val.csv,../mapping/links/action_UNCLASSIFIED_val.csv,action_UNCLASSIFIED_val.csv,535

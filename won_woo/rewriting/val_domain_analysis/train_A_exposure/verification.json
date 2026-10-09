@@ -1,0 +1,17 @@
+{
+  "source_files_unchanged": true,
+  "word_rows": 3757,
+  "query_rows": 8024,
+  "membership_fields_recomputed": true,
+  "A_only_queries": 30,
+  "literal_matches_independently_recomputed_for_all_terms": 3757,
+  "literal_scan_method": "Full lowercase Val corpus with standalone regex, without the index prefilter",
+  "Val_examples_verified": true,
+  "A_query_lemma_exposures_recomputed": 8743,
+  "elapsed_seconds": 78.51,
+  "csv_sha256": {
+    "A_train_queries.csv": "74ea1aadf4266c84907ab4464c15eb84c92d3f5e8f7c8890e44c5b512ef181db",
+    "A_word_exposure.csv": "cf28efaa4f5c4879b46b10f1a4ff07db6c65ecf11b2bee9e5201a187f7fe5592",
+    "A_words_without_literal_val_match.csv": "24fdb915d94c8211b519f9ecd3a69dba8da737c9d64ee6a9f71780e572447d8d"
+  }
+}

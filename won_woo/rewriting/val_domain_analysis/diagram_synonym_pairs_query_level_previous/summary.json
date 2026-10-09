@@ -1,0 +1,179 @@
+{
+  "statistics": [
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "A",
+      "csv_file": "object_A_train.csv",
+      "queries": 6544,
+      "rows": 33220,
+      "pairs": 22307,
+      "no_pair_rows": 10913,
+      "queries_with_pairs": 4866
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "B",
+      "csv_file": "object_B_train.csv",
+      "queries": 74724,
+      "rows": 343158,
+      "pairs": 290709,
+      "no_pair_rows": 52449,
+      "queries_with_pairs": 63853
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "B",
+      "csv_file": "object_B_val.csv",
+      "queries": 9665,
+      "rows": 58840,
+      "pairs": 53395,
+      "no_pair_rows": 5445,
+      "queries_with_pairs": 8753
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "C",
+      "csv_file": "object_C_val.csv",
+      "queries": 718,
+      "rows": 4609,
+      "pairs": 3547,
+      "no_pair_rows": 1062,
+      "queries_with_pairs": 597
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "EMPTY",
+      "csv_file": "object_EMPTY_train.csv",
+      "queries": 5906,
+      "rows": 5906,
+      "pairs": 0,
+      "no_pair_rows": 5906,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "EMPTY",
+      "csv_file": "object_EMPTY_val.csv",
+      "queries": 512,
+      "rows": 512,
+      "pairs": 0,
+      "no_pair_rows": 512,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "A",
+      "csv_file": "action_A_train.csv",
+      "queries": 1826,
+      "rows": 21902,
+      "pairs": 19776,
+      "no_pair_rows": 2126,
+      "queries_with_pairs": 1507
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "B",
+      "csv_file": "action_B_train.csv",
+      "queries": 83922,
+      "rows": 1158794,
+      "pairs": 1136778,
+      "no_pair_rows": 22016,
+      "queries_with_pairs": 79440
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "B",
+      "csv_file": "action_B_val.csv",
+      "queries": 10496,
+      "rows": 244368,
+      "pairs": 241836,
+      "no_pair_rows": 2532,
+      "queries_with_pairs": 10194
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "C",
+      "csv_file": "action_C_val.csv",
+      "queries": 347,
+      "rows": 11426,
+      "pairs": 10983,
+      "no_pair_rows": 443,
+      "queries_with_pairs": 335
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "EMPTY",
+      "csv_file": "action_EMPTY_train.csv",
+      "queries": 1426,
+      "rows": 1426,
+      "pairs": 0,
+      "no_pair_rows": 1426,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "EMPTY",
+      "csv_file": "action_EMPTY_val.csv",
+      "queries": 52,
+      "rows": 52,
+      "pairs": 0,
+      "no_pair_rows": 52,
+      "queries_with_pairs": 0
+    }
+  ],
+  "skipped_new_candidates": {
+    "no_surface_change": 1,
+    "no_source_pos_inflection": 4
+  },
+  "method": {
+    "scope": "All original diagram query/aspect rows, including A, B, C and EMPTY",
+    "schema": "Preserve reference's 13 pair columns, with train_ target columns for validation; append 7 source WordNet lookup columns",
+    "candidate_columns": [
+      "source_lemma",
+      "has_wordnet_entry",
+      "wordnet_candidate_count",
+      "wordnet_candidates",
+      "other_split_candidate_count",
+      "other_split_candidates",
+      "wordnet_synsets"
+    ],
+    "wordnet_candidates": "All distinct same-POS WordNet lemma alternatives across all senses, uninflected, joined with ' | '",
+    "other_split_candidates": "Distinct normalized lemmas sharing a same-POS synset and observed in the opposite split, before pair-export inflection filters",
+    "empty_candidate_rule": "Candidate counts are 0 and lists blank; has_wordnet_entry blank means no supported source to look up, False means a lookup found no synset",
+    "no_pair_rule": "Retain source/query with blank synonym/target/meaning fields and synonym_rank=0; reasons in no_pair_annotations.csv",
+    "region_rule": "Preserved from original diagram; A/C may contain both covered and uncovered terms",
+    "candidates": "Distinct same-POS WordNet synonyms observed in the opposite original split; exclude morphology/spelling variants",
+    "B_rule": "All previously verified B genuine pairs reused without changing their row values",
+    "ranking": "Alphabetical inflected expressions; no top-k, context scoring or visual/temporal validation",
+    "review": "All requires_review=True; rank 0 is a retained non-pair record, not a synonym",
+    "seed": 2026,
+    "wordnet_version": "3.0",
+    "spacy_version": "3.7.5",
+    "spacy_model_version": "3.7.1"
+  },
+  "inputs": {
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/methodology.json": "6c94a0c9bc37851b3aeaeeae035b8264cca7038728bbae03a46755d12fe0bdf9",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/term_coverage.csv": "fe68393f14deae849175ba5063eb74c0214e112f1feef695ab95bcf1fb7fd413",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/query_regions.csv": "0e9986ebfd368be505fa9ca785fb7b65c27d21181d759b60dd7d76e56ee609ae",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/summary.json": "004bccfff3196a8b40ac0ee0387f7cee3b14ab2729ab695faeba847579230810",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_domain_analysis.csv": "c2a6990fbaa74d80b4138e80ae0c7eda0ca18313a72cc962fdfc86de2df87a9a",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrtrain_object_synonym_pairs.csv": "b2cdff9ba2c06238dbf2e6596195108424b7ba7bc53fc71e0bebea33d65abc25",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrtrain_action_synonym_pairs.csv": "39ba7e49eedc4b24b0670dfb8a1a038e9614c3f0d5088c0c041e2a71df29202a",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrval_object_synonym_pairs.csv": "195370f1f24c8177d445058a43cf39f7b5c16d1aa045a91a9e6121d390281687",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrval_action_synonym_pairs.csv": "9d193856c9acfb28b33a0f9c48e2a01b0e9fce1b0395ee684a5d12330c5853b8"
+  },
+  "script_sha256": "c3b2b05376da451a35f927cd5ba4d6d938dbbb175e84d43bcef2fe3dbc9354d6"
+}

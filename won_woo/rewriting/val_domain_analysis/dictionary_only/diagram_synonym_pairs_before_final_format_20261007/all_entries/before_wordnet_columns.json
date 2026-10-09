@@ -1,0 +1,38 @@
+{
+  "object": {
+    "header": [
+      "출처",
+      "caption_ID",
+      "caption_사전기준",
+      "caption_현재",
+      "현재caption_수정여부",
+      "사전항목",
+      "품사",
+      "기본형_정규화",
+      "영역",
+      "항목상태",
+      "사전근거_ID",
+      "추출기준"
+    ],
+    "rows": 210716,
+    "original_columns_records_sha256": "1ef2513f3e489d7cb5a6226701841eb6c5ef7a4e1a9d48444f0afbce0ce8c097"
+  },
+  "action": {
+    "header": [
+      "출처",
+      "caption_ID",
+      "caption_사전기준",
+      "caption_현재",
+      "현재caption_수정여부",
+      "사전항목",
+      "품사",
+      "기본형_정규화",
+      "영역",
+      "항목상태",
+      "사전근거_ID",
+      "추출기준"
+    ],
+    "rows": 190504,
+    "original_columns_records_sha256": "c6bd60aa9b5883689d57891acee491e519095a5780d1dd0875eddb2fae7b8ff3"
+  }
+}

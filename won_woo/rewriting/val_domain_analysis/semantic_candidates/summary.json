@@ -1,0 +1,85 @@
+{
+  "train_ood_captions": 12595,
+  "unique_ood_lemmas": 5388,
+  "observed_val_phrasal_verbs": 349,
+  "top_k": 5,
+  "caption_candidate_pairs": 72425,
+  "caption_review_status": {
+    "CANDIDATES_AVAILABLE_REVIEW": 8586,
+    "HAS_UNRESOLVED_TERMS_REVIEW": 4009
+  },
+  "global_term_status": {
+    "NO_STRONG_CANDIDATE_REVIEW": 1855,
+    "SIMILARITY_CANDIDATE_AVAILABLE_REVIEW": 2647,
+    "LEXICAL_CANDIDATE_AVAILABLE_REVIEW": 886
+  },
+  "term_occurrence_status": {
+    "SIMILARITY_CANDIDATE_AVAILABLE_REVIEW": 7341,
+    "NO_STRONG_CANDIDATE_REVIEW": 4170,
+    "LEXICAL_CANDIDATE_AVAILABLE_REVIEW": 2974
+  },
+  "pair_relations": {
+    "embedding_related_only": 58429,
+    "synonym_in_selected_sense": 3997,
+    "broader_hypernym_in_selected_sense": 9896,
+    "morphological_variant": 103
+  },
+  "method": {
+    "pool_constraint": "Action heads only from Val Action Pool; objects only from Val Object Pool; multiword actions add only observed verb particles",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "local_model_path": "/home/viglab2/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+    "model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+    "retrieval": "Nearest 30 lemmas + WordNet same-synset/hypernym/morphology matches",
+    "ranking_score": "0.8 * word cosine + 0.2 * best Val example cosine + relation bonus (0.12 synonym/morphology; 0.04 broader term)",
+    "ranking_priority": "First selected-sense synonyms/morphology (tier 0), then broader hypernyms (tier 1), then embedding-only results (tier 2); score ranks within a tier",
+    "multiword_actions": "Only verb + dependency-prt particles observed in an actual validation caption; normalized head is in original Val Action Pool",
+    "spacy_model": "en_core_web_md",
+    "spacy_model_version": "3.7.1",
+    "context": "Original train caption; up to three stored pool examples for single lemmas; all observed occurrences for phrasal verbs",
+    "val_example_selection": "Highest train-caption cosine; for selected-sense synonyms, 0.7 train-caption cosine + 0.3 source-sense-definition cosine",
+    "sense_selection": "Highest cosine between original caption embedding and source WordNet sense definition embedding",
+    "sense_filter": "Exclude lexical matches supported exclusively by an unselected source sense",
+    "antonym_filter": "Exclude candidates whose WordNet senses are direct antonyms of any source sense, in either direction",
+    "threshold": 0.55,
+    "threshold_scope": "Uncalibrated word-cosine review flag, never an acceptance probability",
+    "global_vs_caption": "Global term rows use up to three original train example captions; per-caption rankings use that exact caption",
+    "all_candidates_require_review": true,
+    "automatic_substitution": false,
+    "limitations": [
+      "WordNet sense selection is heuristic and can be wrong.",
+      "Embedding proximity can reflect related or opposing concepts; WordNet does not cover every antonym.",
+      "Hypernyms lose specificity and are not interchangeable synonyms.",
+      "Source typos, wrong POS, abbreviations and proper names can produce weak candidates.",
+      "Pool membership does not prove pixel grounding, action preservation or timestamp equivalence."
+    ],
+    "seed": 2026,
+    "device": "cpu",
+    "torch_threads": 4,
+    "torch_version": "2.8.0+cu128",
+    "sentence_transformers_version": "5.1.2",
+    "nltk_version": "3.9.2",
+    "wordnet_version": "3.0"
+  },
+  "inputs": {
+    "tvrtrain_rewriting_candidates.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_rewriting_candidates.csv",
+      "sha256": "3c32a19ca6608061ef4e033b2e1a948d17d07e73b447854a65439c2615b6165b"
+    },
+    "train_ood_lemma_frequency.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/train_ood_lemma_frequency.csv",
+      "sha256": "ae033c5f4c3d5ba673e608670cce98a08e8c3ed2b7033355ac8ff1ae93234eb6"
+    },
+    "tvrval_action_object_analysis.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv",
+      "sha256": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c"
+    },
+    "val_action_pool.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/val_action_pool.csv",
+      "sha256": "07433690680d16dd7977909f37bf3d622fba4e9f3dfdc4721b8bf09e5afa1f33"
+    },
+    "val_object_pool.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/val_object_pool.csv",
+      "sha256": "d13f1243c9aff9904ad11cbd152262d9486fb35da4bc3f96be175798b8f66413"
+    }
+  }
+}

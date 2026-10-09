@@ -1,0 +1,49 @@
+{
+  "captions": 12595,
+  "synonym_pairs": 1628,
+  "caption_status": {
+    "NO_VAL_SYNONYM": 11227,
+    "PARTIAL_VAL_SYNONYMS": 284,
+    "ALL_TERMS_HAVE_VAL_SYNONYMS": 1084
+  },
+  "source_word_entries": 6499,
+  "missing_reasons": {
+    "no_distinct_synonym_in_matching_val_usage": 9918,
+    "no_wordnet_sense": 1865,
+    "weak_source_sense": 1330
+  },
+  "method": {
+    "candidates": "Different lexical expressions sharing the selected WordNet sense, supported by a Val occurrence selecting that same sense",
+    "excluded": "Same-word morphology, UK/US spelling variants, hypernyms, embedding-only neighbors and direct antonyms",
+    "source_context": "Target word dependency neighborhood; coordinating, adverbial and relative clauses excluded",
+    "val_scope": "Original action/object pool heads; multiword expressions observed with that head in Val captions",
+    "phrase_guards": "Verb/preposition phrases exclude verbs with direct/indirect objects; throw up with arm/hand arguments is excluded from the vomiting synonym",
+    "surface_forms": "Original OOD words shown; synonym head inflected to the original Penn POS with lemminflect 0.2.3",
+    "minimum_sense_cosine": 0.2,
+    "top_k_maximum": 5,
+    "review": "Sense selection is heuristic; all candidates require semantic and grammar review before a rewrite",
+    "seed": 2026,
+    "wordnet_version": "3.0",
+    "spacy_version": "3.7.5",
+    "spacy_model_version": "3.7.1",
+    "embedding_model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41"
+  },
+  "inputs": {
+    "tvrtrain_rewriting_candidates.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_rewriting_candidates.csv",
+      "sha256": "3c32a19ca6608061ef4e033b2e1a948d17d07e73b447854a65439c2615b6165b"
+    },
+    "tvrval_action_object_analysis.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv",
+      "sha256": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c"
+    },
+    "val_action_pool.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/val_action_pool.csv",
+      "sha256": "07433690680d16dd7977909f37bf3d622fba4e9f3dfdc4721b8bf09e5afa1f33"
+    },
+    "val_object_pool.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/val_object_pool.csv",
+      "sha256": "d13f1243c9aff9904ad11cbd152262d9486fb35da4bc3f96be175798b8f66413"
+    }
+  }
+}

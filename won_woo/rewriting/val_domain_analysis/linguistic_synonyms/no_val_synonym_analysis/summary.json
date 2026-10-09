@@ -1,0 +1,182 @@
+{
+  "caption_count": 11227,
+  "expression_occurrence_count": 12781,
+  "unique_expression_count": 5940,
+  "rewrite_reason_counts": {
+    "object_ood": 7914,
+    "action_and_object_ood": 558,
+    "action_ood": 2755
+  },
+  "term_type_counts": {
+    "object": 9351,
+    "action": 3430
+  },
+  "failure_reasons": [
+    {
+      "failure_reason_code": "no_wordnet_sense",
+      "failure_reason_ko": "정규화 조회어·품사로 조회 가능한 WordNet 의미 없음",
+      "expression_occurrence_count": 1825,
+      "caption_count": 1766,
+      "unique_expression_count": 1290,
+      "action_occurrence_count": 534,
+      "object_occurrence_count": 1291
+    },
+    {
+      "failure_reason_code": "weak_source_sense",
+      "failure_reason_ko": "원문 문맥의 의미 선택 점수가 기준 미만",
+      "expression_occurrence_count": 1289,
+      "caption_count": 1264,
+      "unique_expression_count": 815,
+      "action_occurrence_count": 591,
+      "object_occurrence_count": 698
+    },
+    {
+      "failure_reason_code": "no_distinct_synonym_in_matching_val_usage",
+      "failure_reason_ko": "동일 의미·Val 문맥·다른 표현·형태 조건을 통과한 후보 없음",
+      "expression_occurrence_count": 9667,
+      "caption_count": 8706,
+      "unique_expression_count": 4087,
+      "action_occurrence_count": 2305,
+      "object_occurrence_count": 7362
+    }
+  ],
+  "review_flags": {
+    "raw_surface_has_sense_but_lookup_does_not": {
+      "expression_occurrence_count": 198,
+      "caption_count": 197
+    },
+    "single_letter_expression": {
+      "expression_occurrence_count": 9,
+      "caption_count": 9
+    },
+    "source_not_standalone_token": {
+      "expression_occurrence_count": 18,
+      "caption_count": 17
+    },
+    "source_pos_differs_from_spacy": {
+      "expression_occurrence_count": 2155,
+      "caption_count": 2102
+    },
+    "uppercase_expression": {
+      "expression_occurrence_count": 251,
+      "caption_count": 251
+    }
+  },
+  "source_side_reconstruction_verified_against_original_summary": true,
+  "all_missing_expression_reasons_including_partial_captions": {
+    "no_distinct_synonym_in_matching_val_usage": 9918,
+    "no_wordnet_sense": 1865,
+    "weak_source_sense": 1330
+  },
+  "minimum_sense_score": 0.2,
+  "seed": 2026,
+  "lookup_gap_examples": [
+    {
+      "term_type": "object",
+      "source_expression": "binoculars",
+      "lookup_expression": "binocular",
+      "expression_occurrence_count": 45
+    },
+    {
+      "term_type": "object",
+      "source_expression": "whereabouts",
+      "lookup_expression": "whereabout",
+      "expression_occurrence_count": 20
+    },
+    {
+      "term_type": "action",
+      "source_expression": "mess",
+      "lookup_expression": "mes",
+      "expression_occurrence_count": 11
+    },
+    {
+      "term_type": "action",
+      "source_expression": "express",
+      "lookup_expression": "expres",
+      "expression_occurrence_count": 10
+    },
+    {
+      "term_type": "object",
+      "source_expression": "nuptials",
+      "lookup_expression": "nuptial",
+      "expression_occurrence_count": 10
+    },
+    {
+      "term_type": "action",
+      "source_expression": "swing",
+      "lookup_expression": "swe",
+      "expression_occurrence_count": 8
+    },
+    {
+      "term_type": "action",
+      "source_expression": "toss",
+      "lookup_expression": "tos",
+      "expression_occurrence_count": 6
+    },
+    {
+      "term_type": "action",
+      "source_expression": "miss",
+      "lookup_expression": "mis",
+      "expression_occurrence_count": 5
+    },
+    {
+      "term_type": "object",
+      "source_expression": "thermos",
+      "lookup_expression": "thermo",
+      "expression_occurrence_count": 5
+    },
+    {
+      "term_type": "action",
+      "source_expression": "focus",
+      "lookup_expression": "focu",
+      "expression_occurrence_count": 5
+    },
+    {
+      "term_type": "action",
+      "source_expression": "assess",
+      "lookup_expression": "asses",
+      "expression_occurrence_count": 5
+    },
+    {
+      "term_type": "action",
+      "source_expression": "access",
+      "lookup_expression": "acces",
+      "expression_occurrence_count": 4
+    },
+    {
+      "term_type": "action",
+      "source_expression": "impress",
+      "lookup_expression": "impres",
+      "expression_occurrence_count": 4
+    },
+    {
+      "term_type": "action",
+      "source_expression": "wed",
+      "lookup_expression": "we",
+      "expression_occurrence_count": 4
+    },
+    {
+      "term_type": "action",
+      "source_expression": "undress",
+      "lookup_expression": "undres",
+      "expression_occurrence_count": 4
+    }
+  ],
+  "scope": "NO_VAL_SYNONYM captions only; partial-synonym captions excluded",
+  "reason_method": "Reconstruct source sense/score; residual no-candidate reason uses the existing empty synonym result.",
+  "limitations": "Residual reason combines Val occurrence, same-word/spelling/antonym guards and inflection constraints; not proof that no English synonym exists.",
+  "inputs": {
+    "tvrtrain_rewriting_candidates.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_rewriting_candidates.csv",
+      "sha256": "3c32a19ca6608061ef4e033b2e1a948d17d07e73b447854a65439c2615b6165b"
+    },
+    "tvrtrain_synonym_candidates.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/tvrtrain_synonym_candidates.csv",
+      "sha256": "ea632fede3f3c37af3216711f86f22fb2494b9bbe09d28092ae5a0a785a09433"
+    },
+    "summary.json": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/summary.json",
+      "sha256": "a93f0c61ea9e316b4dc1f05d509f7702ca16dab19316ec5e72a953dd275d8514"
+    }
+  }
+}

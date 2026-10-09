@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "query_count": 90464,
+  "input_caption_file_sha256": "5f16129bbe421f7ec2d0a493d89b7dce1bf5f7e836cc7bc929b091cf75e1f14d",
+  "features": "/home/viglab2/won_woo/experiments/multi_query_selection_20261008/query_features.hdf5",
+  "features_sha256": "3ff1b0ae30bf2be0e587dd40065f2c563de129fd720487a3061c9f1f8f775678",
+  "model": "/home/viglab2/won_woo/tvr/query_only/roberta-base_tuned_model",
+  "hidden_state_layer": -2,
+  "max_length_including_special_tokens": 30,
+  "special_tokens_removed": true,
+  "l2_normalized": false,
+  "dataset_caption_hashes": true,
+  "llm_used": false
+}

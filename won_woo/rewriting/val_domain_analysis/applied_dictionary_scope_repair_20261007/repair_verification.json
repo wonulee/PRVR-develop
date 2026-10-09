@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "scope_failed_pairs_removed": 8,
+  "only_affected_caption_ids_changed": [
+    "castle_s01e05_seg02_clip_06#enc#2",
+    "castle_s08e01_seg02_clip_16#enc#3",
+    "friends_s03e02_seg02_clip_04#enc#0",
+    "s10e11_seg02_clip_17#enc#4",
+    "house_s03e15_seg02_clip_22#enc#4",
+    "friends_s02e14_seg02_clip_18#enc#0",
+    "friends_s10e12_seg02_clip_06#enc#3",
+    "s10e07_seg02_clip_10#enc#0"
+  ],
+  "changed_captions": 8,
+  "remaining_pairs": 1132,
+  "remaining_rewritten_captions": 1031,
+  "before_sha256": "444c0f75a83c79f170616bf30f762c15e69bc6c2a7569b5befeac0e2068698f5",
+  "after_sha256": "0655949f2224d270bb37b16cba9de99f4ae9e88adf455244e0a6342a43691815",
+  "val_sha256": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+  "applied": true,
+  "caption_file": "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt",
+  "backup": "/home/viglab2/won_woo/rewriting/val_domain_analysis/applied_dictionary_scope_repair_20261007/tvrtrain.caption.before_scope_repair.txt",
+  "dictionary_scope": "PASS for all 1,132 retained applied pairs",
+  "outside_dictionary_applied_pairs": 0
+}

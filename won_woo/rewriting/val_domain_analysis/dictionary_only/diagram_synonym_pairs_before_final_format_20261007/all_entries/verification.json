@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "llm_used": false,
+  "files": [
+    {
+      "csv_file": "all_objects.csv",
+      "rows": 210716,
+      "caption_count": 98069,
+      "raw_terms_preserved": true,
+      "empty_captions_preserved": true,
+      "bytes": 243183763
+    },
+    {
+      "csv_file": "all_actions.csv",
+      "rows": 190504,
+      "caption_count": 98069,
+      "raw_terms_preserved": true,
+      "empty_captions_preserved": true,
+      "bytes": 461394266
+    },
+    {
+      "csv_file": "all_captions.csv",
+      "rows": 98069,
+      "caption_count": 98069,
+      "raw_terms_preserved": true,
+      "empty_captions_preserved": true,
+      "bytes": 29738569
+    }
+  ],
+  "wordnet_columns": [
+    "has_wordnet_entry",
+    "wordnet_candidate_count",
+    "wordnet_candidates",
+    "other_split_candidate_count",
+    "other_split_candidates",
+    "wordnet_synsets",
+    "selected_wordnet_synsets",
+    "context_wordnet_candidates",
+    "wordnet_meanings",
+    "term_coverage_status",
+    "requires_review"
+  ],
+  "wordnet_candidates_dictionary_only": true,
+  "scope": "All supplied Train entries and all dictionary-whitelisted Val entries; unsupported POS, unclassified terms and empty captions retained",
+  "train_caption_basis": {
+    "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/tvrtrain.caption.original.txt",
+    "sha256": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d"
+  },
+  "original_columns_values_and_order_preserved": true,
+  "wordnet_columns_verification": "wordnet_columns_verification.json",
+  "script_sha256": "c91059a95c3deaf921697c1183d5f9209d65373667c5c17d35dad475f576c119"
+}

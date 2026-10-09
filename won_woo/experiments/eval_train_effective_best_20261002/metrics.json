@@ -1,0 +1,17 @@
+{
+  "checkpoint": "/home/viglab2/won_woo/Holmes_ICML/tvr-multi/tvr/20261002-115051(train_effective)/best.ckpt",
+  "val_captions": "/home/viglab2/won_woo/tvr/TextData/tvrtest.caption.txt",
+  "val_features": "/home/viglab2/won_woo/tvr/TextData/roberta_tvr_query_feat_train.effective.hdf5",
+  "mode": "single",
+  "covered_queries": 10895,
+  "total_queries": 10895,
+  "output_dir": "/home/viglab2/won_woo/experiments/eval_train_effective_best_20261002",
+  "single": {
+    "queries": 10895,
+    "R@1": 17.971546581000457,
+    "R@5": 40.550711335474986,
+    "R@10": 52.28086278109224,
+    "R@100": 87.45296007342817,
+    "Rsum": 198.25608077099585
+  }
+}

@@ -1,0 +1,17 @@
+﻿aspect,split,region,csv_file,unique_source_lemmas,queries,rows,pairs,no_pair_rows,queries_with_pairs
+object,train,A,object_A_train.csv,2994,6846,7395,0,7395,0
+object,train,B,object_B_train.csv,2876,80419,328432,264466,63966,66931
+object,validation,B,object_B_val.csv,1996,10149,53675,47453,6222,8908
+object,validation,C,object_C_val.csv,0,0,0,0,0,0
+object,train,EMPTY,object_EMPTY_train.csv,0,5906,5906,0,5906,0
+object,validation,EMPTY,object_EMPTY_val.csv,0,746,746,0,746,0
+object,train,UNCLASSIFIED,object_UNCLASSIFIED_train.csv,15,19,20,0,20,0
+object,validation,UNCLASSIFIED,object_UNCLASSIFIED_val.csv,0,0,0,0,0,0
+action,train,A,action_A_train.csv,953,1936,1968,0,1968,0
+action,train,B,action_B_train.csv,1525,85505,945829,922119,23710,80593
+action,validation,B,action_B_val.csv,864,10657,148579,145853,2726,10092
+action,validation,C,action_C_val.csv,0,0,0,0,0,0
+action,train,EMPTY,action_EMPTY_train.csv,0,1426,1426,0,1426,0
+action,validation,EMPTY,action_EMPTY_val.csv,0,238,238,0,238,0
+action,train,UNCLASSIFIED,action_UNCLASSIFIED_train.csv,16,19,19,0,19,0
+action,validation,UNCLASSIFIED,action_UNCLASSIFIED_val.csv,0,0,0,0,0,0

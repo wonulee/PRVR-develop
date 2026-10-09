@@ -1,0 +1,462 @@
+{
+  "source": "Original TVR captions; existing object/action extraction reused without changes",
+  "totals": {
+    "train": 87174,
+    "validation": 10895
+  },
+  "wordnet_version": "3.0",
+  "randomness": "None; original row order and sorted lexical evidence",
+  "coverage_rule": "Same normalized lemma OR at least one shared same-POS WordNet synset; all senses considered",
+  "query_rule": "All extracted aspect lemmas must be covered for B; any uncovered lemma => train A / validation C; no terms => EMPTY",
+  "wordnet_scope": "Noun synsets for objects; verb synsets for actions; no hypernyms, embeddings, or context sense disambiguation",
+  "direct_lemma_rule": "Identical observed lemma is covered even if no WordNet sense exists",
+  "synonym_rule": "B query terms: different expressions in same-POS WordNet synsets; all senses considered; morphology and spelling variants excluded",
+  "synonym_other_split_rule": "Different observed lemma in the opposite original split sharing a same-POS synset; source itself/morphology/spelling variants excluded",
+  "synonym_inflection": "Candidates are lemma/base expressions, not automatically inflected replacements",
+  "B_synonym_summary": [
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 71385,
+      "denominator_B_queries": 74724,
+      "percentage_of_B": 95.531556
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 60595,
+      "denominator_B_queries": 74724,
+      "percentage_of_B": 81.091751
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 63855,
+      "denominator_B_queries": 74724,
+      "percentage_of_B": 85.454472
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 33967,
+      "denominator_B_queries": 74724,
+      "percentage_of_B": 45.456614
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 9293,
+      "denominator_B_queries": 9665,
+      "percentage_of_B": 96.151061
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 7650,
+      "denominator_B_queries": 9665,
+      "percentage_of_B": 79.151578
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 8754,
+      "denominator_B_queries": 9665,
+      "percentage_of_B": 90.574237
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 5304,
+      "denominator_B_queries": 9665,
+      "percentage_of_B": 54.878427
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 83511,
+      "denominator_B_queries": 83922,
+      "percentage_of_B": 99.51026
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 81029,
+      "denominator_B_queries": 83922,
+      "percentage_of_B": 96.552751
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 79440,
+      "denominator_B_queries": 83922,
+      "percentage_of_B": 94.659327
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 63115,
+      "denominator_B_queries": 83922,
+      "percentage_of_B": 75.20674
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "has_any_wordnet_synonym",
+      "B_query_count": 10464,
+      "denominator_B_queries": 10496,
+      "percentage_of_B": 99.695122
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "all_terms_have_wordnet_synonym",
+      "B_query_count": 10110,
+      "denominator_B_queries": 10496,
+      "percentage_of_B": 96.322409
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "has_any_other_split_synonym",
+      "B_query_count": 10194,
+      "denominator_B_queries": 10496,
+      "percentage_of_B": 97.122713
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "criterion": "all_terms_have_other_split_synonym",
+      "B_query_count": 8160,
+      "denominator_B_queries": 10496,
+      "percentage_of_B": 77.743902
+    }
+  ],
+  "limitations": [
+    "The original dictionary extractor/filter is unavailable; validation POS extraction can differ from train extraction.",
+    "POS and rule-based lemmas can be wrong or ambiguous; raw forms remain in every row.",
+    "Individual terms do not encode phrasal verbs, action-object relations, or temporal alignment.",
+    "No automatic replacement or LLM rewrite has been performed.",
+    "WordNet coverage is a lexical candidate/upper bound on context-valid coverage, not proven semantic equivalence.",
+    "Object means extracted NN/NNS terms, including abstract/nonvisual nouns; Action means extracted verb terms, including nonvisual verbs.",
+    "No visual grounding, phrasal-verb recovery, or action-object/temporal relation validation is performed.",
+    "C is unsupported under this rule, not proven semantic OOD or model ignorance.",
+    "Object and action C query lists overlap; do not add their counts to obtain unique C queries.",
+    "The supplied diagram's 1.57% is not used; all percentages are computed from these source CSVs."
+  ],
+  "upstream_method": {
+    "train_terms": "Supplied dictionaries; original term/POS mappings preserved",
+    "validation_terms": "Supplied entries when available; otherwise spaCy Penn POS tags",
+    "action_tags": [
+      "VB",
+      "VBD",
+      "VBG",
+      "VBN",
+      "VBP",
+      "VBZ"
+    ],
+    "object_tags": [
+      "NN",
+      "NNS"
+    ],
+    "validation_stopword_filter": false,
+    "normalization": "Unicode casefold + spaCy rule lemmatizer, forced VERB/NOUN from supplied POS; NN uses Number=Sing",
+    "reference_domain": "Validation lemmas only, separately for actions and objects",
+    "candidate_rule": "Any normalized action OR object outside its validation pool",
+    "empty_rule": "Empty categories are flagged, never counted as OOD; both empty => REVIEW",
+    "invalid_pos_rule": "Preserve and flag unsupported POS; exclude from lemma membership; REVIEW unless other terms are OOD",
+    "semantic_scope": "Lexical vocabulary coverage, not a semantic OOD or rewrite-feasibility guarantee",
+    "limitations": [
+      "The original dictionary extractor/filter is unavailable; validation POS extraction can differ from train extraction.",
+      "POS and rule-based lemmas can be wrong or ambiguous; raw forms remain in every row.",
+      "Individual terms do not encode phrasal verbs, action-object relations, or temporal alignment.",
+      "No automatic replacement or LLM rewrite has been performed."
+    ],
+    "spacy_version": "3.7.5",
+    "model": "en_core_web_md",
+    "model_version": "3.7.1",
+    "seed": 2026,
+    "n_process": 1,
+    "output_order": "Original caption order; pools alphabetical; frequency descending"
+  },
+  "regions": [
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "A",
+      "query_count": 6544,
+      "denominator_all_split_queries": 87174,
+      "percentage": 7.506825,
+      "csv_file": "object_A.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "B",
+      "query_count": 74724,
+      "denominator_all_split_queries": 87174,
+      "percentage": 85.718219,
+      "csv_file": "object_B.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "C",
+      "query_count": 0,
+      "denominator_all_split_queries": 87174,
+      "percentage": 0.0,
+      "csv_file": "object_C.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "EMPTY",
+      "query_count": 5906,
+      "denominator_all_split_queries": 87174,
+      "percentage": 6.774956,
+      "csv_file": "object_EMPTY.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "A",
+      "query_count": 0,
+      "denominator_all_split_queries": 10895,
+      "percentage": 0.0,
+      "csv_file": "object_A.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "B",
+      "query_count": 9665,
+      "denominator_all_split_queries": 10895,
+      "percentage": 88.710418,
+      "csv_file": "object_B.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "C",
+      "query_count": 718,
+      "denominator_all_split_queries": 10895,
+      "percentage": 6.590179,
+      "csv_file": "object_C.csv"
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "EMPTY",
+      "query_count": 512,
+      "denominator_all_split_queries": 10895,
+      "percentage": 4.699403,
+      "csv_file": "object_EMPTY.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "A",
+      "query_count": 1826,
+      "denominator_all_split_queries": 87174,
+      "percentage": 2.094661,
+      "csv_file": "action_A.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "B",
+      "query_count": 83922,
+      "denominator_all_split_queries": 87174,
+      "percentage": 96.26953,
+      "csv_file": "action_B.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "C",
+      "query_count": 0,
+      "denominator_all_split_queries": 87174,
+      "percentage": 0.0,
+      "csv_file": "action_C.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "EMPTY",
+      "query_count": 1426,
+      "denominator_all_split_queries": 87174,
+      "percentage": 1.635809,
+      "csv_file": "action_EMPTY.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "A",
+      "query_count": 0,
+      "denominator_all_split_queries": 10895,
+      "percentage": 0.0,
+      "csv_file": "action_A.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "B",
+      "query_count": 10496,
+      "denominator_all_split_queries": 10895,
+      "percentage": 96.33777,
+      "csv_file": "action_B.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "C",
+      "query_count": 347,
+      "denominator_all_split_queries": 10895,
+      "percentage": 3.184947,
+      "csv_file": "action_C.csv"
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "EMPTY",
+      "query_count": 52,
+      "denominator_all_split_queries": 10895,
+      "percentage": 0.477283,
+      "csv_file": "action_EMPTY.csv"
+    }
+  ],
+  "pair_counts": [
+    {
+      "split": "train",
+      "object_region": "A",
+      "action_region": "A",
+      "query_count": 200
+    },
+    {
+      "split": "train",
+      "object_region": "A",
+      "action_region": "B",
+      "query_count": 6198
+    },
+    {
+      "split": "train",
+      "object_region": "A",
+      "action_region": "EMPTY",
+      "query_count": 146
+    },
+    {
+      "split": "train",
+      "object_region": "B",
+      "action_region": "A",
+      "query_count": 1458
+    },
+    {
+      "split": "train",
+      "object_region": "B",
+      "action_region": "B",
+      "query_count": 72003
+    },
+    {
+      "split": "train",
+      "object_region": "B",
+      "action_region": "EMPTY",
+      "query_count": 1263
+    },
+    {
+      "split": "train",
+      "object_region": "EMPTY",
+      "action_region": "A",
+      "query_count": 168
+    },
+    {
+      "split": "train",
+      "object_region": "EMPTY",
+      "action_region": "B",
+      "query_count": 5721
+    },
+    {
+      "split": "train",
+      "object_region": "EMPTY",
+      "action_region": "EMPTY",
+      "query_count": 17
+    },
+    {
+      "split": "validation",
+      "object_region": "B",
+      "action_region": "B",
+      "query_count": 9325
+    },
+    {
+      "split": "validation",
+      "object_region": "B",
+      "action_region": "C",
+      "query_count": 291
+    },
+    {
+      "split": "validation",
+      "object_region": "B",
+      "action_region": "EMPTY",
+      "query_count": 49
+    },
+    {
+      "split": "validation",
+      "object_region": "C",
+      "action_region": "B",
+      "query_count": 686
+    },
+    {
+      "split": "validation",
+      "object_region": "C",
+      "action_region": "C",
+      "query_count": 29
+    },
+    {
+      "split": "validation",
+      "object_region": "C",
+      "action_region": "EMPTY",
+      "query_count": 3
+    },
+    {
+      "split": "validation",
+      "object_region": "EMPTY",
+      "action_region": "B",
+      "query_count": 485
+    },
+    {
+      "split": "validation",
+      "object_region": "EMPTY",
+      "action_region": "C",
+      "query_count": 27
+    }
+  ],
+  "inputs": {
+    "tvrtrain_domain_analysis.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_domain_analysis.csv",
+      "sha256": "c2a6990fbaa74d80b4138e80ae0c7eda0ca18313a72cc962fdfc86de2df87a9a"
+    },
+    "tvrval_action_object_analysis.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv",
+      "sha256": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c"
+    },
+    "summary.json": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/summary.json",
+      "sha256": "f12f5f1c55be8aee401fa2f3541b08ece239efa58ad91590a3af35561633e5cd"
+    },
+    "wordnet.zip": {
+      "path": "/home/viglab2/won_woo/rewriting/nlp_resources/corpora/wordnet.zip",
+      "sha256": "cbda5ea6eef7f36a97a43d4a75f85e07fccbb4f23657d27b4ccbc93e2646ab59"
+    }
+  },
+  "script_sha256": "01a2ca0189c09c7dfc900c491ba4352d1cd6dd0aed29633d952cceeaffc821f7"
+}

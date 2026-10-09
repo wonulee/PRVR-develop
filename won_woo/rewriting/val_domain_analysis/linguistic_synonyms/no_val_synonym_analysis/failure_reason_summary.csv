@@ -1,0 +1,4 @@
+﻿failure_reason_code,failure_reason_ko,expression_occurrence_count,caption_count,unique_expression_count,action_occurrence_count,object_occurrence_count
+no_wordnet_sense,정규화 조회어·품사로 조회 가능한 WordNet 의미 없음,1825,1766,1290,534,1291
+weak_source_sense,원문 문맥의 의미 선택 점수가 기준 미만,1289,1264,815,591,698
+no_distinct_synonym_in_matching_val_usage,동일 의미·Val 문맥·다른 표현·형태 조건을 통과한 후보 없음,9667,8706,4087,2305,7362

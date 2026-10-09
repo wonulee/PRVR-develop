@@ -1,0 +1,13 @@
+{
+  "caption_file": "../tvr/TextData/tvrtrain.caption.txt",
+  "output": "../rewriting/mca_smoke_20260922",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "roberta": "../tvr/query_only/roberta-base_tuned_model",
+  "device": "cuda:1",
+  "max_tokens": 30,
+  "limit": 3,
+  "no_siblings": false,
+  "total": 3,
+  "accepted": 1,
+  "rejected": 2
+}

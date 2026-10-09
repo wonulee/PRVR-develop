@@ -1,0 +1,211 @@
+{
+  "statistics": [
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "A",
+      "csv_file": "object_A_train.csv",
+      "unique_source_lemmas": 2891,
+      "queries": 6544,
+      "rows": 7058,
+      "pairs": 0,
+      "no_pair_rows": 7058,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "B",
+      "csv_file": "object_B_train.csv",
+      "unique_source_lemmas": 3001,
+      "queries": 80462,
+      "rows": 369320,
+      "pairs": 313016,
+      "no_pair_rows": 56304,
+      "queries_with_pairs": 68719
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "B",
+      "csv_file": "object_B_val.csv",
+      "unique_source_lemmas": 2213,
+      "queries": 10321,
+      "rows": 62706,
+      "pairs": 56942,
+      "no_pair_rows": 5764,
+      "queries_with_pairs": 9350
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "C",
+      "csv_file": "object_C_val.csv",
+      "unique_source_lemmas": 324,
+      "queries": 718,
+      "rows": 743,
+      "pairs": 0,
+      "no_pair_rows": 743,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "object",
+      "split": "train",
+      "region": "EMPTY",
+      "csv_file": "object_EMPTY_train.csv",
+      "unique_source_lemmas": 0,
+      "queries": 5906,
+      "rows": 5906,
+      "pairs": 0,
+      "no_pair_rows": 5906,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "object",
+      "split": "validation",
+      "region": "EMPTY",
+      "csv_file": "object_EMPTY_val.csv",
+      "unique_source_lemmas": 0,
+      "queries": 512,
+      "rows": 512,
+      "pairs": 0,
+      "no_pair_rows": 512,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "A",
+      "csv_file": "action_A_train.csv",
+      "unique_source_lemmas": 910,
+      "queries": 1826,
+      "rows": 1856,
+      "pairs": 0,
+      "no_pair_rows": 1856,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "B",
+      "csv_file": "action_B_train.csv",
+      "unique_source_lemmas": 1626,
+      "queries": 85529,
+      "rows": 1178839,
+      "pairs": 1156554,
+      "no_pair_rows": 22285,
+      "queries_with_pairs": 80947
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "B",
+      "csv_file": "action_B_val.csv",
+      "unique_source_lemmas": 1023,
+      "queries": 10838,
+      "rows": 255445,
+      "pairs": 252819,
+      "no_pair_rows": 2626,
+      "queries_with_pairs": 10529
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "C",
+      "csv_file": "action_C_val.csv",
+      "unique_source_lemmas": 83,
+      "queries": 347,
+      "rows": 349,
+      "pairs": 0,
+      "no_pair_rows": 349,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "EMPTY",
+      "csv_file": "action_EMPTY_train.csv",
+      "unique_source_lemmas": 0,
+      "queries": 1426,
+      "rows": 1426,
+      "pairs": 0,
+      "no_pair_rows": 1426,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "action",
+      "split": "validation",
+      "region": "EMPTY",
+      "csv_file": "action_EMPTY_val.csv",
+      "unique_source_lemmas": 0,
+      "queries": 52,
+      "rows": 52,
+      "pairs": 0,
+      "no_pair_rows": 52,
+      "queries_with_pairs": 0
+    },
+    {
+      "aspect": "action",
+      "split": "train",
+      "region": "UNCLASSIFIED",
+      "csv_file": "action_UNCLASSIFIED_train.csv",
+      "unique_source_lemmas": 0,
+      "queries": 1,
+      "rows": 1,
+      "pairs": 0,
+      "no_pair_rows": 1,
+      "queries_with_pairs": 0
+    }
+  ],
+  "skipped_new_candidates": {
+    "no_surface_change": 1,
+    "no_source_pos_inflection": 4
+  },
+  "method": {
+    "scope": "Route each source word by term_coverage.csv, preserving all original queries and pair values",
+    "schema": "13 reference pair columns + 7 WordNet columns + 3 explicit term/query region columns",
+    "candidate_columns": [
+      "source_lemma",
+      "has_wordnet_entry",
+      "wordnet_candidate_count",
+      "wordnet_candidates",
+      "other_split_candidate_count",
+      "other_split_candidates",
+      "wordnet_synsets"
+    ],
+    "region_columns": [
+      "term_region",
+      "term_coverage_status",
+      "query_region"
+    ],
+    "wordnet_candidates": "All distinct same-POS WordNet lemma alternatives across all senses, uninflected, joined with ' | '",
+    "other_split_candidates": "Distinct normalized lemmas sharing a same-POS synset and observed in the opposite split, before pair-export inflection filters",
+    "empty_candidate_rule": "Candidate counts are 0 and lists blank; has_wordnet_entry blank means no supported source to look up, False means a lookup found no synset",
+    "no_pair_rule": "Retain source/query with blank synonym/target/meaning fields and synonym_rank=0; reasons in no_pair_annotations.csv",
+    "region_rule": "A=train UNCOVERED terms; C=validation UNCOVERED terms; B=DIRECT_LEMMA or WORDNET_CANDIDATE terms from either query region",
+    "empty_rule": "One blank-source row for queries with no terms of the aspect; not a missing-synonym category",
+    "unclassified_rule": "Preserve source rows without a valid term_coverage entry in a separate UNCLASSIFIED CSV, outside the diagram",
+    "query_membership_rule": "A query can contribute different source words to multiple region files; query_region preserves the previous whole-query label",
+    "candidates": "Distinct same-POS WordNet synonyms observed in the opposite original split; exclude morphology/spelling variants",
+    "B_rule": "Previously verified B pair values preserved; covered source words from old A/C queries also move to B",
+    "ranking": "Alphabetical inflected expressions; no top-k, context scoring or visual/temporal validation",
+    "review": "All requires_review=True; rank 0 is a retained non-pair record, not a synonym",
+    "seed": 2026,
+    "wordnet_version": "3.0",
+    "spacy_version": "3.7.5",
+    "spacy_model_version": "3.7.1"
+  },
+  "inputs": {
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/methodology.json": "6c94a0c9bc37851b3aeaeeae035b8264cca7038728bbae03a46755d12fe0bdf9",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/term_coverage.csv": "fe68393f14deae849175ba5063eb74c0214e112f1feef695ab95bcf1fb7fd413",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/object_action_regions/query_regions.csv": "0e9986ebfd368be505fa9ca785fb7b65c27d21181d759b60dd7d76e56ee609ae",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/summary.json": "004bccfff3196a8b40ac0ee0387f7cee3b14ab2729ab695faeba847579230810",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_domain_analysis.csv": "c2a6990fbaa74d80b4138e80ae0c7eda0ca18313a72cc962fdfc86de2df87a9a",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrtrain_object_synonym_pairs.csv": "b2cdff9ba2c06238dbf2e6596195108424b7ba7bc53fc71e0bebea33d65abc25",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrtrain_action_synonym_pairs.csv": "39ba7e49eedc4b24b0670dfb8a1a038e9614c3f0d5088c0c041e2a71df29202a",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrval_object_synonym_pairs.csv": "195370f1f24c8177d445058a43cf39f7b5c16d1aa045a91a9e6121d390281687",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/B_synonym_pairs/tvrval_action_synonym_pairs.csv": "9d193856c9acfb28b33a0f9c48e2a01b0e9fce1b0395ee684a5d12330c5853b8"
+  },
+  "script_sha256": "82a2427c8c46cdeacf1b9c8396dd896cc9036dd882b7a4dba5fdbb9c00620463"
+}

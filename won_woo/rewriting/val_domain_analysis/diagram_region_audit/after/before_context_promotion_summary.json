@@ -1,0 +1,176 @@
+{
+  "files": [
+    {
+      "csv_file": "action_A_train.csv",
+      "rows": 1761,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_B_train.csv",
+      "rows": 1181075,
+      "pairs": 1159103,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_B_val.csv",
+      "rows": 251647,
+      "pairs": 249160,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_C_val.csv",
+      "rows": 84,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_EMPTY_train.csv",
+      "rows": 1426,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_EMPTY_val.csv",
+      "rows": 52,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_UNCLASSIFIED_train.csv",
+      "rows": 19,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "action_UNCLASSIFIED_val.csv",
+      "rows": 266,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_A_train.csv",
+      "rows": 6975,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_B_train.csv",
+      "rows": 369322,
+      "pairs": 313140,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_B_val.csv",
+      "rows": 62634,
+      "pairs": 56893,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_C_val.csv",
+      "rows": 721,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_EMPTY_train.csv",
+      "rows": 5906,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_EMPTY_val.csv",
+      "rows": 512,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_UNCLASSIFIED_train.csv",
+      "rows": 19,
+      "pairs": 0,
+      "issues": {}
+    },
+    {
+      "csv_file": "object_UNCLASSIFIED_val.csv",
+      "rows": 22,
+      "pairs": 0,
+      "issues": {}
+    }
+  ],
+  "rows_checked": 1882441,
+  "pairs_checked": 1778296,
+  "query_aspect_records_checked": 196138,
+  "source_expression_groups_checked": 408701,
+  "findings": {},
+  "rejected_source_terms": 326,
+  "rejected_reasons": {
+    "NONCANONICAL_LEMMA": 21,
+    "SOURCE_NOT_OBSERVED": 17,
+    "UNSUPPORTED_SOURCE_POS": 1,
+    "UNRESOLVED_CONTRACTION": 18,
+    "NONLEXICAL_LEMMA": 266,
+    "TRUNCATED_AUXILIARY": 3
+  },
+  "morphology_review_groups": 27,
+  "catalog_classification_errors": 0,
+  "normalization_corrected_source_occurrences": 1646,
+  "normalization_corrected_groups": 129,
+  "normalization_correction_rules": {
+    "UNIQUE_WORDNET_ROOT": 1505,
+    "UNIQUE_POS_INFLECTION_ROOT": 141
+  },
+  "normalization_changed_region_occurrences": 129,
+  "changed_region_source_occurrences": 498,
+  "region_changes": {
+    "B->A": 5,
+    "A->B": 165,
+    "B->UNCLASSIFIED": 21,
+    "A->UNCLASSIFIED": 18,
+    "C->UNCLASSIFIED": 286,
+    "C->B": 2,
+    "B->C": 1
+  },
+  "independent_vocabulary_sizes": {
+    "object:train": 5870,
+    "action:train": 2478,
+    "object:validation": 2534,
+    "action:validation": 1087
+  },
+  "unknown_wordnet_term_records": 1555,
+  "method": "Original extraction raw/POS -> unique same-POS WordNet root or unique POS-inflection-matching root or legacy spaCy lemma -> same-POS WordNet synsets/direct lemma; also check observed tokens, all candidate witnesses, generated inflections, membership and rank-0 sidecars",
+  "limitations": "No word-sense disambiguation, video grounding or manual POS correction; surface/lemma sense differences are exported for review",
+  "wordnet_version": "3.0",
+  "seed": 2026,
+  "source_inputs_sha256": {
+    "/home/viglab2/won_woo/tvr/TextData/tvr_id_object_dict.json": "8a10ed960f3473d8b227f04f98f12d0ad21ca6e3b4578820496c83582be4322f",
+    "/home/viglab2/won_woo/tvr/TextData/tvr_id_action_dict.json": "773e271c0cbdf597693687235da5b7f3bd649120b5aed27fa72ec9bed1139d67",
+    "/home/viglab2/won_woo/tvr/TextData/tvrtrain.caption.txt": "e323c674a44244ede7908d5360116c8fd1c3cc49da448c6f9e3ac748d7c27b6d",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrtrain_domain_analysis.csv": "c2a6990fbaa74d80b4138e80ae0c7eda0ca18313a72cc962fdfc86de2df87a9a",
+    "/home/viglab2/won_woo/tvr/TextData/tvrval.caption.txt": "ae9a60f6fc7581a3295e366d9a91c21b481d4411fb94b68422c09dc1751f3ef1",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c"
+  },
+  "checked_csv_sha256": {
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_A_train.csv": "a20225da7d9db182e3c2eb102154cdb12165a4e8054a35347d7397e36842ec97",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/no_pair_annotations.csv": "d2a85ee99a1997fcf11491b6adc59a4f37a05b48abcb322cc622aac88a2d8355",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_UNCLASSIFIED_val.csv": "0cf7105a59ba77a2ee2d3aa7b5b54c5b2c3ed0afa6fb89fa8c831b09bb963f35",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_C_val.csv": "b780db9ccea6fcc7d1aed3b61942fb011e50a302a2968d1da24143fbba2c35d4",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_UNCLASSIFIED_train.csv": "32d83a6f706cd3aa3756100ca8c8cb45777e02a4d19be8041b373e917738d409",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_B_train.csv": "b096630c80443b8bc0fd0a4129c3887a803891b1eb155476948c8d8730d77412",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_B_train.csv": "450175d1dac1a7c8cfa749728dd8599a4e86c53c3e3304867c66153eafc2b3cf",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_EMPTY_val.csv": "049f6947f19f1c19f921899d9a763ece1d5e9e7668336cece70fa9404599d330",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_C_val.csv": "46c2636a4f20b3f7631bdb2b92c74f321151d35f7cf8072bee156f5359d8250c",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/query_membership.csv": "b6146dbb278da71963b2938f279c3938e1145b7cd9c992776484f557051e6327",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_EMPTY_train.csv": "abb11034371e1d97130eb23824828d1d794130af7cb776333792d62953e8ce74",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_A_train.csv": "bee05ee8e4344b2e753f16c5c90f4902f510cd594ae60ae9a493c6db791994fe",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_UNCLASSIFIED_train.csv": "50459dbb633b18e6fec3340526e8d70e242c466f81067a314c3d935fabbaa8e7",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_EMPTY_train.csv": "6106e65c69a7a1ddd707efedf52c0bc6c77ad0ca391c430a61e6281d1fa98555",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_B_val.csv": "521bfb48140dbd64a3799851279e56754847e68ffb9035deb5e4aebb060d3e71",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_EMPTY_val.csv": "4257634db9c25e3b54e91969518a7ea5daab0d185867738e2cd52d44b332a33d",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/action_UNCLASSIFIED_val.csv": "36b093dfd8e3e284f1d21bb7c9c55a35e938b3f479643a1e4720529127c4081a",
+    "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs/object_B_val.csv": "2bb877b7e69921e559d2f04c87ea819711ab3d6c59985bb143e2011f1ed51aac"
+  },
+  "audit_script_sha256": "a9f66583adfb1c832c4d65e202c23dbb90d41c75568ed0e1f96a285e5f232bd7",
+  "audited_directory_at_execution": "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs_audited_staging",
+  "audited_directory": "/home/viglab2/won_woo/rewriting/val_domain_analysis/diagram_synonym_pairs",
+  "promotion_verification": "CSV digests unchanged after directory promotion; original caption/extraction digests unchanged from before audit; train JSON content matches the unchanged original extraction"
+}

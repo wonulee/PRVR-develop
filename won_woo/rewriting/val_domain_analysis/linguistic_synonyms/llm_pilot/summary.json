@@ -1,0 +1,61 @@
+{
+  "pilot_expression_count": 24,
+  "control_count": 3,
+  "pilot_status_counts": {
+    "candidates_found": 22,
+    "invalid_llm_output": 2
+  },
+  "pilot_approved_candidate_count": 22,
+  "control_results": [
+    {
+      "source_expression": "handcuffed",
+      "expected": "accept",
+      "llm_status": "candidates_found",
+      "passed": true
+    },
+    {
+      "source_expression": "vomits",
+      "expected": "accept",
+      "llm_status": "candidates_found",
+      "passed": true
+    },
+    {
+      "source_expression": "earphones",
+      "expected": "reject",
+      "llm_status": "invalid_llm_output",
+      "passed": false
+    }
+  ],
+  "model": "/home/viglab2/.cache/huggingface/hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28",
+  "seed": 2026,
+  "device": "cuda:0",
+  "generation": {
+    "do_sample": false,
+    "max_new_tokens": 384,
+    "batch_size": 4
+  },
+  "retrieval": {
+    "model": "all-MiniLM-L6-v2",
+    "top_k": 20,
+    "val_target_counts": {
+      "action": 1448,
+      "object": 5402
+    },
+    "wordnet_filter": false,
+    "source_lookup": "Original surface expression",
+    "val_pool_required": true
+  },
+  "selection": "Frequency-ranked distinct expressions, balanced across previous failure reason and term type; 3 controls added.",
+  "limitations": "Pilot only. LLM decisions are provisional text judgments. No-match refers only to supplied top-k candidates; does not establish absence across all Val expressions. No caption files modified.",
+  "inputs": {
+    "tvrtrain_no_val_synonym_terms.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/linguistic_synonyms/no_val_synonym_analysis/tvrtrain_no_val_synonym_terms.csv",
+      "sha256": "1082a0560d48c53d386551a9e12c7b248e4b061c449d5fd84f5b001405af45cf"
+    },
+    "tvrval_action_object_analysis.csv": {
+      "path": "/home/viglab2/won_woo/rewriting/val_domain_analysis/tvrval_action_object_analysis.csv",
+      "sha256": "96ab514574b838557718e796ea3b6315bda7b8ae2c56a129410dc353feb1567c"
+    }
+  },
+  "system_prompt_sha256": "bd9a266d79b48bb4d5cd2d39623edf6457f860d9135b0b2f1a9199d45aa73561"
+}
