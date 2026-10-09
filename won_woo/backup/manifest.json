@@ -1,7 +1,7 @@
 {
   "version": 1,
   "root": "/home/viglab2/won_woo",
-  "created_at_utc": "2026-10-09T08:21:29Z",
+  "created_at_utc": "2026-10-09T08:51:11Z",
   "github_max_bytes": 2097152,
   "files": [
     {
@@ -2023,6 +2023,14 @@
       "reason": "regenerable Python bytecode"
     },
     {
+      "path": "backup/__pycache__/verify_restore.cpython-314.pyc",
+      "size": 9430,
+      "mtime_ns": 1791534381106385268,
+      "mode": 436,
+      "destination": "skip",
+      "reason": "regenerable Python bytecode"
+    },
+    {
       "path": "backup/backup_workspace.py",
       "size": 10635,
       "mtime_ns": 1791532890438602823,
@@ -2033,12 +2041,21 @@
     },
     {
       "path": "backup/destinations.json",
-      "size": 818,
-      "mtime_ns": 1791532890355602479,
+      "size": 1000,
+      "mtime_ns": 1791535871886863041,
       "mode": 436,
       "destination": "github",
       "reason": "small source, configuration, documentation, or result",
-      "sha256": "3deb50a31884773e59f3f0573403be731f429a281d18b43ea976a2ef8dab5260"
+      "sha256": "921324ae70e40df9229a41e23c5df2d65d00669e551de55e58668e619be144f8"
+    },
+    {
+      "path": "backup/drive_uploads.json",
+      "size": 18061,
+      "mtime_ns": 1791535871886863041,
+      "mode": 436,
+      "destination": "github",
+      "reason": "small source, configuration, documentation, or result",
+      "sha256": "cd1b4bf976dea8c344af3ec0f780478afb1b4d2ded5addd757f919d8a4e590d2"
     },
     {
       "path": "backup/environment/conda-explicit-linux64.txt",
@@ -2084,6 +2101,15 @@
       "destination": "github",
       "reason": "small source, configuration, documentation, or result",
       "sha256": "20731d5ad6caca85b0092d2337cefb25292d56bbb72e8872279516a1747e7ba1"
+    },
+    {
+      "path": "backup/status.json",
+      "size": 993,
+      "mtime_ns": 1791535871887863045,
+      "mode": 436,
+      "destination": "github",
+      "reason": "small source, configuration, documentation, or result",
+      "sha256": "731fd9484536a392f6a775cb6b75f5b941cbfc7dd2c6c5c8d5b84898a802065e"
     },
     {
       "path": "backup/test_backup_workspace.py",
@@ -14490,6 +14516,11 @@
       "path": "backup/__pycache__/restore_links.cpython-39.pyc",
       "type": "file",
       "reason": "regenerable Python bytecode"
+    },
+    {
+      "path": "backup/__pycache__/verify_restore.cpython-314.pyc",
+      "type": "file",
+      "reason": "regenerable Python bytecode"
     }
   ],
   "empty_directories": [
@@ -14506,16 +14537,16 @@
   ],
   "summary": {
     "github": {
-      "files": 1121,
-      "bytes": 123400556
+      "files": 1123,
+      "bytes": 123419792
     },
     "drive": {
       "files": 210,
       "bytes": 177757789561
     },
     "skip": {
-      "files": 173,
-      "bytes": 1539303
+      "files": 174,
+      "bytes": 1548733
     },
     "symlinks": 50
   }

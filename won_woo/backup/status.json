@@ -1,0 +1,23 @@
+{
+  "observed_at_utc": "2026-10-09T08:51:11.888165+00:00",
+  "github": {
+    "status": "verified_uploaded",
+    "repository": "https://github.com/wonulee/PRVR-develop.git",
+    "branch": "backup/won-woo-20261009",
+    "verified_content_commit": "41e684e30470717dbbd087d389489ba426337e08"
+  },
+  "drive": {
+    "status": "waiting_for_rclone_oauth",
+    "folder_url": "https://drive.google.com/drive/folders/1ltsNV5c_kLf2eOjd-MhNc8pQ_1LExFsK",
+    "files_folder_id": "1s6O6tIQpTp2QdHeN-0IZd1zuvNsxoPU1",
+    "planned_files": 210,
+    "planned_bytes": 177757789561,
+    "size_verified_uploaded_files": 60,
+    "size_verified_uploaded_bytes": 261680660,
+    "large_features_complete": false,
+    "job_status_path": ".backup_work/drive_job_status.json",
+    "verification": "Copy and rclone check after actual OAuth, quota, permission and source consistency validation."
+  },
+  "code_bundle_drive_file_id": "15uBg3hDKFOJVxBw-E_7lBoAqU0iRx6gX",
+  "all_original_backup_files_sha256_recorded": true
+}

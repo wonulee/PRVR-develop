@@ -124,6 +124,7 @@ backup/README.md
 backup/backup_workspace.py
 backup/destinations.json
 backup/drive_files.txt
+backup/drive_uploads.json
 backup/environment/conda-explicit-linux64.txt
 backup/environment/holmes.yml
 backup/environment/pip-freeze.txt
@@ -131,6 +132,7 @@ backup/environment/runtime-dependencies.json
 backup/github_files.txt
 backup/manifest.json
 backup/restore_links.py
+backup/status.json
 backup/test_backup_workspace.py
 backup/test_restore_links.py
 backup/test_verify_restore.py

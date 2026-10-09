@@ -1,0 +1,422 @@
+[
+  {
+    "path": "rewriting/mca_smoke_20260922/rewritten.hdf5",
+    "size": 58368,
+    "id": "19oBpmrhvol0JCOL5Z-usiat-L3BpL6HF",
+    "url": "https://drive.google.com/file/d/19oBpmrhvol0JCOL5Z-usiat-L3BpL6HF/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/holmes_tvr_test_results_1.csv",
+    "size": 2243645,
+    "id": "1zeLOONAy5-K7mx3TJoMHCDkZCUVlUtLu",
+    "url": "https://drive.google.com/file/d/1zeLOONAy5-K7mx3TJoMHCDkZCUVlUtLu/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/query_only/roberta-base_tuned_model/training_args.bin",
+    "size": 3951,
+    "id": "1RN4iiLjBOCduCvRe0YwALXaHp9CNvAZ0",
+    "url": "https://drive.google.com/file/d/1RN4iiLjBOCduCvRe0YwALXaHp9CNvAZ0/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/nlp_resources/python/lemminflect/resources/model_infl.pkl.gz",
+    "size": 61881,
+    "id": "1spmOmAq9RldikBh4MEo9H2m_TwOKtX-J",
+    "url": "https://drive.google.com/file/d/1spmOmAq9RldikBh4MEo9H2m_TwOKtX-J/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/nlp_resources/python/lemminflect/resources/lemma_lu.csv.gz",
+    "size": 326767,
+    "id": "1xPm0Kwc8UwJOmR2UhNQ23t58Bh1z6ivt",
+    "url": "https://drive.google.com/file/d/1xPm0Kwc8UwJOmR2UhNQ23t58Bh1z6ivt/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/nlp_resources/python/lemminflect/resources/model_lemma.pkl.gz",
+    "size": 69805,
+    "id": "1NW6MC9nkHCQhUxYaXwku7s7KeRQ-b-D3",
+    "url": "https://drive.google.com/file/d/1NW6MC9nkHCQhUxYaXwku7s7KeRQ-b-D3/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/.cache/vllm/torch_compile_cache/torch_aot_compile/a75ecfb515ee9ef8e9897ec26539283ac089f5511bf42f71e210702fb7219ecd/inductor_cache/aotautograd/arx4naclandxpnbckduw2i3olxzuyam42iynznava5jy4u7euqho/66zbie4p6asdz26yp3uhcgddef7stl3i65vs2iqtyldqls44frk",
+    "size": 874538,
+    "id": "1w8RUhHtQq5A9N_rW76rYFECiW9vxeT30",
+    "url": "https://drive.google.com/file/d/1w8RUhHtQq5A9N_rW76rYFECiW9vxeT30/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/nlp_resources/python/lemminflect/resources/infl_lu.csv.gz",
+    "size": 274600,
+    "id": "1oQ0qHFb1eWV4rzymbfDOVJezUk7Iy9Bg",
+    "url": "https://drive.google.com/file/d/1oQ0qHFb1eWV4rzymbfDOVJezUk7Iy9Bg/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/.cache/vllm/torch_compile_cache/torch_aot_compile/a75ecfb515ee9ef8e9897ec26539283ac089f5511bf42f71e210702fb7219ecd/inductor_cache/aotautograd/aeht2wd6mi2p376onwc3rlrjhkctjrnphciam7seuocm3iw6db4e/xarw4ke3pi4spf54vzm5pnwq4anxlcfygrwkdsn656mtpaufvfp",
+    "size": 1862815,
+    "id": "1BSC3Q59wne0bS10MZBiZXw1IDH7uu3sr",
+    "url": "https://drive.google.com/file/d/1BSC3Q59wne0bS10MZBiZXw1IDH7uu3sr/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/.cache/vllm/torch_compile_cache/torch_aot_compile/a75ecfb515ee9ef8e9897ec26539283ac089f5511bf42f71e210702fb7219ecd/inductor_cache/aotautograd/aw4ygb5cz4n74azih4p6g6c5cq2ksosrhdgoolh6vbis6abajxck/5vsen3zjjib3a35emxjuqeay4yhkkncsccy4amwfitvt62kl3li",
+    "size": 2164363,
+    "id": "1WtA8Y-AzOHWWgB5aBkYyXJ6f_GWqQMnh",
+    "url": "https://drive.google.com/file/d/1WtA8Y-AzOHWWgB5aBkYyXJ6f_GWqQMnh/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/object_action_regions/object_A.csv",
+    "size": 2219079,
+    "id": "1vdVr6F8SN-ABl5H-9g0CeJfAODrxwvw1",
+    "url": "https://drive.google.com/file/d/1vdVr6F8SN-ABl5H-9g0CeJfAODrxwvw1/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "diagram_synonym_pairs_final_20261007/mapping/main/action_B_train.csv",
+    "size": 2206849,
+    "id": "1DI2cFWYmwQ267HiooKtbiTlgSU51IGwU",
+    "url": "https://drive.google.com/file/d/1DI2cFWYmwQ267HiooKtbiTlgSU51IGwU/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/object_action_regions/object_A.csv",
+    "size": 2336736,
+    "id": "1Dn6_CTwmrmjwMjQ6i9MyNCaRWPx7foiX",
+    "url": "https://drive.google.com/file/d/1Dn6_CTwmrmjwMjQ6i9MyNCaRWPx7foiX/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "diagram_synonym_pairs_final_20261007/mapping/wordnet.csv",
+    "size": 2417303,
+    "id": "1ckE3bAhdzHUvcIh5YghyYirG71Ys1KQN",
+    "url": "https://drive.google.com/file/d/1ckE3bAhdzHUvcIh5YghyYirG71Ys1KQN/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/diagram_synonym_pairs_before_dictionary_only_20261007/object_A_train.csv",
+    "size": 2318672,
+    "id": "18nZUUnGCwn3TLRbqAzafBBFGBIzaj0fE",
+    "url": "https://drive.google.com/file/d/18nZUUnGCwn3TLRbqAzafBBFGBIzaj0fE/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/diagram_synonym_pairs_query_level_previous/object_C_val.csv",
+    "size": 2649694,
+    "id": "16A7gUHWrOvUrn7snjSfx59zVjP6oiX67",
+    "url": "https://drive.google.com/file/d/16A7gUHWrOvUrn7snjSfx59zVjP6oiX67/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs_before_final_format_20261007/ABC_terms_readable.csv",
+    "size": 2853221,
+    "id": "1P_Bu4h6eoskDc7m-yNyWnMI37EooNEvV",
+    "url": "https://drive.google.com/file/d/1P_Bu4h6eoskDc7m-yNyWnMI37EooNEvV/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs_before_final_format_20261007/object_A_train.csv",
+    "size": 2817968,
+    "id": "1i-7e79wXElMeaa9i7OQUsXjRBp1mqVgg",
+    "url": "https://drive.google.com/file/d/1i-7e79wXElMeaa9i7OQUsXjRBp1mqVgg/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/object_A_train.csv",
+    "size": 2817968,
+    "id": "1_eyjVvuwEXY1i4VelB_Sg-nBZ-SXhIr2",
+    "url": "https://drive.google.com/file/d/1_eyjVvuwEXY1i4VelB_Sg-nBZ-SXhIr2/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/diagram_region_audit/previous_csv_findings.csv",
+    "size": 3001166,
+    "id": "1ofwPF-tJMDWGHhL5ZxoD1HWrJjaT2_l8",
+    "url": "https://drive.google.com/file/d/1ofwPF-tJMDWGHhL5ZxoD1HWrJjaT2_l8/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/linguistic_synonyms/tvrtrain_synonym_candidates.csv",
+    "size": 3231461,
+    "id": "11Tx5FcrFqP6bw-YynF_nKmCwAX-hX4uq",
+    "url": "https://drive.google.com/file/d/11Tx5FcrFqP6bw-YynF_nKmCwAX-hX4uq/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs/final_term_regions.csv",
+    "size": 3320094,
+    "id": "1mqsr7FxbNLz8FwdwOjogJKUsWKWYCbt-",
+    "url": "https://drive.google.com/file/d/1mqsr7FxbNLz8FwdwOjogJKUsWKWYCbt-/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "experiments/multi_query_selection_20261008/source_candidate_counts.csv",
+    "size": 3088082,
+    "id": "19ZvWkSDzhG3u1yADKlZZIiHlFIJ7XGsm",
+    "url": "https://drive.google.com/file/d/19ZvWkSDzhG3u1yADKlZZIiHlFIJ7XGsm/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "diagram_synonym_pairs_final_20261007/reports/final_term_regions.csv",
+    "size": 3320094,
+    "id": "1Y4rtTrbOc668OfLCr1XNtiw5Rocup3YJ",
+    "url": "https://drive.google.com/file/d/1Y4rtTrbOc668OfLCr1XNtiw5Rocup3YJ/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/tvrval_action_object_analysis.csv",
+    "size": 3492465,
+    "id": "1PHjzxP6ZU3628z9XZwq-SOOrF-SzEtIA",
+    "url": "https://drive.google.com/file/d/1PHjzxP6ZU3628z9XZwq-SOOrF-SzEtIA/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "diagram_synonym_pairs_final_20261007/ABC_csv/object_B_val.csv",
+    "size": 3413850,
+    "id": "13kg4enDlFYD-csT5jr0m1G6oToU0c4XD",
+    "url": "https://drive.google.com/file/d/13kg4enDlFYD-csT5jr0m1G6oToU0c4XD/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/tvrval_action_object_analysis.csv",
+    "size": 3791293,
+    "id": "1NEigxguQUxBB--gpmUQSeGRytXbBSpju",
+    "url": "https://drive.google.com/file/d/1NEigxguQUxBB--gpmUQSeGRytXbBSpju/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs_before_final_format_20261007/final_term_regions.csv",
+    "size": 3320094,
+    "id": "1z1bFag4C4cLCmT5L5C0WQBCJFzt8GVvC",
+    "url": "https://drive.google.com/file/d/1z1bFag4C4cLCmT5L5C0WQBCJFzt8GVvC/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "diagram_synonym_pairs_final_20261007/mapping/links/action_B_val.csv",
+    "size": 4071417,
+    "id": "1DavfDXXbcNNtaapTuHoTyMcknHWiJjHY",
+    "url": "https://drive.google.com/file/d/1DavfDXXbcNNtaapTuHoTyMcknHWiJjHY/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/diagram_region_audit/context_review/final_audit/final_term_regions.csv",
+    "size": 3901770,
+    "id": "1CPtnZlUz8raCJVS6UaizI1hkR3Ps39x-",
+    "url": "https://drive.google.com/file/d/1CPtnZlUz8raCJVS6UaizI1hkR3Ps39x-/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr_test_results.csv",
+    "size": 3986425,
+    "id": "1JGI0aPbluu8hxzycKYj0-g3ciIWZEteT",
+    "url": "https://drive.google.com/file/d/1JGI0aPbluu8hxzycKYj0-g3ciIWZEteT/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/diagram_region_audit/context_review/final_term_regions.csv",
+    "size": 3901770,
+    "id": "1kGKEe2A2xPqy0Op0NokSo6StQ7LNQfbw",
+    "url": "https://drive.google.com/file/d/1kGKEe2A2xPqy0Op0NokSo6StQ7LNQfbw/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "diagram_synonym_pairs_final_20261007/ABC_csv/object_B_train.csv",
+    "size": 4250315,
+    "id": "1-tzWvgPNHg7ajAkN0WD6HPYRWIOMoHDE",
+    "url": "https://drive.google.com/file/d/1-tzWvgPNHg7ajAkN0WD6HPYRWIOMoHDE/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/val_timestamp_relations.jsonl",
+    "size": 4395495,
+    "id": "1xRF7xmXa1vgFWgjnAtydtD0h4XenSMvD",
+    "url": "https://drive.google.com/file/d/1xRF7xmXa1vgFWgjnAtydtD0h4XenSMvD/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/diagram_synonym_pairs_before_final_format_20261007/all_entries/ABC/object_A_train.csv",
+    "size": 4544880,
+    "id": "1yoAMQfUX_dE7tilR_J0PnKyEYz1acWx4",
+    "url": "https://drive.google.com/file/d/1yoAMQfUX_dE7tilR_J0PnKyEYz1acWx4/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/object_action_regions/term_coverage.csv",
+    "size": 4316709,
+    "id": "12EWi3cmy-kqTtufgCsfVECFOxbQVrh-o",
+    "url": "https://drive.google.com/file/d/12EWi3cmy-kqTtufgCsfVECFOxbQVrh-o/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/object_action_regions/term_coverage.csv",
+    "size": 4625222,
+    "id": "1LI0PBy7OCyx34zxZFWhLxJciWayeHE75",
+    "url": "https://drive.google.com/file/d/1LI0PBy7OCyx34zxZFWhLxJciWayeHE75/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/object_action_regions/action_B_synonym_terms.csv",
+    "size": 5152506,
+    "id": "1X5bTKcV0KTsSsAcvcTTOA6KxaL_kWVOh",
+    "url": "https://drive.google.com/file/d/1X5bTKcV0KTsSsAcvcTTOA6KxaL_kWVOh/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/initial_candidate_inventory.json",
+    "size": 4873127,
+    "id": "1iAfYqHK3LnW-rqPk-sjRa5e-ScEJYT49",
+    "url": "https://drive.google.com/file/d/1iAfYqHK3LnW-rqPk-sjRa5e-ScEJYT49/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/linguistic_synonyms/no_val_synonym_analysis/tvrtrain_no_val_synonym_terms.csv",
+    "size": 4846687,
+    "id": "1awZLe5ne2PoQyQDV01ox5DhLyKOGGqcF",
+    "url": "https://drive.google.com/file/d/1awZLe5ne2PoQyQDV01ox5DhLyKOGGqcF/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/retrieval_region_performance/query_region_results.csv",
+    "size": 5383910,
+    "id": "1QOyTdRUuSD0knINa8QqDCVwysTh35uan",
+    "url": "https://drive.google.com/file/d/1QOyTdRUuSD0knINa8QqDCVwysTh35uan/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/tvrtrain_rewriting_candidates.csv",
+    "size": 5631117,
+    "id": "1FYXDiNbn_4XNjq0_4OpSIqRowrrlGK0V",
+    "url": "https://drive.google.com/file/d/1FYXDiNbn_4XNjq0_4OpSIqRowrrlGK0V/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/object_action_regions/action_B_synonym_terms.csv",
+    "size": 5915594,
+    "id": "1SJ-AI0pZauOIRG4NtFLQv4_o5RC0_jrI",
+    "url": "https://drive.google.com/file/d/1SJ-AI0pZauOIRG4NtFLQv4_o5RC0_jrI/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/tvrtrain_rewriting_candidates.csv",
+    "size": 5828971,
+    "id": "1SQlzIn00J0BxvoWCN4WQEdZqLiGe4IVG",
+    "url": "https://drive.google.com/file/d/1SQlzIn00J0BxvoWCN4WQEdZqLiGe4IVG/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/object_action_regions/object_B_synonym_terms.csv",
+    "size": 5974262,
+    "id": "13qq84g3rUbWnmI8PzEqNsbjisLXoXIqr",
+    "url": "https://drive.google.com/file/d/13qq84g3rUbWnmI8PzEqNsbjisLXoXIqr/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/object_action_regions/query_region_pairs.csv",
+    "size": 7128496,
+    "id": "1c4bo_sDi8WsZwCRHZ8pLIvB7J_dcfcV-",
+    "url": "https://drive.google.com/file/d/1c4bo_sDi8WsZwCRHZ8pLIvB7J_dcfcV-/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "experiments/acceptance_condition_analysis_20261003/train_accepted_conditions.csv",
+    "size": 6417298,
+    "id": "1CX13LJ1nYcQohemF05eE91d7RQNl76GS",
+    "url": "https://drive.google.com/file/d/1CX13LJ1nYcQohemF05eE91d7RQNl76GS/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/object_action_regions/object_B_synonym_terms.csv",
+    "size": 6868346,
+    "id": "1WN55WE_j_Yy5KoECQnhK57rb66eicKfi",
+    "url": "https://drive.google.com/file/d/1WN55WE_j_Yy5KoECQnhK57rb66eicKfi/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "experiments/rewrite_train_b64_20260930/adoption_analysis_20261002/accepted.csv",
+    "size": 7552289,
+    "id": "1tHONrKBuQxr9yhSv7oFr1BaaJYCzID-H",
+    "url": "https://drive.google.com/file/d/1tHONrKBuQxr9yhSv7oFr1BaaJYCzID-H/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/dictionary_only/object_action_regions/query_region_pairs.csv",
+    "size": 7130176,
+    "id": "1nZsxpUho6qkBVZmvNQWqxplmFZquww9_",
+    "url": "https://drive.google.com/file/d/1nZsxpUho6qkBVZmvNQWqxplmFZquww9_/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "experiments/rewrite_val_b128_20260930/context_summary.jsonl",
+    "size": 7390816,
+    "id": "1Zx7WMJQb5CcNdBY4XKiM07kwJ4e5Rscr",
+    "url": "https://drive.google.com/file/d/1Zx7WMJQb5CcNdBY4XKiM07kwJ4e5Rscr/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/tvr_id_action_dict.json",
+    "size": 8261180,
+    "id": "14WXYfpuBFz89p0PFVati4o15PakO_MKN",
+    "url": "https://drive.google.com/file/d/14WXYfpuBFz89p0PFVati4o15PakO_MKN/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/linguistic_synonyms/applied_synonyms/tvrtrain.caption.rewritten.txt",
+    "size": 8639802,
+    "id": "1ux8TYrQYf0OMCKrlPG3kXoVhFARkHFIq",
+    "url": "https://drive.google.com/file/d/1ux8TYrQYf0OMCKrlPG3kXoVhFARkHFIq/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "experiments/rewrite_train_b64_20260930/effective.caption.txt",
+    "size": 8579970,
+    "id": "1z4zlbiv5MsYGA7642-xBH6neBm1N2UnG",
+    "url": "https://drive.google.com/file/d/1z4zlbiv5MsYGA7642-xBH6neBm1N2UnG/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/tvrtrain.effective.caption.txt",
+    "size": 8579970,
+    "id": "1dI4XG7sRILGz-mqG78tV5oVVDYEfa2ZW",
+    "url": "https://drive.google.com/file/d/1dI4XG7sRILGz-mqG78tV5oVVDYEfa2ZW/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/tvr_id_object_dict.json",
+    "size": 8415900,
+    "id": "1_-yI6kUxu13KaxcsIoYCwygLD3zKi6uT",
+    "url": "https://drive.google.com/file/d/1_-yI6kUxu13KaxcsIoYCwygLD3zKi6uT/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "experiments/rewrite_train_b64_20260930/original.caption.txt",
+    "size": 8639832,
+    "id": "1Eivm505z54QiKYg6pAFIpjfPyiJS5Ui2",
+    "url": "https://drive.google.com/file/d/1Eivm505z54QiKYg6pAFIpjfPyiJS5Ui2/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/applied_diagram_synonyms_20261007/tvrtrain.caption.original.txt",
+    "size": 8639892,
+    "id": "1KmYl-u_cHNXpCBLWZZdjs6IL6BuOldHV",
+    "url": "https://drive.google.com/file/d/1KmYl-u_cHNXpCBLWZZdjs6IL6BuOldHV/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "rewriting/val_domain_analysis/linguistic_synonyms/applied_synonyms/tvrtrain.caption.original.txt",
+    "size": 8639892,
+    "id": "1L3KZfs6VF8oAV5dmOXiVTmNCof-28UPi",
+    "url": "https://drive.google.com/file/d/1L3KZfs6VF8oAV5dmOXiVTmNCof-28UPi/view?usp=drivesdk",
+    "size_verified": true
+  },
+  {
+    "path": "tvr/TextData/tvrtrain.caption_replace.txt",
+    "size": 8639802,
+    "id": "1RuHM042axj_y793oqis2thzXROdKd8pE",
+    "url": "https://drive.google.com/file/d/1RuHM042axj_y793oqis2thzXROdKd8pE/view?usp=drivesdk",
+    "size_verified": true
+  }
+]
